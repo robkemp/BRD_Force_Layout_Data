@@ -3,17 +3,19 @@ library(tidyr)
 library(readxl)
 library(stringr)
 
+
 # Read in each sheet seperately 
 qcw=read_excel("County Compare Data.xlsx", sheet= "All counties QCEW")
-pop=read_excel("County Compare Data.xlsx", sheet= "Population 90_14")
-emp=read_excel("County Compare Data.xlsx", sheet= "Total Emp")
-emp_pop_ratio=read_excel("County Compare Data.xlsx", sheet= "Emp_Pop Ratio")
-goods=read_excel("County Compare Data.xlsx", sheet= "Goods Producing")
-service=read_excel("County Compare Data.xlsx", sheet= "Service Providing")
+pop=read_excel("County Compare Data.xlsx", sheet= "Population 90_14")[,-1]
+emp=read_excel("County Compare Data.xlsx", sheet= "Total Emp") # Added the first two column names by hand
+emp_pop_ratio=read_excel("County Compare Data.xlsx", sheet= "Emp_Pop Ratio") # Added the first two column names by hand
+goods=read_excel("County Compare Data.xlsx", sheet= "Goods Producing") # Put Ownership and Service Column names in by hand
+service=read_excel("County Compare Data.xlsx", sheet= "Service Providing")# Put Ownership and Service Column names in by hand
 goods_service_ratio=read_excel("County Compare Data.xlsx", sheet= "Goods_ Service Ratio")
 
 
 qcw_z=qcw%>%
+  filter(FIPS!=0)%>%
   gather(key, ann_avg, -c(FIPS:Industry))%>%
   mutate(year=str_sub(key, 1, 4))%>%
   filter(FIPS!="Unknown Or Undefined, Colorado")%>%
@@ -28,16 +30,20 @@ qcw_z=qcw%>%
   filter(!is.na(FIPS))%>%
   spread(key, ann_avg_qcw_z)
 
-pop_z=pop[,-1]%>%
+pop_z=pop[,-27]%>% #drops last column since it has spaces.  Also, I dropped the first column in the read_excel call now.
+  filter(FIPS!=0)%>%
   gather(year, population, -FIPS)%>%
   group_by(year)%>%
   mutate(population=as.numeric(ifelse(population=="N/A", 0, population)),
          population_z=(population-mean(population))/sd(population))%>%
   select(FIPS, year, population_z)
 
+
+
 emp_z=emp[,-1]%>%
   select(-CAGR)%>%
-  filter(FIPS!="Unknown Or Undefined, Colorado")%>%
+  filter(FIPS!="Unknown Or Undefined, Colorado",
+         FIPS!=0)%>%
   gather(year, employment, -FIPS)%>%
   group_by(year)%>%
   mutate(employment=ifelse(is.na(employment), 0, employment),
@@ -46,6 +52,7 @@ emp_z=emp[,-1]%>%
 
 emp_pop_z=emp_pop_ratio[,-1]%>%
   rename(FIPS=FIPS_Num)%>%
+  filter(FIPS!=0)%>%
   gather(year, emp_pop, -FIPS)%>%
   group_by(year)%>%
   mutate(emp_pop=ifelse(is.na(emp_pop), 0, emp_pop),
@@ -54,6 +61,7 @@ emp_pop_z=emp_pop_ratio[,-1]%>%
 
 goods_z=goods[,-1]%>%
   rename(FIPS=FIPS_Num)%>%
+  filter(FIPS!=0)%>%
   select(-Ownership, -Industry)%>%
   gather(year, goods,-FIPS)%>%
   group_by(year)%>%
@@ -63,6 +71,7 @@ goods_z=goods[,-1]%>%
 
 service=service[,-1]%>%
   rename(FIPS=FIPS_NUM)%>%
+  filter(FIPS!=0)%>%
   select(-Ownership, -Industry)%>%
   gather(year, service, -FIPS)%>%
   group_by(year)%>%
@@ -71,10 +80,17 @@ service=service[,-1]%>%
 
 goods_service_z=goods_service_ratio[,-1]%>%
   rename(FIPS=FIPS_NUM)%>%
+  filter(FIPS!=0)%>%
   gather(year, goods_service, -FIPS)%>%
   group_by(year)%>%
   mutate(goods_service=ifelse(is.na(goods_service), 0, goods_service),
          goods_service_z=(goods_service-mean(goods_service)/sd(goods_service)))
 
+
+## JSON Conversion
+library(RJSONIO)
+
+pop_z_json_1990=toJSON(filter(pop_z, year==1990))
+write(pop_z_json_1990, "cocountiesPop1990.JSON")
 
 

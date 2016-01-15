@@ -2,8001 +2,8001 @@
  "1": {
  "FIPS":      1,
 "year": "1990",
-"population_z": 1.9428 
+"emp_pop_z": 0.002755 
 },
 "2": {
  "FIPS":      3,
 "year": "1990",
-"population_z": -0.3444 
+"emp_pop_z": 0.20177 
 },
 "3": {
  "FIPS":      5,
 "year": "1990",
-"population_z": 3.0933 
+"emp_pop_z": 0.50019 
 },
 "4": {
  "FIPS":      7,
 "year": "1990",
-"population_z": -0.41965 
+"emp_pop_z": -0.35106 
 },
 "5": {
  "FIPS":      9,
 "year": "1990",
-"population_z": -0.42683 
+"emp_pop_z": -0.741 
 },
 "6": {
  "FIPS":     11,
 "year": "1990",
-"population_z": -0.42235 
+"emp_pop_z": -0.48096 
 },
 "7": {
  "FIPS":     13,
 "year": "1990",
-"population_z": 1.5816 
+"emp_pop_z": 0.97933 
 },
 "8": {
  "FIPS":     14,
 "year": "1990",
-"population_z": -0.46827 
+"emp_pop_z": -2.0177 
 },
 "9": {
  "FIPS":     15,
 "year": "1990",
-"population_z": -0.35289 
+"emp_pop_z": -0.12921 
 },
 "10": {
  "FIPS":     17,
 "year": "1990",
-"population_z": -0.44647 
+"emp_pop_z": -0.41029 
 },
 "11": {
  "FIPS":     19,
 "year": "1990",
-"population_z": -0.39896 
+"emp_pop_z": -0.2406 
 },
 "12": {
  "FIPS":     21,
 "year": "1990",
-"population_z": -0.40047 
+"emp_pop_z": -1.0429 
 },
 "13": {
  "FIPS":     23,
 "year": "1990",
-"population_z": -0.43926 
+"emp_pop_z": -0.72911 
 },
 "14": {
  "FIPS":     25,
 "year": "1990",
-"population_z": -0.43238 
+"emp_pop_z": -0.88023 
 },
 "15": {
  "FIPS":     27,
 "year": "1990",
-"population_z": -0.45075 
+"emp_pop_z": -1.0516 
 },
 "16": {
  "FIPS":     29,
 "year": "1990",
-"population_z": -0.27742 
+"emp_pop_z": -0.65602 
 },
 "17": {
  "FIPS":     31,
 "year": "1990",
-"population_z": 3.7855 
+"emp_pop_z": 2.7051 
 },
 "18": {
  "FIPS":     33,
 "year": "1990",
-"population_z": -0.45459 
+"emp_pop_z": -0.51031 
 },
 "19": {
  "FIPS":     35,
 "year": "1990",
-"population_z": 0.081098 
+"emp_pop_z": -0.76169 
 },
 "20": {
  "FIPS":     37,
 "year": "1990",
-"population_z": -0.2688 
+"emp_pop_z": 1.8108 
 },
 "21": {
  "FIPS":     39,
 "year": "1990",
-"population_z": -0.38053 
+"emp_pop_z": -1.3405 
 },
 "22": {
  "FIPS":     41,
 "year": "1990",
-"population_z": 3.1433 
+"emp_pop_z": 0.18561 
 },
 "23": {
  "FIPS":     43,
 "year": "1990",
-"population_z": -0.17469 
+"emp_pop_z": -0.50311 
 },
 "24": {
  "FIPS":     45,
 "year": "1990",
-"population_z": -0.1956 
+"emp_pop_z": 0.26742 
 },
 "25": {
  "FIPS":     47,
 "year": "1990",
-"population_z": -0.44035 
+"emp_pop_z": -1.2867 
 },
 "26": {
  "FIPS":     49,
 "year": "1990",
-"population_z": -0.39581 
+"emp_pop_z": 0.99861 
 },
 "27": {
  "FIPS":     51,
 "year": "1990",
-"population_z": -0.37482 
+"emp_pop_z": 0.66119 
 },
 "28": {
  "FIPS":     53,
 "year": "1990",
-"population_z": -0.46403 
+"emp_pop_z": -0.12978 
 },
 "29": {
  "FIPS":     55,
 "year": "1990",
-"population_z": -0.41361 
+"emp_pop_z": -0.81438 
 },
 "30": {
  "FIPS":     57,
 "year": "1990",
-"population_z": -0.45367 
+"emp_pop_z": -0.37688 
 },
 "31": {
  "FIPS":     59,
 "year": "1990",
-"population_z": 3.5201 
+"emp_pop_z": 0.1069 
 },
 "32": {
  "FIPS":     61,
 "year": "1990",
-"population_z": -0.45292 
+"emp_pop_z": -0.63731 
 },
 "33": {
  "FIPS":     63,
 "year": "1990",
-"population_z": -0.40332 
+"emp_pop_z": -0.034783 
 },
 "34": {
  "FIPS":     65,
 "year": "1990",
-"population_z": -0.17459 
+"emp_pop_z": 0.33498 
 },
 "35": {
  "FIPS":     67,
 "year": "1990",
-"population_z": -0.41363 
+"emp_pop_z": -0.245 
 },
 "36": {
  "FIPS":     69,
 "year": "1990",
-"population_z":  1.225 
+"emp_pop_z": 0.27824 
 },
 "37": {
  "FIPS":     71,
 "year": "1990",
-"population_z": -0.34306 
+"emp_pop_z": -0.59818 
 },
 "38": {
  "FIPS":     73,
 "year": "1990",
-"population_z": -0.42707 
+"emp_pop_z": -0.12284 
 },
 "39": {
  "FIPS":     75,
 "year": "1990",
-"population_z": -0.30847 
+"emp_pop_z": 0.1267 
 },
 "40": {
  "FIPS":     77,
 "year": "1990",
-"population_z": 0.37906 
+"emp_pop_z": 0.082946 
 },
 "41": {
  "FIPS":     79,
 "year": "1990",
-"population_z": -0.4632 
+"emp_pop_z": 0.73196 
 },
 "42": {
  "FIPS":     81,
 "year": "1990",
-"population_z": -0.36496 
+"emp_pop_z": 0.11816 
 },
 "43": {
  "FIPS":     83,
 "year": "1990",
-"population_z": -0.29842 
+"emp_pop_z": -0.056922 
 },
 "44": {
  "FIPS":     85,
 "year": "1990",
-"population_z": -0.2461 
+"emp_pop_z": -0.061064 
 },
 "45": {
  "FIPS":     87,
 "year": "1990",
-"population_z": -0.2687 
+"emp_pop_z": 0.05061 
 },
 "46": {
  "FIPS":     89,
 "year": "1990",
-"population_z": -0.28465 
+"emp_pop_z": -0.18915 
 },
 "47": {
  "FIPS":     91,
 "year": "1990",
-"population_z": -0.4474 
+"emp_pop_z": -0.15425 
 },
 "48": {
  "FIPS":     93,
 "year": "1990",
-"population_z": -0.40301 
+"emp_pop_z": -1.2675 
 },
 "49": {
  "FIPS":     95,
 "year": "1990",
-"population_z": -0.43017 
+"emp_pop_z": -0.40364 
 },
 "50": {
  "FIPS":     97,
 "year": "1990",
-"population_z": -0.3531 
+"emp_pop_z":  3.743 
 },
 "51": {
  "FIPS":     99,
 "year": "1990",
-"population_z": -0.34686 
+"emp_pop_z": 0.012036 
 },
 "52": {
  "FIPS":    101,
 "year": "1990",
-"population_z": 0.65111 
+"emp_pop_z": -0.010439 
 },
 "53": {
  "FIPS":    103,
 "year": "1990",
-"population_z": -0.41323 
+"emp_pop_z": 0.27477 
 },
 "54": {
  "FIPS":    105,
 "year": "1990",
-"population_z": -0.3703 
+"emp_pop_z": 0.011314 
 },
 "55": {
  "FIPS":    107,
 "year": "1990",
-"population_z": -0.34012 
+"emp_pop_z": 1.3971 
 },
 "56": {
  "FIPS":    109,
 "year": "1990",
-"population_z": -0.42626 
+"emp_pop_z": -0.63446 
 },
 "57": {
  "FIPS":    111,
 "year": "1990",
-"population_z": -0.4615 
+"emp_pop_z": 1.4173 
 },
 "58": {
  "FIPS":    113,
 "year": "1990",
-"population_z": -0.43504 
+"emp_pop_z": 1.3612 
 },
 "59": {
  "FIPS":    115,
 "year": "1990",
-"population_z": -0.4438 
+"emp_pop_z": -0.31934 
 },
 "60": {
  "FIPS":    117,
 "year": "1990",
-"population_z": -0.3511 
+"emp_pop_z": 3.0593 
 },
 "61": {
  "FIPS":    119,
 "year": "1990",
-"population_z": -0.35485 
+"emp_pop_z": -1.0814 
 },
 "62": {
  "FIPS":    121,
 "year": "1990",
-"population_z": -0.4245 
+"emp_pop_z": -0.73872 
 },
 "63": {
  "FIPS":    123,
 "year": "1990",
-"population_z": 0.73089 
+"emp_pop_z": -0.0038318 
 },
 "64": {
  "FIPS":    125,
 "year": "1990",
-"population_z": -0.38682 
+"emp_pop_z": -0.40645 
 },
 "65": {
  "FIPS":      1,
 "year": "1991",
-"population_z": 1.9609 
+"emp_pop_z": -0.044742 
 },
 "66": {
  "FIPS":      3,
 "year": "1991",
-"population_z": -0.34803 
+"emp_pop_z": 0.24518 
 },
 "67": {
  "FIPS":      5,
 "year": "1991",
-"population_z": 3.1116 
+"emp_pop_z": 0.57887 
 },
 "68": {
  "FIPS":      7,
 "year": "1991",
-"population_z": -0.41919 
+"emp_pop_z": -0.48513 
 },
 "69": {
  "FIPS":      9,
 "year": "1991",
-"population_z": -0.42971 
+"emp_pop_z": -0.76111 
 },
 "70": {
  "FIPS":     11,
 "year": "1991",
-"population_z": -0.4251 
+"emp_pop_z": -0.49274 
 },
 "71": {
  "FIPS":     13,
 "year": "1991",
-"population_z": 1.5821 
+"emp_pop_z": 1.0173 
 },
 "72": {
  "FIPS":     14,
 "year": "1991",
-"population_z": -0.46915 
+"emp_pop_z": -2.1542 
 },
 "73": {
  "FIPS":     15,
 "year": "1991",
-"population_z": -0.35491 
+"emp_pop_z": -0.086455 
 },
 "74": {
  "FIPS":     17,
 "year": "1991",
-"population_z": -0.44716 
+"emp_pop_z": -0.36166 
 },
 "75": {
  "FIPS":     19,
 "year": "1991",
-"population_z": -0.40119 
+"emp_pop_z": -0.24421 
 },
 "76": {
  "FIPS":     21,
 "year": "1991",
-"population_z": -0.40224 
+"emp_pop_z": -1.0815 
 },
 "77": {
  "FIPS":     23,
 "year": "1991",
-"population_z": -0.44024 
+"emp_pop_z": -0.62022 
 },
 "78": {
  "FIPS":     25,
 "year": "1991",
-"population_z": -0.43387 
+"emp_pop_z": -0.974 
 },
 "79": {
  "FIPS":     27,
 "year": "1991",
-"population_z": -0.45128 
+"emp_pop_z": -1.0452 
 },
 "80": {
  "FIPS":     29,
 "year": "1991",
-"population_z": -0.28062 
+"emp_pop_z": -0.73565 
 },
 "81": {
  "FIPS":     31,
 "year": "1991",
-"population_z": 3.7509 
+"emp_pop_z": 2.7584 
 },
 "82": {
  "FIPS":     33,
 "year": "1991",
-"population_z": -0.45639 
+"emp_pop_z": -0.47802 
 },
 "83": {
  "FIPS":     35,
 "year": "1991",
-"population_z": 0.12309 
+"emp_pop_z": -0.80159 
 },
 "84": {
  "FIPS":     37,
 "year": "1991",
-"population_z": -0.26083 
+"emp_pop_z": 1.7803 
 },
 "85": {
  "FIPS":     39,
 "year": "1991",
-"population_z": -0.37796 
+"emp_pop_z": -1.4404 
 },
 "86": {
  "FIPS":     41,
 "year": "1991",
-"population_z": 3.1361 
+"emp_pop_z": 0.17596 
 },
 "87": {
  "FIPS":     43,
 "year": "1991",
-"population_z": -0.18286 
+"emp_pop_z": -0.53829 
 },
 "88": {
  "FIPS":     45,
 "year": "1991",
-"population_z": -0.1918 
+"emp_pop_z": 0.19114 
 },
 "89": {
  "FIPS":     47,
 "year": "1991",
-"population_z": -0.44172 
+"emp_pop_z": -0.77083 
 },
 "90": {
  "FIPS":     49,
 "year": "1991",
-"population_z": -0.39465 
+"emp_pop_z": 1.0304 
 },
 "91": {
  "FIPS":     51,
 "year": "1991",
-"population_z": -0.37665 
+"emp_pop_z": 0.66716 
 },
 "92": {
  "FIPS":     53,
 "year": "1991",
-"population_z": -0.46513 
+"emp_pop_z": 0.059048 
 },
 "93": {
  "FIPS":     55,
 "year": "1991",
-"population_z": -0.41536 
+"emp_pop_z": -0.88652 
 },
 "94": {
  "FIPS":     57,
 "year": "1991",
-"population_z": -0.45533 
+"emp_pop_z": -0.31547 
 },
 "95": {
  "FIPS":     59,
 "year": "1991",
-"population_z": 3.5242 
+"emp_pop_z": 0.1138 
 },
 "96": {
  "FIPS":     61,
 "year": "1991",
-"population_z": -0.45421 
+"emp_pop_z": -0.65764 
 },
 "97": {
  "FIPS":     63,
 "year": "1991",
-"population_z": -0.40556 
+"emp_pop_z": -0.057489 
 },
 "98": {
  "FIPS":     65,
 "year": "1991",
-"population_z": -0.17243 
+"emp_pop_z": 0.40583 
 },
 "99": {
  "FIPS":     67,
 "year": "1991",
-"population_z": -0.41462 
+"emp_pop_z": -0.22491 
 },
 "100": {
  "FIPS":     69,
 "year": "1991",
-"population_z": 1.2497 
+"emp_pop_z": 0.28366 
 },
 "101": {
  "FIPS":     71,
 "year": "1991",
-"population_z": -0.34645 
+"emp_pop_z": -0.64931 
 },
 "102": {
  "FIPS":     73,
 "year": "1991",
-"population_z": -0.42093 
+"emp_pop_z": -0.22448 
 },
 "103": {
  "FIPS":     75,
 "year": "1991",
-"population_z": -0.31371 
+"emp_pop_z": 0.036125 
 },
 "104": {
  "FIPS":     77,
 "year": "1991",
-"population_z": 0.38334 
+"emp_pop_z": 0.073118 
 },
 "105": {
  "FIPS":     79,
 "year": "1991",
-"population_z": -0.46409 
+"emp_pop_z": 0.96688 
 },
 "106": {
  "FIPS":     81,
 "year": "1991",
-"population_z": -0.36748 
+"emp_pop_z": 0.10236 
 },
 "107": {
  "FIPS":     83,
 "year": "1991",
-"population_z": -0.29988 
+"emp_pop_z": -0.073522 
 },
 "108": {
  "FIPS":     85,
 "year": "1991",
-"population_z": -0.24469 
+"emp_pop_z": -0.078904 
 },
 "109": {
  "FIPS":     87,
 "year": "1991",
-"population_z": -0.26753 
+"emp_pop_z": 0.15217 
 },
 "110": {
  "FIPS":     89,
 "year": "1991",
-"population_z": -0.28822 
+"emp_pop_z": -0.18151 
 },
 "111": {
  "FIPS":     91,
 "year": "1991",
-"population_z": -0.44767 
+"emp_pop_z": -0.15767 
 },
 "112": {
  "FIPS":     93,
 "year": "1991",
-"population_z": -0.40077 
+"emp_pop_z": -1.3801 
 },
 "113": {
  "FIPS":     95,
 "year": "1991",
-"population_z": -0.43177 
+"emp_pop_z": -0.4374 
 },
 "114": {
  "FIPS":     97,
 "year": "1991",
-"population_z": -0.35386 
+"emp_pop_z": 3.4107 
 },
 "115": {
  "FIPS":     99,
 "year": "1991",
-"population_z": -0.35407 
+"emp_pop_z": -0.01842 
 },
 "116": {
  "FIPS":    101,
 "year": "1991",
-"population_z": 0.62751 
+"emp_pop_z": -0.035747 
 },
 "117": {
  "FIPS":    103,
 "year": "1991",
-"population_z": -0.41563 
+"emp_pop_z": 0.38267 
 },
 "118": {
  "FIPS":    105,
 "year": "1991",
-"population_z": -0.37293 
+"emp_pop_z": 0.036701 
 },
 "119": {
  "FIPS":    107,
 "year": "1991",
-"population_z": -0.33833 
+"emp_pop_z": 1.4501 
 },
 "120": {
  "FIPS":    109,
 "year": "1991",
-"population_z": -0.42713 
+"emp_pop_z": -0.47211 
 },
 "121": {
  "FIPS":    111,
 "year": "1991",
-"population_z": -0.46284 
+"emp_pop_z": 0.88103 
 },
 "122": {
  "FIPS":    113,
 "year": "1991",
-"population_z": -0.43247 
+"emp_pop_z": 1.4103 
 },
 "123": {
  "FIPS":    115,
 "year": "1991",
-"population_z": -0.44544 
+"emp_pop_z": -0.39803 
 },
 "124": {
  "FIPS":    117,
 "year": "1991",
-"population_z": -0.34952 
+"emp_pop_z":  3.353 
 },
 "125": {
  "FIPS":    119,
 "year": "1991",
-"population_z": -0.35626 
+"emp_pop_z": -1.0072 
 },
 "126": {
  "FIPS":    121,
 "year": "1991",
-"population_z": -0.42668 
+"emp_pop_z": -0.80704 
 },
 "127": {
  "FIPS":    123,
 "year": "1991",
-"population_z": 0.73626 
+"emp_pop_z": 0.025905 
 },
 "128": {
  "FIPS":    125,
 "year": "1991",
-"population_z": -0.38913 
+"emp_pop_z": -0.40858 
 },
 "129": {
  "FIPS":      1,
 "year": "1992",
-"population_z": 1.9509 
+"emp_pop_z": -0.041683 
 },
 "130": {
  "FIPS":      3,
 "year": "1992",
-"population_z": -0.35221 
+"emp_pop_z": 0.17546 
 },
 "131": {
  "FIPS":      5,
 "year": "1992",
-"population_z":  3.123 
+"emp_pop_z": 0.40868 
 },
 "132": {
  "FIPS":      7,
 "year": "1992",
-"population_z": -0.41836 
+"emp_pop_z": -0.53736 
 },
 "133": {
  "FIPS":      9,
 "year": "1992",
-"population_z": -0.43193 
+"emp_pop_z": -0.68842 
 },
 "134": {
  "FIPS":     11,
 "year": "1992",
-"population_z": -0.42558 
+"emp_pop_z": -0.51298 
 },
 "135": {
  "FIPS":     13,
 "year": "1992",
-"population_z": 1.5812 
+"emp_pop_z": 0.88094 
 },
 "136": {
  "FIPS":     14,
 "year": "1992",
-"population_z": -0.46892 
+"emp_pop_z": -1.9978 
 },
 "137": {
  "FIPS":     15,
 "year": "1992",
-"population_z": -0.35609 
+"emp_pop_z": -0.19027 
 },
 "138": {
  "FIPS":     17,
 "year": "1992",
-"population_z": -0.44823 
+"emp_pop_z": -0.32975 
 },
 "139": {
  "FIPS":     19,
 "year": "1992",
-"population_z": -0.40149 
+"emp_pop_z": -0.31625 
 },
 "140": {
  "FIPS":     21,
 "year": "1992",
-"population_z": -0.40431 
+"emp_pop_z": -1.0595 
 },
 "141": {
  "FIPS":     23,
 "year": "1992",
-"population_z": -0.44149 
+"emp_pop_z": -0.61874 
 },
 "142": {
  "FIPS":     25,
 "year": "1992",
-"population_z": -0.43332 
+"emp_pop_z": -0.96393 
 },
 "143": {
  "FIPS":     27,
 "year": "1992",
-"population_z": -0.45051 
+"emp_pop_z": -0.93124 
 },
 "144": {
  "FIPS":     29,
 "year": "1992",
-"population_z": -0.28086 
+"emp_pop_z": -0.70818 
 },
 "145": {
  "FIPS":     31,
 "year": "1992",
-"population_z": 3.7299 
+"emp_pop_z": 2.2916 
 },
 "146": {
  "FIPS":     33,
 "year": "1992",
-"population_z": -0.45686 
+"emp_pop_z": -0.53222 
 },
 "147": {
  "FIPS":     35,
 "year": "1992",
-"population_z": 0.17915 
+"emp_pop_z": -0.84422 
 },
 "148": {
  "FIPS":     37,
 "year": "1992",
-"population_z": -0.25445 
+"emp_pop_z": 1.4747 
 },
 "149": {
  "FIPS":     39,
 "year": "1992",
-"population_z": -0.37634 
+"emp_pop_z": -1.3459 
 },
 "150": {
  "FIPS":     41,
 "year": "1992",
-"population_z": 3.1671 
+"emp_pop_z": 0.075392 
 },
 "151": {
  "FIPS":     43,
 "year": "1992",
-"population_z": -0.1781 
+"emp_pop_z": -0.51759 
 },
 "152": {
  "FIPS":     45,
 "year": "1992",
-"population_z": -0.19942 
+"emp_pop_z": 0.071029 
 },
 "153": {
  "FIPS":     47,
 "year": "1992",
-"population_z": -0.44103 
+"emp_pop_z":  3.635 
 },
 "154": {
  "FIPS":     49,
 "year": "1992",
-"population_z": -0.39493 
+"emp_pop_z": 0.84983 
 },
 "155": {
  "FIPS":     51,
 "year": "1992",
-"population_z": -0.37626 
+"emp_pop_z": 0.68812 
 },
 "156": {
  "FIPS":     53,
 "year": "1992",
-"population_z": -0.46459 
+"emp_pop_z": -0.097493 
 },
 "157": {
  "FIPS":     55,
 "year": "1992",
-"population_z": -0.41577 
+"emp_pop_z": -0.87198 
 },
 "158": {
  "FIPS":     57,
 "year": "1992",
-"population_z": -0.45539 
+"emp_pop_z": -0.25829 
 },
 "159": {
  "FIPS":     59,
 "year": "1992",
-"population_z": 3.5173 
+"emp_pop_z": -0.0023204 
 },
 "160": {
  "FIPS":     61,
 "year": "1992",
-"population_z": -0.45435 
+"emp_pop_z": -0.63146 
 },
 "161": {
  "FIPS":     63,
 "year": "1992",
-"population_z": -0.40673 
+"emp_pop_z": -0.14673 
 },
 "162": {
  "FIPS":     65,
 "year": "1992",
-"population_z": -0.17285 
+"emp_pop_z": 0.33672 
 },
 "163": {
  "FIPS":     67,
 "year": "1992",
-"population_z": -0.41553 
+"emp_pop_z": -0.37161 
 },
 "164": {
  "FIPS":     69,
 "year": "1992",
-"population_z": 1.2481 
+"emp_pop_z": 0.17294 
 },
 "165": {
  "FIPS":     71,
 "year": "1992",
-"population_z": -0.34828 
+"emp_pop_z": -0.70028 
 },
 "166": {
  "FIPS":     73,
 "year": "1992",
-"population_z": -0.41754 
+"emp_pop_z": -0.37856 
 },
 "167": {
  "FIPS":     75,
 "year": "1992",
-"population_z": -0.3179 
+"emp_pop_z": -0.049924 
 },
 "168": {
  "FIPS":     77,
 "year": "1992",
-"population_z": 0.36877 
+"emp_pop_z": 0.0079465 
 },
 "169": {
  "FIPS":     79,
 "year": "1992",
-"population_z": -0.46385 
+"emp_pop_z": 0.93698 
 },
 "170": {
  "FIPS":     81,
 "year": "1992",
-"population_z": -0.36838 
+"emp_pop_z": 0.0051913 
 },
 "171": {
  "FIPS":     83,
 "year": "1992",
-"population_z": -0.29993 
+"emp_pop_z": -0.10086 
 },
 "172": {
  "FIPS":     85,
 "year": "1992",
-"population_z": -0.24342 
+"emp_pop_z": -0.13779 
 },
 "173": {
  "FIPS":     87,
 "year": "1992",
-"population_z": -0.26699 
+"emp_pop_z": 0.062504 
 },
 "174": {
  "FIPS":     89,
 "year": "1992",
-"population_z": -0.2944 
+"emp_pop_z": -0.26522 
 },
 "175": {
  "FIPS":     91,
 "year": "1992",
-"population_z": -0.44712 
+"emp_pop_z": -0.22187 
 },
 "176": {
  "FIPS":     93,
 "year": "1992",
-"population_z": -0.39934 
+"emp_pop_z": -1.3191 
 },
 "177": {
  "FIPS":     95,
 "year": "1992",
-"population_z": -0.43254 
+"emp_pop_z": -0.46567 
 },
 "178": {
  "FIPS":     97,
 "year": "1992",
-"population_z": -0.35394 
+"emp_pop_z": 2.9624 
 },
 "179": {
  "FIPS":     99,
 "year": "1992",
-"population_z": -0.35623 
+"emp_pop_z": -0.090619 
 },
 "180": {
  "FIPS":    101,
 "year": "1992",
-"population_z": 0.60095 
+"emp_pop_z": -0.11766 
 },
 "181": {
  "FIPS":    103,
 "year": "1992",
-"population_z": -0.41578 
+"emp_pop_z": 0.29094 
 },
 "182": {
  "FIPS":    105,
 "year": "1992",
-"population_z": -0.37485 
+"emp_pop_z": -0.10196 
 },
 "183": {
  "FIPS":    107,
 "year": "1992",
-"population_z": -0.33865 
+"emp_pop_z": 1.2051 
 },
 "184": {
  "FIPS":    109,
 "year": "1992",
-"population_z": -0.42775 
+"emp_pop_z": -0.57044 
 },
 "185": {
  "FIPS":    111,
 "year": "1992",
-"population_z": -0.46399 
+"emp_pop_z": 0.34949 
 },
 "186": {
  "FIPS":    113,
 "year": "1992",
-"population_z": -0.42967 
+"emp_pop_z": 1.3673 
 },
 "187": {
  "FIPS":    115,
 "year": "1992",
-"population_z": -0.44632 
+"emp_pop_z": -0.42943 
 },
 "188": {
  "FIPS":    117,
 "year": "1992",
-"population_z": -0.34991 
+"emp_pop_z": 2.9984 
 },
 "189": {
  "FIPS":    119,
 "year": "1992",
-"population_z": -0.35137 
+"emp_pop_z": -0.45721 
 },
 "190": {
  "FIPS":    121,
 "year": "1992",
-"population_z": -0.42691 
+"emp_pop_z": -0.78069 
 },
 "191": {
  "FIPS":    123,
 "year": "1992",
-"population_z": 0.73607 
+"emp_pop_z": -0.079904 
 },
 "192": {
  "FIPS":    125,
 "year": "1992",
-"population_z": -0.39152 
+"emp_pop_z": -0.46363 
 },
 "193": {
  "FIPS":      1,
 "year": "1993",
-"population_z": 1.9595 
+"emp_pop_z": -0.066674 
 },
 "194": {
  "FIPS":      3,
 "year": "1993",
-"population_z": -0.35665 
+"emp_pop_z": 0.2442 
 },
 "195": {
  "FIPS":      5,
 "year": "1993",
-"population_z":  3.102 
+"emp_pop_z": 0.40231 
 },
 "196": {
  "FIPS":      7,
 "year": "1993",
-"population_z": -0.41916 
+"emp_pop_z": -0.55629 
 },
 "197": {
  "FIPS":      9,
 "year": "1993",
-"population_z": -0.43464 
+"emp_pop_z": -0.66119 
 },
 "198": {
  "FIPS":     11,
 "year": "1993",
-"population_z": -0.42608 
+"emp_pop_z": -0.51483 
 },
 "199": {
  "FIPS":     13,
 "year": "1993",
-"population_z": 1.5959 
+"emp_pop_z": 0.82958 
 },
 "200": {
  "FIPS":     14,
 "year": "1993",
-"population_z": -0.47079 
+"emp_pop_z": -1.9434 
 },
 "201": {
  "FIPS":     15,
 "year": "1993",
-"population_z": -0.35629 
+"emp_pop_z": -0.25299 
 },
 "202": {
  "FIPS":     17,
 "year": "1993",
-"population_z": -0.45152 
+"emp_pop_z": -0.46469 
 },
 "203": {
  "FIPS":     19,
 "year": "1993",
-"population_z": -0.40362 
+"emp_pop_z": -0.33218 
 },
 "204": {
  "FIPS":     21,
 "year": "1993",
-"population_z": -0.40692 
+"emp_pop_z": -1.0423 
 },
 "205": {
  "FIPS":     23,
 "year": "1993",
-"population_z": -0.4429 
+"emp_pop_z": -0.56307 
 },
 "206": {
  "FIPS":     25,
 "year": "1993",
-"population_z": -0.43615 
+"emp_pop_z": -0.9493 
 },
 "207": {
  "FIPS":     27,
 "year": "1993",
-"population_z": -0.45138 
+"emp_pop_z": -0.86944 
 },
 "208": {
  "FIPS":     29,
 "year": "1993",
-"population_z": -0.27661 
+"emp_pop_z": -0.70191 
 },
 "209": {
  "FIPS":     31,
 "year": "1993",
-"population_z": 3.7193 
+"emp_pop_z": 2.1042 
 },
 "210": {
  "FIPS":     33,
 "year": "1993",
-"population_z": -0.45887 
+"emp_pop_z": -0.57032 
 },
 "211": {
  "FIPS":     35,
 "year": "1993",
-"population_z": 0.22402 
+"emp_pop_z": -0.82595 
 },
 "212": {
  "FIPS":     37,
 "year": "1993",
-"population_z": -0.24653 
+"emp_pop_z": 1.3941 
 },
 "213": {
  "FIPS":     39,
 "year": "1993",
-"population_z": -0.37432 
+"emp_pop_z": -1.3202 
 },
 "214": {
  "FIPS":     41,
 "year": "1993",
-"population_z": 3.1828 
+"emp_pop_z": 0.05366 
 },
 "215": {
  "FIPS":     43,
 "year": "1993",
-"population_z": -0.16567 
+"emp_pop_z": -0.5422 
 },
 "216": {
  "FIPS":     45,
 "year": "1993",
-"population_z": -0.19854 
+"emp_pop_z": 0.088069 
 },
 "217": {
  "FIPS":     47,
 "year": "1993",
-"population_z": -0.44258 
+"emp_pop_z": 3.9683 
 },
 "218": {
  "FIPS":     49,
 "year": "1993",
-"population_z": -0.3962 
+"emp_pop_z": 0.8089 
 },
 "219": {
  "FIPS":     51,
 "year": "1993",
-"population_z": -0.37626 
+"emp_pop_z": 0.72232 
 },
 "220": {
  "FIPS":     53,
 "year": "1993",
-"population_z": -0.46623 
+"emp_pop_z": -0.023961 
 },
 "221": {
  "FIPS":     55,
 "year": "1993",
-"population_z": -0.41697 
+"emp_pop_z": -0.84456 
 },
 "222": {
  "FIPS":     57,
 "year": "1993",
-"population_z": -0.45715 
+"emp_pop_z": -0.13281 
 },
 "223": {
  "FIPS":     59,
 "year": "1993",
-"population_z": 3.5093 
+"emp_pop_z": -0.070488 
 },
 "224": {
  "FIPS":     61,
 "year": "1993",
-"population_z": -0.4566 
+"emp_pop_z": -0.57952 
 },
 "225": {
  "FIPS":     63,
 "year": "1993",
-"population_z": -0.41005 
+"emp_pop_z": -0.1699 
 },
 "226": {
  "FIPS":     65,
 "year": "1993",
-"population_z": -0.17327 
+"emp_pop_z": 0.32838 
 },
 "227": {
  "FIPS":     67,
 "year": "1993",
-"population_z": -0.41838 
+"emp_pop_z": -0.53469 
 },
 "228": {
  "FIPS":     69,
 "year": "1993",
-"population_z":  1.258 
+"emp_pop_z": 0.16651 
 },
 "229": {
  "FIPS":     71,
 "year": "1993",
-"population_z": -0.35201 
+"emp_pop_z": -0.6682 
 },
 "230": {
  "FIPS":     73,
 "year": "1993",
-"population_z": -0.42166 
+"emp_pop_z": -0.40745 
 },
 "231": {
  "FIPS":     75,
 "year": "1993",
-"population_z": -0.32069 
+"emp_pop_z": -0.095367 
 },
 "232": {
  "FIPS":     77,
 "year": "1993",
-"population_z": 0.36419 
+"emp_pop_z": -0.034623 
 },
 "233": {
  "FIPS":     79,
 "year": "1993",
-"population_z": -0.46578 
+"emp_pop_z": 0.95353 
 },
 "234": {
  "FIPS":     81,
 "year": "1993",
-"population_z": -0.37219 
+"emp_pop_z": -0.045748 
 },
 "235": {
  "FIPS":     83,
 "year": "1993",
-"population_z": -0.29828 
+"emp_pop_z": -0.07138 
 },
 "236": {
  "FIPS":     85,
 "year": "1993",
-"population_z": -0.24273 
+"emp_pop_z": -0.12571 
 },
 "237": {
  "FIPS":     87,
 "year": "1993",
-"population_z": -0.26819 
+"emp_pop_z": 0.044689 
 },
 "238": {
  "FIPS":     89,
 "year": "1993",
-"population_z":   -0.3 
+"emp_pop_z": -0.28451 
 },
 "239": {
  "FIPS":     91,
 "year": "1993",
-"population_z": -0.44862 
+"emp_pop_z": -0.16673 
 },
 "240": {
  "FIPS":     93,
 "year": "1993",
-"population_z": -0.39907 
+"emp_pop_z": -1.2523 
 },
 "241": {
  "FIPS":     95,
 "year": "1993",
-"population_z": -0.4342 
+"emp_pop_z": -0.43937 
 },
 "242": {
  "FIPS":     97,
 "year": "1993",
-"population_z": -0.35327 
+"emp_pop_z": 2.9612 
 },
 "243": {
  "FIPS":     99,
 "year": "1993",
-"population_z": -0.35861 
+"emp_pop_z": -0.11552 
 },
 "244": {
  "FIPS":    101,
 "year": "1993",
-"population_z": 0.58522 
+"emp_pop_z": -0.16522 
 },
 "245": {
  "FIPS":    103,
 "year": "1993",
-"population_z": -0.41848 
+"emp_pop_z": 0.19249 
 },
 "246": {
  "FIPS":    105,
 "year": "1993",
-"population_z": -0.37709 
+"emp_pop_z": -0.19325 
 },
 "247": {
  "FIPS":    107,
 "year": "1993",
-"population_z": -0.3377 
+"emp_pop_z":  1.163 
 },
 "248": {
  "FIPS":    109,
 "year": "1993",
-"population_z": -0.43046 
+"emp_pop_z": -0.49213 
 },
 "249": {
  "FIPS":    111,
 "year": "1993",
-"population_z": -0.46628 
+"emp_pop_z": 0.62219 
 },
 "250": {
  "FIPS":    113,
 "year": "1993",
-"population_z": -0.43014 
+"emp_pop_z":  1.546 
 },
 "251": {
  "FIPS":    115,
 "year": "1993",
-"population_z": -0.44865 
+"emp_pop_z": -0.41107 
 },
 "252": {
  "FIPS":    117,
 "year": "1993",
-"population_z": -0.3438 
+"emp_pop_z": 2.7415 
 },
 "253": {
  "FIPS":    119,
 "year": "1993",
-"population_z": -0.34764 
+"emp_pop_z": -0.45256 
 },
 "254": {
  "FIPS":    121,
 "year": "1993",
-"population_z": -0.4278 
+"emp_pop_z": -0.8293 
 },
 "255": {
  "FIPS":    123,
 "year": "1993",
-"population_z": 0.74761 
+"emp_pop_z": -0.090503 
 },
 "256": {
  "FIPS":    125,
 "year": "1993",
-"population_z": -0.39418 
+"emp_pop_z": -0.46147 
 },
 "257": {
  "FIPS":      1,
 "year": "1994",
-"population_z": 1.9854 
+"emp_pop_z": -0.066461 
 },
 "258": {
  "FIPS":      3,
 "year": "1994",
-"population_z": -0.36127 
+"emp_pop_z": 0.23959 
 },
 "259": {
  "FIPS":      5,
 "year": "1994",
-"population_z": 3.0944 
+"emp_pop_z": 0.43566 
 },
 "260": {
  "FIPS":      7,
 "year": "1994",
-"population_z": -0.42083 
+"emp_pop_z": -0.51161 
 },
 "261": {
  "FIPS":      9,
 "year": "1994",
-"population_z": -0.4384 
+"emp_pop_z": -0.69381 
 },
 "262": {
  "FIPS":     11,
 "year": "1994",
-"population_z": -0.43015 
+"emp_pop_z": -0.49384 
 },
 "263": {
  "FIPS":     13,
 "year": "1994",
-"population_z": 1.5924 
+"emp_pop_z": 0.8246 
 },
 "264": {
  "FIPS":     14,
 "year": "1994",
-"population_z": -0.4743 
+"emp_pop_z": -1.9005 
 },
 "265": {
  "FIPS":     15,
 "year": "1994",
-"population_z": -0.35894 
+"emp_pop_z": -0.21861 
 },
 "266": {
  "FIPS":     17,
 "year": "1994",
-"population_z": -0.45557 
+"emp_pop_z": -0.47101 
 },
 "267": {
  "FIPS":     19,
 "year": "1994",
-"population_z": -0.40514 
+"emp_pop_z": -0.43317 
 },
 "268": {
  "FIPS":     21,
 "year": "1994",
-"population_z": -0.41089 
+"emp_pop_z": -1.0231 
 },
 "269": {
  "FIPS":     23,
 "year": "1994",
-"population_z": -0.4467 
+"emp_pop_z": -0.67995 
 },
 "270": {
  "FIPS":     25,
 "year": "1994",
-"population_z": -0.4399 
+"emp_pop_z": -0.93731 
 },
 "271": {
  "FIPS":     27,
 "year": "1994",
-"population_z": -0.45453 
+"emp_pop_z": -0.8473 
 },
 "272": {
  "FIPS":     29,
 "year": "1994",
-"population_z": -0.27524 
+"emp_pop_z": -0.65516 
 },
 "273": {
  "FIPS":     31,
 "year": "1994",
-"population_z": 3.6492 
+"emp_pop_z": 1.9987 
 },
 "274": {
  "FIPS":     33,
 "year": "1994",
-"population_z": -0.46205 
+"emp_pop_z": -0.62225 
 },
 "275": {
  "FIPS":     35,
 "year": "1994",
-"population_z": 0.28233 
+"emp_pop_z": -0.76606 
 },
 "276": {
  "FIPS":     37,
 "year": "1994",
-"population_z": -0.23694 
+"emp_pop_z": 1.4058 
 },
 "277": {
  "FIPS":     39,
 "year": "1994",
-"population_z": -0.36925 
+"emp_pop_z": -1.3226 
 },
 "278": {
  "FIPS":     41,
 "year": "1994",
-"population_z": 3.2587 
+"emp_pop_z": 0.056298 
 },
 "279": {
  "FIPS":     43,
 "year": "1994",
-"population_z": -0.15779 
+"emp_pop_z": -0.53027 
 },
 "280": {
  "FIPS":     45,
 "year": "1994",
-"population_z": -0.19221 
+"emp_pop_z": 0.12905 
 },
 "281": {
  "FIPS":     47,
 "year": "1994",
-"population_z": -0.44569 
+"emp_pop_z": 4.3915 
 },
 "282": {
  "FIPS":     49,
 "year": "1994",
-"population_z": -0.39793 
+"emp_pop_z": 0.75367 
 },
 "283": {
  "FIPS":     51,
 "year": "1994",
-"population_z": -0.37886 
+"emp_pop_z": 0.80173 
 },
 "284": {
  "FIPS":     53,
 "year": "1994",
-"population_z": -0.4693 
+"emp_pop_z": -0.10343 
 },
 "285": {
  "FIPS":     55,
 "year": "1994",
-"population_z": -0.41769 
+"emp_pop_z": -0.8386 
 },
 "286": {
  "FIPS":     57,
 "year": "1994",
-"population_z": -0.46088 
+"emp_pop_z": -0.39123 
 },
 "287": {
  "FIPS":     59,
 "year": "1994",
-"population_z":  3.479 
+"emp_pop_z": -0.074226 
 },
 "288": {
  "FIPS":     61,
 "year": "1994",
-"population_z": -0.46046 
+"emp_pop_z": -0.21438 
 },
 "289": {
  "FIPS":     63,
 "year": "1994",
-"population_z": -0.41428 
+"emp_pop_z": -0.16372 
 },
 "290": {
  "FIPS":     65,
 "year": "1994",
-"population_z": -0.1725 
+"emp_pop_z": 0.38644 
 },
 "291": {
  "FIPS":     67,
 "year": "1994",
-"population_z": -0.42213 
+"emp_pop_z": -0.5337 
 },
 "292": {
  "FIPS":     69,
 "year": "1994",
-"population_z": 1.2833 
+"emp_pop_z": 0.15277 
 },
 "293": {
  "FIPS":     71,
 "year": "1994",
-"population_z": -0.35365 
+"emp_pop_z": -0.59418 
 },
 "294": {
  "FIPS":     73,
 "year": "1994",
-"population_z": -0.42574 
+"emp_pop_z": -0.39516 
 },
 "295": {
  "FIPS":     75,
 "year": "1994",
-"population_z": -0.32034 
+"emp_pop_z": -0.067878 
 },
 "296": {
  "FIPS":     77,
 "year": "1994",
-"population_z": 0.36607 
+"emp_pop_z": -0.049111 
 },
 "297": {
  "FIPS":     79,
 "year": "1994",
-"population_z": -0.46902 
+"emp_pop_z": 0.56622 
 },
 "298": {
  "FIPS":     81,
 "year": "1994",
-"population_z": -0.37621 
+"emp_pop_z": -0.079917 
 },
 "299": {
  "FIPS":     83,
 "year": "1994",
-"population_z": -0.29936 
+"emp_pop_z": -0.11419 
 },
 "300": {
  "FIPS":     85,
 "year": "1994",
-"population_z": -0.24123 
+"emp_pop_z": -0.11607 
 },
 "301": {
  "FIPS":     87,
 "year": "1994",
-"population_z": -0.26915 
+"emp_pop_z": 0.037139 
 },
 "302": {
  "FIPS":     89,
 "year": "1994",
-"population_z": -0.30675 
+"emp_pop_z": -0.25303 
 },
 "303": {
  "FIPS":     91,
 "year": "1994",
-"population_z": -0.45057 
+"emp_pop_z": -0.06791 
 },
 "304": {
  "FIPS":     93,
 "year": "1994",
-"population_z": -0.3964 
+"emp_pop_z": -1.1945 
 },
 "305": {
  "FIPS":     95,
 "year": "1994",
-"population_z": -0.43831 
+"emp_pop_z": -0.36112 
 },
 "306": {
  "FIPS":     97,
 "year": "1994",
-"population_z": -0.35541 
+"emp_pop_z": 2.9536 
 },
 "307": {
  "FIPS":     99,
 "year": "1994",
-"population_z": -0.36239 
+"emp_pop_z": -0.082936 
 },
 "308": {
  "FIPS":    101,
 "year": "1994",
-"population_z": 0.57832 
+"emp_pop_z": -0.15463 
 },
 "309": {
  "FIPS":    103,
 "year": "1994",
-"population_z": -0.42267 
+"emp_pop_z": 0.1696 
 },
 "310": {
  "FIPS":    105,
 "year": "1994",
-"population_z": -0.38058 
+"emp_pop_z": -0.19453 
 },
 "311": {
  "FIPS":    107,
 "year": "1994",
-"population_z": -0.33842 
+"emp_pop_z": 1.1261 
 },
 "312": {
  "FIPS":    109,
 "year": "1994",
-"population_z": -0.43389 
+"emp_pop_z": -0.50195 
 },
 "313": {
  "FIPS":    111,
 "year": "1994",
-"population_z": -0.4697 
+"emp_pop_z": 0.51313 
 },
 "314": {
  "FIPS":    113,
 "year": "1994",
-"population_z": -0.43092 
+"emp_pop_z": 1.5953 
 },
 "315": {
  "FIPS":    115,
 "year": "1994",
-"population_z": -0.45252 
+"emp_pop_z": -0.40327 
 },
 "316": {
  "FIPS":    117,
 "year": "1994",
-"population_z": -0.33441 
+"emp_pop_z": 2.3895 
 },
 "317": {
  "FIPS":    119,
 "year": "1994",
-"population_z": -0.34518 
+"emp_pop_z": -0.39199 
 },
 "318": {
  "FIPS":    121,
 "year": "1994",
-"population_z": -0.43161 
+"emp_pop_z": -0.83415 
 },
 "319": {
  "FIPS":    123,
 "year": "1994",
-"population_z": 0.76351 
+"emp_pop_z": -0.13482 
 },
 "320": {
  "FIPS":    125,
 "year": "1994",
-"population_z": -0.39845 
+"emp_pop_z": -0.44295 
 },
 "321": {
  "FIPS":      1,
 "year": "1995",
-"population_z":  2.031 
+"emp_pop_z": -0.071415 
 },
 "322": {
  "FIPS":      3,
 "year": "1995",
-"population_z": -0.3648 
+"emp_pop_z": 0.27762 
 },
 "323": {
  "FIPS":      5,
 "year": "1995",
-"population_z":  3.074 
+"emp_pop_z": 0.50624 
 },
 "324": {
  "FIPS":      7,
 "year": "1995",
-"population_z": -0.42089 
+"emp_pop_z": -0.46893 
 },
 "325": {
  "FIPS":      9,
 "year": "1995",
-"population_z": -0.4424 
+"emp_pop_z": -0.62069 
 },
 "326": {
  "FIPS":     11,
 "year": "1995",
-"population_z": -0.43341 
+"emp_pop_z": -0.50538 
 },
 "327": {
  "FIPS":     13,
 "year": "1995",
-"population_z": 1.5888 
+"emp_pop_z": 0.79191 
 },
 "328": {
  "FIPS":     14,
 "year": "1995",
-"population_z": -0.47794 
+"emp_pop_z": -1.8583 
 },
 "329": {
  "FIPS":     15,
 "year": "1995",
-"population_z": -0.36031 
+"emp_pop_z": -0.18132 
 },
 "330": {
  "FIPS":     17,
 "year": "1995",
-"population_z": -0.45973 
+"emp_pop_z": -0.42837 
 },
 "331": {
  "FIPS":     19,
 "year": "1995",
-"population_z": -0.40824 
+"emp_pop_z": -0.36055 
 },
 "332": {
  "FIPS":     21,
 "year": "1995",
-"population_z": -0.41449 
+"emp_pop_z": -0.97702 
 },
 "333": {
  "FIPS":     23,
 "year": "1995",
-"population_z": -0.44976 
+"emp_pop_z": -0.69947 
 },
 "334": {
  "FIPS":     25,
 "year": "1995",
-"population_z": -0.44406 
+"emp_pop_z": -0.92918 
 },
 "335": {
  "FIPS":     27,
 "year": "1995",
-"population_z": -0.45693 
+"emp_pop_z": -0.76192 
 },
 "336": {
  "FIPS":     29,
 "year": "1995",
-"population_z": -0.27574 
+"emp_pop_z": -0.68945 
 },
 "337": {
  "FIPS":     31,
 "year": "1995",
-"population_z": 3.5971 
+"emp_pop_z": 1.9735 
 },
 "338": {
  "FIPS":     33,
 "year": "1995",
-"population_z": -0.46537 
+"emp_pop_z": -0.74223 
 },
 "339": {
  "FIPS":     35,
 "year": "1995",
-"population_z": 0.35549 
+"emp_pop_z": -0.67763 
 },
 "340": {
  "FIPS":     37,
 "year": "1995",
-"population_z": -0.23007 
+"emp_pop_z":  1.368 
 },
 "341": {
  "FIPS":     39,
 "year": "1995",
-"population_z": -0.36294 
+"emp_pop_z": -1.2586 
 },
 "342": {
  "FIPS":     41,
 "year": "1995",
-"population_z": 3.2919 
+"emp_pop_z": 0.07521 
 },
 "343": {
  "FIPS":     43,
 "year": "1995",
-"population_z": -0.15271 
+"emp_pop_z": -0.54717 
 },
 "344": {
  "FIPS":     45,
 "year": "1995",
-"population_z": -0.18565 
+"emp_pop_z": 0.084976 
 },
 "345": {
  "FIPS":     47,
 "year": "1995",
-"population_z": -0.4485 
+"emp_pop_z": 4.6861 
 },
 "346": {
  "FIPS":     49,
 "year": "1995",
-"population_z": -0.39806 
+"emp_pop_z": 0.72387 
 },
 "347": {
  "FIPS":     51,
 "year": "1995",
-"population_z": -0.38184 
+"emp_pop_z": 0.78211 
 },
 "348": {
  "FIPS":     53,
 "year": "1995",
-"population_z": -0.47265 
+"emp_pop_z": -0.061443 
 },
 "349": {
  "FIPS":     55,
 "year": "1995",
-"population_z": -0.42046 
+"emp_pop_z": -0.81669 
 },
 "350": {
  "FIPS":     57,
 "year": "1995",
-"population_z": -0.46503 
+"emp_pop_z": -0.5395 
 },
 "351": {
  "FIPS":     59,
 "year": "1995",
-"population_z": 3.4654 
+"emp_pop_z": -0.060423 
 },
 "352": {
  "FIPS":     61,
 "year": "1995",
-"population_z": -0.46476 
+"emp_pop_z": -0.50336 
 },
 "353": {
  "FIPS":     63,
 "year": "1995",
-"population_z": -0.41844 
+"emp_pop_z": -0.20023 
 },
 "354": {
  "FIPS":     65,
 "year": "1995",
-"population_z": -0.16685 
+"emp_pop_z": 0.37395 
 },
 "355": {
  "FIPS":     67,
 "year": "1995",
-"population_z": -0.42061 
+"emp_pop_z": -0.51685 
 },
 "356": {
  "FIPS":     69,
 "year": "1995",
-"population_z": 1.3008 
+"emp_pop_z": 0.16982 
 },
 "357": {
  "FIPS":     71,
 "year": "1995",
-"population_z": -0.35828 
+"emp_pop_z": -0.52907 
 },
 "358": {
  "FIPS":     73,
 "year": "1995",
-"population_z": -0.42992 
+"emp_pop_z": -0.41273 
 },
 "359": {
  "FIPS":     75,
 "year": "1995",
-"population_z": -0.32249 
+"emp_pop_z": -0.0065397 
 },
 "360": {
  "FIPS":     77,
 "year": "1995",
-"population_z": 0.36806 
+"emp_pop_z": -0.041047 
 },
 "361": {
  "FIPS":     79,
 "year": "1995",
-"population_z": -0.47253 
+"emp_pop_z": 0.56618 
 },
 "362": {
  "FIPS":     81,
 "year": "1995",
-"population_z": -0.38013 
+"emp_pop_z": 0.00062779 
 },
 "363": {
  "FIPS":     83,
 "year": "1995",
-"population_z": -0.30009 
+"emp_pop_z": -0.1282 
 },
 "364": {
  "FIPS":     85,
 "year": "1995",
-"population_z": -0.23981 
+"emp_pop_z": -0.12317 
 },
 "365": {
  "FIPS":     87,
 "year": "1995",
-"population_z": -0.27438 
+"emp_pop_z": 0.076496 
 },
 "366": {
  "FIPS":     89,
 "year": "1995",
-"population_z": -0.31184 
+"emp_pop_z": -0.21179 
 },
 "367": {
  "FIPS":     91,
 "year": "1995",
-"population_z": -0.45318 
+"emp_pop_z": -0.14179 
 },
 "368": {
  "FIPS":     93,
 "year": "1995",
-"population_z": -0.39305 
+"emp_pop_z": -1.1342 
 },
 "369": {
  "FIPS":     95,
 "year": "1995",
-"population_z": -0.44199 
+"emp_pop_z": -0.35772 
 },
 "370": {
  "FIPS":     97,
 "year": "1995",
-"population_z": -0.36034 
+"emp_pop_z": 2.8129 
 },
 "371": {
  "FIPS":     99,
 "year": "1995",
-"population_z": -0.367 
+"emp_pop_z": -0.028182 
 },
 "372": {
  "FIPS":    101,
 "year": "1995",
-"population_z": 0.57214 
+"emp_pop_z": -0.11806 
 },
 "373": {
  "FIPS":    103,
 "year": "1995",
-"population_z": -0.42655 
+"emp_pop_z": 0.027281 
 },
 "374": {
  "FIPS":    105,
 "year": "1995",
-"population_z": -0.38405 
+"emp_pop_z": -0.16461 
 },
 "375": {
  "FIPS":    107,
 "year": "1995",
-"population_z": -0.33946 
+"emp_pop_z": 1.0365 
 },
 "376": {
  "FIPS":    109,
 "year": "1995",
-"population_z": -0.43565 
+"emp_pop_z": -0.6171 
 },
 "377": {
  "FIPS":    111,
 "year": "1995",
-"population_z": -0.47336 
+"emp_pop_z": 0.11594 
 },
 "378": {
  "FIPS":    113,
 "year": "1995",
-"population_z": -0.43389 
+"emp_pop_z": 1.6909 
 },
 "379": {
  "FIPS":    115,
 "year": "1995",
-"population_z": -0.45667 
+"emp_pop_z": -0.34798 
 },
 "380": {
  "FIPS":    117,
 "year": "1995",
-"population_z": -0.3313 
+"emp_pop_z": 2.2431 
 },
 "381": {
  "FIPS":    119,
 "year": "1995",
-"population_z": -0.34165 
+"emp_pop_z": -0.28792 
 },
 "382": {
  "FIPS":    121,
 "year": "1995",
-"population_z": -0.43592 
+"emp_pop_z": -0.77097 
 },
 "383": {
  "FIPS":    123,
 "year": "1995",
-"population_z": 0.78356 
+"emp_pop_z": -0.12246 
 },
 "384": {
  "FIPS":    125,
 "year": "1995",
-"population_z": -0.40206 
+"emp_pop_z": -0.36346 
 },
 "385": {
  "FIPS":      1,
 "year": "1996",
-"population_z": 2.0638 
+"emp_pop_z": -0.087846 
 },
 "386": {
  "FIPS":      3,
 "year": "1996",
-"population_z": -0.3674 
+"emp_pop_z": 0.39797 
 },
 "387": {
  "FIPS":      5,
 "year": "1996",
-"population_z":  3.072 
+"emp_pop_z": 0.6425 
 },
 "388": {
  "FIPS":      7,
 "year": "1996",
-"population_z": -0.41775 
+"emp_pop_z": -0.51269 
 },
 "389": {
  "FIPS":      9,
 "year": "1996",
-"population_z": -0.44454 
+"emp_pop_z": -0.61869 
 },
 "390": {
  "FIPS":     11,
 "year": "1996",
-"population_z": -0.4359 
+"emp_pop_z": -0.58169 
 },
 "391": {
  "FIPS":     13,
 "year": "1996",
-"population_z": 1.5812 
+"emp_pop_z": 0.83379 
 },
 "392": {
  "FIPS":     14,
 "year": "1996",
-"population_z": -0.48018 
+"emp_pop_z": -1.9362 
 },
 "393": {
  "FIPS":     15,
 "year": "1996",
-"population_z": -0.36107 
+"emp_pop_z": -0.14582 
 },
 "394": {
  "FIPS":     17,
 "year": "1996",
-"population_z": -0.4622 
+"emp_pop_z": -0.40798 
 },
 "395": {
  "FIPS":     19,
 "year": "1996",
-"population_z": -0.41155 
+"emp_pop_z": -0.34459 
 },
 "396": {
  "FIPS":     21,
 "year": "1996",
-"population_z": -0.41703 
+"emp_pop_z": -1.0161 
 },
 "397": {
  "FIPS":     23,
 "year": "1996",
-"population_z": -0.45198 
+"emp_pop_z": -0.71053 
 },
 "398": {
  "FIPS":     25,
 "year": "1996",
-"population_z": -0.44659 
+"emp_pop_z": -0.98997 
 },
 "399": {
  "FIPS":     27,
 "year": "1996",
-"population_z": -0.45776 
+"emp_pop_z": -0.75072 
 },
 "400": {
  "FIPS":     29,
 "year": "1996",
-"population_z": -0.27766 
+"emp_pop_z": -0.70063 
 },
 "401": {
  "FIPS":     31,
 "year": "1996",
-"population_z": 3.6011 
+"emp_pop_z": 2.0243 
 },
 "402": {
  "FIPS":     33,
 "year": "1996",
-"population_z": -0.4673 
+"emp_pop_z": -0.84971 
 },
 "403": {
  "FIPS":     35,
 "year": "1996",
-"population_z": 0.42318 
+"emp_pop_z": -0.62694 
 },
 "404": {
  "FIPS":     37,
 "year": "1996",
-"population_z": -0.22088 
+"emp_pop_z": 1.4686 
 },
 "405": {
  "FIPS":     39,
 "year": "1996",
-"population_z": -0.35571 
+"emp_pop_z": -1.3105 
 },
 "406": {
  "FIPS":     41,
 "year": "1996",
-"population_z": 3.2761 
+"emp_pop_z": 0.17802 
 },
 "407": {
  "FIPS":     43,
 "year": "1996",
-"population_z": -0.15079 
+"emp_pop_z": -0.55118 
 },
 "408": {
  "FIPS":     45,
 "year": "1996",
-"population_z": -0.18348 
+"emp_pop_z": 0.10152 
 },
 "409": {
  "FIPS":     47,
 "year": "1996",
-"population_z": -0.45032 
+"emp_pop_z": 4.2256 
 },
 "410": {
  "FIPS":     49,
 "year": "1996",
-"population_z": -0.39741 
+"emp_pop_z": 0.76623 
 },
 "411": {
  "FIPS":     51,
 "year": "1996",
-"population_z": -0.38376 
+"emp_pop_z": 0.80303 
 },
 "412": {
  "FIPS":     53,
 "year": "1996",
-"population_z": -0.47462 
+"emp_pop_z": -0.19456 
 },
 "413": {
  "FIPS":     55,
 "year": "1996",
-"population_z": -0.422 
+"emp_pop_z": -0.77036 
 },
 "414": {
  "FIPS":     57,
 "year": "1996",
-"population_z": -0.46763 
+"emp_pop_z": -0.56878 
 },
 "415": {
  "FIPS":     59,
 "year": "1996",
-"population_z": 3.4419 
+"emp_pop_z": -0.043522 
 },
 "416": {
  "FIPS":     61,
 "year": "1996",
-"population_z": -0.4671 
+"emp_pop_z": -0.60979 
 },
 "417": {
  "FIPS":     63,
 "year": "1996",
-"population_z": -0.42123 
+"emp_pop_z": -0.15936 
 },
 "418": {
  "FIPS":     65,
 "year": "1996",
-"population_z": -0.16752 
+"emp_pop_z": 0.44317 
 },
 "419": {
  "FIPS":     67,
 "year": "1996",
-"population_z": -0.4207 
+"emp_pop_z": -0.5684 
 },
 "420": {
  "FIPS":     69,
 "year": "1996",
-"population_z": 1.3094 
+"emp_pop_z": 0.28018 
 },
 "421": {
  "FIPS":     71,
 "year": "1996",
-"population_z": -0.36232 
+"emp_pop_z": -0.56879 
 },
 "422": {
  "FIPS":     73,
 "year": "1996",
-"population_z": -0.43205 
+"emp_pop_z": -0.45366 
 },
 "423": {
  "FIPS":     75,
 "year": "1996",
-"population_z": -0.32535 
+"emp_pop_z": -0.0050677 
 },
 "424": {
  "FIPS":     77,
 "year": "1996",
-"population_z": 0.36661 
+"emp_pop_z": 0.036554 
 },
 "425": {
  "FIPS":     79,
 "year": "1996",
-"population_z": -0.47448 
+"emp_pop_z": 0.5532 
 },
 "426": {
  "FIPS":     81,
 "year": "1996",
-"population_z": -0.38339 
+"emp_pop_z": 0.0011965 
 },
 "427": {
  "FIPS":     83,
 "year": "1996",
-"population_z": -0.30182 
+"emp_pop_z": -0.1137 
 },
 "428": {
  "FIPS":     85,
 "year": "1996",
-"population_z": -0.2401 
+"emp_pop_z": -0.14149 
 },
 "429": {
  "FIPS":     87,
 "year": "1996",
-"population_z": -0.2751 
+"emp_pop_z": 0.065506 
 },
 "430": {
  "FIPS":     89,
 "year": "1996",
-"population_z": -0.3168 
+"emp_pop_z": -0.16191 
 },
 "431": {
  "FIPS":     91,
 "year": "1996",
-"population_z": -0.45457 
+"emp_pop_z": -0.20636 
 },
 "432": {
  "FIPS":     93,
 "year": "1996",
-"population_z": -0.39059 
+"emp_pop_z": -1.2257 
 },
 "433": {
  "FIPS":     95,
 "year": "1996",
-"population_z": -0.44472 
+"emp_pop_z": -0.30249 
 },
 "434": {
  "FIPS":     97,
 "year": "1996",
-"population_z": -0.36558 
+"emp_pop_z": 3.1282 
 },
 "435": {
  "FIPS":     99,
 "year": "1996",
-"population_z": -0.36992 
+"emp_pop_z": -0.015696 
 },
 "436": {
  "FIPS":    101,
 "year": "1996",
-"population_z": 0.56324 
+"emp_pop_z": -0.069338 
 },
 "437": {
  "FIPS":    103,
 "year": "1996",
-"population_z": -0.43025 
+"emp_pop_z": 0.031511 
 },
 "438": {
  "FIPS":    105,
 "year": "1996",
-"population_z": -0.3871 
+"emp_pop_z": -0.17532 
 },
 "439": {
  "FIPS":    107,
 "year": "1996",
-"population_z": -0.34066 
+"emp_pop_z": 1.1724 
 },
 "440": {
  "FIPS":    109,
 "year": "1996",
-"population_z": -0.43746 
+"emp_pop_z": -0.65764 
 },
 "441": {
  "FIPS":    111,
 "year": "1996",
-"population_z": -0.47562 
+"emp_pop_z": 0.15617 
 },
 "442": {
  "FIPS":    113,
 "year": "1996",
-"population_z": -0.43448 
+"emp_pop_z": 1.5019 
 },
 "443": {
  "FIPS":    115,
 "year": "1996",
-"population_z": -0.45903 
+"emp_pop_z": -0.38531 
 },
 "444": {
  "FIPS":    117,
 "year": "1996",
-"population_z": -0.32744 
+"emp_pop_z": 2.2817 
 },
 "445": {
  "FIPS":    119,
 "year": "1996",
-"population_z": -0.33737 
+"emp_pop_z": -0.35017 
 },
 "446": {
  "FIPS":    121,
 "year": "1996",
-"population_z": -0.43907 
+"emp_pop_z": -0.78646 
 },
 "447": {
  "FIPS":    123,
 "year": "1996",
-"population_z": 0.79406 
+"emp_pop_z": -0.12656 
 },
 "448": {
  "FIPS":    125,
 "year": "1996",
-"population_z": -0.40521 
+"emp_pop_z": -0.29091 
 },
 "449": {
  "FIPS":      1,
 "year": "1997",
-"population_z": 2.0887 
+"emp_pop_z": -0.10974 
 },
 "450": {
  "FIPS":      3,
 "year": "1997",
-"population_z": -0.37058 
+"emp_pop_z": 0.44135 
 },
 "451": {
  "FIPS":      5,
 "year": "1997",
-"population_z": 3.0648 
+"emp_pop_z": 0.76051 
 },
 "452": {
  "FIPS":      7,
 "year": "1997",
-"population_z": -0.41651 
+"emp_pop_z": -0.5543 
 },
 "453": {
  "FIPS":      9,
 "year": "1997",
-"population_z": -0.4472 
+"emp_pop_z": -0.59215 
 },
 "454": {
  "FIPS":     11,
 "year": "1997",
-"population_z": -0.43887 
+"emp_pop_z": -0.5666 
 },
 "455": {
  "FIPS":     13,
 "year": "1997",
-"population_z": 1.5735 
+"emp_pop_z": 0.9172 
 },
 "456": {
  "FIPS":     14,
 "year": "1997",
-"population_z": -0.48245 
+"emp_pop_z": -2.0025 
 },
 "457": {
  "FIPS":     15,
 "year": "1997",
-"population_z": -0.36341 
+"emp_pop_z": -0.13274 
 },
 "458": {
  "FIPS":     17,
 "year": "1997",
-"population_z": -0.46472 
+"emp_pop_z": -0.34569 
 },
 "459": {
  "FIPS":     19,
 "year": "1997",
-"population_z": -0.41384 
+"emp_pop_z": -0.36022 
 },
 "460": {
  "FIPS":     21,
 "year": "1997",
-"population_z": -0.41986 
+"emp_pop_z": -1.0674 
 },
 "461": {
  "FIPS":     23,
 "year": "1997",
-"population_z": -0.45432 
+"emp_pop_z": -0.90366 
 },
 "462": {
  "FIPS":     25,
 "year": "1997",
-"population_z": -0.4492 
+"emp_pop_z": -1.0491 
 },
 "463": {
  "FIPS":     27,
 "year": "1997",
-"population_z": -0.45883 
+"emp_pop_z": -0.79531 
 },
 "464": {
  "FIPS":     29,
 "year": "1997",
-"population_z": -0.28151 
+"emp_pop_z": -0.6932 
 },
 "465": {
  "FIPS":     31,
 "year": "1997",
-"population_z": 3.5932 
+"emp_pop_z": 2.0989 
 },
 "466": {
  "FIPS":     33,
 "year": "1997",
-"population_z": -0.46952 
+"emp_pop_z": -0.94129 
 },
 "467": {
  "FIPS":     35,
 "year": "1997",
-"population_z": 0.5169 
+"emp_pop_z": -0.5611 
 },
 "468": {
  "FIPS":     37,
 "year": "1997",
-"population_z": -0.21041 
+"emp_pop_z": 1.5734 
 },
 "469": {
  "FIPS":     39,
 "year": "1997",
-"population_z": -0.35119 
+"emp_pop_z": -1.3541 
 },
 "470": {
  "FIPS":     41,
 "year": "1997",
-"population_z": 3.2792 
+"emp_pop_z": 0.21001 
 },
 "471": {
  "FIPS":     43,
 "year": "1997",
-"population_z": -0.15139 
+"emp_pop_z": -0.5698 
 },
 "472": {
  "FIPS":     45,
 "year": "1997",
-"population_z": -0.18191 
+"emp_pop_z": 0.10248 
 },
 "473": {
  "FIPS":     47,
 "year": "1997",
-"population_z": -0.45127 
+"emp_pop_z": 3.7084 
 },
 "474": {
  "FIPS":     49,
 "year": "1997",
-"population_z": -0.39772 
+"emp_pop_z": 0.73293 
 },
 "475": {
  "FIPS":     51,
 "year": "1997",
-"population_z": -0.3866 
+"emp_pop_z": 0.89407 
 },
 "476": {
  "FIPS":     53,
 "year": "1997",
-"population_z": -0.47674 
+"emp_pop_z": -0.21163 
 },
 "477": {
  "FIPS":     55,
 "year": "1997",
-"population_z": -0.42317 
+"emp_pop_z": -0.69147 
 },
 "478": {
  "FIPS":     57,
 "year": "1997",
-"population_z": -0.47012 
+"emp_pop_z": -0.5673 
 },
 "479": {
  "FIPS":     59,
 "year": "1997",
-"population_z": 3.4138 
+"emp_pop_z": -0.013203 
 },
 "480": {
  "FIPS":     61,
 "year": "1997",
-"population_z": -0.46962 
+"emp_pop_z": -0.58362 
 },
 "481": {
  "FIPS":     63,
 "year": "1997",
-"population_z": -0.42374 
+"emp_pop_z": -0.16577 
 },
 "482": {
  "FIPS":     65,
 "year": "1997",
-"population_z": -0.17091 
+"emp_pop_z": 0.47645 
 },
 "483": {
  "FIPS":     67,
 "year": "1997",
-"population_z": -0.42172 
+"emp_pop_z": -0.68397 
 },
 "484": {
  "FIPS":     69,
 "year": "1997",
-"population_z": 1.3164 
+"emp_pop_z": 0.27499 
 },
 "485": {
  "FIPS":     71,
 "year": "1997",
-"population_z": -0.3662 
+"emp_pop_z": -0.5673 
 },
 "486": {
  "FIPS":     73,
 "year": "1997",
-"population_z": -0.43536 
+"emp_pop_z": -0.43552 
 },
 "487": {
  "FIPS":     75,
 "year": "1997",
-"population_z": -0.32785 
+"emp_pop_z": -0.052204 
 },
 "488": {
  "FIPS":     77,
 "year": "1997",
-"population_z": 0.36569 
+"emp_pop_z": 0.09249 
 },
 "489": {
  "FIPS":     79,
 "year": "1997",
-"population_z": -0.4767 
+"emp_pop_z": 0.72049 
 },
 "490": {
  "FIPS":     81,
 "year": "1997",
-"population_z": -0.38531 
+"emp_pop_z": -0.051362 
 },
 "491": {
  "FIPS":     83,
 "year": "1997",
-"population_z": -0.30494 
+"emp_pop_z": -0.15591 
 },
 "492": {
  "FIPS":     85,
 "year": "1997",
-"population_z": -0.24097 
+"emp_pop_z": -0.097175 
 },
 "493": {
  "FIPS":     87,
 "year": "1997",
-"population_z": -0.27655 
+"emp_pop_z": 0.085199 
 },
 "494": {
  "FIPS":     89,
 "year": "1997",
-"population_z": -0.32198 
+"emp_pop_z": -0.19628 
 },
 "495": {
  "FIPS":     91,
 "year": "1997",
-"population_z": -0.45678 
+"emp_pop_z": -0.23732 
 },
 "496": {
  "FIPS":     93,
 "year": "1997",
-"population_z": -0.38693 
+"emp_pop_z": -1.3145 
 },
 "497": {
  "FIPS":     95,
 "year": "1997",
-"population_z": -0.44711 
+"emp_pop_z": -0.24641 
 },
 "498": {
  "FIPS":     97,
 "year": "1997",
-"population_z": -0.36819 
+"emp_pop_z": 3.3397 
 },
 "499": {
  "FIPS":     99,
 "year": "1997",
-"population_z": -0.37337 
+"emp_pop_z": 0.068632 
 },
 "500": {
  "FIPS":    101,
 "year": "1997",
-"population_z": 0.55912 
+"emp_pop_z": -0.041059 
 },
 "501": {
  "FIPS":    103,
 "year": "1997",
-"population_z": -0.4336 
+"emp_pop_z": 0.053069 
 },
 "502": {
  "FIPS":    105,
 "year": "1997",
-"population_z": -0.38999 
+"emp_pop_z": -0.21544 
 },
 "503": {
  "FIPS":    107,
 "year": "1997",
-"population_z": -0.34246 
+"emp_pop_z": 1.1881 
 },
 "504": {
  "FIPS":    109,
 "year": "1997",
-"population_z": -0.44002 
+"emp_pop_z": -0.65951 
 },
 "505": {
  "FIPS":    111,
 "year": "1997",
-"population_z": -0.47805 
+"emp_pop_z": 0.16754 
 },
 "506": {
  "FIPS":    113,
 "year": "1997",
-"population_z": -0.43645 
+"emp_pop_z":  1.505 
 },
 "507": {
  "FIPS":    115,
 "year": "1997",
-"population_z": -0.46135 
+"emp_pop_z": -0.35112 
 },
 "508": {
  "FIPS":    117,
 "year": "1997",
-"population_z": -0.32521 
+"emp_pop_z": 2.2985 
 },
 "509": {
  "FIPS":    119,
 "year": "1997",
-"population_z": -0.33513 
+"emp_pop_z": -0.32268 
 },
 "510": {
  "FIPS":    121,
 "year": "1997",
-"population_z": -0.4422 
+"emp_pop_z": -0.8047 
 },
 "511": {
  "FIPS":    123,
 "year": "1997",
-"population_z": 0.80674 
+"emp_pop_z": -0.16732 
 },
 "512": {
  "FIPS":    125,
 "year": "1997",
-"population_z": -0.40783 
+"emp_pop_z": -0.27783 
 },
 "513": {
  "FIPS":      1,
 "year": "1998",
-"population_z": 2.1157 
+"emp_pop_z": -0.11034 
 },
 "514": {
  "FIPS":      3,
 "year": "1998",
-"population_z": -0.37396 
+"emp_pop_z": 0.41297 
 },
 "515": {
  "FIPS":      5,
 "year": "1998",
-"population_z": 3.0859 
+"emp_pop_z": 0.77676 
 },
 "516": {
  "FIPS":      7,
 "year": "1998",
-"population_z": -0.41545 
+"emp_pop_z": -0.56192 
 },
 "517": {
  "FIPS":      9,
 "year": "1998",
-"population_z": -0.45024 
+"emp_pop_z": -0.5827 
 },
 "518": {
  "FIPS":     11,
 "year": "1998",
-"population_z": -0.43919 
+"emp_pop_z": -0.6462 
 },
 "519": {
  "FIPS":     13,
 "year": "1998",
-"population_z": 1.5873 
+"emp_pop_z": 0.90075 
 },
 "520": {
  "FIPS":     14,
 "year": "1998",
-"population_z": -0.48448 
+"emp_pop_z": -2.069 
 },
 "521": {
  "FIPS":     15,
 "year": "1998",
-"population_z": -0.36714 
+"emp_pop_z": -0.13712 
 },
 "522": {
  "FIPS":     17,
 "year": "1998",
-"population_z": -0.46677 
+"emp_pop_z": -0.33116 
 },
 "523": {
  "FIPS":     19,
 "year": "1998",
-"population_z": -0.41647 
+"emp_pop_z": -0.33723 
 },
 "524": {
  "FIPS":     21,
 "year": "1998",
-"population_z": -0.4226 
+"emp_pop_z": -1.1231 
 },
 "525": {
  "FIPS":     23,
 "year": "1998",
-"population_z": -0.45652 
+"emp_pop_z": -0.95874 
 },
 "526": {
  "FIPS":     25,
 "year": "1998",
-"population_z": -0.45209 
+"emp_pop_z": -1.0223 
 },
 "527": {
  "FIPS":     27,
 "year": "1998",
-"population_z": -0.46048 
+"emp_pop_z": -0.82899 
 },
 "528": {
  "FIPS":     29,
 "year": "1998",
-"population_z": -0.28177 
+"emp_pop_z": -0.69555 
 },
 "529": {
  "FIPS":     31,
 "year": "1998",
-"population_z":  3.547 
+"emp_pop_z": 2.2462 
 },
 "530": {
  "FIPS":     33,
 "year": "1998",
-"population_z": -0.47113 
+"emp_pop_z": -0.95726 
 },
 "531": {
  "FIPS":     35,
 "year": "1998",
-"population_z": 0.60655 
+"emp_pop_z": -0.4825 
 },
 "532": {
  "FIPS":     37,
 "year": "1998",
-"population_z": -0.20019 
+"emp_pop_z": 1.5177 
 },
 "533": {
  "FIPS":     39,
 "year": "1998",
-"population_z": -0.34819 
+"emp_pop_z": -1.3859 
 },
 "534": {
  "FIPS":     41,
 "year": "1998",
-"population_z": 3.2796 
+"emp_pop_z": 0.21186 
 },
 "535": {
  "FIPS":     43,
 "year": "1998",
-"population_z": -0.15334 
+"emp_pop_z": -0.57022 
 },
 "536": {
  "FIPS":     45,
 "year": "1998",
-"population_z": -0.17286 
+"emp_pop_z": 0.077607 
 },
 "537": {
  "FIPS":     47,
 "year": "1998",
-"population_z": -0.45239 
+"emp_pop_z": 3.4543 
 },
 "538": {
  "FIPS":     49,
 "year": "1998",
-"population_z": -0.39825 
+"emp_pop_z": 0.7807 
 },
 "539": {
  "FIPS":     51,
 "year": "1998",
-"population_z": -0.38289 
+"emp_pop_z": 0.79444 
 },
 "540": {
  "FIPS":     53,
 "year": "1998",
-"population_z": -0.47862 
+"emp_pop_z": -0.21982 
 },
 "541": {
  "FIPS":     55,
 "year": "1998",
-"population_z": -0.42567 
+"emp_pop_z": -0.63361 
 },
 "542": {
  "FIPS":     57,
 "year": "1998",
-"population_z": -0.47249 
+"emp_pop_z": -0.52502 
 },
 "543": {
  "FIPS":     59,
 "year": "1998",
-"population_z": 3.3889 
+"emp_pop_z": -0.052945 
 },
 "544": {
  "FIPS":     61,
 "year": "1998",
-"population_z": -0.47206 
+"emp_pop_z": -0.53759 
 },
 "545": {
  "FIPS":     63,
 "year": "1998",
-"population_z": -0.42588 
+"emp_pop_z": -0.12686 
 },
 "546": {
  "FIPS":     65,
 "year": "1998",
-"population_z": -0.17329 
+"emp_pop_z": 0.46363 
 },
 "547": {
  "FIPS":     67,
 "year": "1998",
-"population_z": -0.42526 
+"emp_pop_z": -0.67524 
 },
 "548": {
  "FIPS":     69,
 "year": "1998",
-"population_z": 1.3225 
+"emp_pop_z": 0.31327 
 },
 "549": {
  "FIPS":     71,
 "year": "1998",
-"population_z": -0.3707 
+"emp_pop_z": -0.48227 
 },
 "550": {
  "FIPS":     73,
 "year": "1998",
-"population_z": -0.43832 
+"emp_pop_z": -0.46493 
 },
 "551": {
  "FIPS":     75,
 "year": "1998",
-"population_z": -0.3333 
+"emp_pop_z": -0.10568 
 },
 "552": {
  "FIPS":     77,
 "year": "1998",
-"population_z": 0.36449 
+"emp_pop_z": 0.091708 
 },
 "553": {
  "FIPS":     79,
 "year": "1998",
-"population_z": -0.47865 
+"emp_pop_z": 0.77619 
 },
 "554": {
  "FIPS":     81,
 "year": "1998",
-"population_z": -0.38765 
+"emp_pop_z": -0.15608 
 },
 "555": {
  "FIPS":     83,
 "year": "1998",
-"population_z": -0.30976 
+"emp_pop_z": -0.074568 
 },
 "556": {
  "FIPS":     85,
 "year": "1998",
-"population_z": -0.24386 
+"emp_pop_z": -0.13008 
 },
 "557": {
  "FIPS":     87,
 "year": "1998",
-"population_z": -0.28297 
+"emp_pop_z": 0.048266 
 },
 "558": {
  "FIPS":     89,
 "year": "1998",
-"population_z": -0.32942 
+"emp_pop_z": -0.19492 
 },
 "559": {
  "FIPS":     91,
 "year": "1998",
-"population_z": -0.45838 
+"emp_pop_z": -0.2777 
 },
 "560": {
  "FIPS":     93,
 "year": "1998",
-"population_z": -0.38574 
+"emp_pop_z": -1.3513 
 },
 "561": {
  "FIPS":     95,
 "year": "1998",
-"population_z": -0.44994 
+"emp_pop_z": -0.25984 
 },
 "562": {
  "FIPS":     97,
 "year": "1998",
-"population_z": -0.37277 
+"emp_pop_z": 3.4928 
 },
 "563": {
  "FIPS":     99,
 "year": "1998",
-"population_z": -0.37698 
+"emp_pop_z":  0.161 
 },
 "564": {
  "FIPS":    101,
 "year": "1998",
-"population_z": 0.55385 
+"emp_pop_z": -0.042003 
 },
 "565": {
  "FIPS":    103,
 "year": "1998",
-"population_z": -0.43738 
+"emp_pop_z": 0.0016531 
 },
 "566": {
  "FIPS":    105,
 "year": "1998",
-"population_z": -0.39286 
+"emp_pop_z": -0.2606 
 },
 "567": {
  "FIPS":    107,
 "year": "1998",
-"population_z": -0.34386 
+"emp_pop_z": 1.3156 
 },
 "568": {
  "FIPS":    109,
 "year": "1998",
-"population_z": -0.44247 
+"emp_pop_z": -0.54789 
 },
 "569": {
  "FIPS":    111,
 "year": "1998",
-"population_z": -0.48029 
+"emp_pop_z": 0.5352 
 },
 "570": {
  "FIPS":    113,
 "year": "1998",
-"population_z": -0.43571 
+"emp_pop_z": 1.3918 
 },
 "571": {
  "FIPS":    115,
 "year": "1998",
-"population_z": -0.46422 
+"emp_pop_z": -0.39761 
 },
 "572": {
  "FIPS":    117,
 "year": "1998",
-"population_z": -0.32364 
+"emp_pop_z": 2.2051 
 },
 "573": {
  "FIPS":    119,
 "year": "1998",
-"population_z": -0.3358 
+"emp_pop_z": -0.37785 
 },
 "574": {
  "FIPS":    121,
 "year": "1998",
-"population_z": -0.44552 
+"emp_pop_z": -0.83196 
 },
 "575": {
  "FIPS":    123,
 "year": "1998",
-"population_z": 0.81848 
+"emp_pop_z": -0.15592 
 },
 "576": {
  "FIPS":    125,
 "year": "1998",
-"population_z": -0.41042 
+"emp_pop_z": -0.28688 
 },
 "577": {
  "FIPS":      1,
 "year": "1999",
-"population_z": 2.1374 
+"emp_pop_z": -0.057373 
 },
 "578": {
  "FIPS":      3,
 "year": "1999",
-"population_z": -0.37701 
+"emp_pop_z": 0.38383 
 },
 "579": {
  "FIPS":      5,
 "year": "1999",
-"population_z": 3.0678 
+"emp_pop_z": 0.86243 
 },
 "580": {
  "FIPS":      7,
 "year": "1999",
-"population_z": -0.41579 
+"emp_pop_z": -0.48064 
 },
 "581": {
  "FIPS":      9,
 "year": "1999",
-"population_z": -0.45306 
+"emp_pop_z": -0.60497 
 },
 "582": {
  "FIPS":     11,
 "year": "1999",
-"population_z": -0.44219 
+"emp_pop_z": -0.69438 
 },
 "583": {
  "FIPS":     13,
 "year": "1999",
-"population_z": 1.6102 
+"emp_pop_z": 0.9643 
 },
 "584": {
  "FIPS":     14,
 "year": "1999",
-"population_z": -0.48647 
+"emp_pop_z": -2.0841 
 },
 "585": {
  "FIPS":     15,
 "year": "1999",
-"population_z": -0.36878 
+"emp_pop_z": -0.096283 
 },
 "586": {
  "FIPS":     17,
 "year": "1999",
-"population_z": -0.46964 
+"emp_pop_z": -0.42131 
 },
 "587": {
  "FIPS":     19,
 "year": "1999",
-"population_z": -0.41865 
+"emp_pop_z": -0.38816 
 },
 "588": {
  "FIPS":     21,
 "year": "1999",
-"population_z": -0.42511 
+"emp_pop_z": -1.1162 
 },
 "589": {
  "FIPS":     23,
 "year": "1999",
-"population_z": -0.4593 
+"emp_pop_z": -0.93537 
 },
 "590": {
  "FIPS":     25,
 "year": "1999",
-"population_z": -0.44956 
+"emp_pop_z": -0.93587 
 },
 "591": {
  "FIPS":     27,
 "year": "1999",
-"population_z": -0.46162 
+"emp_pop_z": -0.90352 
 },
 "592": {
  "FIPS":     29,
 "year": "1999",
-"population_z": -0.28412 
+"emp_pop_z": -0.72175 
 },
 "593": {
  "FIPS":     31,
 "year": "1999",
-"population_z":  3.542 
+"emp_pop_z": 2.2484 
 },
 "594": {
  "FIPS":     33,
 "year": "1999",
-"population_z": -0.47309 
+"emp_pop_z": -0.83549 
 },
 "595": {
  "FIPS":     35,
 "year": "1999",
-"population_z": 0.71224 
+"emp_pop_z": -0.51791 
 },
 "596": {
  "FIPS":     37,
 "year": "1999",
-"population_z": -0.19175 
+"emp_pop_z": 1.4703 
 },
 "597": {
  "FIPS":     39,
 "year": "1999",
-"population_z": -0.34551 
+"emp_pop_z": -1.3362 
 },
 "598": {
  "FIPS":     41,
 "year": "1999",
-"population_z":  3.271 
+"emp_pop_z": 0.25694 
 },
 "599": {
  "FIPS":     43,
 "year": "1999",
-"population_z": -0.15309 
+"emp_pop_z": -0.57348 
 },
 "600": {
  "FIPS":     45,
 "year": "1999",
-"population_z": -0.17121 
+"emp_pop_z": 0.12237 
 },
 "601": {
  "FIPS":     47,
 "year": "1999",
-"population_z": -0.45295 
+"emp_pop_z": 3.5505 
 },
 "602": {
  "FIPS":     49,
 "year": "1999",
-"population_z": -0.39789 
+"emp_pop_z": 0.70806 
 },
 "603": {
  "FIPS":     51,
 "year": "1999",
-"population_z": -0.38503 
+"emp_pop_z": 0.74887 
 },
 "604": {
  "FIPS":     53,
 "year": "1999",
-"population_z": -0.48068 
+"emp_pop_z": -0.22097 
 },
 "605": {
  "FIPS":     55,
 "year": "1999",
-"population_z": -0.42867 
+"emp_pop_z": -0.7246 
 },
 "606": {
  "FIPS":     57,
 "year": "1999",
-"population_z": -0.47478 
+"emp_pop_z": -0.41817 
 },
 "607": {
  "FIPS":     59,
 "year": "1999",
-"population_z": 3.3596 
+"emp_pop_z": -0.040531 
 },
 "608": {
  "FIPS":     61,
 "year": "1999",
-"population_z": -0.47441 
+"emp_pop_z": -0.6221 
 },
 "609": {
  "FIPS":     63,
 "year": "1999",
-"population_z": -0.42812 
+"emp_pop_z": -0.10048 
 },
 "610": {
  "FIPS":     65,
 "year": "1999",
-"population_z": -0.17072 
+"emp_pop_z": 0.41074 
 },
 "611": {
  "FIPS":     67,
 "year": "1999",
-"population_z": -0.4287 
+"emp_pop_z": -0.73237 
 },
 "612": {
  "FIPS":     69,
 "year": "1999",
-"population_z": 1.3313 
+"emp_pop_z": 0.30697 
 },
 "613": {
  "FIPS":     71,
 "year": "1999",
-"population_z": -0.37465 
+"emp_pop_z": -0.47094 
 },
 "614": {
  "FIPS":     73,
 "year": "1999",
-"population_z": -0.44145 
+"emp_pop_z": -0.38973 
 },
 "615": {
  "FIPS":     75,
 "year": "1999",
-"population_z": -0.33664 
+"emp_pop_z": -0.046991 
 },
 "616": {
  "FIPS":     77,
 "year": "1999",
-"population_z": 0.35962 
+"emp_pop_z": 0.11939 
 },
 "617": {
  "FIPS":     79,
 "year": "1999",
-"population_z": -0.48051 
+"emp_pop_z": 0.66333 
 },
 "618": {
  "FIPS":     81,
 "year": "1999",
-"population_z": -0.39028 
+"emp_pop_z": -0.19678 
 },
 "619": {
  "FIPS":     83,
 "year": "1999",
-"population_z": -0.31275 
+"emp_pop_z": -0.0613 
 },
 "620": {
  "FIPS":     85,
 "year": "1999",
-"population_z": -0.24463 
+"emp_pop_z": -0.13501 
 },
 "621": {
  "FIPS":     87,
 "year": "1999",
-"population_z": -0.28743 
+"emp_pop_z": 0.0030491 
 },
 "622": {
  "FIPS":     89,
 "year": "1999",
-"population_z": -0.33582 
+"emp_pop_z": -0.22769 
 },
 "623": {
  "FIPS":     91,
 "year": "1999",
-"population_z": -0.45975 
+"emp_pop_z": -0.33987 
 },
 "624": {
  "FIPS":     93,
 "year": "1999",
-"population_z": -0.38382 
+"emp_pop_z": -1.3821 
 },
 "625": {
  "FIPS":     95,
 "year": "1999",
-"population_z": -0.4531 
+"emp_pop_z": -0.25242 
 },
 "626": {
  "FIPS":     97,
 "year": "1999",
-"population_z": -0.37693 
+"emp_pop_z": 3.3748 
 },
 "627": {
  "FIPS":     99,
 "year": "1999",
-"population_z": -0.38033 
+"emp_pop_z": 0.2148 
 },
 "628": {
  "FIPS":    101,
 "year": "1999",
-"population_z": 0.54531 
+"emp_pop_z": -0.057062 
 },
 "629": {
  "FIPS":    103,
 "year": "1999",
-"population_z": -0.44149 
+"emp_pop_z": 0.0093471 
 },
 "630": {
  "FIPS":    105,
 "year": "1999",
-"population_z": -0.39571 
+"emp_pop_z": -0.27367 
 },
 "631": {
  "FIPS":    107,
 "year": "1999",
-"population_z": -0.3445 
+"emp_pop_z": 1.3062 
 },
 "632": {
  "FIPS":    109,
 "year": "1999",
-"population_z": -0.44389 
+"emp_pop_z": -0.57377 
 },
 "633": {
  "FIPS":    111,
 "year": "1999",
-"population_z": -0.48235 
+"emp_pop_z": 0.56632 
 },
 "634": {
  "FIPS":    113,
 "year": "1999",
-"population_z": -0.43822 
+"emp_pop_z": 1.5585 
 },
 "635": {
  "FIPS":    115,
 "year": "1999",
-"population_z": -0.46639 
+"emp_pop_z": -0.45715 
 },
 "636": {
  "FIPS":    117,
 "year": "1999",
-"population_z": -0.31981 
+"emp_pop_z": 2.1619 
 },
 "637": {
  "FIPS":    119,
 "year": "1999",
-"population_z": -0.33745 
+"emp_pop_z": -0.39524 
 },
 "638": {
  "FIPS":    121,
 "year": "1999",
-"population_z": -0.44936 
+"emp_pop_z": -0.79385 
 },
 "639": {
  "FIPS":    123,
 "year": "1999",
-"population_z": 0.82258 
+"emp_pop_z": -0.12707 
 },
 "640": {
  "FIPS":    125,
 "year": "1999",
-"population_z": -0.41393 
+"emp_pop_z": -0.26846 
 },
 "641": {
  "FIPS":      1,
 "year": "2000",
-"population_z": 2.0687 
+"emp_pop_z": 0.036625 
 },
 "642": {
  "FIPS":      3,
 "year": "2000",
-"population_z": -0.38392 
+"emp_pop_z": 0.37247 
 },
 "643": {
  "FIPS":      5,
 "year": "2000",
-"population_z": 3.0814 
+"emp_pop_z": 0.91371 
 },
 "644": {
  "FIPS":      7,
 "year": "2000",
-"population_z": -0.42076 
+"emp_pop_z": -0.50994 
 },
 "645": {
  "FIPS":      9,
 "year": "2000",
-"population_z": -0.46115 
+"emp_pop_z": -0.64005 
 },
 "646": {
  "FIPS":     11,
 "year": "2000",
-"population_z": -0.45046 
+"emp_pop_z": -0.74264 
 },
 "647": {
  "FIPS":     13,
 "year": "2000",
-"population_z": 1.5188 
+"emp_pop_z": 1.2877 
 },
 "648": {
  "FIPS":     14,
 "year": "2000",
-"population_z": -0.21311 
+"emp_pop_z": -2.1112 
 },
 "649": {
  "FIPS":     15,
 "year": "2000",
-"population_z": -0.37509 
+"emp_pop_z": -0.073757 
 },
 "650": {
  "FIPS":     17,
 "year": "2000",
-"population_z": -0.47779 
+"emp_pop_z": -0.38424 
 },
 "651": {
  "FIPS":     19,
 "year": "2000",
-"population_z": -0.42573 
+"emp_pop_z": -0.49045 
 },
 "652": {
  "FIPS":     21,
 "year": "2000",
-"population_z": -0.43267 
+"emp_pop_z": -1.1138 
 },
 "653": {
  "FIPS":     23,
 "year": "2000",
-"population_z": -0.46716 
+"emp_pop_z": -0.91447 
 },
 "654": {
  "FIPS":     25,
 "year": "2000",
-"population_z": -0.45656 
+"emp_pop_z": -0.96062 
 },
 "655": {
  "FIPS":     27,
 "year": "2000",
-"population_z": -0.46829 
+"emp_pop_z": -0.85469 
 },
 "656": {
  "FIPS":     29,
 "year": "2000",
-"population_z": -0.29059 
+"emp_pop_z": -0.72518 
 },
 "657": {
  "FIPS":     31,
 "year": "2000",
-"population_z": 3.5624 
+"emp_pop_z": 2.2929 
 },
 "658": {
  "FIPS":     33,
 "year": "2000",
-"population_z": -0.48046 
+"emp_pop_z": -0.85296 
 },
 "659": {
  "FIPS":     35,
 "year": "2000",
-"population_z": 0.82123 
+"emp_pop_z": -0.47029 
 },
 "660": {
  "FIPS":     37,
 "year": "2000",
-"population_z": -0.17854 
+"emp_pop_z": 1.2938 
 },
 "661": {
  "FIPS":     39,
 "year": "2000",
-"population_z": -0.34746 
+"emp_pop_z": -1.3232 
 },
 "662": {
  "FIPS":     41,
 "year": "2000",
-"population_z": 3.2932 
+"emp_pop_z": 0.27737 
 },
 "663": {
  "FIPS":     43,
 "year": "2000",
-"population_z": -0.15609 
+"emp_pop_z": -0.57571 
 },
 "664": {
  "FIPS":     45,
 "year": "2000",
-"population_z": -0.17161 
+"emp_pop_z": 0.17052 
 },
 "665": {
  "FIPS":     47,
 "year": "2000",
-"population_z": -0.45894 
+"emp_pop_z": 3.8287 
 },
 "666": {
  "FIPS":     49,
 "year": "2000",
-"population_z": -0.40029 
+"emp_pop_z": 0.55835 
 },
 "667": {
  "FIPS":     51,
 "year": "2000",
-"population_z": -0.39201 
+"emp_pop_z": 0.72875 
 },
 "668": {
  "FIPS":     53,
 "year": "2000",
-"population_z": -0.48816 
+"emp_pop_z": 0.053956 
 },
 "669": {
  "FIPS":     55,
 "year": "2000",
-"population_z": -0.43691 
+"emp_pop_z": -0.76261 
 },
 "670": {
  "FIPS":     57,
 "year": "2000",
-"population_z": -0.48245 
+"emp_pop_z": -0.31654 
 },
 "671": {
  "FIPS":     59,
 "year": "2000",
-"population_z": 3.3436 
+"emp_pop_z": -0.023671 
 },
 "672": {
  "FIPS":     61,
 "year": "2000",
-"population_z": -0.48217 
+"emp_pop_z": -0.60498 
 },
 "673": {
  "FIPS":     63,
 "year": "2000",
-"population_z": -0.43583 
+"emp_pop_z": -0.15568 
 },
 "674": {
  "FIPS":     65,
 "year": "2000",
-"population_z": -0.16915 
+"emp_pop_z": 0.37347 
 },
 "675": {
  "FIPS":     67,
 "year": "2000",
-"population_z": -0.43608 
+"emp_pop_z": -0.85555 
 },
 "676": {
  "FIPS":     69,
 "year": "2000",
-"population_z":   1.35 
+"emp_pop_z": 0.34891 
 },
 "677": {
  "FIPS":     71,
 "year": "2000",
-"population_z": -0.38256 
+"emp_pop_z": -0.43772 
 },
 "678": {
  "FIPS":     73,
 "year": "2000",
-"population_z": -0.44903 
+"emp_pop_z": -0.35692 
 },
 "679": {
  "FIPS":     75,
 "year": "2000",
-"population_z": -0.34344 
+"emp_pop_z": 0.011157 
 },
 "680": {
  "FIPS":     77,
 "year": "2000",
-"population_z": 0.36325 
+"emp_pop_z": 0.1067 
 },
 "681": {
  "FIPS":     79,
 "year": "2000",
-"population_z": -0.48783 
+"emp_pop_z": 0.78079 
 },
 "682": {
  "FIPS":     81,
 "year": "2000",
-"population_z": -0.39789 
+"emp_pop_z": -0.23763 
 },
 "683": {
  "FIPS":     83,
 "year": "2000",
-"population_z": -0.32015 
+"emp_pop_z": -0.090073 
 },
 "684": {
  "FIPS":     85,
 "year": "2000",
-"population_z": -0.2493 
+"emp_pop_z": -0.13018 
 },
 "685": {
  "FIPS":     87,
 "year": "2000",
-"population_z": -0.29539 
+"emp_pop_z": -0.035209 
 },
 "686": {
  "FIPS":     89,
 "year": "2000",
-"population_z": -0.34645 
+"emp_pop_z": -0.23206 
 },
 "687": {
  "FIPS":     91,
 "year": "2000",
-"population_z": -0.46643 
+"emp_pop_z": -0.25818 
 },
 "688": {
  "FIPS":     93,
 "year": "2000",
-"population_z": -0.38662 
+"emp_pop_z": -1.3832 
 },
 "689": {
  "FIPS":     95,
 "year": "2000",
-"population_z": -0.4615 
+"emp_pop_z": -0.21703 
 },
 "690": {
  "FIPS":     97,
 "year": "2000",
-"population_z": -0.37908 
+"emp_pop_z": 3.1693 
 },
 "691": {
  "FIPS":     99,
 "year": "2000",
-"population_z": -0.38863 
+"emp_pop_z": 0.1543 
 },
 "692": {
  "FIPS":    101,
 "year": "2000",
-"population_z": 0.53959 
+"emp_pop_z": -0.086449 
 },
 "693": {
  "FIPS":    103,
 "year": "2000",
-"population_z": -0.45044 
+"emp_pop_z": 0.16606 
 },
 "694": {
  "FIPS":    105,
 "year": "2000",
-"population_z": -0.40338 
+"emp_pop_z": -0.31972 
 },
 "695": {
  "FIPS":    107,
 "year": "2000",
-"population_z": -0.34732 
+"emp_pop_z": 1.2447 
 },
 "696": {
  "FIPS":    109,
 "year": "2000",
-"population_z": -0.45034 
+"emp_pop_z": -0.65717 
 },
 "697": {
  "FIPS":    111,
 "year": "2000",
-"population_z": -0.48984 
+"emp_pop_z": 0.49817 
 },
 "698": {
  "FIPS":    113,
 "year": "2000",
-"population_z": -0.44574 
+"emp_pop_z": 1.5631 
 },
 "699": {
  "FIPS":    115,
 "year": "2000",
-"population_z": -0.47394 
+"emp_pop_z": -0.47839 
 },
 "700": {
  "FIPS":    117,
 "year": "2000",
-"population_z": -0.30662 
+"emp_pop_z": 1.7965 
 },
 "701": {
  "FIPS":    119,
 "year": "2000",
-"population_z": -0.34043 
+"emp_pop_z": -0.44983 
 },
 "702": {
  "FIPS":    121,
 "year": "2000",
-"population_z": -0.45797 
+"emp_pop_z": -0.82855 
 },
 "703": {
  "FIPS":    123,
 "year": "2000",
-"population_z": 0.83992 
+"emp_pop_z": -0.13167 
 },
 "704": {
  "FIPS":    125,
 "year": "2000",
-"population_z": -0.42242 
+"emp_pop_z": -0.2357 
 },
 "705": {
  "FIPS":      1,
 "year": "2001",
-"population_z": 2.0707 
+"emp_pop_z": 0.028368 
 },
 "706": {
  "FIPS":      3,
 "year": "2001",
-"population_z": -0.38712 
+"emp_pop_z": 0.46777 
 },
 "707": {
  "FIPS":      5,
 "year": "2001",
-"population_z": 3.0863 
+"emp_pop_z": 0.89211 
 },
 "708": {
  "FIPS":      7,
 "year": "2001",
-"population_z": -0.42115 
+"emp_pop_z": -0.49144 
 },
 "709": {
  "FIPS":      9,
 "year": "2001",
-"population_z": -0.46412 
+"emp_pop_z": -0.63586 
 },
 "710": {
  "FIPS":     11,
 "year": "2001",
-"population_z": -0.45387 
+"emp_pop_z": -0.80664 
 },
 "711": {
  "FIPS":     13,
 "year": "2001",
-"population_z": 1.5285 
+"emp_pop_z": 1.3229 
 },
 "712": {
  "FIPS":     14,
 "year": "2001",
-"population_z": -0.20035 
+"emp_pop_z": -2.1153 
 },
 "713": {
  "FIPS":     15,
 "year": "2001",
-"population_z": -0.3787 
+"emp_pop_z": -0.05701 
 },
 "714": {
  "FIPS":     17,
 "year": "2001",
-"population_z": -0.48036 
+"emp_pop_z": -0.29434 
 },
 "715": {
  "FIPS":     19,
 "year": "2001",
-"population_z": -0.4283 
+"emp_pop_z": -0.52428 
 },
 "716": {
  "FIPS":     21,
 "year": "2001",
-"population_z": -0.43614 
+"emp_pop_z": -1.1863 
 },
 "717": {
  "FIPS":     23,
 "year": "2001",
-"population_z": -0.46916 
+"emp_pop_z": -0.94476 
 },
 "718": {
  "FIPS":     25,
 "year": "2001",
-"population_z": -0.45836 
+"emp_pop_z": -0.99042 
 },
 "719": {
  "FIPS":     27,
 "year": "2001",
-"population_z": -0.46924 
+"emp_pop_z": -0.8819 
 },
 "720": {
  "FIPS":     29,
 "year": "2001",
-"population_z": -0.29318 
+"emp_pop_z": -0.69815 
 },
 "721": {
  "FIPS":     31,
 "year": "2001",
-"population_z": 3.5264 
+"emp_pop_z": 2.2118 
 },
 "722": {
  "FIPS":     33,
 "year": "2001",
-"population_z": -0.48256 
+"emp_pop_z": -0.85361 
 },
 "723": {
  "FIPS":     35,
 "year": "2001",
-"population_z": 0.92535 
+"emp_pop_z": -0.43838 
 },
 "724": {
  "FIPS":     37,
 "year": "2001",
-"population_z": -0.17855 
+"emp_pop_z": 1.2686 
 },
 "725": {
  "FIPS":     39,
 "year": "2001",
-"population_z": -0.34382 
+"emp_pop_z": -1.3185 
 },
 "726": {
  "FIPS":     41,
 "year": "2001",
-"population_z": 3.3338 
+"emp_pop_z": 0.24657 
 },
 "727": {
  "FIPS":     43,
 "year": "2001",
-"population_z": -0.16218 
+"emp_pop_z": -0.56932 
 },
 "728": {
  "FIPS":     45,
 "year": "2001",
-"population_z": -0.16808 
+"emp_pop_z": 0.16772 
 },
 "729": {
  "FIPS":     47,
 "year": "2001",
-"population_z": -0.46139 
+"emp_pop_z":  3.849 
 },
 "730": {
  "FIPS":     49,
 "year": "2001",
-"population_z": -0.40103 
+"emp_pop_z": 0.56657 
 },
 "731": {
  "FIPS":     51,
 "year": "2001",
-"population_z": -0.39344 
+"emp_pop_z": 0.68947 
 },
 "732": {
  "FIPS":     53,
 "year": "2001",
-"population_z": -0.49013 
+"emp_pop_z": -0.028549 
 },
 "733": {
  "FIPS":     55,
 "year": "2001",
-"population_z": -0.43943 
+"emp_pop_z": -0.77113 
 },
 "734": {
  "FIPS":     57,
 "year": "2001",
-"population_z": -0.48452 
+"emp_pop_z": -0.28698 
 },
 "735": {
  "FIPS":     59,
 "year": "2001",
-"population_z": 3.2748 
+"emp_pop_z": -0.013436 
 },
 "736": {
  "FIPS":     61,
 "year": "2001",
-"population_z": -0.48441 
+"emp_pop_z": -0.60743 
 },
 "737": {
  "FIPS":     63,
 "year": "2001",
-"population_z": -0.43823 
+"emp_pop_z": -0.16517 
 },
 "738": {
  "FIPS":     65,
 "year": "2001",
-"population_z": -0.16995 
+"emp_pop_z": 0.36322 
 },
 "739": {
  "FIPS":     67,
 "year": "2001",
-"population_z": -0.44003 
+"emp_pop_z": -0.81134 
 },
 "740": {
  "FIPS":     69,
 "year": "2001",
-"population_z": 1.3672 
+"emp_pop_z": 0.34927 
 },
 "741": {
  "FIPS":     71,
 "year": "2001",
-"population_z": -0.38655 
+"emp_pop_z": -0.35643 
 },
 "742": {
  "FIPS":     73,
 "year": "2001",
-"population_z": -0.45249 
+"emp_pop_z": -0.28488 
 },
 "743": {
  "FIPS":     75,
 "year": "2001",
-"population_z": -0.33626 
+"emp_pop_z": -0.098059 
 },
 "744": {
  "FIPS":     77,
 "year": "2001",
-"population_z": 0.36001 
+"emp_pop_z": 0.12573 
 },
 "745": {
  "FIPS":     79,
 "year": "2001",
-"population_z": -0.49002 
+"emp_pop_z": 0.91516 
 },
 "746": {
  "FIPS":     81,
 "year": "2001",
-"population_z": -0.40241 
+"emp_pop_z": -0.20147 
 },
 "747": {
  "FIPS":     83,
 "year": "2001",
-"population_z": -0.32541 
+"emp_pop_z": -0.1168 
 },
 "748": {
  "FIPS":     85,
 "year": "2001",
-"population_z": -0.24994 
+"emp_pop_z": -0.1397 
 },
 "749": {
  "FIPS":     87,
 "year": "2001",
-"population_z": -0.29969 
+"emp_pop_z": -0.014527 
 },
 "750": {
  "FIPS":     89,
 "year": "2001",
-"population_z": -0.35378 
+"emp_pop_z": -0.24672 
 },
 "751": {
  "FIPS":     91,
 "year": "2001",
-"population_z": -0.46868 
+"emp_pop_z": -0.1789 
 },
 "752": {
  "FIPS":     93,
 "year": "2001",
-"population_z": -0.38754 
+"emp_pop_z": -1.4063 
 },
 "753": {
  "FIPS":     95,
 "year": "2001",
-"population_z": -0.46383 
+"emp_pop_z": -0.17284 
 },
 "754": {
  "FIPS":     97,
 "year": "2001",
-"population_z": -0.38031 
+"emp_pop_z":  3.132 
 },
 "755": {
  "FIPS":     99,
 "year": "2001",
-"population_z": -0.39513 
+"emp_pop_z": 0.11489 
 },
 "756": {
  "FIPS":    101,
 "year": "2001",
-"population_z": 0.53233 
+"emp_pop_z": -0.11973 
 },
 "757": {
  "FIPS":    103,
 "year": "2001",
-"population_z": -0.45389 
+"emp_pop_z": 0.30464 
 },
 "758": {
  "FIPS":    105,
 "year": "2001",
-"population_z": -0.40729 
+"emp_pop_z": -0.33299 
 },
 "759": {
  "FIPS":    107,
 "year": "2001",
-"population_z": -0.34995 
+"emp_pop_z": 1.3672 
 },
 "760": {
  "FIPS":    109,
 "year": "2001",
-"population_z": -0.45244 
+"emp_pop_z": -0.75448 
 },
 "761": {
  "FIPS":    111,
 "year": "2001",
-"population_z": -0.49183 
+"emp_pop_z": 0.45742 
 },
 "762": {
  "FIPS":    113,
 "year": "2001",
-"population_z": -0.4466 
+"emp_pop_z": 1.5404 
 },
 "763": {
  "FIPS":    115,
 "year": "2001",
-"population_z": -0.47664 
+"emp_pop_z": -0.47417 
 },
 "764": {
  "FIPS":    117,
 "year": "2001",
-"population_z": -0.30813 
+"emp_pop_z":  1.686 
 },
 "765": {
  "FIPS":    119,
 "year": "2001",
-"population_z": -0.34065 
+"emp_pop_z": -0.51393 
 },
 "766": {
  "FIPS":    121,
 "year": "2001",
-"population_z": -0.46089 
+"emp_pop_z": -0.82837 
 },
 "767": {
  "FIPS":    123,
 "year": "2001",
-"population_z": 0.87854 
+"emp_pop_z": -0.15351 
 },
 "768": {
  "FIPS":    125,
 "year": "2001",
-"population_z": -0.42568 
+"emp_pop_z": -0.18278 
 },
 "769": {
  "FIPS":      1,
 "year": "2002",
-"population_z": 2.1262 
+"emp_pop_z": -0.083503 
 },
 "770": {
  "FIPS":      3,
 "year": "2002",
-"population_z": -0.38962 
+"emp_pop_z": 0.48781 
 },
 "771": {
  "FIPS":      5,
 "year": "2002",
-"population_z":  3.111 
+"emp_pop_z": 0.7568 
 },
 "772": {
  "FIPS":      7,
 "year": "2002",
-"population_z": -0.42189 
+"emp_pop_z": -0.53572 
 },
 "773": {
  "FIPS":      9,
 "year": "2002",
-"population_z": -0.46703 
+"emp_pop_z": -0.66109 
 },
 "774": {
  "FIPS":     11,
 "year": "2002",
-"population_z": -0.45368 
+"emp_pop_z": -1.0838 
 },
 "775": {
  "FIPS":     13,
 "year": "2002",
-"population_z":  1.513 
+"emp_pop_z": 0.80039 
 },
 "776": {
  "FIPS":     14,
 "year": "2002",
-"population_z": -0.19759 
+"emp_pop_z": 1.0784 
 },
 "777": {
  "FIPS":     15,
 "year": "2002",
-"population_z": -0.37986 
+"emp_pop_z": -0.12036 
 },
 "778": {
  "FIPS":     17,
 "year": "2002",
-"population_z": -0.48224 
+"emp_pop_z": -0.31641 
 },
 "779": {
  "FIPS":     19,
 "year": "2002",
-"population_z": -0.43062 
+"emp_pop_z": -0.47858 
 },
 "780": {
  "FIPS":     21,
 "year": "2002",
-"population_z": -0.43823 
+"emp_pop_z": -1.2668 
 },
 "781": {
  "FIPS":     23,
 "year": "2002",
-"population_z": -0.47113 
+"emp_pop_z": -1.052 
 },
 "782": {
  "FIPS":     25,
 "year": "2002",
-"population_z": -0.45975 
+"emp_pop_z": -1.0723 
 },
 "783": {
  "FIPS":     27,
 "year": "2002",
-"population_z": -0.47079 
+"emp_pop_z": -0.80671 
 },
 "784": {
  "FIPS":     29,
 "year": "2002",
-"population_z": -0.29411 
+"emp_pop_z": -0.73101 
 },
 "785": {
  "FIPS":     31,
 "year": "2002",
-"population_z": 3.4544 
+"emp_pop_z": 2.0874 
 },
 "786": {
  "FIPS":     33,
 "year": "2002",
-"population_z": -0.48424 
+"emp_pop_z": -0.94072 
 },
 "787": {
  "FIPS":     35,
 "year": "2002",
-"population_z": 0.98478 
+"emp_pop_z": -0.54768 
 },
 "788": {
  "FIPS":     37,
 "year": "2002",
-"population_z": -0.17874 
+"emp_pop_z": 1.1397 
 },
 "789": {
  "FIPS":     39,
 "year": "2002",
-"population_z": -0.34482 
+"emp_pop_z": -1.3309 
 },
 "790": {
  "FIPS":     41,
 "year": "2002",
-"population_z": 3.3565 
+"emp_pop_z": 0.1521 
 },
 "791": {
  "FIPS":     43,
 "year": "2002",
-"population_z": -0.16552 
+"emp_pop_z": -0.66235 
 },
 "792": {
  "FIPS":     45,
 "year": "2002",
-"population_z": -0.16723 
+"emp_pop_z": 0.11355 
 },
 "793": {
  "FIPS":     47,
 "year": "2002",
-"population_z": -0.46339 
+"emp_pop_z": 4.3329 
 },
 "794": {
  "FIPS":     49,
 "year": "2002",
-"population_z": -0.40238 
+"emp_pop_z": 0.55081 
 },
 "795": {
  "FIPS":     51,
 "year": "2002",
-"population_z": -0.39633 
+"emp_pop_z": 0.63985 
 },
 "796": {
  "FIPS":     53,
 "year": "2002",
-"population_z": -0.49183 
+"emp_pop_z": -0.21789 
 },
 "797": {
  "FIPS":     55,
 "year": "2002",
-"population_z": -0.44157 
+"emp_pop_z": -0.73039 
 },
 "798": {
  "FIPS":     57,
 "year": "2002",
-"population_z": -0.48628 
+"emp_pop_z": -0.32573 
 },
 "799": {
  "FIPS":     59,
 "year": "2002",
-"population_z": 3.2314 
+"emp_pop_z": -0.070657 
 },
 "800": {
  "FIPS":     61,
 "year": "2002",
-"population_z": -0.48646 
+"emp_pop_z": -0.72187 
 },
 "801": {
  "FIPS":     63,
 "year": "2002",
-"population_z": -0.43894 
+"emp_pop_z": -0.26227 
 },
 "802": {
  "FIPS":     65,
 "year": "2002",
-"population_z": -0.17174 
+"emp_pop_z": 0.35816 
 },
 "803": {
  "FIPS":     67,
 "year": "2002",
-"population_z": -0.44291 
+"emp_pop_z": -0.84632 
 },
 "804": {
  "FIPS":     69,
 "year": "2002",
-"population_z": 1.3839 
+"emp_pop_z": 0.28925 
 },
 "805": {
  "FIPS":     71,
 "year": "2002",
-"population_z": -0.38684 
+"emp_pop_z": -0.34554 
 },
 "806": {
  "FIPS":     73,
 "year": "2002",
-"population_z": -0.45478 
+"emp_pop_z": -0.28685 
 },
 "807": {
  "FIPS":     75,
 "year": "2002",
-"population_z": -0.34135 
+"emp_pop_z": -0.093126 
 },
 "808": {
  "FIPS":     77,
 "year": "2002",
-"population_z": 0.36333 
+"emp_pop_z": 0.13082 
 },
 "809": {
  "FIPS":     79,
 "year": "2002",
-"population_z": -0.49184 
+"emp_pop_z": 0.90579 
 },
 "810": {
  "FIPS":     81,
 "year": "2002",
-"population_z": -0.40469 
+"emp_pop_z": -0.23185 
 },
 "811": {
  "FIPS":     83,
 "year": "2002",
-"population_z": -0.32711 
+"emp_pop_z": -0.16348 
 },
 "812": {
  "FIPS":     85,
 "year": "2002",
-"population_z": -0.25065 
+"emp_pop_z": -0.1763 
 },
 "813": {
  "FIPS":     87,
 "year": "2002",
-"population_z": -0.302 
+"emp_pop_z": -0.022669 
 },
 "814": {
  "FIPS":     89,
 "year": "2002",
-"population_z": -0.35881 
+"emp_pop_z": -0.24682 
 },
 "815": {
  "FIPS":     91,
 "year": "2002",
-"population_z": -0.46994 
+"emp_pop_z": -0.2583 
 },
 "816": {
  "FIPS":     93,
 "year": "2002",
-"population_z": -0.38855 
+"emp_pop_z": -1.4819 
 },
 "817": {
  "FIPS":     95,
 "year": "2002",
-"population_z": -0.46575 
+"emp_pop_z": -0.1977 
 },
 "818": {
  "FIPS":     97,
 "year": "2002",
-"population_z": -0.38372 
+"emp_pop_z":  3.098 
 },
 "819": {
  "FIPS":     99,
 "year": "2002",
-"population_z": -0.39849 
+"emp_pop_z": 0.081433 
 },
 "820": {
  "FIPS":    101,
 "year": "2002",
-"population_z": 0.53788 
+"emp_pop_z": -0.19703 
 },
 "821": {
  "FIPS":    103,
 "year": "2002",
-"population_z": -0.45557 
+"emp_pop_z": 0.32408 
 },
 "822": {
  "FIPS":    105,
 "year": "2002",
-"population_z": -0.40981 
+"emp_pop_z": -0.33557 
 },
 "823": {
  "FIPS":    107,
 "year": "2002",
-"population_z": -0.34985 
+"emp_pop_z": 1.3485 
 },
 "824": {
  "FIPS":    109,
 "year": "2002",
-"population_z": -0.45338 
+"emp_pop_z": -0.78392 
 },
 "825": {
  "FIPS":    111,
 "year": "2002",
-"population_z": -0.49329 
+"emp_pop_z": 0.47843 
 },
 "826": {
  "FIPS":    113,
 "year": "2002",
-"population_z": -0.44775 
+"emp_pop_z": 1.4049 
 },
 "827": {
  "FIPS":    115,
 "year": "2002",
-"population_z": -0.47848 
+"emp_pop_z": -0.46629 
 },
 "828": {
  "FIPS":    117,
 "year": "2002",
-"population_z": -0.31011 
+"emp_pop_z": 1.6147 
 },
 "829": {
  "FIPS":    119,
 "year": "2002",
-"population_z": -0.3421 
+"emp_pop_z": -0.60759 
 },
 "830": {
  "FIPS":    121,
 "year": "2002",
-"population_z": -0.46035 
+"emp_pop_z": -1.005 
 },
 "831": {
  "FIPS":    123,
 "year": "2002",
-"population_z": 0.90893 
+"emp_pop_z": -0.21437 
 },
 "832": {
  "FIPS":    125,
 "year": "2002",
-"population_z": -0.42722 
+"emp_pop_z": -0.19423 
 },
 "833": {
  "FIPS":      1,
 "year": "2003",
-"population_z": 2.1495 
+"emp_pop_z": -0.14968 
 },
 "834": {
  "FIPS":      3,
 "year": "2003",
-"population_z": -0.39144 
+"emp_pop_z": 0.60004 
 },
 "835": {
  "FIPS":      5,
 "year": "2003",
-"population_z": 3.1222 
+"emp_pop_z": 0.7366 
 },
 "836": {
  "FIPS":      7,
 "year": "2003",
-"population_z": -0.42227 
+"emp_pop_z": -0.60947 
 },
 "837": {
  "FIPS":      9,
 "year": "2003",
-"population_z": -0.4693 
+"emp_pop_z": -0.61903 
 },
 "838": {
  "FIPS":     11,
 "year": "2003",
-"population_z": -0.4525 
+"emp_pop_z": -1.1537 
 },
 "839": {
  "FIPS":     13,
 "year": "2003",
-"population_z":  1.484 
+"emp_pop_z": 0.78718 
 },
 "840": {
  "FIPS":     14,
 "year": "2003",
-"population_z": -0.18384 
+"emp_pop_z":  1.033 
 },
 "841": {
  "FIPS":     15,
 "year": "2003",
-"population_z": -0.38138 
+"emp_pop_z": -0.11416 
 },
 "842": {
  "FIPS":     17,
 "year": "2003",
-"population_z": -0.4843 
+"emp_pop_z": -0.23555 
 },
 "843": {
  "FIPS":     19,
 "year": "2003",
-"population_z": -0.43242 
+"emp_pop_z": -0.4292 
 },
 "844": {
  "FIPS":     21,
 "year": "2003",
-"population_z": -0.44034 
+"emp_pop_z": -1.2923 
 },
 "845": {
  "FIPS":     23,
 "year": "2003",
-"population_z": -0.47251 
+"emp_pop_z": -1.0568 
 },
 "846": {
  "FIPS":     25,
 "year": "2003",
-"population_z": -0.463 
+"emp_pop_z": -1.1355 
 },
 "847": {
  "FIPS":     27,
 "year": "2003",
-"population_z": -0.47157 
+"emp_pop_z": -0.89148 
 },
 "848": {
  "FIPS":     29,
 "year": "2003",
-"population_z": -0.29535 
+"emp_pop_z": -0.76189 
 },
 "849": {
  "FIPS":     31,
 "year": "2003",
-"population_z": 3.4308 
+"emp_pop_z":  2.102 
 },
 "850": {
  "FIPS":     33,
 "year": "2003",
-"population_z": -0.48598 
+"emp_pop_z": -0.91816 
 },
 "851": {
  "FIPS":     35,
 "year": "2003",
-"population_z": 1.0518 
+"emp_pop_z": -0.59385 
 },
 "852": {
  "FIPS":     37,
 "year": "2003",
-"population_z": -0.17825 
+"emp_pop_z": 1.1003 
 },
 "853": {
  "FIPS":     39,
 "year": "2003",
-"population_z": -0.34534 
+"emp_pop_z": -1.3699 
 },
 "854": {
  "FIPS":     41,
 "year": "2003",
-"population_z": 3.3699 
+"emp_pop_z": 0.14431 
 },
 "855": {
  "FIPS":     43,
 "year": "2003",
-"population_z": -0.17074 
+"emp_pop_z": -0.68888 
 },
 "856": {
  "FIPS":     45,
 "year": "2003",
-"population_z": -0.16614 
+"emp_pop_z": 0.14949 
 },
 "857": {
  "FIPS":     47,
 "year": "2003",
-"population_z": -0.46514 
+"emp_pop_z": 4.0453 
 },
 "858": {
  "FIPS":     49,
 "year": "2003",
-"population_z": -0.40316 
+"emp_pop_z": 0.60737 
 },
 "859": {
  "FIPS":     51,
 "year": "2003",
-"population_z": -0.39953 
+"emp_pop_z": 0.66451 
 },
 "860": {
  "FIPS":     53,
 "year": "2003",
-"population_z": -0.49366 
+"emp_pop_z": -0.17626 
 },
 "861": {
  "FIPS":     55,
 "year": "2003",
-"population_z": -0.44276 
+"emp_pop_z": -0.8506 
 },
 "862": {
  "FIPS":     57,
 "year": "2003",
-"population_z": -0.48804 
+"emp_pop_z": -0.18206 
 },
 "863": {
  "FIPS":     59,
 "year": "2003",
-"population_z": 3.1859 
+"emp_pop_z": -0.057189 
 },
 "864": {
  "FIPS":     61,
 "year": "2003",
-"population_z": -0.48831 
+"emp_pop_z": -0.79199 
 },
 "865": {
  "FIPS":     63,
 "year": "2003",
-"population_z": -0.44176 
+"emp_pop_z": -0.27971 
 },
 "866": {
  "FIPS":     65,
 "year": "2003",
-"population_z": -0.17341 
+"emp_pop_z": 0.43448 
 },
 "867": {
  "FIPS":     67,
 "year": "2003",
-"population_z": -0.44642 
+"emp_pop_z": -0.81498 
 },
 "868": {
  "FIPS":     69,
 "year": "2003",
-"population_z": 1.3814 
+"emp_pop_z": 0.29614 
 },
 "869": {
  "FIPS":     71,
 "year": "2003",
-"population_z": -0.38632 
+"emp_pop_z": -0.36863 
 },
 "870": {
  "FIPS":     73,
 "year": "2003",
-"population_z": -0.45672 
+"emp_pop_z": -0.2427 
 },
 "871": {
  "FIPS":     75,
 "year": "2003",
-"population_z": -0.34227 
+"emp_pop_z": -0.11556 
 },
 "872": {
  "FIPS":     77,
 "year": "2003",
-"population_z": 0.37156 
+"emp_pop_z": 0.14255 
 },
 "873": {
  "FIPS":     79,
 "year": "2003",
-"population_z": -0.49334 
+"emp_pop_z": 0.9964 
 },
 "874": {
  "FIPS":     81,
 "year": "2003",
-"population_z": -0.40761 
+"emp_pop_z": -0.21603 
 },
 "875": {
  "FIPS":     83,
 "year": "2003",
-"population_z": -0.32819 
+"emp_pop_z": -0.17961 
 },
 "876": {
  "FIPS":     85,
 "year": "2003",
-"population_z": -0.24921 
+"emp_pop_z": -0.115 
 },
 "877": {
  "FIPS":     87,
 "year": "2003",
-"population_z": -0.30381 
+"emp_pop_z": 0.067282 
 },
 "878": {
  "FIPS":     89,
 "year": "2003",
-"population_z": -0.36123 
+"emp_pop_z": -0.255 
 },
 "879": {
  "FIPS":     91,
 "year": "2003",
-"population_z": -0.47178 
+"emp_pop_z": -0.23038 
 },
 "880": {
  "FIPS":     93,
 "year": "2003",
-"population_z": -0.38843 
+"emp_pop_z": -1.5656 
 },
 "881": {
  "FIPS":     95,
 "year": "2003",
-"population_z": -0.46776 
+"emp_pop_z": -0.19424 
 },
 "882": {
  "FIPS":     97,
 "year": "2003",
-"population_z": -0.38502 
+"emp_pop_z": 3.2194 
 },
 "883": {
  "FIPS":     99,
 "year": "2003",
-"population_z": -0.40222 
+"emp_pop_z": 0.049511 
 },
 "884": {
  "FIPS":    101,
 "year": "2003",
-"population_z": 0.53862 
+"emp_pop_z": -0.20107 
 },
 "885": {
  "FIPS":    103,
 "year": "2003",
-"population_z": -0.4581 
+"emp_pop_z": 0.36413 
 },
 "886": {
  "FIPS":    105,
 "year": "2003",
-"population_z": -0.41066 
+"emp_pop_z": -0.24986 
 },
 "887": {
  "FIPS":    107,
 "year": "2003",
-"population_z": -0.35098 
+"emp_pop_z": 1.3591 
 },
 "888": {
  "FIPS":    109,
 "year": "2003",
-"population_z": -0.45513 
+"emp_pop_z": -0.79254 
 },
 "889": {
  "FIPS":    111,
 "year": "2003",
-"population_z": -0.49485 
+"emp_pop_z": 0.66949 
 },
 "890": {
  "FIPS":    113,
 "year": "2003",
-"population_z":  -0.45 
+"emp_pop_z": 1.4477 
 },
 "891": {
  "FIPS":    115,
 "year": "2003",
-"population_z": -0.48012 
+"emp_pop_z": -0.52137 
 },
 "892": {
  "FIPS":    117,
 "year": "2003",
-"population_z": -0.31186 
+"emp_pop_z": 1.5423 
 },
 "893": {
  "FIPS":    119,
 "year": "2003",
-"population_z": -0.34334 
+"emp_pop_z": -0.66038 
 },
 "894": {
  "FIPS":    121,
 "year": "2003",
-"population_z": -0.46311 
+"emp_pop_z": -1.0114 
 },
 "895": {
  "FIPS":    123,
 "year": "2003",
-"population_z": 0.9537 
+"emp_pop_z": -0.26523 
 },
 "896": {
  "FIPS":    125,
 "year": "2003",
-"population_z": -0.42838 
+"emp_pop_z": -0.20193 
 },
 "897": {
  "FIPS":      1,
 "year": "2004",
-"population_z": 2.1797 
+"emp_pop_z": -0.18229 
 },
 "898": {
  "FIPS":      3,
 "year": "2004",
-"population_z": -0.39304 
+"emp_pop_z": 0.55409 
 },
 "899": {
  "FIPS":      5,
 "year": "2004",
-"population_z": 3.1363 
+"emp_pop_z": 0.65375 
 },
 "900": {
  "FIPS":      7,
 "year": "2004",
-"population_z": -0.42244 
+"emp_pop_z": -0.61635 
 },
 "901": {
  "FIPS":      9,
 "year": "2004",
-"population_z": -0.47108 
+"emp_pop_z": -0.68476 
 },
 "902": {
  "FIPS":     11,
 "year": "2004",
-"population_z": -0.45587 
+"emp_pop_z": -1.1603 
 },
 "903": {
  "FIPS":     13,
 "year": "2004",
-"population_z":  1.467 
+"emp_pop_z": 0.78932 
 },
 "904": {
  "FIPS":     14,
 "year": "2004",
-"population_z": -0.1778 
+"emp_pop_z": 1.1427 
 },
 "905": {
  "FIPS":     15,
 "year": "2004",
-"population_z": -0.38235 
+"emp_pop_z": -0.10834 
 },
 "906": {
  "FIPS":     17,
 "year": "2004",
-"population_z": -0.48563 
+"emp_pop_z": -0.15765 
 },
 "907": {
  "FIPS":     19,
 "year": "2004",
-"population_z": -0.43432 
+"emp_pop_z": -0.42784 
 },
 "908": {
  "FIPS":     21,
 "year": "2004",
-"population_z": -0.44098 
+"emp_pop_z": -1.3487 
 },
 "909": {
  "FIPS":     23,
 "year": "2004",
-"population_z": -0.47361 
+"emp_pop_z": -1.038 
 },
 "910": {
  "FIPS":     25,
 "year": "2004",
-"population_z": -0.46229 
+"emp_pop_z": -1.1837 
 },
 "911": {
  "FIPS":     27,
 "year": "2004",
-"population_z": -0.47235 
+"emp_pop_z": -0.8993 
 },
 "912": {
  "FIPS":     29,
 "year": "2004",
-"population_z": -0.29551 
+"emp_pop_z": -0.7419 
 },
 "913": {
  "FIPS":     31,
 "year": "2004",
-"population_z": 3.3899 
+"emp_pop_z": 2.0482 
 },
 "914": {
  "FIPS":     33,
 "year": "2004",
-"population_z": -0.487 
+"emp_pop_z": -0.93697 
 },
 "915": {
  "FIPS":     35,
 "year": "2004",
-"population_z": 1.1223 
+"emp_pop_z": -0.45186 
 },
 "916": {
  "FIPS":     37,
 "year": "2004",
-"population_z": -0.17725 
+"emp_pop_z": 1.1249 
 },
 "917": {
  "FIPS":     39,
 "year": "2004",
-"population_z": -0.34697 
+"emp_pop_z": -1.3652 
 },
 "918": {
  "FIPS":     41,
 "year": "2004",
-"population_z": 3.3775 
+"emp_pop_z": 0.13711 
 },
 "919": {
  "FIPS":     43,
 "year": "2004",
-"population_z": -0.17687 
+"emp_pop_z": -0.66001 
 },
 "920": {
  "FIPS":     45,
 "year": "2004",
-"population_z": -0.16564 
+"emp_pop_z": 0.19416 
 },
 "921": {
  "FIPS":     47,
 "year": "2004",
-"population_z": -0.46651 
+"emp_pop_z": 3.9639 
 },
 "922": {
  "FIPS":     49,
 "year": "2004",
-"population_z": -0.40341 
+"emp_pop_z": 0.51308 
 },
 "923": {
  "FIPS":     51,
 "year": "2004",
-"population_z": -0.4012 
+"emp_pop_z": 0.74273 
 },
 "924": {
  "FIPS":     53,
 "year": "2004",
-"population_z": -0.49424 
+"emp_pop_z": -0.35679 
 },
 "925": {
  "FIPS":     55,
 "year": "2004",
-"population_z": -0.44634 
+"emp_pop_z": -0.84924 
 },
 "926": {
  "FIPS":     57,
 "year": "2004",
-"population_z": -0.48945 
+"emp_pop_z": -0.031867 
 },
 "927": {
  "FIPS":     59,
 "year": "2004",
-"population_z": 3.1444 
+"emp_pop_z": -0.058165 
 },
 "928": {
  "FIPS":     61,
 "year": "2004",
-"population_z": -0.48943 
+"emp_pop_z": -0.7414 
 },
 "929": {
  "FIPS":     63,
 "year": "2004",
-"population_z": -0.44268 
+"emp_pop_z": -0.31465 
 },
 "930": {
  "FIPS":     65,
 "year": "2004",
-"population_z": -0.17418 
+"emp_pop_z": 0.52355 
 },
 "931": {
  "FIPS":     67,
 "year": "2004",
-"population_z": -0.44852 
+"emp_pop_z": -0.79895 
 },
 "932": {
  "FIPS":     69,
 "year": "2004",
-"population_z": 1.3974 
+"emp_pop_z": 0.28463 
 },
 "933": {
  "FIPS":     71,
 "year": "2004",
-"population_z": -0.391 
+"emp_pop_z": -0.31454 
 },
 "934": {
  "FIPS":     73,
 "year": "2004",
-"population_z": -0.45899 
+"emp_pop_z": -0.21746 
 },
 "935": {
  "FIPS":     75,
 "year": "2004",
-"population_z": -0.346 
+"emp_pop_z": -0.18081 
 },
 "936": {
  "FIPS":     77,
 "year": "2004",
-"population_z": 0.3792 
+"emp_pop_z": 0.1634 
 },
 "937": {
  "FIPS":     79,
 "year": "2004",
-"population_z": -0.49416 
+"emp_pop_z": 1.0525 
 },
 "938": {
  "FIPS":     81,
 "year": "2004",
-"population_z": -0.40931 
+"emp_pop_z": -0.20201 
 },
 "939": {
  "FIPS":     83,
 "year": "2004",
-"population_z": -0.32915 
+"emp_pop_z": -0.18106 
 },
 "940": {
  "FIPS":     85,
 "year": "2004",
-"population_z": -0.24914 
+"emp_pop_z": -0.075528 
 },
 "941": {
  "FIPS":     87,
 "year": "2004",
-"population_z": -0.30621 
+"emp_pop_z": 0.022355 
 },
 "942": {
  "FIPS":     89,
 "year": "2004",
-"population_z": -0.36419 
+"emp_pop_z": -0.26152 
 },
 "943": {
  "FIPS":     91,
 "year": "2004",
-"population_z": -0.47207 
+"emp_pop_z": -0.11304 
 },
 "944": {
  "FIPS":     93,
 "year": "2004",
-"population_z": -0.38952 
+"emp_pop_z": -1.5315 
 },
 "945": {
  "FIPS":     95,
 "year": "2004",
-"population_z": -0.46821 
+"emp_pop_z": -0.33641 
 },
 "946": {
  "FIPS":     97,
 "year": "2004",
-"population_z": -0.38838 
+"emp_pop_z": 3.3764 
 },
 "947": {
  "FIPS":     99,
 "year": "2004",
-"population_z": -0.40519 
+"emp_pop_z": 0.067035 
 },
 "948": {
  "FIPS":    101,
 "year": "2004",
-"population_z": 0.5326 
+"emp_pop_z": -0.22983 
 },
 "949": {
  "FIPS":    103,
 "year": "2004",
-"population_z": -0.45901 
+"emp_pop_z": 0.43026 
 },
 "950": {
  "FIPS":    105,
 "year": "2004",
-"population_z": -0.41097 
+"emp_pop_z": -0.27713 
 },
 "951": {
  "FIPS":    107,
 "year": "2004",
-"population_z": -0.35216 
+"emp_pop_z": 1.3688 
 },
 "952": {
  "FIPS":    109,
 "year": "2004",
-"population_z": -0.45668 
+"emp_pop_z": -0.78061 
 },
 "953": {
  "FIPS":    111,
 "year": "2004",
-"population_z": -0.4956 
+"emp_pop_z": 0.19132 
 },
 "954": {
  "FIPS":    113,
 "year": "2004",
-"population_z": -0.45122 
+"emp_pop_z": 1.4693 
 },
 "955": {
  "FIPS":    115,
 "year": "2004",
-"population_z": -0.48191 
+"emp_pop_z": -0.38961 
 },
 "956": {
  "FIPS":    117,
 "year": "2004",
-"population_z": -0.31457 
+"emp_pop_z":  1.506 
 },
 "957": {
  "FIPS":    119,
 "year": "2004",
-"population_z": -0.34574 
+"emp_pop_z": -0.62228 
 },
 "958": {
  "FIPS":    121,
 "year": "2004",
-"population_z": -0.46487 
+"emp_pop_z": -1.0308 
 },
 "959": {
  "FIPS":    123,
 "year": "2004",
-"population_z": 0.98634 
+"emp_pop_z": -0.27761 
 },
 "960": {
  "FIPS":    125,
 "year": "2004",
-"population_z": -0.43137 
+"emp_pop_z": -0.18353 
 },
 "961": {
  "FIPS":      1,
 "year": "2005",
-"population_z": 2.2173 
+"emp_pop_z": -0.16357 
 },
 "962": {
  "FIPS":      3,
 "year": "2005",
-"population_z": -0.395 
+"emp_pop_z": 0.50199 
 },
 "963": {
  "FIPS":      5,
 "year": "2005",
-"population_z": 3.1305 
+"emp_pop_z": 0.61939 
 },
 "964": {
  "FIPS":      7,
 "year": "2005",
-"population_z": -0.42245 
+"emp_pop_z": -0.51015 
 },
 "965": {
  "FIPS":      9,
 "year": "2005",
-"population_z": -0.47266 
+"emp_pop_z": -0.68427 
 },
 "966": {
  "FIPS":     11,
 "year": "2005",
-"population_z": -0.45779 
+"emp_pop_z": -1.1553 
 },
 "967": {
  "FIPS":     13,
 "year": "2005",
-"population_z": 1.4441 
+"emp_pop_z": 0.79873 
 },
 "968": {
  "FIPS":     14,
 "year": "2005",
-"population_z": -0.16912 
+"emp_pop_z":  1.078 
 },
 "969": {
  "FIPS":     15,
 "year": "2005",
-"population_z": -0.38381 
+"emp_pop_z": -0.13335 
 },
 "970": {
  "FIPS":     17,
 "year": "2005",
-"population_z": -0.4868 
+"emp_pop_z": -0.043993 
 },
 "971": {
  "FIPS":     19,
 "year": "2005",
-"population_z": -0.43627 
+"emp_pop_z": -0.40945 
 },
 "972": {
  "FIPS":     21,
 "year": "2005",
-"population_z": -0.4424 
+"emp_pop_z": -1.3678 
 },
 "973": {
  "FIPS":     23,
 "year": "2005",
-"population_z": -0.47543 
+"emp_pop_z":  -1.12 
 },
 "974": {
  "FIPS":     25,
 "year": "2005",
-"population_z": -0.46345 
+"emp_pop_z": -1.1608 
 },
 "975": {
  "FIPS":     27,
 "year": "2005",
-"population_z": -0.47302 
+"emp_pop_z": -0.98577 
 },
 "976": {
  "FIPS":     29,
 "year": "2005",
-"population_z": -0.29864 
+"emp_pop_z": -0.70205 
 },
 "977": {
  "FIPS":     31,
 "year": "2005",
-"population_z": 3.3453 
+"emp_pop_z": 1.9919 
 },
 "978": {
  "FIPS":     33,
 "year": "2005",
-"population_z": -0.48785 
+"emp_pop_z": -1.0614 
 },
 "979": {
  "FIPS":     35,
 "year": "2005",
-"population_z": 1.1796 
+"emp_pop_z": -0.35507 
 },
 "980": {
  "FIPS":     37,
 "year": "2005",
-"population_z": -0.17581 
+"emp_pop_z": 1.1909 
 },
 "981": {
  "FIPS":     39,
 "year": "2005",
-"population_z": -0.34781 
+"emp_pop_z": -1.3438 
 },
 "982": {
  "FIPS":     41,
 "year": "2005",
-"population_z": 3.4131 
+"emp_pop_z": 0.10287 
 },
 "983": {
  "FIPS":     43,
 "year": "2005",
-"population_z": -0.18153 
+"emp_pop_z": -0.64669 
 },
 "984": {
  "FIPS":     45,
 "year": "2005",
-"population_z": -0.16221 
+"emp_pop_z": 0.35436 
 },
 "985": {
  "FIPS":     47,
 "year": "2005",
-"population_z": -0.4672 
+"emp_pop_z": 3.9584 
 },
 "986": {
  "FIPS":     49,
 "year": "2005",
-"population_z": -0.4053 
+"emp_pop_z": 0.50515 
 },
 "987": {
  "FIPS":     51,
 "year": "2005",
-"population_z": -0.40134 
+"emp_pop_z": 0.7964 
 },
 "988": {
  "FIPS":     53,
 "year": "2005",
-"population_z": -0.49524 
+"emp_pop_z": -0.35384 
 },
 "989": {
  "FIPS":     55,
 "year": "2005",
-"population_z": -0.44705 
+"emp_pop_z": -0.88682 
 },
 "990": {
  "FIPS":     57,
 "year": "2005",
-"population_z": -0.49058 
+"emp_pop_z": -0.070963 
 },
 "991": {
  "FIPS":     59,
 "year": "2005",
-"population_z": 3.0982 
+"emp_pop_z": -0.051556 
 },
 "992": {
  "FIPS":     61,
 "year": "2005",
-"population_z": -0.49022 
+"emp_pop_z": -0.78437 
 },
 "993": {
  "FIPS":     63,
 "year": "2005",
-"population_z": -0.44585 
+"emp_pop_z": -0.22046 
 },
 "994": {
  "FIPS":     65,
 "year": "2005",
-"population_z": -0.17282 
+"emp_pop_z": 0.50813 
 },
 "995": {
  "FIPS":     67,
 "year": "2005",
-"population_z": -0.45076 
+"emp_pop_z": -0.79118 
 },
 "996": {
  "FIPS":     69,
 "year": "2005",
-"population_z": 1.3957 
+"emp_pop_z": 0.28104 
 },
 "997": {
  "FIPS":     71,
 "year": "2005",
-"population_z": -0.39379 
+"emp_pop_z": -0.25034 
 },
 "998": {
  "FIPS":     73,
 "year": "2005",
-"population_z": -0.46105 
+"emp_pop_z": -0.17568 
 },
 "999": {
  "FIPS":     75,
 "year": "2005",
-"population_z": -0.34899 
+"emp_pop_z": -0.12541 
 },
 "1000": {
  "FIPS":     77,
 "year": "2005",
-"population_z": 0.38599 
+"emp_pop_z": 0.15614 
 },
 "1001": {
  "FIPS":     79,
 "year": "2005",
-"population_z": -0.49529 
+"emp_pop_z": 0.18981 
 },
 "1002": {
  "FIPS":     81,
 "year": "2005",
-"population_z": -0.4117 
+"emp_pop_z": -0.11986 
 },
 "1003": {
  "FIPS":     83,
 "year": "2005",
-"population_z": -0.3317 
+"emp_pop_z": -0.15985 
 },
 "1004": {
  "FIPS":     85,
 "year": "2005",
-"population_z": -0.24649 
+"emp_pop_z": -0.072294 
 },
 "1005": {
  "FIPS":     87,
 "year": "2005",
-"population_z": -0.30871 
+"emp_pop_z": -0.0062631 
 },
 "1006": {
  "FIPS":     89,
 "year": "2005",
-"population_z": -0.36767 
+"emp_pop_z": -0.30558 
 },
 "1007": {
  "FIPS":     91,
 "year": "2005",
-"population_z": -0.47276 
+"emp_pop_z": 0.053489 
 },
 "1008": {
  "FIPS":     93,
 "year": "2005",
-"population_z": -0.39042 
+"emp_pop_z": -1.4759 
 },
 "1009": {
  "FIPS":     95,
 "year": "2005",
-"population_z": -0.46957 
+"emp_pop_z": -0.33045 
 },
 "1010": {
  "FIPS":     97,
 "year": "2005",
-"population_z": -0.3899 
+"emp_pop_z": 3.4242 
 },
 "1011": {
  "FIPS":     99,
 "year": "2005",
-"population_z": -0.40796 
+"emp_pop_z": -0.0014353 
 },
 "1012": {
  "FIPS":    101,
 "year": "2005",
-"population_z": 0.53015 
+"emp_pop_z": -0.24879 
 },
 "1013": {
  "FIPS":    103,
 "year": "2005",
-"population_z": -0.46084 
+"emp_pop_z": 0.7348 
 },
 "1014": {
  "FIPS":    105,
 "year": "2005",
-"population_z": -0.41355 
+"emp_pop_z": -0.31689 
 },
 "1015": {
  "FIPS":    107,
 "year": "2005",
-"population_z": -0.35335 
+"emp_pop_z": 1.4605 
 },
 "1016": {
  "FIPS":    109,
 "year": "2005",
-"population_z": -0.45763 
+"emp_pop_z": -0.73223 
 },
 "1017": {
  "FIPS":    111,
 "year": "2005",
-"population_z": -0.4964 
+"emp_pop_z": 0.036502 
 },
 "1018": {
  "FIPS":    113,
 "year": "2005",
-"population_z": -0.4524 
+"emp_pop_z": 1.6169 
 },
 "1019": {
  "FIPS":    115,
 "year": "2005",
-"population_z": -0.48311 
+"emp_pop_z": -0.38895 
 },
 "1020": {
  "FIPS":    117,
 "year": "2005",
-"population_z": -0.31781 
+"emp_pop_z": 1.5019 
 },
 "1021": {
  "FIPS":    119,
 "year": "2005",
-"population_z": -0.34612 
+"emp_pop_z": -0.60675 
 },
 "1022": {
  "FIPS":    121,
 "year": "2005",
-"population_z": -0.46649 
+"emp_pop_z": -1.0049 
 },
 "1023": {
  "FIPS":    123,
 "year": "2005",
-"population_z": 1.0352 
+"emp_pop_z": -0.325 
 },
 "1024": {
  "FIPS":    125,
 "year": "2005",
-"population_z": -0.43283 
+"emp_pop_z": -0.21208 
 },
 "1025": {
  "FIPS":      1,
 "year": "2006",
-"population_z": 2.2557 
+"emp_pop_z": -0.19822 
 },
 "1026": {
  "FIPS":      3,
 "year": "2006",
-"population_z": -0.39779 
+"emp_pop_z": 0.48373 
 },
 "1027": {
  "FIPS":      5,
 "year": "2006",
-"population_z": 3.1247 
+"emp_pop_z": 0.56965 
 },
 "1028": {
  "FIPS":      7,
 "year": "2006",
-"population_z": -0.42182 
+"emp_pop_z": -0.54387 
 },
 "1029": {
  "FIPS":      9,
 "year": "2006",
-"population_z": -0.47397 
+"emp_pop_z": -0.61446 
 },
 "1030": {
  "FIPS":     11,
 "year": "2006",
-"population_z": -0.46052 
+"emp_pop_z": -1.1619 
 },
 "1031": {
  "FIPS":     13,
 "year": "2006",
-"population_z": 1.4341 
+"emp_pop_z": 0.75215 
 },
 "1032": {
  "FIPS":     14,
 "year": "2006",
-"population_z": -0.15559 
+"emp_pop_z": 0.92905 
 },
 "1033": {
  "FIPS":     15,
 "year": "2006",
-"population_z": -0.38673 
+"emp_pop_z": -0.13492 
 },
 "1034": {
  "FIPS":     17,
 "year": "2006",
-"population_z": -0.48825 
+"emp_pop_z": -0.13415 
 },
 "1035": {
  "FIPS":     19,
 "year": "2006",
-"population_z": -0.43886 
+"emp_pop_z": -0.35699 
 },
 "1036": {
  "FIPS":     21,
 "year": "2006",
-"population_z": -0.44433 
+"emp_pop_z": -1.3962 
 },
 "1037": {
  "FIPS":     23,
 "year": "2006",
-"population_z": -0.47661 
+"emp_pop_z": -1.1761 
 },
 "1038": {
  "FIPS":     25,
 "year": "2006",
-"population_z": -0.46298 
+"emp_pop_z": -1.1924 
 },
 "1039": {
  "FIPS":     27,
 "year": "2006",
-"population_z": -0.47445 
+"emp_pop_z": -1.0202 
 },
 "1040": {
  "FIPS":     29,
 "year": "2006",
-"population_z": -0.3007 
+"emp_pop_z": -0.66999 
 },
 "1041": {
  "FIPS":     31,
 "year": "2006",
-"population_z": 3.3061 
+"emp_pop_z": 1.9558 
 },
 "1042": {
  "FIPS":     33,
 "year": "2006",
-"population_z": -0.48817 
+"emp_pop_z": -1.105 
 },
 "1043": {
  "FIPS":     35,
 "year": "2006",
-"population_z": 1.2426 
+"emp_pop_z": -0.39358 
 },
 "1044": {
  "FIPS":     37,
 "year": "2006",
-"population_z": -0.17546 
+"emp_pop_z": 1.2225 
 },
 "1045": {
  "FIPS":     39,
 "year": "2006",
-"population_z": -0.34923 
+"emp_pop_z": -1.3426 
 },
 "1046": {
  "FIPS":     41,
 "year": "2006",
-"population_z":  3.439 
+"emp_pop_z": 0.054908 
 },
 "1047": {
  "FIPS":     43,
 "year": "2006",
-"population_z": -0.18568 
+"emp_pop_z": -0.66136 
 },
 "1048": {
  "FIPS":     45,
 "year": "2006",
-"population_z": -0.1559 
+"emp_pop_z": 0.47873 
 },
 "1049": {
  "FIPS":     47,
 "year": "2006",
-"population_z": -0.46812 
+"emp_pop_z": 3.6402 
 },
 "1050": {
  "FIPS":     49,
 "year": "2006",
-"population_z": -0.40601 
+"emp_pop_z": 0.49988 
 },
 "1051": {
  "FIPS":     51,
 "year": "2006",
-"population_z": -0.40252 
+"emp_pop_z": 0.88439 
 },
 "1052": {
  "FIPS":     53,
 "year": "2006",
-"population_z": -0.49601 
+"emp_pop_z": -0.39624 
 },
 "1053": {
  "FIPS":     55,
 "year": "2006",
-"population_z": -0.4492 
+"emp_pop_z": -0.83179 
 },
 "1054": {
  "FIPS":     57,
 "year": "2006",
-"population_z": -0.49187 
+"emp_pop_z": -0.083482 
 },
 "1055": {
  "FIPS":     59,
 "year": "2006",
-"population_z": 3.0471 
+"emp_pop_z": -0.08785 
 },
 "1056": {
  "FIPS":     61,
 "year": "2006",
-"population_z": -0.49139 
+"emp_pop_z": -0.83207 
 },
 "1057": {
  "FIPS":     63,
 "year": "2006",
-"population_z": -0.44787 
+"emp_pop_z":  -0.24 
 },
 "1058": {
  "FIPS":     65,
 "year": "2006",
-"population_z": -0.17415 
+"emp_pop_z": 0.55762 
 },
 "1059": {
  "FIPS":     67,
 "year": "2006",
-"population_z": -0.45281 
+"emp_pop_z": -0.74077 
 },
 "1060": {
  "FIPS":     69,
 "year": "2006",
-"population_z": 1.3995 
+"emp_pop_z": 0.23066 
 },
 "1061": {
  "FIPS":     71,
 "year": "2006",
-"population_z": -0.39642 
+"emp_pop_z": -0.19432 
 },
 "1062": {
  "FIPS":     73,
 "year": "2006",
-"population_z": -0.46331 
+"emp_pop_z": -0.19618 
 },
 "1063": {
  "FIPS":     75,
 "year": "2006",
-"population_z": -0.35099 
+"emp_pop_z": -0.19927 
 },
 "1064": {
  "FIPS":     77,
 "year": "2006",
-"population_z": 0.39898 
+"emp_pop_z": 0.13401 
 },
 "1065": {
  "FIPS":     79,
 "year": "2006",
-"population_z": -0.49629 
+"emp_pop_z": 0.96937 
 },
 "1066": {
  "FIPS":     81,
 "year": "2006",
-"population_z": -0.41299 
+"emp_pop_z": -0.087452 
 },
 "1067": {
  "FIPS":     83,
 "year": "2006",
-"population_z": -0.33239 
+"emp_pop_z": -0.2019 
 },
 "1068": {
  "FIPS":     85,
 "year": "2006",
-"population_z": -0.24478 
+"emp_pop_z": -0.10079 
 },
 "1069": {
  "FIPS":     87,
 "year": "2006",
-"population_z": -0.31232 
+"emp_pop_z": -0.062549 
 },
 "1070": {
  "FIPS":     89,
 "year": "2006",
-"population_z": -0.37179 
+"emp_pop_z": -0.38337 
 },
 "1071": {
  "FIPS":     91,
 "year": "2006",
-"population_z": -0.47364 
+"emp_pop_z": 0.040834 
 },
 "1072": {
  "FIPS":     93,
 "year": "2006",
-"population_z": -0.39252 
+"emp_pop_z": -1.4513 
 },
 "1073": {
  "FIPS":     95,
 "year": "2006",
-"population_z": -0.47116 
+"emp_pop_z": -0.38755 
 },
 "1074": {
  "FIPS":     97,
 "year": "2006",
-"population_z": -0.3928 
+"emp_pop_z":  3.491 
 },
 "1075": {
  "FIPS":     99,
 "year": "2006",
-"population_z": -0.41228 
+"emp_pop_z": -0.19844 
 },
 "1076": {
  "FIPS":    101,
 "year": "2006",
-"population_z": 0.52708 
+"emp_pop_z": -0.26412 
 },
 "1077": {
  "FIPS":    103,
 "year": "2006",
-"population_z": -0.46117 
+"emp_pop_z": 1.0706 
 },
 "1078": {
  "FIPS":    105,
 "year": "2006",
-"population_z": -0.41748 
+"emp_pop_z": -0.33081 
 },
 "1079": {
  "FIPS":    107,
 "year": "2006",
-"population_z": -0.35357 
+"emp_pop_z":    1.4 
 },
 "1080": {
  "FIPS":    109,
 "year": "2006",
-"population_z": -0.45941 
+"emp_pop_z": -0.70834 
 },
 "1081": {
  "FIPS":    111,
 "year": "2006",
-"population_z": -0.49708 
+"emp_pop_z": 0.071963 
 },
 "1082": {
  "FIPS":    113,
 "year": "2006",
-"population_z": -0.45387 
+"emp_pop_z": 1.6467 
 },
 "1083": {
  "FIPS":    115,
 "year": "2006",
-"population_z": -0.48461 
+"emp_pop_z": -0.42554 
 },
 "1084": {
  "FIPS":    117,
 "year": "2006",
-"population_z": -0.32006 
+"emp_pop_z": 1.5859 
 },
 "1085": {
  "FIPS":    119,
 "year": "2006",
-"population_z": -0.34745 
+"emp_pop_z": -0.64164 
 },
 "1086": {
  "FIPS":    121,
 "year": "2006",
-"population_z": -0.46793 
+"emp_pop_z": -1.0207 
 },
 "1087": {
  "FIPS":    123,
 "year": "2006",
-"population_z":  1.063 
+"emp_pop_z": -0.34647 
 },
 "1088": {
  "FIPS":    125,
 "year": "2006",
-"population_z": -0.43454 
+"emp_pop_z": -0.15477 
 },
 "1089": {
  "FIPS":      1,
 "year": "2007",
-"population_z": 2.2703 
+"emp_pop_z": -0.25497 
 },
 "1090": {
  "FIPS":      3,
 "year": "2007",
-"population_z": -0.40028 
+"emp_pop_z": 0.47796 
 },
 "1091": {
  "FIPS":      5,
 "year": "2007",
-"population_z": 3.1367 
+"emp_pop_z": 0.56048 
 },
 "1092": {
  "FIPS":      7,
 "year": "2007",
-"population_z": -0.42151 
+"emp_pop_z": -0.5814 
 },
 "1093": {
  "FIPS":      9,
 "year": "2007",
-"population_z": -0.47561 
+"emp_pop_z": -0.66665 
 },
 "1094": {
  "FIPS":     11,
 "year": "2007",
-"population_z": -0.46374 
+"emp_pop_z": -1.1383 
 },
 "1095": {
  "FIPS":     13,
 "year": "2007",
-"population_z": 1.4227 
+"emp_pop_z": 0.77101 
 },
 "1096": {
  "FIPS":     14,
 "year": "2007",
-"population_z": -0.14674 
+"emp_pop_z": 0.87275 
 },
 "1097": {
  "FIPS":     15,
 "year": "2007",
-"population_z": -0.38731 
+"emp_pop_z": -0.17058 
 },
 "1098": {
  "FIPS":     17,
 "year": "2007",
-"population_z": -0.48949 
+"emp_pop_z": -0.07224 
 },
 "1099": {
  "FIPS":     19,
 "year": "2007",
-"population_z": -0.44001 
+"emp_pop_z": -0.33779 
 },
 "1100": {
  "FIPS":     21,
 "year": "2007",
-"population_z": -0.44601 
+"emp_pop_z": -1.443 
 },
 "1101": {
  "FIPS":     23,
 "year": "2007",
-"population_z": -0.47772 
+"emp_pop_z": -1.2138 
 },
 "1102": {
  "FIPS":     25,
 "year": "2007",
-"population_z": -0.46285 
+"emp_pop_z": -1.2655 
 },
 "1103": {
  "FIPS":     27,
 "year": "2007",
-"population_z": -0.47469 
+"emp_pop_z": -1.0707 
 },
 "1104": {
  "FIPS":     29,
 "year": "2007",
-"population_z": -0.30306 
+"emp_pop_z": -0.6561 
 },
 "1105": {
  "FIPS":     31,
 "year": "2007",
-"population_z": 3.3004 
+"emp_pop_z": 2.0121 
 },
 "1106": {
  "FIPS":     33,
 "year": "2007",
-"population_z": -0.48889 
+"emp_pop_z": -1.0488 
 },
 "1107": {
  "FIPS":     35,
 "year": "2007",
-"population_z": 1.2883 
+"emp_pop_z": -0.43491 
 },
 "1108": {
  "FIPS":     37,
 "year": "2007",
-"population_z": -0.17369 
+"emp_pop_z": 1.2857 
 },
 "1109": {
  "FIPS":     39,
 "year": "2007",
-"population_z": -0.35238 
+"emp_pop_z": -1.4067 
 },
 "1110": {
  "FIPS":     41,
 "year": "2007",
-"population_z": 3.4226 
+"emp_pop_z": 0.020769 
 },
 "1111": {
  "FIPS":     43,
 "year": "2007",
-"population_z": -0.19123 
+"emp_pop_z": -0.6709 
 },
 "1112": {
  "FIPS":     45,
 "year": "2007",
-"population_z": -0.15108 
+"emp_pop_z": 0.56152 
 },
 "1113": {
  "FIPS":     47,
 "year": "2007",
-"population_z": -0.46913 
+"emp_pop_z": 3.2236 
 },
 "1114": {
  "FIPS":     49,
 "year": "2007",
-"population_z": -0.40664 
+"emp_pop_z": 0.5791 
 },
 "1115": {
  "FIPS":     51,
 "year": "2007",
-"population_z": -0.40252 
+"emp_pop_z": 0.82226 
 },
 "1116": {
  "FIPS":     53,
 "year": "2007",
-"population_z": -0.49659 
+"emp_pop_z": -0.47997 
 },
 "1117": {
  "FIPS":     55,
 "year": "2007",
-"population_z": -0.45118 
+"emp_pop_z": -0.84883 
 },
 "1118": {
  "FIPS":     57,
 "year": "2007",
-"population_z": -0.49275 
+"emp_pop_z": -0.11259 
 },
 "1119": {
  "FIPS":     59,
 "year": "2007",
-"population_z": 3.0116 
+"emp_pop_z": -0.087218 
 },
 "1120": {
  "FIPS":     61,
 "year": "2007",
-"population_z": -0.49242 
+"emp_pop_z": -0.75231 
 },
 "1121": {
  "FIPS":     63,
 "year": "2007",
-"population_z":  -0.45 
+"emp_pop_z": -0.24813 
 },
 "1122": {
  "FIPS":     65,
 "year": "2007",
-"population_z": -0.17461 
+"emp_pop_z": 0.57908 
 },
 "1123": {
  "FIPS":     67,
 "year": "2007",
-"population_z": -0.45376 
+"emp_pop_z": -0.74567 
 },
 "1124": {
  "FIPS":     69,
 "year": "2007",
-"population_z": 1.4093 
+"emp_pop_z": 0.21349 
 },
 "1125": {
  "FIPS":     71,
 "year": "2007",
-"population_z": -0.39873 
+"emp_pop_z": -0.14379 
 },
 "1126": {
  "FIPS":     73,
 "year": "2007",
-"population_z": -0.46509 
+"emp_pop_z": -0.23363 
 },
 "1127": {
  "FIPS":     75,
 "year": "2007",
-"population_z": -0.35288 
+"emp_pop_z": -0.20284 
 },
 "1128": {
  "FIPS":     77,
 "year": "2007",
-"population_z": 0.41363 
+"emp_pop_z":  0.178 
 },
 "1129": {
  "FIPS":     79,
 "year": "2007",
-"population_z": -0.49687 
+"emp_pop_z": 1.0014 
 },
 "1130": {
  "FIPS":     81,
 "year": "2007",
-"population_z": -0.41377 
+"emp_pop_z": -0.11169 
 },
 "1131": {
  "FIPS":     83,
 "year": "2007",
-"population_z": -0.33439 
+"emp_pop_z": -0.24445 
 },
 "1132": {
  "FIPS":     85,
 "year": "2007",
-"population_z": -0.24137 
+"emp_pop_z": -0.1424 
 },
 "1133": {
  "FIPS":     87,
 "year": "2007",
-"population_z": -0.31659 
+"emp_pop_z": -0.092042 
 },
 "1134": {
  "FIPS":     89,
 "year": "2007",
-"population_z": -0.37599 
+"emp_pop_z": -0.44886 
 },
 "1135": {
  "FIPS":     91,
 "year": "2007",
-"population_z": -0.47373 
+"emp_pop_z": -0.019976 
 },
 "1136": {
  "FIPS":     93,
 "year": "2007",
-"population_z": -0.39333 
+"emp_pop_z": -1.4938 
 },
 "1137": {
  "FIPS":     95,
 "year": "2007",
-"population_z": -0.47233 
+"emp_pop_z": -0.39587 
 },
 "1138": {
  "FIPS":     97,
 "year": "2007",
-"population_z": -0.39399 
+"emp_pop_z": 3.4771 
 },
 "1139": {
  "FIPS":     99,
 "year": "2007",
-"population_z": -0.41709 
+"emp_pop_z": -0.13915 
 },
 "1140": {
  "FIPS":    101,
 "year": "2007",
-"population_z": 0.52941 
+"emp_pop_z": -0.27397 
 },
 "1141": {
  "FIPS":    103,
 "year": "2007",
-"population_z": -0.46161 
+"emp_pop_z": 1.4636 
 },
 "1142": {
  "FIPS":    105,
 "year": "2007",
-"population_z": -0.42112 
+"emp_pop_z": -0.32991 
 },
 "1143": {
  "FIPS":    107,
 "year": "2007",
-"population_z": -0.3528 
+"emp_pop_z": 1.5149 
 },
 "1144": {
  "FIPS":    109,
 "year": "2007",
-"population_z": -0.46117 
+"emp_pop_z": -0.76718 
 },
 "1145": {
  "FIPS":    111,
 "year": "2007",
-"population_z": -0.49765 
+"emp_pop_z": 0.069864 
 },
 "1146": {
  "FIPS":    113,
 "year": "2007",
-"population_z": -0.45372 
+"emp_pop_z": 1.7032 
 },
 "1147": {
  "FIPS":    115,
 "year": "2007",
-"population_z": -0.48608 
+"emp_pop_z": -0.087026 
 },
 "1148": {
  "FIPS":    117,
 "year": "2007",
-"population_z": -0.32115 
+"emp_pop_z": 1.6232 
 },
 "1149": {
  "FIPS":    119,
 "year": "2007",
-"population_z": -0.34781 
+"emp_pop_z": -0.69183 
 },
 "1150": {
  "FIPS":    121,
 "year": "2007",
-"population_z": -0.46938 
+"emp_pop_z": -1.0309 
 },
 "1151": {
  "FIPS":    123,
 "year": "2007",
-"population_z": 1.0862 
+"emp_pop_z": -0.38066 
 },
 "1152": {
  "FIPS":    125,
 "year": "2007",
-"population_z": -0.43636 
+"emp_pop_z": -0.074186 
 },
 "1153": {
  "FIPS":      1,
 "year": "2008",
-"population_z": 2.2832 
+"emp_pop_z": -0.2717 
 },
 "1154": {
  "FIPS":      3,
 "year": "2008",
-"population_z": -0.40121 
+"emp_pop_z": 0.5442 
 },
 "1155": {
  "FIPS":      5,
 "year": "2008",
-"population_z":  3.142 
+"emp_pop_z": 0.54648 
 },
 "1156": {
  "FIPS":      7,
 "year": "2008",
-"population_z": -0.42264 
+"emp_pop_z": -0.61096 
 },
 "1157": {
  "FIPS":      9,
 "year": "2008",
-"population_z": -0.47614 
+"emp_pop_z": -0.595 
 },
 "1158": {
  "FIPS":     11,
 "year": "2008",
-"population_z": -0.46238 
+"emp_pop_z": -1.1338 
 },
 "1159": {
  "FIPS":     13,
 "year": "2008",
-"population_z": 1.4099 
+"emp_pop_z": 0.8196 
 },
 "1160": {
  "FIPS":     14,
 "year": "2008",
-"population_z": -0.14538 
+"emp_pop_z": 0.83727 
 },
 "1161": {
  "FIPS":     15,
 "year": "2008",
-"population_z": -0.38773 
+"emp_pop_z": -0.14464 
 },
 "1162": {
  "FIPS":     17,
 "year": "2008",
-"population_z": -0.4893 
+"emp_pop_z": -0.12282 
 },
 "1163": {
  "FIPS":     19,
 "year": "2008",
-"population_z": -0.44085 
+"emp_pop_z": -0.25514 
 },
 "1164": {
  "FIPS":     21,
 "year": "2008",
-"population_z": -0.44681 
+"emp_pop_z": -1.4901 
 },
 "1165": {
  "FIPS":     23,
 "year": "2008",
-"population_z": -0.47808 
+"emp_pop_z": -1.2007 
 },
 "1166": {
  "FIPS":     25,
 "year": "2008",
-"population_z": -0.46313 
+"emp_pop_z": -1.235 
 },
 "1167": {
  "FIPS":     27,
 "year": "2008",
-"population_z": -0.47475 
+"emp_pop_z": -1.1296 
 },
 "1168": {
  "FIPS":     29,
 "year": "2008",
-"population_z": -0.30297 
+"emp_pop_z": -0.6531 
 },
 "1169": {
  "FIPS":     31,
 "year": "2008",
-"population_z": 3.3101 
+"emp_pop_z": 2.0534 
 },
 "1170": {
  "FIPS":     33,
 "year": "2008",
-"population_z": -0.48815 
+"emp_pop_z": -1.1685 
 },
 "1171": {
  "FIPS":     35,
 "year": "2008",
-"population_z": 1.3111 
+"emp_pop_z": -0.42167 
 },
 "1172": {
  "FIPS":     37,
 "year": "2008",
-"population_z": -0.17223 
+"emp_pop_z": 1.3065 
 },
 "1173": {
  "FIPS":     39,
 "year": "2008",
-"population_z": -0.35327 
+"emp_pop_z": -1.4972 
 },
 "1174": {
  "FIPS":     41,
 "year": "2008",
-"population_z": 3.4225 
+"emp_pop_z": -0.02076 
 },
 "1175": {
  "FIPS":     43,
 "year": "2008",
-"population_z": -0.19533 
+"emp_pop_z": -0.68739 
 },
 "1176": {
  "FIPS":     45,
 "year": "2008",
-"population_z": -0.14652 
+"emp_pop_z": 0.66282 
 },
 "1177": {
  "FIPS":     47,
 "year": "2008",
-"population_z": -0.46843 
+"emp_pop_z": 2.9899 
 },
 "1178": {
  "FIPS":     49,
 "year": "2008",
-"population_z": -0.40652 
+"emp_pop_z": 0.56926 
 },
 "1179": {
  "FIPS":     51,
 "year": "2008",
-"population_z": -0.40257 
+"emp_pop_z": 0.80717 
 },
 "1180": {
  "FIPS":     53,
 "year": "2008",
-"population_z": -0.49633 
+"emp_pop_z": -0.29005 
 },
 "1181": {
  "FIPS":     55,
 "year": "2008",
-"population_z": -0.45142 
+"emp_pop_z": -0.80713 
 },
 "1182": {
  "FIPS":     57,
 "year": "2008",
-"population_z": -0.49269 
+"emp_pop_z": 0.038905 
 },
 "1183": {
  "FIPS":     59,
 "year": "2008",
-"population_z": 2.9738 
+"emp_pop_z": -0.078869 
 },
 "1184": {
  "FIPS":     61,
 "year": "2008",
-"population_z": -0.49235 
+"emp_pop_z": -0.69232 
 },
 "1185": {
  "FIPS":     63,
 "year": "2008",
-"population_z": -0.44905 
+"emp_pop_z": -0.23779 
 },
 "1186": {
  "FIPS":     65,
 "year": "2008",
-"population_z": -0.17372 
+"emp_pop_z": 0.58573 
 },
 "1187": {
  "FIPS":     67,
 "year": "2008",
-"population_z": -0.45411 
+"emp_pop_z": -0.74082 
 },
 "1188": {
  "FIPS":     69,
 "year": "2008",
-"population_z": 1.4136 
+"emp_pop_z": 0.20791 
 },
 "1189": {
  "FIPS":     71,
 "year": "2008",
-"population_z": -0.40029 
+"emp_pop_z": -0.076756 
 },
 "1190": {
  "FIPS":     73,
 "year": "2008",
-"population_z": -0.46556 
+"emp_pop_z": -0.22081 
 },
 "1191": {
  "FIPS":     75,
 "year": "2008",
-"population_z": -0.3555 
+"emp_pop_z": -0.1784 
 },
 "1192": {
  "FIPS":     77,
 "year": "2008",
-"population_z": 0.41981 
+"emp_pop_z": 0.26305 
 },
 "1193": {
  "FIPS":     79,
 "year": "2008",
-"population_z": -0.49671 
+"emp_pop_z": 1.2704 
 },
 "1194": {
  "FIPS":     81,
 "year": "2008",
-"population_z": -0.41365 
+"emp_pop_z": -0.025384 
 },
 "1195": {
  "FIPS":     83,
 "year": "2008",
-"population_z": -0.33666 
+"emp_pop_z": -0.2963 
 },
 "1196": {
  "FIPS":     85,
 "year": "2008",
-"population_z": -0.24002 
+"emp_pop_z": -0.1891 
 },
 "1197": {
  "FIPS":     87,
 "year": "2008",
-"population_z": -0.31998 
+"emp_pop_z": -0.03885 
 },
 "1198": {
  "FIPS":     89,
 "year": "2008",
-"population_z": -0.37823 
+"emp_pop_z": -0.4685 
 },
 "1199": {
  "FIPS":     91,
 "year": "2008",
-"population_z": -0.47286 
+"emp_pop_z": -0.076001 
 },
 "1200": {
  "FIPS":     93,
 "year": "2008",
-"population_z": -0.3951 
+"emp_pop_z": -1.5118 
 },
 "1201": {
  "FIPS":     95,
 "year": "2008",
-"population_z": -0.47257 
+"emp_pop_z": -0.42053 
 },
 "1202": {
  "FIPS":     97,
 "year": "2008",
-"population_z": -0.39251 
+"emp_pop_z": 3.5638 
 },
 "1203": {
  "FIPS":     99,
 "year": "2008",
-"population_z": -0.41866 
+"emp_pop_z": -0.14888 
 },
 "1204": {
  "FIPS":    101,
 "year": "2008",
-"population_z": 0.52182 
+"emp_pop_z": -0.26303 
 },
 "1205": {
  "FIPS":    103,
 "year": "2008",
-"population_z": -0.46138 
+"emp_pop_z": 1.3648 
 },
 "1206": {
  "FIPS":    105,
 "year": "2008",
-"population_z": -0.42244 
+"emp_pop_z": -0.33853 
 },
 "1207": {
  "FIPS":    107,
 "year": "2008",
-"population_z": -0.35152 
+"emp_pop_z": 1.4403 
 },
 "1208": {
  "FIPS":    109,
 "year": "2008",
-"population_z": -0.46127 
+"emp_pop_z": -0.90908 
 },
 "1209": {
  "FIPS":    111,
 "year": "2008",
-"population_z": -0.49716 
+"emp_pop_z": 0.017272 
 },
 "1210": {
  "FIPS":    113,
 "year": "2008",
-"population_z": -0.45389 
+"emp_pop_z": 1.6374 
 },
 "1211": {
  "FIPS":    115,
 "year": "2008",
-"population_z": -0.48588 
+"emp_pop_z": -0.38961 
 },
 "1212": {
  "FIPS":    117,
 "year": "2008",
-"population_z": -0.32182 
+"emp_pop_z": 1.5738 
 },
 "1213": {
  "FIPS":    119,
 "year": "2008",
-"population_z": -0.3504 
+"emp_pop_z": -0.63728 
 },
 "1214": {
  "FIPS":    121,
 "year": "2008",
-"population_z": -0.47028 
+"emp_pop_z": -1.0364 
 },
 "1215": {
  "FIPS":    123,
 "year": "2008",
-"population_z": 1.0974 
+"emp_pop_z": -0.40218 
 },
 "1216": {
  "FIPS":    125,
 "year": "2008",
-"population_z": -0.43691 
+"emp_pop_z": 0.012596 
 },
 "1217": {
  "FIPS":      1,
 "year": "2009",
-"population_z": 2.3092 
+"emp_pop_z": -0.29904 
 },
 "1218": {
  "FIPS":      3,
 "year": "2009",
-"population_z": -0.40226 
+"emp_pop_z": 0.71327 
 },
 "1219": {
  "FIPS":      5,
 "year": "2009",
-"population_z": 3.1474 
+"emp_pop_z": 0.55773 
 },
 "1220": {
  "FIPS":      7,
 "year": "2009",
-"population_z": -0.42417 
+"emp_pop_z": -0.69982 
 },
 "1221": {
  "FIPS":      9,
 "year": "2009",
-"population_z": -0.47624 
+"emp_pop_z": -0.51257 
 },
 "1222": {
  "FIPS":     11,
 "year": "2009",
-"population_z": -0.45907 
+"emp_pop_z": -1.2043 
 },
 "1223": {
  "FIPS":     13,
 "year": "2009",
-"population_z": 1.3903 
+"emp_pop_z": 0.81906 
 },
 "1224": {
  "FIPS":     14,
 "year": "2009",
-"population_z": -0.14416 
+"emp_pop_z": 0.93641 
 },
 "1225": {
  "FIPS":     15,
 "year": "2009",
-"population_z": -0.38743 
+"emp_pop_z": -0.12584 
 },
 "1226": {
  "FIPS":     17,
 "year": "2009",
-"population_z": -0.489 
+"emp_pop_z": 0.050442 
 },
 "1227": {
  "FIPS":     19,
 "year": "2009",
-"population_z": -0.44246 
+"emp_pop_z": -0.25504 
 },
 "1228": {
  "FIPS":     21,
 "year": "2009",
-"population_z": -0.44793 
+"emp_pop_z": -1.525 
 },
 "1229": {
  "FIPS":     23,
 "year": "2009",
-"population_z": -0.47823 
+"emp_pop_z": -1.1848 
 },
 "1230": {
  "FIPS":     25,
 "year": "2009",
-"population_z": -0.46343 
+"emp_pop_z": -1.2431 
 },
 "1231": {
  "FIPS":     27,
 "year": "2009",
-"population_z": -0.47397 
+"emp_pop_z": -1.1529 
 },
 "1232": {
  "FIPS":     29,
 "year": "2009",
-"population_z": -0.30358 
+"emp_pop_z": -0.69475 
 },
 "1233": {
  "FIPS":     31,
 "year": "2009",
-"population_z": 3.3347 
+"emp_pop_z": 2.0227 
 },
 "1234": {
  "FIPS":     33,
 "year": "2009",
-"population_z": -0.48759 
+"emp_pop_z": -1.2748 
 },
 "1235": {
  "FIPS":     35,
 "year": "2009",
-"population_z": 1.3164 
+"emp_pop_z": -0.45692 
 },
 "1236": {
  "FIPS":     37,
 "year": "2009",
-"population_z": -0.16901 
+"emp_pop_z": 1.0913 
 },
 "1237": {
  "FIPS":     39,
 "year": "2009",
-"population_z": -0.35339 
+"emp_pop_z": -1.6066 
 },
 "1238": {
  "FIPS":     41,
 "year": "2009",
-"population_z": 3.4181 
+"emp_pop_z": -0.039184 
 },
 "1239": {
  "FIPS":     43,
 "year": "2009",
-"population_z": -0.20047 
+"emp_pop_z": -0.70024 
 },
 "1240": {
  "FIPS":     45,
 "year": "2009",
-"population_z": -0.14402 
+"emp_pop_z": 0.38972 
 },
 "1241": {
  "FIPS":     47,
 "year": "2009",
-"population_z": -0.46605 
+"emp_pop_z": 3.4761 
 },
 "1242": {
  "FIPS":     49,
 "year": "2009",
-"population_z": -0.40637 
+"emp_pop_z": 0.45679 
 },
 "1243": {
  "FIPS":     51,
 "year": "2009",
-"population_z": -0.40249 
+"emp_pop_z": 0.75917 
 },
 "1244": {
  "FIPS":     53,
 "year": "2009",
-"population_z": -0.49548 
+"emp_pop_z": -0.19656 
 },
 "1245": {
  "FIPS":     55,
 "year": "2009",
-"population_z": -0.45759 
+"emp_pop_z": -0.64376 
 },
 "1246": {
  "FIPS":     57,
 "year": "2009",
-"population_z": -0.49188 
+"emp_pop_z": 0.26749 
 },
 "1247": {
  "FIPS":     59,
 "year": "2009",
-"population_z": 2.9292 
+"emp_pop_z": -0.054644 
 },
 "1248": {
  "FIPS":     61,
 "year": "2009",
-"population_z": -0.49184 
+"emp_pop_z": -0.54953 
 },
 "1249": {
  "FIPS":     63,
 "year": "2009",
-"population_z": -0.44755 
+"emp_pop_z": -0.16872 
 },
 "1250": {
  "FIPS":     65,
 "year": "2009",
-"population_z": -0.17391 
+"emp_pop_z": 0.54716 
 },
 "1251": {
  "FIPS":     67,
 "year": "2009",
-"population_z": -0.4546 
+"emp_pop_z": -0.79331 
 },
 "1252": {
  "FIPS":     69,
 "year": "2009",
-"population_z": 1.4151 
+"emp_pop_z": 0.21285 
 },
 "1253": {
  "FIPS":     71,
 "year": "2009",
-"population_z": -0.40113 
+"emp_pop_z": -0.21987 
 },
 "1254": {
  "FIPS":     73,
 "year": "2009",
-"population_z": -0.46562 
+"emp_pop_z": -0.12531 
 },
 "1255": {
  "FIPS":     75,
 "year": "2009",
-"population_z": -0.35579 
+"emp_pop_z": -0.11465 
 },
 "1256": {
  "FIPS":     77,
 "year": "2009",
-"population_z": 0.43169 
+"emp_pop_z": 0.15719 
 },
 "1257": {
  "FIPS":     79,
 "year": "2009",
-"population_z": -0.49621 
+"emp_pop_z": 1.6545 
 },
 "1258": {
  "FIPS":     81,
 "year": "2009",
-"population_z": -0.41358 
+"emp_pop_z": 0.08797 
 },
 "1259": {
  "FIPS":     83,
 "year": "2009",
-"population_z": -0.33745 
+"emp_pop_z": -0.27919 
 },
 "1260": {
  "FIPS":     85,
 "year": "2009",
-"population_z": -0.23882 
+"emp_pop_z": -0.25892 
 },
 "1261": {
  "FIPS":     87,
 "year": "2009",
-"population_z": -0.32031 
+"emp_pop_z": 0.054272 
 },
 "1262": {
  "FIPS":     89,
 "year": "2009",
-"population_z": -0.37945 
+"emp_pop_z": -0.35256 
 },
 "1263": {
  "FIPS":     91,
 "year": "2009",
-"population_z": -0.47265 
+"emp_pop_z": -0.187 
 },
 "1264": {
  "FIPS":     93,
 "year": "2009",
-"population_z": -0.39795 
+"emp_pop_z": -1.6057 
 },
 "1265": {
  "FIPS":     95,
 "year": "2009",
-"population_z": -0.47212 
+"emp_pop_z": -0.24483 
 },
 "1266": {
  "FIPS":     97,
 "year": "2009",
-"population_z": -0.39098 
+"emp_pop_z": 3.2955 
 },
 "1267": {
  "FIPS":     99,
 "year": "2009",
-"population_z": -0.41981 
+"emp_pop_z": -0.1289 
 },
 "1268": {
  "FIPS":    101,
 "year": "2009",
-"population_z": 0.51238 
+"emp_pop_z": -0.23721 
 },
 "1269": {
  "FIPS":    103,
 "year": "2009",
-"population_z": -0.46012 
+"emp_pop_z": 0.83969 
 },
 "1270": {
  "FIPS":    105,
 "year": "2009",
-"population_z": -0.42355 
+"emp_pop_z": -0.21887 
 },
 "1271": {
  "FIPS":    107,
 "year": "2009",
-"population_z": -0.35059 
+"emp_pop_z":   1.26 
 },
 "1272": {
  "FIPS":    109,
 "year": "2009",
-"population_z": -0.46135 
+"emp_pop_z": -0.87097 
 },
 "1273": {
  "FIPS":    111,
 "year": "2009",
-"population_z": -0.49638 
+"emp_pop_z": 0.037997 
 },
 "1274": {
  "FIPS":    113,
 "year": "2009",
-"population_z": -0.454 
+"emp_pop_z": 1.5056 
 },
 "1275": {
  "FIPS":    115,
 "year": "2009",
-"population_z": -0.4855 
+"emp_pop_z": -0.30094 
 },
 "1276": {
  "FIPS":    117,
 "year": "2009",
-"population_z": -0.32188 
+"emp_pop_z":  1.492 
 },
 "1277": {
  "FIPS":    119,
 "year": "2009",
-"population_z": -0.35136 
+"emp_pop_z": -0.63609 
 },
 "1278": {
  "FIPS":    121,
 "year": "2009",
-"population_z": -0.47004 
+"emp_pop_z": -1.0494 
 },
 "1279": {
  "FIPS":    123,
 "year": "2009",
-"population_z": 1.1025 
+"emp_pop_z": -0.46128 
 },
 "1280": {
  "FIPS":    125,
 "year": "2009",
-"population_z": -0.43617 
+"emp_pop_z": -0.011916 
 },
 "1281": {
  "FIPS":      1,
 "year": "2010",
-"population_z": 2.3099 
+"emp_pop_z": -0.30026 
 },
 "1282": {
  "FIPS":      3,
 "year": "2010",
-"population_z": -0.40168 
+"emp_pop_z": 0.78483 
 },
 "1283": {
  "FIPS":      5,
 "year": "2010",
-"population_z": 3.1401 
+"emp_pop_z": 0.56933 
 },
 "1284": {
  "FIPS":      7,
 "year": "2010",
-"population_z": -0.42329 
+"emp_pop_z": -0.71211 
 },
 "1285": {
  "FIPS":      9,
 "year": "2010",
-"population_z": -0.47563 
+"emp_pop_z": -0.47233 
 },
 "1286": {
  "FIPS":     11,
 "year": "2010",
-"population_z": -0.45846 
+"emp_pop_z": -1.1405 
 },
 "1287": {
  "FIPS":     13,
 "year": "2010",
-"population_z": 1.3721 
+"emp_pop_z": 0.85094 
 },
 "1288": {
  "FIPS":     14,
 "year": "2010",
-"population_z": -0.14439 
+"emp_pop_z": 0.96951 
 },
 "1289": {
  "FIPS":     15,
 "year": "2010",
-"population_z": -0.38697 
+"emp_pop_z": -0.12761 
 },
 "1290": {
  "FIPS":     17,
 "year": "2010",
-"population_z": -0.48804 
+"emp_pop_z": 0.18616 
 },
 "1291": {
  "FIPS":     19,
 "year": "2010",
-"population_z": -0.44169 
+"emp_pop_z": -0.21859 
 },
 "1292": {
  "FIPS":     21,
 "year": "2010",
-"population_z": -0.44722 
+"emp_pop_z": -1.4473 
 },
 "1293": {
  "FIPS":     23,
 "year": "2010",
-"population_z": -0.47729 
+"emp_pop_z": -1.0904 
 },
 "1294": {
  "FIPS":     25,
 "year": "2010",
-"population_z": -0.46269 
+"emp_pop_z": -1.1879 
 },
 "1295": {
  "FIPS":     27,
 "year": "2010",
-"population_z": -0.47261 
+"emp_pop_z": -1.1274 
 },
 "1296": {
  "FIPS":     29,
 "year": "2010",
-"population_z": -0.30407 
+"emp_pop_z": -0.73127 
 },
 "1297": {
  "FIPS":     31,
 "year": "2010",
-"population_z": 3.3304 
+"emp_pop_z":  1.999 
 },
 "1298": {
  "FIPS":     33,
 "year": "2010",
-"population_z": -0.48661 
+"emp_pop_z": -1.2294 
 },
 "1299": {
  "FIPS":     35,
 "year": "2010",
-"population_z": 1.3184 
+"emp_pop_z": -0.43169 
 },
 "1300": {
  "FIPS":     37,
 "year": "2010",
-"population_z": -0.17004 
+"emp_pop_z": 0.93283 
 },
 "1301": {
  "FIPS":     39,
 "year": "2010",
-"population_z": -0.35335 
+"emp_pop_z": -1.5721 
 },
 "1302": {
  "FIPS":     41,
 "year": "2010",
-"population_z": 3.4719 
+"emp_pop_z": -0.066835 
 },
 "1303": {
  "FIPS":     43,
 "year": "2010",
-"population_z": -0.20298 
+"emp_pop_z": -0.64976 
 },
 "1304": {
  "FIPS":     45,
 "year": "2010",
-"population_z": -0.14412 
+"emp_pop_z": 0.19427 
 },
 "1305": {
  "FIPS":     47,
 "year": "2010",
-"population_z": -0.46507 
+"emp_pop_z": 3.9834 
 },
 "1306": {
  "FIPS":     49,
 "year": "2010",
-"population_z": -0.40601 
+"emp_pop_z": 0.36524 
 },
 "1307": {
  "FIPS":     51,
 "year": "2010",
-"population_z": -0.40272 
+"emp_pop_z": 0.74712 
 },
 "1308": {
  "FIPS":     53,
 "year": "2010",
-"population_z": -0.49432 
+"emp_pop_z": -0.39195 
 },
 "1309": {
  "FIPS":     55,
 "year": "2010",
-"population_z": -0.45752 
+"emp_pop_z": -0.73165 
 },
 "1310": {
  "FIPS":     57,
 "year": "2010",
-"population_z": -0.49088 
+"emp_pop_z": 0.26997 
 },
 "1311": {
  "FIPS":     59,
 "year": "2010",
-"population_z":  2.892 
+"emp_pop_z": -0.016526 
 },
 "1312": {
  "FIPS":     61,
 "year": "2010",
-"population_z": -0.4908 
+"emp_pop_z": -0.48474 
 },
 "1313": {
  "FIPS":     63,
 "year": "2010",
-"population_z": -0.44731 
+"emp_pop_z": -0.077413 
 },
 "1314": {
  "FIPS":     65,
 "year": "2010",
-"population_z": -0.17394 
+"emp_pop_z": 0.48605 
 },
 "1315": {
  "FIPS":     67,
 "year": "2010",
-"population_z": -0.45355 
+"emp_pop_z": -0.82906 
 },
 "1316": {
  "FIPS":     69,
 "year": "2010",
-"population_z": 1.4033 
+"emp_pop_z": 0.25861 
 },
 "1317": {
  "FIPS":     71,
 "year": "2010",
-"population_z": -0.4021 
+"emp_pop_z": -0.26253 
 },
 "1318": {
  "FIPS":     73,
 "year": "2010",
-"population_z": -0.465 
+"emp_pop_z": -0.032785 
 },
 "1319": {
  "FIPS":     75,
 "year": "2010",
-"population_z": -0.3585 
+"emp_pop_z": -0.12978 
 },
 "1320": {
  "FIPS":     77,
 "year": "2010",
-"population_z": 0.43185 
+"emp_pop_z": 0.056872 
 },
 "1321": {
  "FIPS":     79,
 "year": "2010",
-"population_z": -0.49519 
+"emp_pop_z": 1.6734 
 },
 "1322": {
  "FIPS":     81,
 "year": "2010",
-"population_z": -0.41224 
+"emp_pop_z": -0.088709 
 },
 "1323": {
  "FIPS":     83,
 "year": "2010",
-"population_z": -0.33799 
+"emp_pop_z": -0.23713 
 },
 "1324": {
  "FIPS":     85,
 "year": "2010",
-"population_z": -0.23886 
+"emp_pop_z": -0.31246 
 },
 "1325": {
  "FIPS":     87,
 "year": "2010",
-"population_z": -0.32112 
+"emp_pop_z": 0.13672 
 },
 "1326": {
  "FIPS":     89,
 "year": "2010",
-"population_z": -0.38038 
+"emp_pop_z": -0.32823 
 },
 "1327": {
  "FIPS":     91,
 "year": "2010",
-"population_z": -0.47151 
+"emp_pop_z": -0.28286 
 },
 "1328": {
  "FIPS":     93,
 "year": "2010",
-"population_z": -0.39669 
+"emp_pop_z": -1.5645 
 },
 "1329": {
  "FIPS":     95,
 "year": "2010",
-"population_z": -0.47139 
+"emp_pop_z": -0.19087 
 },
 "1330": {
  "FIPS":     97,
 "year": "2010",
-"population_z": -0.39103 
+"emp_pop_z":  3.139 
 },
 "1331": {
  "FIPS":     99,
 "year": "2010",
-"population_z": -0.42031 
+"emp_pop_z": -0.059453 
 },
 "1332": {
  "FIPS":    101,
 "year": "2010",
-"population_z": 0.51026 
+"emp_pop_z": -0.20038 
 },
 "1333": {
  "FIPS":    103,
 "year": "2010",
-"population_z": -0.45776 
+"emp_pop_z": 0.5799 
 },
 "1334": {
  "FIPS":    105,
 "year": "2010",
-"population_z": -0.42367 
+"emp_pop_z": -0.14694 
 },
 "1335": {
  "FIPS":    107,
 "year": "2010",
-"population_z": -0.35124 
+"emp_pop_z": 1.0591 
 },
 "1336": {
  "FIPS":    109,
 "year": "2010",
-"population_z": -0.46075 
+"emp_pop_z": -0.81365 
 },
 "1337": {
  "FIPS":    111,
 "year": "2010",
-"population_z": -0.49517 
+"emp_pop_z": -0.044405 
 },
 "1338": {
  "FIPS":    113,
 "year": "2010",
-"population_z": -0.45308 
+"emp_pop_z": 1.4227 
 },
 "1339": {
  "FIPS":    115,
 "year": "2010",
-"population_z": -0.48467 
+"emp_pop_z": -0.3686 
 },
 "1340": {
  "FIPS":    117,
 "year": "2010",
-"population_z": -0.3219 
+"emp_pop_z": 1.4671 
 },
 "1341": {
  "FIPS":    119,
 "year": "2010",
-"population_z": -0.35123 
+"emp_pop_z": -0.58098 
 },
 "1342": {
  "FIPS":    121,
 "year": "2010",
-"population_z": -0.46917 
+"emp_pop_z": -0.992 
 },
 "1343": {
  "FIPS":    123,
 "year": "2010",
-"population_z": 1.1101 
+"emp_pop_z": -0.45363 
 },
 "1344": {
  "FIPS":    125,
 "year": "2010",
-"population_z": -0.43614 
+"emp_pop_z": -0.0055068 
 },
 "1345": {
  "FIPS":      1,
 "year": "2011",
-"population_z": 2.3129 
+"emp_pop_z": -0.25576 
 },
 "1346": {
  "FIPS":      3,
 "year": "2011",
-"population_z": -0.40001 
+"emp_pop_z": 0.69747 
 },
 "1347": {
  "FIPS":      5,
 "year": "2011",
-"population_z": 3.1438 
+"emp_pop_z": 0.58259 
 },
 "1348": {
  "FIPS":      7,
 "year": "2011",
-"population_z": -0.42284 
+"emp_pop_z": -0.70182 
 },
 "1349": {
  "FIPS":      9,
 "year": "2011",
-"population_z": -0.4739 
+"emp_pop_z": -0.47958 
 },
 "1350": {
  "FIPS":     11,
 "year": "2011",
-"population_z": -0.45829 
+"emp_pop_z": -1.1942 
 },
 "1351": {
  "FIPS":     13,
 "year": "2011",
-"population_z": 1.3694 
+"emp_pop_z": 0.87409 
 },
 "1352": {
  "FIPS":     14,
 "year": "2011",
-"population_z": -0.14169 
+"emp_pop_z": 0.94851 
 },
 "1353": {
  "FIPS":     15,
 "year": "2011",
-"population_z": -0.38552 
+"emp_pop_z": -0.13225 
 },
 "1354": {
  "FIPS":     17,
 "year": "2011",
-"population_z": -0.48591 
+"emp_pop_z": 0.13934 
 },
 "1355": {
  "FIPS":     19,
 "year": "2011",
-"population_z": -0.44111 
+"emp_pop_z": -0.20757 
 },
 "1356": {
  "FIPS":     21,
 "year": "2011",
-"population_z": -0.44597 
+"emp_pop_z": -1.4672 
 },
 "1357": {
  "FIPS":     23,
 "year": "2011",
-"population_z": -0.47483 
+"emp_pop_z": -1.1425 
 },
 "1358": {
  "FIPS":     25,
 "year": "2011",
-"population_z": -0.46132 
+"emp_pop_z": -1.1723 
 },
 "1359": {
  "FIPS":     27,
 "year": "2011",
-"population_z": -0.47124 
+"emp_pop_z": -1.1534 
 },
 "1360": {
  "FIPS":     29,
 "year": "2011",
-"population_z": -0.30859 
+"emp_pop_z": -0.70313 
 },
 "1361": {
  "FIPS":     31,
 "year": "2011",
-"population_z": 3.3631 
+"emp_pop_z": 1.8982 
 },
 "1362": {
  "FIPS":     33,
 "year": "2011",
-"population_z": -0.48493 
+"emp_pop_z": -1.1986 
 },
 "1363": {
  "FIPS":     35,
 "year": "2011",
-"population_z": 1.3212 
+"emp_pop_z": -0.45118 
 },
 "1364": {
  "FIPS":     37,
 "year": "2011",
-"population_z": -0.17636 
+"emp_pop_z": 0.96084 
 },
 "1365": {
  "FIPS":     39,
 "year": "2011",
-"population_z": -0.35314 
+"emp_pop_z": -1.6224 
 },
 "1366": {
  "FIPS":     41,
 "year": "2011",
-"population_z": 3.4706 
+"emp_pop_z": -0.089251 
 },
 "1367": {
  "FIPS":     43,
 "year": "2011",
-"population_z": -0.20281 
+"emp_pop_z": -0.66855 
 },
 "1368": {
  "FIPS":     45,
 "year": "2011",
-"population_z": -0.14884 
+"emp_pop_z": 0.26135 
 },
 "1369": {
  "FIPS":     47,
 "year": "2011",
-"population_z": -0.46363 
+"emp_pop_z": 3.8499 
 },
 "1370": {
  "FIPS":     49,
 "year": "2011",
-"population_z": -0.40697 
+"emp_pop_z": 0.39517 
 },
 "1371": {
  "FIPS":     51,
 "year": "2011",
-"population_z": -0.40177 
+"emp_pop_z": 0.69822 
 },
 "1372": {
  "FIPS":     53,
 "year": "2011",
-"population_z": -0.49238 
+"emp_pop_z": -0.31165 
 },
 "1373": {
  "FIPS":     55,
 "year": "2011",
-"population_z": -0.45709 
+"emp_pop_z": -0.71013 
 },
 "1374": {
  "FIPS":     57,
 "year": "2011",
-"population_z": -0.48896 
+"emp_pop_z": 0.31102 
 },
 "1375": {
  "FIPS":     59,
 "year": "2011",
-"population_z": 2.8586 
+"emp_pop_z": -0.018193 
 },
 "1376": {
  "FIPS":     61,
 "year": "2011",
-"population_z": -0.48854 
+"emp_pop_z": -0.2951 
 },
 "1377": {
  "FIPS":     63,
 "year": "2011",
-"population_z": -0.44663 
+"emp_pop_z": -0.12754 
 },
 "1378": {
  "FIPS":     65,
 "year": "2011",
-"population_z": -0.17485 
+"emp_pop_z": 0.42713 
 },
 "1379": {
  "FIPS":     67,
 "year": "2011",
-"population_z": -0.45159 
+"emp_pop_z": -0.82039 
 },
 "1380": {
  "FIPS":     69,
 "year": "2011",
-"population_z": 1.3996 
+"emp_pop_z": 0.25144 
 },
 "1381": {
  "FIPS":     71,
 "year": "2011",
-"population_z": -0.40397 
+"emp_pop_z": -0.28926 
 },
 "1382": {
  "FIPS":     73,
 "year": "2011",
-"population_z": -0.46389 
+"emp_pop_z": 0.040093 
 },
 "1383": {
  "FIPS":     75,
 "year": "2011",
-"population_z": -0.35906 
+"emp_pop_z": -0.15587 
 },
 "1384": {
  "FIPS":     77,
 "year": "2011",
-"population_z": 0.42323 
+"emp_pop_z": 0.04454 
 },
 "1385": {
  "FIPS":     79,
 "year": "2011",
-"population_z": -0.49311 
+"emp_pop_z": 1.8789 
 },
 "1386": {
  "FIPS":     81,
 "year": "2011",
-"population_z": -0.41414 
+"emp_pop_z": -0.077376 
 },
 "1387": {
  "FIPS":     83,
 "year": "2011",
-"population_z": -0.33923 
+"emp_pop_z": -0.23055 
 },
 "1388": {
  "FIPS":     85,
 "year": "2011",
-"population_z": -0.24302 
+"emp_pop_z": -0.3702 
 },
 "1389": {
  "FIPS":     87,
 "year": "2011",
-"population_z": -0.3206 
+"emp_pop_z": 0.24275 
 },
 "1390": {
  "FIPS":     89,
 "year": "2011",
-"population_z": -0.38039 
+"emp_pop_z": -0.37122 
 },
 "1391": {
  "FIPS":     91,
 "year": "2011",
-"population_z":  -0.47 
+"emp_pop_z": -0.43412 
 },
 "1392": {
  "FIPS":     93,
 "year": "2011",
-"population_z": -0.39743 
+"emp_pop_z": -1.5857 
 },
 "1393": {
  "FIPS":     95,
 "year": "2011",
-"population_z": -0.4703 
+"emp_pop_z": -0.19107 
 },
 "1394": {
  "FIPS":     97,
 "year": "2011",
-"population_z": -0.39098 
+"emp_pop_z": 3.1592 
 },
 "1395": {
  "FIPS":     99,
 "year": "2011",
-"population_z": -0.42005 
+"emp_pop_z": 0.019895 
 },
 "1396": {
  "FIPS":    101,
 "year": "2011",
-"population_z": 0.49914 
+"emp_pop_z": -0.19006 
 },
 "1397": {
  "FIPS":    103,
 "year": "2011",
-"population_z": -0.4556 
+"emp_pop_z": 0.54338 
 },
 "1398": {
  "FIPS":    105,
 "year": "2011",
-"population_z": -0.42345 
+"emp_pop_z": -0.23889 
 },
 "1399": {
  "FIPS":    107,
 "year": "2011",
-"population_z": -0.35301 
+"emp_pop_z": 1.0979 
 },
 "1400": {
  "FIPS":    109,
 "year": "2011",
-"population_z": -0.45896 
+"emp_pop_z": -0.90381 
 },
 "1401": {
  "FIPS":    111,
 "year": "2011",
-"population_z": -0.49319 
+"emp_pop_z": 0.14664 
 },
 "1402": {
  "FIPS":    113,
 "year": "2011",
-"population_z": -0.45095 
+"emp_pop_z": 1.3503 
 },
 "1403": {
  "FIPS":    115,
 "year": "2011",
-"population_z": -0.48278 
+"emp_pop_z": -0.4038 
 },
 "1404": {
  "FIPS":    117,
 "year": "2011",
-"population_z": -0.32375 
+"emp_pop_z": 1.5468 
 },
 "1405": {
  "FIPS":    119,
 "year": "2011",
-"population_z": -0.35266 
+"emp_pop_z": -0.60199 
 },
 "1406": {
  "FIPS":    121,
 "year": "2011",
-"population_z": -0.46776 
+"emp_pop_z": -0.97488 
 },
 "1407": {
  "FIPS":    123,
 "year": "2011",
-"population_z": 1.1111 
+"emp_pop_z": -0.41536 
 },
 "1408": {
  "FIPS":    125,
 "year": "2011",
-"population_z": -0.43455 
+"emp_pop_z": -0.0087721 
 },
 "1409": {
  "FIPS":      1,
 "year": "2012",
-"population_z": 2.3171 
+"emp_pop_z": -0.25561 
 },
 "1410": {
  "FIPS":      3,
 "year": "2012",
-"population_z": -0.39991 
+"emp_pop_z": 0.59171 
 },
 "1411": {
  "FIPS":      5,
 "year": "2012",
-"population_z": 3.1454 
+"emp_pop_z": 0.59209 
 },
 "1412": {
  "FIPS":      7,
 "year": "2012",
-"population_z": -0.42176 
+"emp_pop_z": -0.73459 
 },
 "1413": {
  "FIPS":      9,
 "year": "2012",
-"population_z": -0.47292 
+"emp_pop_z": -0.51012 
 },
 "1414": {
  "FIPS":     11,
 "year": "2012",
-"population_z": -0.46052 
+"emp_pop_z": -1.3222 
 },
 "1415": {
  "FIPS":     13,
 "year": "2012",
-"population_z": 1.3692 
+"emp_pop_z": 0.89209 
 },
 "1416": {
  "FIPS":     14,
 "year": "2012",
-"population_z": -0.13654 
+"emp_pop_z": 0.99405 
 },
 "1417": {
  "FIPS":     15,
 "year": "2012",
-"population_z": -0.38504 
+"emp_pop_z": -0.11901 
 },
 "1418": {
  "FIPS":     17,
 "year": "2012",
-"population_z": -0.48429 
+"emp_pop_z": -0.015896 
 },
 "1419": {
  "FIPS":     19,
 "year": "2012",
-"population_z": -0.44024 
+"emp_pop_z": -0.2715 
 },
 "1420": {
  "FIPS":     21,
 "year": "2012",
-"population_z": -0.44537 
+"emp_pop_z": -1.4148 
 },
 "1421": {
  "FIPS":     23,
 "year": "2012",
-"population_z": -0.47381 
+"emp_pop_z": -1.0695 
 },
 "1422": {
  "FIPS":     25,
 "year": "2012",
-"population_z": -0.46295 
+"emp_pop_z": -1.1314 
 },
 "1423": {
  "FIPS":     27,
 "year": "2012",
-"population_z": -0.4699 
+"emp_pop_z": -1.197 
 },
 "1424": {
  "FIPS":     29,
 "year": "2012",
-"population_z": -0.30954 
+"emp_pop_z": -0.68663 
 },
 "1425": {
  "FIPS":     31,
 "year": "2012",
-"population_z":  3.384 
+"emp_pop_z": 1.8891 
 },
 "1426": {
  "FIPS":     33,
 "year": "2012",
-"population_z": -0.48369 
+"emp_pop_z": -1.1095 
 },
 "1427": {
  "FIPS":     35,
 "year": "2012",
-"population_z": 1.3288 
+"emp_pop_z": -0.42576 
 },
 "1428": {
  "FIPS":     37,
 "year": "2012",
-"population_z": -0.17895 
+"emp_pop_z": 0.99907 
 },
 "1429": {
  "FIPS":     39,
 "year": "2012",
-"population_z": -0.35288 
+"emp_pop_z": -1.6339 
 },
 "1430": {
  "FIPS":     41,
 "year": "2012",
-"population_z": 3.4602 
+"emp_pop_z": -0.11943 
 },
 "1431": {
  "FIPS":     43,
 "year": "2012",
-"population_z": -0.20833 
+"emp_pop_z": -0.69297 
 },
 "1432": {
  "FIPS":     45,
 "year": "2012",
-"population_z": -0.14829 
+"emp_pop_z": 0.24904 
 },
 "1433": {
  "FIPS":     47,
 "year": "2012",
-"population_z": -0.46247 
+"emp_pop_z": 3.7709 
 },
 "1434": {
  "FIPS":     49,
 "year": "2012",
-"population_z": -0.4091 
+"emp_pop_z": 0.47697 
 },
 "1435": {
  "FIPS":     51,
 "year": "2012",
-"population_z": -0.40161 
+"emp_pop_z": 0.64574 
 },
 "1436": {
  "FIPS":     53,
 "year": "2012",
-"population_z": -0.49095 
+"emp_pop_z": -0.43031 
 },
 "1437": {
  "FIPS":     55,
 "year": "2012",
-"population_z": -0.45569 
+"emp_pop_z": -0.79392 
 },
 "1438": {
  "FIPS":     57,
 "year": "2012",
-"population_z": -0.48762 
+"emp_pop_z": 0.18788 
 },
 "1439": {
  "FIPS":     59,
 "year": "2012",
-"population_z": 2.8396 
+"emp_pop_z": 0.013814 
 },
 "1440": {
  "FIPS":     61,
 "year": "2012",
-"population_z": -0.48712 
+"emp_pop_z": -0.31819 
 },
 "1441": {
  "FIPS":     63,
 "year": "2012",
-"population_z": -0.44641 
+"emp_pop_z": -0.1001 
 },
 "1442": {
  "FIPS":     65,
 "year": "2012",
-"population_z": -0.17529 
+"emp_pop_z": 0.41986 
 },
 "1443": {
  "FIPS":     67,
 "year": "2012",
-"population_z": -0.45126 
+"emp_pop_z": -0.65283 
 },
 "1444": {
  "FIPS":     69,
 "year": "2012",
-"population_z": 1.4026 
+"emp_pop_z": 0.25941 
 },
 "1445": {
  "FIPS":     71,
 "year": "2012",
-"population_z": -0.40435 
+"emp_pop_z": -0.32493 
 },
 "1446": {
  "FIPS":     73,
 "year": "2012",
-"population_z": -0.46252 
+"emp_pop_z": -0.039449 
 },
 "1447": {
  "FIPS":     75,
 "year": "2012",
-"population_z": -0.36118 
+"emp_pop_z": -0.12504 
 },
 "1448": {
  "FIPS":     77,
 "year": "2012",
-"population_z": 0.41047 
+"emp_pop_z": 0.046285 
 },
 "1449": {
  "FIPS":     79,
 "year": "2012",
-"population_z": -0.4915 
+"emp_pop_z": 2.1159 
 },
 "1450": {
  "FIPS":     81,
 "year": "2012",
-"population_z": -0.41546 
+"emp_pop_z": -0.057684 
 },
 "1451": {
  "FIPS":     83,
 "year": "2012",
-"population_z": -0.34032 
+"emp_pop_z": -0.25182 
 },
 "1452": {
  "FIPS":     85,
 "year": "2012",
-"population_z": -0.24674 
+"emp_pop_z": -0.36946 
 },
 "1453": {
  "FIPS":     87,
 "year": "2012",
-"population_z": -0.32288 
+"emp_pop_z": 0.22927 
 },
 "1454": {
  "FIPS":     89,
 "year": "2012",
-"population_z": -0.38175 
+"emp_pop_z": -0.41137 
 },
 "1455": {
  "FIPS":     91,
 "year": "2012",
-"population_z": -0.46821 
+"emp_pop_z": -0.37153 
 },
 "1456": {
  "FIPS":     93,
 "year": "2012",
-"population_z": -0.39769 
+"emp_pop_z": -1.5994 
 },
 "1457": {
  "FIPS":     95,
 "year": "2012",
-"population_z": -0.46905 
+"emp_pop_z": -0.18771 
 },
 "1458": {
  "FIPS":     97,
 "year": "2012",
-"population_z": -0.39045 
+"emp_pop_z": 3.1923 
 },
 "1459": {
  "FIPS":     99,
 "year": "2012",
-"population_z": -0.42027 
+"emp_pop_z": -0.06831 
 },
 "1460": {
  "FIPS":    101,
 "year": "2012",
-"population_z": 0.48747 
+"emp_pop_z": -0.22076 
 },
 "1461": {
  "FIPS":    103,
 "year": "2012",
-"population_z": -0.4545 
+"emp_pop_z": 0.48778 
 },
 "1462": {
  "FIPS":    105,
 "year": "2012",
-"population_z": -0.42324 
+"emp_pop_z": -0.25545 
 },
 "1463": {
  "FIPS":    107,
 "year": "2012",
-"population_z": -0.35385 
+"emp_pop_z": 1.1671 
 },
 "1464": {
  "FIPS":    109,
 "year": "2012",
-"population_z": -0.45708 
+"emp_pop_z": -0.81872 
 },
 "1465": {
  "FIPS":    111,
 "year": "2012",
-"population_z": -0.49157 
+"emp_pop_z": 0.30238 
 },
 "1466": {
  "FIPS":    113,
 "year": "2012",
-"population_z": -0.44936 
+"emp_pop_z": 1.2626 
 },
 "1467": {
  "FIPS":    115,
 "year": "2012",
-"population_z": -0.48132 
+"emp_pop_z": -0.32472 
 },
 "1468": {
  "FIPS":    117,
 "year": "2012",
-"population_z": -0.32335 
+"emp_pop_z": 1.5366 
 },
 "1469": {
  "FIPS":    119,
 "year": "2012",
-"population_z": -0.35313 
+"emp_pop_z": -0.60731 
 },
 "1470": {
  "FIPS":    121,
 "year": "2012",
-"population_z": -0.467 
+"emp_pop_z": -0.87471 
 },
 "1471": {
  "FIPS":    123,
 "year": "2012",
-"population_z": 1.1185 
+"emp_pop_z": -0.39781 
 },
 "1472": {
  "FIPS":    125,
 "year": "2012",
-"population_z": -0.43417 
+"emp_pop_z": -0.010567 
 },
 "1473": {
  "FIPS":      1,
 "year": "2013",
-"population_z": 2.3261 
+"emp_pop_z": -0.13772 
 },
 "1474": {
  "FIPS":      3,
 "year": "2013",
-"population_z": -0.39934 
+"emp_pop_z": 0.53395 
 },
 "1475": {
  "FIPS":      5,
 "year": "2013",
-"population_z": 3.1514 
+"emp_pop_z": 0.63799 
 },
 "1476": {
  "FIPS":      7,
 "year": "2013",
-"population_z": -0.42103 
+"emp_pop_z": -0.7073 
 },
 "1477": {
  "FIPS":      9,
 "year": "2013",
-"population_z": -0.47224 
+"emp_pop_z": -0.56416 
 },
 "1478": {
  "FIPS":     11,
 "year": "2013",
-"population_z": -0.4601 
+"emp_pop_z": -1.2324 
 },
 "1479": {
  "FIPS":     13,
 "year": "2013",
-"population_z": 1.3684 
+"emp_pop_z": 0.91671 
 },
 "1480": {
  "FIPS":     14,
 "year": "2013",
-"population_z": -0.13316 
+"emp_pop_z":  1.134 
 },
 "1481": {
  "FIPS":     15,
 "year": "2013",
-"population_z": -0.3846 
+"emp_pop_z": -0.11071 
 },
 "1482": {
  "FIPS":     17,
 "year": "2013",
-"population_z": -0.48288 
+"emp_pop_z": -0.088184 
 },
 "1483": {
  "FIPS":     19,
 "year": "2013",
-"population_z": -0.43987 
+"emp_pop_z": -0.27643 
 },
 "1484": {
  "FIPS":     21,
 "year": "2013",
-"population_z": -0.44497 
+"emp_pop_z": -1.4448 
 },
 "1485": {
  "FIPS":     23,
 "year": "2013",
-"population_z": -0.47304 
+"emp_pop_z": -1.0544 
 },
 "1486": {
  "FIPS":     25,
 "year": "2013",
-"population_z": -0.46261 
+"emp_pop_z": -1.2103 
 },
 "1487": {
  "FIPS":     27,
 "year": "2013",
-"population_z": -0.46856 
+"emp_pop_z": -1.2859 
 },
 "1488": {
  "FIPS":     29,
 "year": "2013",
-"population_z": -0.31211 
+"emp_pop_z": -0.72115 
 },
 "1489": {
  "FIPS":     31,
 "year": "2013",
-"population_z": 3.4007 
+"emp_pop_z": 1.8895 
 },
 "1490": {
  "FIPS":     33,
 "year": "2013",
-"population_z": -0.48219 
+"emp_pop_z": -0.94768 
 },
 "1491": {
  "FIPS":     35,
 "year": "2013",
-"population_z": 1.3454 
+"emp_pop_z": -0.34378 
 },
 "1492": {
  "FIPS":     37,
 "year": "2013",
-"population_z": -0.18005 
+"emp_pop_z": 1.0432 
 },
 "1493": {
  "FIPS":     39,
 "year": "2013",
-"population_z": -0.3523 
+"emp_pop_z": -1.617 
 },
 "1494": {
  "FIPS":     41,
 "year": "2013",
-"population_z": 3.4494 
+"emp_pop_z": -0.12148 
 },
 "1495": {
  "FIPS":     43,
 "year": "2013",
-"population_z": -0.21591 
+"emp_pop_z": -0.72967 
 },
 "1496": {
  "FIPS":     45,
 "year": "2013",
-"population_z": -0.15126 
+"emp_pop_z": 0.25654 
 },
 "1497": {
  "FIPS":     47,
 "year": "2013",
-"population_z": -0.46085 
+"emp_pop_z": 3.5665 
 },
 "1498": {
  "FIPS":     49,
 "year": "2013",
-"population_z": -0.40834 
+"emp_pop_z": 0.56064 
 },
 "1499": {
  "FIPS":     51,
 "year": "2013",
-"population_z": -0.40154 
+"emp_pop_z": 0.6559 
 },
 "1500": {
  "FIPS":     53,
 "year": "2013",
-"population_z": -0.48947 
+"emp_pop_z": -0.43922 
 },
 "1501": {
  "FIPS":     55,
 "year": "2013",
-"population_z": -0.45539 
+"emp_pop_z": -0.8095 
 },
 "1502": {
  "FIPS":     57,
 "year": "2013",
-"population_z": -0.48616 
+"emp_pop_z": 0.15767 
 },
 "1503": {
  "FIPS":     59,
 "year": "2013",
-"population_z": 2.8143 
+"emp_pop_z": 0.019212 
 },
 "1504": {
  "FIPS":     61,
 "year": "2013",
-"population_z": -0.48588 
+"emp_pop_z": -0.42744 
 },
 "1505": {
  "FIPS":     63,
 "year": "2013",
-"population_z": -0.44615 
+"emp_pop_z": -0.10389 
 },
 "1506": {
  "FIPS":     65,
 "year": "2013",
-"population_z": -0.17376 
+"emp_pop_z": 0.4513 
 },
 "1507": {
  "FIPS":     67,
 "year": "2013",
-"population_z": -0.45045 
+"emp_pop_z": -0.6687 
 },
 "1508": {
  "FIPS":     69,
 "year": "2013",
-"population_z": 1.4032 
+"emp_pop_z": 0.29087 
 },
 "1509": {
  "FIPS":     71,
 "year": "2013",
-"population_z": -0.40803 
+"emp_pop_z": -0.25246 
 },
 "1510": {
  "FIPS":     73,
 "year": "2013",
-"population_z": -0.46174 
+"emp_pop_z": -0.023749 
 },
 "1511": {
  "FIPS":     75,
 "year": "2013",
-"population_z": -0.36324 
+"emp_pop_z": -0.10218 
 },
 "1512": {
  "FIPS":     77,
 "year": "2013",
-"population_z": 0.39571 
+"emp_pop_z": 0.03165 
 },
 "1513": {
  "FIPS":     79,
 "year": "2013",
-"population_z": -0.48993 
+"emp_pop_z": 1.8405 
 },
 "1514": {
  "FIPS":     81,
 "year": "2013",
-"population_z": -0.41568 
+"emp_pop_z": -0.068325 
 },
 "1515": {
  "FIPS":     83,
 "year": "2013",
-"population_z": -0.34024 
+"emp_pop_z": -0.26033 
 },
 "1516": {
  "FIPS":     85,
 "year": "2013",
-"population_z": -0.24964 
+"emp_pop_z": -0.3844 
 },
 "1517": {
  "FIPS":     87,
 "year": "2013",
-"population_z": -0.32434 
+"emp_pop_z": 0.2278 
 },
 "1518": {
  "FIPS":     89,
 "year": "2013",
-"population_z": -0.38314 
+"emp_pop_z": -0.38925 
 },
 "1519": {
  "FIPS":     91,
 "year": "2013",
-"population_z": -0.467 
+"emp_pop_z": -0.22364 
 },
 "1520": {
  "FIPS":     93,
 "year": "2013",
-"population_z": -0.39713 
+"emp_pop_z": -1.6667 
 },
 "1521": {
  "FIPS":     95,
 "year": "2013",
-"population_z": -0.46819 
+"emp_pop_z": -0.079182 
 },
 "1522": {
  "FIPS":     97,
 "year": "2013",
-"population_z": -0.38979 
+"emp_pop_z": 3.3293 
 },
 "1523": {
  "FIPS":     99,
 "year": "2013",
-"population_z": -0.42082 
+"emp_pop_z": -0.13851 
 },
 "1524": {
  "FIPS":    101,
 "year": "2013",
-"population_z": 0.47329 
+"emp_pop_z": -0.24558 
 },
 "1525": {
  "FIPS":    103,
 "year": "2013",
-"population_z": -0.454 
+"emp_pop_z": 0.56282 
 },
 "1526": {
  "FIPS":    105,
 "year": "2013",
-"population_z": -0.42401 
+"emp_pop_z": -0.30699 
 },
 "1527": {
  "FIPS":    107,
 "year": "2013",
-"population_z": -0.35339 
+"emp_pop_z": 1.3237 
 },
 "1528": {
  "FIPS":    109,
 "year": "2013",
-"population_z": -0.45681 
+"emp_pop_z": -0.9208 
 },
 "1529": {
  "FIPS":    111,
 "year": "2013",
-"population_z": -0.49009 
+"emp_pop_z": 0.006589 
 },
 "1530": {
  "FIPS":    113,
 "year": "2013",
-"population_z": -0.44818 
+"emp_pop_z":  1.301 
 },
 "1531": {
  "FIPS":    115,
 "year": "2013",
-"population_z": -0.4802 
+"emp_pop_z": -0.29662 
 },
 "1532": {
  "FIPS":    117,
 "year": "2013",
-"population_z": -0.32169 
+"emp_pop_z": 1.6185 
 },
 "1533": {
  "FIPS":    119,
 "year": "2013",
-"population_z": -0.35462 
+"emp_pop_z": -0.68547 
 },
 "1534": {
  "FIPS":    121,
 "year": "2013",
-"population_z": -0.46574 
+"emp_pop_z": -0.91173 
 },
 "1535": {
  "FIPS":    123,
 "year": "2013",
-"population_z": 1.1276 
+"emp_pop_z": -0.35341 
 },
 "1536": {
  "FIPS":    125,
 "year": "2013",
-"population_z": -0.43367 
+"emp_pop_z": -0.0045821 
 },
 "1537": {
  "FIPS":      1,
 "year": "2014",
-"population_z": 2.3383 
+"emp_pop_z": -0.092364 
 },
 "1538": {
  "FIPS":      3,
 "year": "2014",
-"population_z": -0.39954 
+"emp_pop_z": 0.51368 
 },
 "1539": {
  "FIPS":      5,
 "year": "2014",
-"population_z": 3.1519 
+"emp_pop_z": 0.65213 
 },
 "1540": {
  "FIPS":      7,
 "year": "2014",
-"population_z": -0.42088 
+"emp_pop_z": -0.69606 
 },
 "1541": {
  "FIPS":      9,
 "year": "2014",
-"population_z": -0.47173 
+"emp_pop_z": -0.58907 
 },
 "1542": {
  "FIPS":     11,
 "year": "2014",
-"population_z": -0.46044 
+"emp_pop_z": -1.2175 
 },
 "1543": {
  "FIPS":     13,
 "year": "2014",
-"population_z": 1.3562 
+"emp_pop_z": 0.94445 
 },
 "1544": {
  "FIPS":     14,
 "year": "2014",
-"population_z": -0.12864 
+"emp_pop_z": 1.0628 
 },
 "1545": {
  "FIPS":     15,
 "year": "2014",
-"population_z": -0.38431 
+"emp_pop_z": -0.10189 
 },
 "1546": {
  "FIPS":     17,
 "year": "2014",
-"population_z": -0.48207 
+"emp_pop_z": -0.10935 
 },
 "1547": {
  "FIPS":     19,
 "year": "2014",
-"population_z": -0.43913 
+"emp_pop_z": -0.32965 
 },
 "1548": {
  "FIPS":     21,
 "year": "2014",
-"population_z": -0.44458 
+"emp_pop_z": -1.4712 
 },
 "1549": {
  "FIPS":     23,
 "year": "2014",
-"population_z": -0.47213 
+"emp_pop_z": -1.1132 
 },
 "1550": {
  "FIPS":     25,
 "year": "2014",
-"population_z": -0.46037 
+"emp_pop_z": -1.3044 
 },
 "1551": {
  "FIPS":     27,
 "year": "2014",
-"population_z": -0.46731 
+"emp_pop_z": -1.2779 
 },
 "1552": {
  "FIPS":     29,
 "year": "2014",
-"population_z": -0.31609 
+"emp_pop_z": -0.77154 
 },
 "1553": {
  "FIPS":     31,
 "year": "2014",
-"population_z": 3.4224 
+"emp_pop_z": 1.9596 
 },
 "1554": {
  "FIPS":     33,
 "year": "2014",
-"population_z": -0.48169 
+"emp_pop_z": 0.07783 
 },
 "1555": {
  "FIPS":     35,
 "year": "2014",
-"population_z": 1.3614 
+"emp_pop_z": -0.34717 
 },
 "1556": {
  "FIPS":     37,
 "year": "2014",
-"population_z": -0.18166 
+"emp_pop_z": 1.1031 
 },
 "1557": {
  "FIPS":     39,
 "year": "2014",
-"population_z": -0.35076 
+"emp_pop_z": -1.7044 
 },
 "1558": {
  "FIPS":     41,
 "year": "2014",
-"population_z": 3.4274 
+"emp_pop_z": -0.13671 
 },
 "1559": {
  "FIPS":     43,
 "year": "2014",
-"population_z": -0.22019 
+"emp_pop_z": -0.7815 
 },
 "1560": {
  "FIPS":     45,
 "year": "2014",
-"population_z": -0.15385 
+"emp_pop_z": 0.26283 
 },
 "1561": {
  "FIPS":     47,
 "year": "2014",
-"population_z": -0.45872 
+"emp_pop_z": 3.0564 
 },
 "1562": {
  "FIPS":     49,
 "year": "2014",
-"population_z": -0.40758 
+"emp_pop_z": 0.60308 
 },
 "1563": {
  "FIPS":     51,
 "year": "2014",
-"population_z": -0.40078 
+"emp_pop_z": 0.62437 
 },
 "1564": {
  "FIPS":     53,
 "year": "2014",
-"population_z": -0.48856 
+"emp_pop_z": -0.33735 
 },
 "1565": {
  "FIPS":     55,
 "year": "2014",
-"population_z": -0.4552 
+"emp_pop_z": -0.89506 
 },
 "1566": {
  "FIPS":     57,
 "year": "2014",
-"population_z": -0.48491 
+"emp_pop_z": 0.0098468 
 },
 "1567": {
  "FIPS":     59,
 "year": "2014",
-"population_z": 2.7993 
+"emp_pop_z": 0.018425 
 },
 "1568": {
  "FIPS":     61,
 "year": "2014",
-"population_z": -0.48492 
+"emp_pop_z": -0.60471 
 },
 "1569": {
  "FIPS":     63,
 "year": "2014",
-"population_z": -0.447 
+"emp_pop_z": 0.014954 
 },
 "1570": {
  "FIPS":     65,
 "year": "2014",
-"population_z": -0.17469 
+"emp_pop_z": 0.45205 
 },
 "1571": {
  "FIPS":     67,
 "year": "2014",
-"population_z": -0.44977 
+"emp_pop_z": -0.62815 
 },
 "1572": {
  "FIPS":     69,
 "year": "2014",
-"population_z":  1.416 
+"emp_pop_z": 0.28143 
 },
 "1573": {
  "FIPS":     71,
 "year": "2014",
-"population_z": -0.41021 
+"emp_pop_z": -0.28597 
 },
 "1574": {
  "FIPS":     73,
 "year": "2014",
-"population_z": -0.46062 
+"emp_pop_z": -0.072966 
 },
 "1575": {
  "FIPS":     75,
 "year": "2014",
-"population_z": -0.36288 
+"emp_pop_z": -0.11764 
 },
 "1576": {
  "FIPS":     77,
 "year": "2014",
-"population_z": 0.38139 
+"emp_pop_z": 0.06132 
 },
 "1577": {
  "FIPS":     79,
 "year": "2014",
-"population_z": -0.48898 
+"emp_pop_z": 2.0495 
 },
 "1578": {
  "FIPS":     81,
 "year": "2014",
-"population_z": -0.41722 
+"emp_pop_z": -0.14696 
 },
 "1579": {
  "FIPS":     83,
 "year": "2014",
-"population_z": -0.34093 
+"emp_pop_z": -0.30085 
 },
 "1580": {
  "FIPS":     85,
 "year": "2014",
-"population_z": -0.25197 
+"emp_pop_z": -0.39288 
 },
 "1581": {
  "FIPS":     87,
 "year": "2014",
-"population_z": -0.32654 
+"emp_pop_z": 0.24081 
 },
 "1582": {
  "FIPS":     89,
 "year": "2014",
-"population_z": -0.38474 
+"emp_pop_z": -0.48251 
 },
 "1583": {
  "FIPS":     91,
 "year": "2014",
-"population_z": -0.46605 
+"emp_pop_z": -0.24833 
 },
 "1584": {
  "FIPS":     93,
 "year": "2014",
-"population_z": -0.39651 
+"emp_pop_z": -1.7019 
 },
 "1585": {
  "FIPS":     95,
 "year": "2014",
-"population_z": -0.46727 
+"emp_pop_z": -0.050918 
 },
 "1586": {
  "FIPS":     97,
 "year": "2014",
-"population_z": -0.38907 
+"emp_pop_z": 3.5197 
 },
 "1587": {
  "FIPS":     99,
 "year": "2014",
-"population_z": -0.42244 
+"emp_pop_z": -0.19701 
 },
 "1588": {
  "FIPS":    101,
 "year": "2014",
-"population_z": 0.46058 
+"emp_pop_z": -0.25549 
 },
 "1589": {
  "FIPS":    103,
 "year": "2014",
-"population_z": -0.45414 
+"emp_pop_z": 0.45937 
 },
 "1590": {
  "FIPS":    105,
 "year": "2014",
-"population_z": -0.42486 
+"emp_pop_z": -0.36476 
 },
 "1591": {
  "FIPS":    107,
 "year": "2014",
-"population_z": -0.35223 
+"emp_pop_z": 1.2422 
 },
 "1592": {
  "FIPS":    109,
 "year": "2014",
-"population_z": -0.45651 
+"emp_pop_z": -0.94543 
 },
 "1593": {
  "FIPS":    111,
 "year": "2014",
-"population_z": -0.48886 
+"emp_pop_z": -0.013076 
 },
 "1594": {
  "FIPS":    113,
 "year": "2014",
-"population_z": -0.44697 
+"emp_pop_z":  1.408 
 },
 "1595": {
  "FIPS":    115,
 "year": "2014",
-"population_z": -0.47935 
+"emp_pop_z": -0.35771 
 },
 "1596": {
  "FIPS":    117,
 "year": "2014",
-"population_z": -0.31979 
+"emp_pop_z":  1.732 
 },
 "1597": {
  "FIPS":    119,
 "year": "2014",
-"population_z": -0.35519 
+"emp_pop_z": -0.72812 
 },
 "1598": {
  "FIPS":    121,
 "year": "2014",
-"population_z": -0.46498 
+"emp_pop_z": -0.92885 
 },
 "1599": {
  "FIPS":    123,
 "year": "2014",
-"population_z": 1.1343 
+"emp_pop_z": -0.24825 
 },
 "1600": {
  "FIPS":    125,
 "year": "2014",
-"population_z": -0.43336 
+"emp_pop_z": -0.0010521 
 } 
 }

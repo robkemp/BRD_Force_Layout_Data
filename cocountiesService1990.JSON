@@ -2,8001 +2,9601 @@
  "1": {
  "FIPS":      1,
 "year": "1990",
-"population_z": 1.9428 
+"service":  60134,
+"service_z":  60134 
 },
 "2": {
  "FIPS":      3,
 "year": "1990",
-"population_z": -0.3444 
+"service":   3204,
+"service_z": 3203.6 
 },
 "3": {
  "FIPS":      5,
 "year": "1990",
-"population_z": 3.0933 
+"service": 1.3166e+05,
+"service_z": 1.3166e+05 
 },
 "4": {
  "FIPS":      7,
 "year": "1990",
-"population_z": -0.41965 
+"service":   1070,
+"service_z": 1069.6 
 },
 "5": {
  "FIPS":      9,
 "year": "1990",
-"population_z": -0.42683 
+"service":    427,
+"service_z": 426.64 
 },
 "6": {
  "FIPS":     11,
 "year": "1990",
-"population_z": -0.42235 
+"service":    242,
+"service_z": 241.64 
 },
 "7": {
  "FIPS":     13,
 "year": "1990",
-"population_z": 1.5816 
+"service":  66739,
+"service_z":  66739 
 },
 "8": {
  "FIPS":     14,
 "year": "1990",
-"population_z": -0.46827 
+"service":      0,
+"service_z": -0.36039 
 },
 "9": {
  "FIPS":     15,
 "year": "1990",
-"population_z": -0.35289 
+"service":   2439,
+"service_z": 2438.6 
 },
 "10": {
  "FIPS":     17,
 "year": "1990",
-"population_z": -0.44647 
+"service":    268,
+"service_z": 267.64 
 },
 "11": {
  "FIPS":     19,
 "year": "1990",
-"population_z": -0.39896 
+"service":   1142,
+"service_z": 1141.6 
 },
 "12": {
  "FIPS":     21,
 "year": "1990",
-"population_z": -0.40047 
+"service":    428,
+"service_z": 427.64 
 },
 "13": {
  "FIPS":     23,
 "year": "1990",
-"population_z": -0.43926 
+"service":    140,
+"service_z": 139.64 
 },
 "14": {
  "FIPS":     25,
 "year": "1990",
-"population_z": -0.43238 
+"service":    212,
+"service_z": 211.64 
 },
 "15": {
  "FIPS":     27,
 "year": "1990",
-"population_z": -0.45075 
+"service":    146,
+"service_z": 145.64 
 },
 "16": {
  "FIPS":     29,
 "year": "1990",
-"population_z": -0.27742 
+"service":   2615,
+"service_z": 2614.6 
 },
 "17": {
  "FIPS":     31,
 "year": "1990",
-"population_z": 3.7855 
+"service": 2.7893e+05,
+"service_z": 2.7893e+05 
 },
 "18": {
  "FIPS":     33,
 "year": "1990",
-"population_z": -0.45459 
+"service":    168,
+"service_z": 167.64 
 },
 "19": {
  "FIPS":     35,
 "year": "1990",
-"population_z": 0.081098 
+"service":   8065,
+"service_z": 8064.6 
 },
 "20": {
  "FIPS":     37,
 "year": "1990",
-"population_z": -0.2688 
+"service":  11224,
+"service_z":  11224 
 },
 "21": {
  "FIPS":     39,
 "year": "1990",
-"population_z": -0.38053 
+"service":    359,
+"service_z": 358.64 
 },
 "22": {
  "FIPS":     41,
 "year": "1990",
-"population_z": 3.1433 
+"service":  96173,
+"service_z":  96173 
 },
 "23": {
  "FIPS":     43,
 "year": "1990",
-"population_z": -0.17469 
+"service":   4340,
+"service_z": 4339.6 
 },
 "24": {
  "FIPS":     45,
 "year": "1990",
-"population_z": -0.1956 
+"service":   7360,
+"service_z": 7359.6 
 },
 "25": {
  "FIPS":     47,
 "year": "1990",
-"population_z": -0.44035 
+"service":    219,
+"service_z": 218.64 
 },
 "26": {
  "FIPS":     49,
 "year": "1990",
-"population_z": -0.39581 
+"service":   3074,
+"service_z": 3073.6 
 },
 "27": {
  "FIPS":     51,
 "year": "1990",
-"population_z": -0.37482 
+"service":   3249,
+"service_z": 3248.6 
 },
 "28": {
  "FIPS":     53,
 "year": "1990",
-"population_z": -0.46403 
+"service":      0,
+"service_z": -0.36039 
 },
 "29": {
  "FIPS":     55,
 "year": "1990",
-"population_z": -0.41361 
+"service":    639,
+"service_z": 638.64 
 },
 "30": {
  "FIPS":     57,
 "year": "1990",
-"population_z": -0.45367 
+"service":    142,
+"service_z": 141.64 
 },
 "31": {
  "FIPS":     59,
 "year": "1990",
-"population_z": 3.5201 
+"service": 1.0284e+05,
+"service_z": 1.0284e+05 
 },
 "32": {
  "FIPS":     61,
 "year": "1990",
-"population_z": -0.45292 
+"service":      0,
+"service_z": -0.36039 
 },
 "33": {
  "FIPS":     63,
 "year": "1990",
-"population_z": -0.40332 
+"service":   1407,
+"service_z": 1406.6 
 },
 "34": {
  "FIPS":     65,
 "year": "1990",
-"population_z": -0.17459 
+"service":    821,
+"service_z": 820.64 
 },
 "35": {
  "FIPS":     67,
 "year": "1990",
-"population_z": -0.41363 
+"service":   8856,
+"service_z": 8855.6 
 },
 "36": {
  "FIPS":     69,
 "year": "1990",
-"population_z":  1.225 
+"service":  39329,
+"service_z":  39329 
 },
 "37": {
  "FIPS":     71,
 "year": "1990",
-"population_z": -0.34306 
+"service":   1813,
+"service_z": 1812.6 
 },
 "38": {
  "FIPS":     73,
 "year": "1990",
-"population_z": -0.42707 
+"service":    895,
+"service_z": 894.64 
 },
 "39": {
  "FIPS":     75,
 "year": "1990",
-"population_z": -0.30847 
+"service":   4012,
+"service_z": 4011.6 
 },
 "40": {
  "FIPS":     77,
 "year": "1990",
-"population_z": 0.37906 
+"service":  22275,
+"service_z":  22275 
 },
 "41": {
  "FIPS":     79,
 "year": "1990",
-"population_z": -0.4632 
+"service":    173,
+"service_z": 172.64 
 },
 "42": {
  "FIPS":     81,
 "year": "1990",
-"population_z": -0.36496 
+"service":   2081,
+"service_z": 2080.6 
 },
 "43": {
  "FIPS":     83,
 "year": "1990",
-"population_z": -0.29842 
+"service":   3183,
+"service_z": 3182.6 
 },
 "44": {
  "FIPS":     85,
 "year": "1990",
-"population_z": -0.2461 
+"service":   4440,
+"service_z": 4439.6 
 },
 "45": {
  "FIPS":     87,
 "year": "1990",
-"population_z": -0.2687 
+"service":   3919,
+"service_z": 3918.6 
 },
 "46": {
  "FIPS":     89,
 "year": "1990",
-"population_z": -0.28465 
+"service":   3740,
+"service_z": 3739.6 
 },
 "47": {
  "FIPS":     91,
 "year": "1990",
-"population_z": -0.4474 
+"service":    398,
+"service_z": 397.64 
 },
 "48": {
  "FIPS":     93,
 "year": "1990",
-"population_z": -0.40301 
+"service":    320,
+"service_z": 319.64 
 },
 "49": {
  "FIPS":     95,
 "year": "1990",
-"population_z": -0.43017 
+"service":    532,
+"service_z": 531.64 
 },
 "50": {
  "FIPS":     97,
 "year": "1990",
-"population_z": -0.3531 
+"service":   9713,
+"service_z": 9712.6 
 },
 "51": {
  "FIPS":     99,
 "year": "1990",
-"population_z": -0.34686 
+"service":   2295,
+"service_z": 2294.6 
 },
 "52": {
  "FIPS":    101,
 "year": "1990",
-"population_z": 0.65111 
+"service":  26045,
+"service_z":  26045 
 },
 "53": {
  "FIPS":    103,
 "year": "1990",
-"population_z": -0.41323 
+"service":    725,
+"service_z": 724.64 
 },
 "54": {
  "FIPS":    105,
 "year": "1990",
-"population_z": -0.3703 
+"service":   1925,
+"service_z": 1924.6 
 },
 "55": {
  "FIPS":    107,
 "year": "1990",
-"population_z": -0.34012 
+"service":   5967,
+"service_z": 5966.6 
 },
 "56": {
  "FIPS":    109,
 "year": "1990",
-"population_z": -0.42626 
+"service":    247,
+"service_z": 246.64 
 },
 "57": {
  "FIPS":    111,
 "year": "1990",
-"population_z": -0.4615 
+"service":      0,
+"service_z": -0.36039 
 },
 "58": {
  "FIPS":    113,
 "year": "1990",
-"population_z": -0.43504 
+"service":   1426,
+"service_z": 1425.6 
 },
 "59": {
  "FIPS":    115,
 "year": "1990",
-"population_z": -0.4438 
+"service":    450,
+"service_z": 449.64 
 },
 "60": {
  "FIPS":    117,
 "year": "1990",
-"population_z": -0.3511 
+"service":   9872,
+"service_z": 9871.6 
 },
 "61": {
  "FIPS":    119,
 "year": "1990",
-"population_z": -0.35485 
+"service":   1258,
+"service_z": 1257.6 
 },
 "62": {
  "FIPS":    121,
 "year": "1990",
-"population_z": -0.4245 
+"service":    550,
+"service_z": 549.64 
 },
 "63": {
  "FIPS":    123,
 "year": "1990",
-"population_z": 0.73089 
+"service":  26339,
+"service_z":  26339 
 },
 "64": {
  "FIPS":    125,
 "year": "1990",
-"population_z": -0.38682 
+"service":   1333,
+"service_z": 1332.6 
 },
 "65": {
  "FIPS":      1,
 "year": "1991",
-"population_z": 1.9609 
+"service":  60441,
+"service_z":  60441 
 },
 "66": {
  "FIPS":      3,
 "year": "1991",
-"population_z": -0.34803 
+"service":   3280,
+"service_z": 3279.6 
 },
 "67": {
  "FIPS":      5,
 "year": "1991",
-"population_z": 3.1116 
+"service": 1.3964e+05,
+"service_z": 1.3963e+05 
 },
 "68": {
  "FIPS":      7,
 "year": "1991",
-"population_z": -0.41919 
+"service":   1017,
+"service_z": 1016.6 
 },
 "69": {
  "FIPS":      9,
 "year": "1991",
-"population_z": -0.42971 
+"service":    415,
+"service_z": 414.63 
 },
 "70": {
  "FIPS":     11,
 "year": "1991",
-"population_z": -0.4251 
+"service":    232,
+"service_z": 231.63 
 },
 "71": {
  "FIPS":     13,
 "year": "1991",
-"population_z": 1.5821 
+"service":  72751,
+"service_z":  72751 
 },
 "72": {
  "FIPS":     14,
 "year": "1991",
-"population_z": -0.46915 
+"service":      0,
+"service_z": -0.36748 
 },
 "73": {
  "FIPS":     15,
 "year": "1991",
-"population_z": -0.35491 
+"service":   2454,
+"service_z": 2453.6 
 },
 "74": {
  "FIPS":     17,
 "year": "1991",
-"population_z": -0.44716 
+"service":    277,
+"service_z": 276.63 
 },
 "75": {
  "FIPS":     19,
 "year": "1991",
-"population_z": -0.40119 
+"service":   1184,
+"service_z": 1183.6 
 },
 "76": {
  "FIPS":     21,
 "year": "1991",
-"population_z": -0.40224 
+"service":    457,
+"service_z": 456.63 
 },
 "77": {
  "FIPS":     23,
 "year": "1991",
-"population_z": -0.44024 
+"service":    138,
+"service_z": 137.63 
 },
 "78": {
  "FIPS":     25,
 "year": "1991",
-"population_z": -0.43387 
+"service":    211,
+"service_z": 210.63 
 },
 "79": {
  "FIPS":     27,
 "year": "1991",
-"population_z": -0.45128 
+"service":    182,
+"service_z": 181.63 
 },
 "80": {
  "FIPS":     29,
 "year": "1991",
-"population_z": -0.28062 
+"service":   2484,
+"service_z": 2483.6 
 },
 "81": {
  "FIPS":     31,
 "year": "1991",
-"population_z": 3.7509 
+"service": 2.7345e+05,
+"service_z": 2.7345e+05 
 },
 "82": {
  "FIPS":     33,
 "year": "1991",
-"population_z": -0.45639 
+"service":    173,
+"service_z": 172.63 
 },
 "83": {
  "FIPS":     35,
 "year": "1991",
-"population_z": 0.12309 
+"service":   9139,
+"service_z": 9138.6 
 },
 "84": {
  "FIPS":     37,
 "year": "1991",
-"population_z": -0.26083 
+"service":  11696,
+"service_z":  11696 
 },
 "85": {
  "FIPS":     39,
 "year": "1991",
-"population_z": -0.37796 
+"service":    384,
+"service_z": 383.63 
 },
 "86": {
  "FIPS":     41,
 "year": "1991",
-"population_z": 3.1361 
+"service":  98512,
+"service_z":  98512 
 },
 "87": {
  "FIPS":     43,
 "year": "1991",
-"population_z": -0.18286 
+"service":   4367,
+"service_z": 4366.6 
 },
 "88": {
  "FIPS":     45,
 "year": "1991",
-"population_z": -0.1918 
+"service":   7987,
+"service_z": 7986.6 
 },
 "89": {
  "FIPS":     47,
 "year": "1991",
-"population_z": -0.44172 
+"service":    480,
+"service_z": 479.63 
 },
 "90": {
  "FIPS":     49,
 "year": "1991",
-"population_z": -0.39465 
+"service":   3225,
+"service_z": 3224.6 
 },
 "91": {
  "FIPS":     51,
 "year": "1991",
-"population_z": -0.37665 
+"service":   3157,
+"service_z": 3156.6 
 },
 "92": {
  "FIPS":     53,
 "year": "1991",
-"population_z": -0.46513 
+"service":      0,
+"service_z": -0.36748 
 },
 "93": {
  "FIPS":     55,
 "year": "1991",
-"population_z": -0.41536 
+"service":    610,
+"service_z": 609.63 
 },
 "94": {
  "FIPS":     57,
 "year": "1991",
-"population_z": -0.45533 
+"service":    138,
+"service_z": 137.63 
 },
 "95": {
  "FIPS":     59,
 "year": "1991",
-"population_z": 3.5242 
+"service": 1.0648e+05,
+"service_z": 1.0648e+05 
 },
 "96": {
  "FIPS":     61,
 "year": "1991",
-"population_z": -0.45421 
+"service":      0,
+"service_z": -0.36748 
 },
 "97": {
  "FIPS":     63,
 "year": "1991",
-"population_z": -0.40556 
+"service":   1379,
+"service_z": 1378.6 
 },
 "98": {
  "FIPS":     65,
 "year": "1991",
-"population_z": -0.17243 
+"service":    797,
+"service_z": 796.63 
 },
 "99": {
  "FIPS":     67,
 "year": "1991",
-"population_z": -0.41462 
+"service":   9410,
+"service_z": 9409.6 
 },
 "100": {
  "FIPS":     69,
 "year": "1991",
-"population_z": 1.2497 
+"service":  41202,
+"service_z":  41202 
 },
 "101": {
  "FIPS":     71,
 "year": "1991",
-"population_z": -0.34645 
+"service":   1812,
+"service_z": 1811.6 
 },
 "102": {
  "FIPS":     73,
 "year": "1991",
-"population_z": -0.42093 
+"service":    914,
+"service_z": 913.63 
 },
 "103": {
  "FIPS":     75,
 "year": "1991",
-"population_z": -0.31371 
+"service":   3794,
+"service_z": 3793.6 
 },
 "104": {
  "FIPS":     77,
 "year": "1991",
-"population_z": 0.38334 
+"service":  22799,
+"service_z":  22799 
 },
 "105": {
  "FIPS":     79,
 "year": "1991",
-"population_z": -0.46409 
+"service":    187,
+"service_z": 186.63 
 },
 "106": {
  "FIPS":     81,
 "year": "1991",
-"population_z": -0.36748 
+"service":   2114,
+"service_z": 2113.6 
 },
 "107": {
  "FIPS":     83,
 "year": "1991",
-"population_z": -0.29988 
+"service":   3216,
+"service_z": 3215.6 
 },
 "108": {
  "FIPS":     85,
 "year": "1991",
-"population_z": -0.24469 
+"service":   4716,
+"service_z": 4715.6 
 },
 "109": {
  "FIPS":     87,
 "year": "1991",
-"population_z": -0.26753 
+"service":   4166,
+"service_z": 4165.6 
 },
 "110": {
  "FIPS":     89,
 "year": "1991",
-"population_z": -0.28822 
+"service":   3800,
+"service_z": 3799.6 
 },
 "111": {
  "FIPS":     91,
 "year": "1991",
-"population_z": -0.44767 
+"service":    463,
+"service_z": 462.63 
 },
 "112": {
  "FIPS":     93,
 "year": "1991",
-"population_z": -0.40077 
+"service":    334,
+"service_z": 333.63 
 },
 "113": {
  "FIPS":     95,
 "year": "1991",
-"population_z": -0.43177 
+"service":    521,
+"service_z": 520.63 
 },
 "114": {
  "FIPS":     97,
 "year": "1991",
-"population_z": -0.35386 
+"service":   9483,
+"service_z": 9482.6 
 },
 "115": {
  "FIPS":     99,
 "year": "1991",
-"population_z": -0.35407 
+"service":   2219,
+"service_z": 2218.6 
 },
 "116": {
  "FIPS":    101,
 "year": "1991",
-"population_z": 0.62751 
+"service":  26072,
+"service_z":  26072 
 },
 "117": {
  "FIPS":    103,
 "year": "1991",
-"population_z": -0.41563 
+"service":    779,
+"service_z": 778.63 
 },
 "118": {
  "FIPS":    105,
 "year": "1991",
-"population_z": -0.37293 
+"service":   2008,
+"service_z": 2007.6 
 },
 "119": {
  "FIPS":    107,
 "year": "1991",
-"population_z": -0.33833 
+"service":   6217,
+"service_z": 6216.6 
 },
 "120": {
  "FIPS":    109,
 "year": "1991",
-"population_z": -0.42713 
+"service":    265,
+"service_z": 264.63 
 },
 "121": {
  "FIPS":    111,
 "year": "1991",
-"population_z": -0.46284 
+"service":      0,
+"service_z": -0.36748 
 },
 "122": {
  "FIPS":    113,
 "year": "1991",
-"population_z": -0.43247 
+"service":   1615,
+"service_z": 1614.6 
 },
 "123": {
  "FIPS":    115,
 "year": "1991",
-"population_z": -0.44544 
+"service":    440,
+"service_z": 439.63 
 },
 "124": {
  "FIPS":    117,
 "year": "1991",
-"population_z": -0.34952 
+"service":  10403,
+"service_z":  10403 
 },
 "125": {
  "FIPS":    119,
 "year": "1991",
-"population_z": -0.35626 
+"service":   1475,
+"service_z": 1474.6 
 },
 "126": {
  "FIPS":    121,
 "year": "1991",
-"population_z": -0.42668 
+"service":    529,
+"service_z": 528.63 
 },
 "127": {
  "FIPS":    123,
 "year": "1991",
-"population_z": 0.73626 
+"service":  27351,
+"service_z":  27351 
 },
 "128": {
  "FIPS":    125,
 "year": "1991",
-"population_z": -0.38913 
+"service":   1351,
+"service_z": 1350.6 
 },
 "129": {
  "FIPS":      1,
 "year": "1992",
-"population_z": 1.9509 
+"service":  64341,
+"service_z":  64341 
 },
 "130": {
  "FIPS":      3,
 "year": "1992",
-"population_z": -0.35221 
+"service":   3358,
+"service_z": 3357.6 
 },
 "131": {
  "FIPS":      5,
 "year": "1992",
-"population_z":  3.123 
+"service": 1.4322e+05,
+"service_z": 1.4322e+05 
 },
 "132": {
  "FIPS":      7,
 "year": "1992",
-"population_z": -0.41836 
+"service":   1000,
+"service_z": 999.63 
 },
 "133": {
  "FIPS":      9,
 "year": "1992",
-"population_z": -0.43193 
+"service":    419,
+"service_z": 418.63 
 },
 "134": {
  "FIPS":     11,
 "year": "1992",
-"population_z": -0.42558 
+"service":    249,
+"service_z": 248.63 
 },
 "135": {
  "FIPS":     13,
 "year": "1992",
-"population_z": 1.5812 
+"service":  77023,
+"service_z":  77023 
 },
 "136": {
  "FIPS":     14,
 "year": "1992",
-"population_z": -0.46892 
+"service":      0,
+"service_z": -0.37387 
 },
 "137": {
  "FIPS":     15,
 "year": "1992",
-"population_z": -0.35609 
+"service":   2486,
+"service_z": 2485.6 
 },
 "138": {
  "FIPS":     17,
 "year": "1992",
-"population_z": -0.44823 
+"service":    275,
+"service_z": 274.63 
 },
 "139": {
  "FIPS":     19,
 "year": "1992",
-"population_z": -0.40149 
+"service":   1232,
+"service_z": 1231.6 
 },
 "140": {
  "FIPS":     21,
 "year": "1992",
-"population_z": -0.40431 
+"service":    455,
+"service_z": 454.63 
 },
 "141": {
  "FIPS":     23,
 "year": "1992",
-"population_z": -0.44149 
+"service":    143,
+"service_z": 142.63 
 },
 "142": {
  "FIPS":     25,
 "year": "1992",
-"population_z": -0.43332 
+"service":    215,
+"service_z": 214.63 
 },
 "143": {
  "FIPS":     27,
 "year": "1992",
-"population_z": -0.45051 
+"service":    221,
+"service_z": 220.63 
 },
 "144": {
  "FIPS":     29,
 "year": "1992",
-"population_z": -0.28086 
+"service":   2692,
+"service_z": 2691.6 
 },
 "145": {
  "FIPS":     31,
 "year": "1992",
-"population_z": 3.7299 
+"service": 2.7558e+05,
+"service_z": 2.7558e+05 
 },
 "146": {
  "FIPS":     33,
 "year": "1992",
-"population_z": -0.45686 
+"service":    157,
+"service_z": 156.63 
 },
 "147": {
  "FIPS":     35,
 "year": "1992",
-"population_z": 0.17915 
+"service":   9718,
+"service_z": 9717.6 
 },
 "148": {
  "FIPS":     37,
 "year": "1992",
-"population_z": -0.25445 
+"service":  12388,
+"service_z":  12388 
 },
 "149": {
  "FIPS":     39,
 "year": "1992",
-"population_z": -0.37634 
+"service":    432,
+"service_z": 431.63 
 },
 "150": {
  "FIPS":     41,
 "year": "1992",
-"population_z": 3.1671 
+"service": 1.0464e+05,
+"service_z": 1.0463e+05 
 },
 "151": {
  "FIPS":     43,
 "year": "1992",
-"population_z": -0.1781 
+"service":   4616,
+"service_z": 4615.6 
 },
 "152": {
  "FIPS":     45,
 "year": "1992",
-"population_z": -0.19942 
+"service":   7979,
+"service_z": 7978.6 
 },
 "153": {
  "FIPS":     47,
 "year": "1992",
-"population_z": -0.44103 
+"service":   3086,
+"service_z": 3085.6 
 },
 "154": {
  "FIPS":     49,
 "year": "1992",
-"population_z": -0.39493 
+"service":   3393,
+"service_z": 3392.6 
 },
 "155": {
  "FIPS":     51,
 "year": "1992",
-"population_z": -0.37626 
+"service":   3523,
+"service_z": 3522.6 
 },
 "156": {
  "FIPS":     53,
 "year": "1992",
-"population_z": -0.46459 
+"service":      0,
+"service_z": -0.37387 
 },
 "157": {
  "FIPS":     55,
 "year": "1992",
-"population_z": -0.41577 
+"service":    658,
+"service_z": 657.63 
 },
 "158": {
  "FIPS":     57,
 "year": "1992",
-"population_z": -0.45539 
+"service":    146,
+"service_z": 145.63 
 },
 "159": {
  "FIPS":     59,
 "year": "1992",
-"population_z": 3.5173 
+"service": 1.1117e+05,
+"service_z": 1.1117e+05 
 },
 "160": {
  "FIPS":     61,
 "year": "1992",
-"population_z": -0.45435 
+"service":      0,
+"service_z": -0.37387 
 },
 "161": {
  "FIPS":     63,
 "year": "1992",
-"population_z": -0.40673 
+"service":   1384,
+"service_z": 1383.6 
 },
 "162": {
  "FIPS":     65,
 "year": "1992",
-"population_z": -0.17285 
+"service":    873,
+"service_z": 872.63 
 },
 "163": {
  "FIPS":     67,
 "year": "1992",
-"population_z": -0.41553 
+"service":   9937,
+"service_z": 9936.6 
 },
 "164": {
  "FIPS":     69,
 "year": "1992",
-"population_z": 1.2481 
+"service":  43088,
+"service_z":  43088 
 },
 "165": {
  "FIPS":     71,
 "year": "1992",
-"population_z": -0.34828 
+"service":   1784,
+"service_z": 1783.6 
 },
 "166": {
  "FIPS":     73,
 "year": "1992",
-"population_z": -0.41754 
+"service":    905,
+"service_z": 904.63 
 },
 "167": {
  "FIPS":     75,
 "year": "1992",
-"population_z": -0.3179 
+"service":   3810,
+"service_z": 3809.6 
 },
 "168": {
  "FIPS":     77,
 "year": "1992",
-"population_z": 0.36877 
+"service":  23667,
+"service_z":  23667 
 },
 "169": {
  "FIPS":     79,
 "year": "1992",
-"population_z": -0.46385 
+"service":    215,
+"service_z": 214.63 
 },
 "170": {
  "FIPS":     81,
 "year": "1992",
-"population_z": -0.36838 
+"service":   2237,
+"service_z": 2236.6 
 },
 "171": {
  "FIPS":     83,
 "year": "1992",
-"population_z": -0.29993 
+"service":   3394,
+"service_z": 3393.6 
 },
 "172": {
  "FIPS":     85,
 "year": "1992",
-"population_z": -0.24342 
+"service":   4952,
+"service_z": 4951.6 
 },
 "173": {
  "FIPS":     87,
 "year": "1992",
-"population_z": -0.26699 
+"service":   4330,
+"service_z": 4329.6 
 },
 "174": {
  "FIPS":     89,
 "year": "1992",
-"population_z": -0.2944 
+"service":   3823,
+"service_z": 3822.6 
 },
 "175": {
  "FIPS":     91,
 "year": "1992",
-"population_z": -0.44712 
+"service":    492,
+"service_z": 491.63 
 },
 "176": {
  "FIPS":     93,
 "year": "1992",
-"population_z": -0.39934 
+"service":    342,
+"service_z": 341.63 
 },
 "177": {
  "FIPS":     95,
 "year": "1992",
-"population_z": -0.43254 
+"service":    528,
+"service_z": 527.63 
 },
 "178": {
  "FIPS":     97,
 "year": "1992",
-"population_z": -0.35394 
+"service":  10055,
+"service_z":  10055 
 },
 "179": {
  "FIPS":     99,
 "year": "1992",
-"population_z": -0.35623 
+"service":   2222,
+"service_z": 2221.6 
 },
 "180": {
  "FIPS":    101,
 "year": "1992",
-"population_z": 0.60095 
+"service":  26555,
+"service_z":  26555 
 },
 "181": {
  "FIPS":    103,
 "year": "1992",
-"population_z": -0.41578 
+"service":    826,
+"service_z": 825.63 
 },
 "182": {
  "FIPS":    105,
 "year": "1992",
-"population_z": -0.37485 
+"service":   1979,
+"service_z": 1978.6 
 },
 "183": {
  "FIPS":    107,
 "year": "1992",
-"population_z": -0.33865 
+"service":   6471,
+"service_z": 6470.6 
 },
 "184": {
  "FIPS":    109,
 "year": "1992",
-"population_z": -0.42775 
+"service":    271,
+"service_z": 270.63 
 },
 "185": {
  "FIPS":    111,
 "year": "1992",
-"population_z": -0.46399 
+"service":      0,
+"service_z": -0.37387 
 },
 "186": {
  "FIPS":    113,
 "year": "1992",
-"population_z": -0.42967 
+"service":   2004,
+"service_z": 2003.6 
 },
 "187": {
  "FIPS":    115,
 "year": "1992",
-"population_z": -0.44632 
+"service":    430,
+"service_z": 429.63 
 },
 "188": {
  "FIPS":    117,
 "year": "1992",
-"population_z": -0.34991 
+"service":  10908,
+"service_z":  10908 
 },
 "189": {
  "FIPS":    119,
 "year": "1992",
-"population_z": -0.35137 
+"service":   2759,
+"service_z": 2758.6 
 },
 "190": {
  "FIPS":    121,
 "year": "1992",
-"population_z": -0.42691 
+"service":    547,
+"service_z": 546.63 
 },
 "191": {
  "FIPS":    123,
 "year": "1992",
-"population_z": 0.73607 
+"service":  28190,
+"service_z":  28190 
 },
 "192": {
  "FIPS":    125,
 "year": "1992",
-"population_z": -0.39152 
+"service":   1276,
+"service_z": 1275.6 
 },
 "193": {
  "FIPS":      1,
 "year": "1993",
-"population_z": 1.9595 
+"service":  67547,
+"service_z":  67547 
 },
 "194": {
  "FIPS":      3,
 "year": "1993",
-"population_z": -0.35665 
+"service":   3558,
+"service_z": 3557.6 
 },
 "195": {
  "FIPS":      5,
 "year": "1993",
-"population_z":  3.102 
+"service": 1.4997e+05,
+"service_z": 1.4997e+05 
 },
 "196": {
  "FIPS":      7,
 "year": "1993",
-"population_z": -0.41916 
+"service":   1086,
+"service_z": 1085.6 
 },
 "197": {
  "FIPS":      9,
 "year": "1993",
-"population_z": -0.43464 
+"service":    474,
+"service_z": 473.62 
 },
 "198": {
  "FIPS":     11,
 "year": "1993",
-"population_z": -0.42608 
+"service":    275,
+"service_z": 274.62 
 },
 "199": {
  "FIPS":     13,
 "year": "1993",
-"population_z": 1.5959 
+"service":  81933,
+"service_z":  81933 
 },
 "200": {
  "FIPS":     14,
 "year": "1993",
-"population_z": -0.47079 
+"service":      0,
+"service_z": -0.37852 
 },
 "201": {
  "FIPS":     15,
 "year": "1993",
-"population_z": -0.35629 
+"service":   2638,
+"service_z": 2637.6 
 },
 "202": {
  "FIPS":     17,
 "year": "1993",
-"population_z": -0.45152 
+"service":    225,
+"service_z": 224.62 
 },
 "203": {
  "FIPS":     19,
 "year": "1993",
-"population_z": -0.40362 
+"service":   1345,
+"service_z": 1344.6 
 },
 "204": {
  "FIPS":     21,
 "year": "1993",
-"population_z": -0.40692 
+"service":    449,
+"service_z": 448.62 
 },
 "205": {
  "FIPS":     23,
 "year": "1993",
-"population_z": -0.4429 
+"service":    139,
+"service_z": 138.62 
 },
 "206": {
  "FIPS":     25,
 "year": "1993",
-"population_z": -0.43615 
+"service":    231,
+"service_z": 230.62 
 },
 "207": {
  "FIPS":     27,
 "year": "1993",
-"population_z": -0.45138 
+"service":    271,
+"service_z": 270.62 
 },
 "208": {
  "FIPS":     29,
 "year": "1993",
-"population_z": -0.27661 
+"service":   2895,
+"service_z": 2894.6 
 },
 "209": {
  "FIPS":     31,
 "year": "1993",
-"population_z": 3.7193 
+"service": 2.8372e+05,
+"service_z": 2.8372e+05 
 },
 "210": {
  "FIPS":     33,
 "year": "1993",
-"population_z": -0.45887 
+"service":    172,
+"service_z": 171.62 
 },
 "211": {
  "FIPS":     35,
 "year": "1993",
-"population_z": 0.22402 
+"service":  11213,
+"service_z":  11213 
 },
 "212": {
  "FIPS":     37,
 "year": "1993",
-"population_z": -0.24653 
+"service":  13512,
+"service_z":  13512 
 },
 "213": {
  "FIPS":     39,
 "year": "1993",
-"population_z": -0.37432 
+"service":    488,
+"service_z": 487.62 
 },
 "214": {
  "FIPS":     41,
 "year": "1993",
-"population_z": 3.1828 
+"service": 1.1048e+05,
+"service_z": 1.1048e+05 
 },
 "215": {
  "FIPS":     43,
 "year": "1993",
-"population_z": -0.16567 
+"service":   4816,
+"service_z": 4815.6 
 },
 "216": {
  "FIPS":     45,
 "year": "1993",
-"population_z": -0.19854 
+"service":   8715,
+"service_z": 8714.6 
 },
 "217": {
  "FIPS":     47,
 "year": "1993",
-"population_z": -0.44258 
+"service":   3575,
+"service_z": 3574.6 
 },
 "218": {
  "FIPS":     49,
 "year": "1993",
-"population_z": -0.3962 
+"service":   3625,
+"service_z": 3624.6 
 },
 "219": {
  "FIPS":     51,
 "year": "1993",
-"population_z": -0.37626 
+"service":   3902,
+"service_z": 3901.6 
 },
 "220": {
  "FIPS":     53,
 "year": "1993",
-"population_z": -0.46623 
+"service":      0,
+"service_z": -0.37852 
 },
 "221": {
  "FIPS":     55,
 "year": "1993",
-"population_z": -0.41697 
+"service":    788,
+"service_z": 787.62 
 },
 "222": {
  "FIPS":     57,
 "year": "1993",
-"population_z": -0.45715 
+"service":    193,
+"service_z": 192.62 
 },
 "223": {
  "FIPS":     59,
 "year": "1993",
-"population_z": 3.5093 
+"service": 1.1444e+05,
+"service_z": 1.1444e+05 
 },
 "224": {
  "FIPS":     61,
 "year": "1993",
-"population_z": -0.4566 
+"service":      0,
+"service_z": -0.37852 
 },
 "225": {
  "FIPS":     63,
 "year": "1993",
-"population_z": -0.41005 
+"service":   1416,
+"service_z": 1415.6 
 },
 "226": {
  "FIPS":     65,
 "year": "1993",
-"population_z": -0.17327 
+"service":    824,
+"service_z": 823.62 
 },
 "227": {
  "FIPS":     67,
 "year": "1993",
-"population_z": -0.41838 
+"service":  10722,
+"service_z":  10722 
 },
 "228": {
  "FIPS":     69,
 "year": "1993",
-"population_z":  1.258 
+"service":  46902,
+"service_z":  46902 
 },
 "229": {
  "FIPS":     71,
 "year": "1993",
-"population_z": -0.35201 
+"service":   1886,
+"service_z": 1885.6 
 },
 "230": {
  "FIPS":     73,
 "year": "1993",
-"population_z": -0.42166 
+"service":    872,
+"service_z": 871.62 
 },
 "231": {
  "FIPS":     75,
 "year": "1993",
-"population_z": -0.32069 
+"service":   3927,
+"service_z": 3926.6 
 },
 "232": {
  "FIPS":     77,
 "year": "1993",
-"population_z": 0.36419 
+"service":  24688,
+"service_z":  24688 
 },
 "233": {
  "FIPS":     79,
 "year": "1993",
-"population_z": -0.46578 
+"service":    236,
+"service_z": 235.62 
 },
 "234": {
  "FIPS":     81,
 "year": "1993",
-"population_z": -0.37219 
+"service":   2351,
+"service_z": 2350.6 
 },
 "235": {
  "FIPS":     83,
 "year": "1993",
-"population_z": -0.29828 
+"service":   3724,
+"service_z": 3723.6 
 },
 "236": {
  "FIPS":     85,
 "year": "1993",
-"population_z": -0.24273 
+"service":   5304,
+"service_z": 5303.6 
 },
 "237": {
  "FIPS":     87,
 "year": "1993",
-"population_z": -0.26819 
+"service":   4525,
+"service_z": 4524.6 
 },
 "238": {
  "FIPS":     89,
 "year": "1993",
-"population_z":   -0.3 
+"service":   3919,
+"service_z": 3918.6 
 },
 "239": {
  "FIPS":     91,
 "year": "1993",
-"population_z": -0.44862 
+"service":    550,
+"service_z": 549.62 
 },
 "240": {
  "FIPS":     93,
 "year": "1993",
-"population_z": -0.39907 
+"service":    432,
+"service_z": 431.62 
 },
 "241": {
  "FIPS":     95,
 "year": "1993",
-"population_z": -0.4342 
+"service":    587,
+"service_z": 586.62 
 },
 "242": {
  "FIPS":     97,
 "year": "1993",
-"population_z": -0.35327 
+"service":  11072,
+"service_z":  11072 
 },
 "243": {
  "FIPS":     99,
 "year": "1993",
-"population_z": -0.35861 
+"service":   2265,
+"service_z": 2264.6 
 },
 "244": {
  "FIPS":    101,
 "year": "1993",
-"population_z": 0.58522 
+"service":  27390,
+"service_z":  27390 
 },
 "245": {
  "FIPS":    103,
 "year": "1993",
-"population_z": -0.41848 
+"service":    859,
+"service_z": 858.62 
 },
 "246": {
  "FIPS":    105,
 "year": "1993",
-"population_z": -0.37709 
+"service":   2014,
+"service_z": 2013.6 
 },
 "247": {
  "FIPS":    107,
 "year": "1993",
-"population_z": -0.3377 
+"service":   6982,
+"service_z": 6981.6 
 },
 "248": {
  "FIPS":    109,
 "year": "1993",
-"population_z": -0.43046 
+"service":    277,
+"service_z": 276.62 
 },
 "249": {
  "FIPS":    111,
 "year": "1993",
-"population_z": -0.46628 
+"service":      0,
+"service_z": -0.37852 
 },
 "250": {
  "FIPS":    113,
 "year": "1993",
-"population_z": -0.43014 
+"service":   2332,
+"service_z": 2331.6 
 },
 "251": {
  "FIPS":    115,
 "year": "1993",
-"population_z": -0.44865 
+"service":    421,
+"service_z": 420.62 
 },
 "252": {
  "FIPS":    117,
 "year": "1993",
-"population_z": -0.3438 
+"service":  11845,
+"service_z":  11845 
 },
 "253": {
  "FIPS":    119,
 "year": "1993",
-"population_z": -0.34764 
+"service":   3132,
+"service_z": 3131.6 
 },
 "254": {
  "FIPS":    121,
 "year": "1993",
-"population_z": -0.4278 
+"service":    580,
+"service_z": 579.62 
 },
 "255": {
  "FIPS":    123,
 "year": "1993",
-"population_z": 0.74761 
+"service":  30076,
+"service_z":  30076 
 },
 "256": {
  "FIPS":    125,
 "year": "1993",
-"population_z": -0.39418 
+"service":   1335,
+"service_z": 1334.6 
 },
 "257": {
  "FIPS":      1,
 "year": "1994",
-"population_z": 1.9854 
+"service":  72270,
+"service_z":  72270 
 },
 "258": {
  "FIPS":      3,
 "year": "1994",
-"population_z": -0.36127 
+"service":   3775,
+"service_z": 3774.6 
 },
 "259": {
  "FIPS":      5,
 "year": "1994",
-"population_z": 3.0944 
+"service": 1.6011e+05,
+"service_z": 1.6011e+05 
 },
 "260": {
  "FIPS":      7,
 "year": "1994",
-"population_z": -0.42083 
+"service":   1216,
+"service_z": 1215.6 
 },
 "261": {
  "FIPS":      9,
 "year": "1994",
-"population_z": -0.4384 
+"service":    427,
+"service_z": 426.61 
 },
 "262": {
  "FIPS":     11,
 "year": "1994",
-"population_z": -0.43015 
+"service":    328,
+"service_z": 327.61 
 },
 "263": {
  "FIPS":     13,
 "year": "1994",
-"population_z": 1.5924 
+"service":  86954,
+"service_z":  86954 
 },
 "264": {
  "FIPS":     14,
 "year": "1994",
-"population_z": -0.4743 
+"service":      0,
+"service_z": -0.38515 
 },
 "265": {
  "FIPS":     15,
 "year": "1994",
-"population_z": -0.35894 
+"service":   2907,
+"service_z": 2906.6 
 },
 "266": {
  "FIPS":     17,
 "year": "1994",
-"population_z": -0.45557 
+"service":    231,
+"service_z": 230.61 
 },
 "267": {
  "FIPS":     19,
 "year": "1994",
-"population_z": -0.40514 
+"service":   1465,
+"service_z": 1464.6 
 },
 "268": {
  "FIPS":     21,
 "year": "1994",
-"population_z": -0.41089 
+"service":    492,
+"service_z": 491.61 
 },
 "269": {
  "FIPS":     23,
 "year": "1994",
-"population_z": -0.4467 
+"service":    154,
+"service_z": 153.61 
 },
 "270": {
  "FIPS":     25,
 "year": "1994",
-"population_z": -0.4399 
+"service":    241,
+"service_z": 240.61 
 },
 "271": {
  "FIPS":     27,
 "year": "1994",
-"population_z": -0.45453 
+"service":    257,
+"service_z": 256.61 
 },
 "272": {
  "FIPS":     29,
 "year": "1994",
-"population_z": -0.27524 
+"service":   3202,
+"service_z": 3201.6 
 },
 "273": {
  "FIPS":     31,
 "year": "1994",
-"population_z": 3.6492 
+"service": 2.898e+05,
+"service_z": 2.898e+05 
 },
 "274": {
  "FIPS":     33,
 "year": "1994",
-"population_z": -0.46205 
+"service":    182,
+"service_z": 181.61 
 },
 "275": {
  "FIPS":     35,
 "year": "1994",
-"population_z": 0.28233 
+"service":  13655,
+"service_z":  13655 
 },
 "276": {
  "FIPS":     37,
 "year": "1994",
-"population_z": -0.23694 
+"service":  14909,
+"service_z":  14909 
 },
 "277": {
  "FIPS":     39,
 "year": "1994",
-"population_z": -0.36925 
+"service":    512,
+"service_z": 511.61 
 },
 "278": {
  "FIPS":     41,
 "year": "1994",
-"population_z": 3.2587 
+"service": 1.19e+05,
+"service_z": 1.19e+05 
 },
 "279": {
  "FIPS":     43,
 "year": "1994",
-"population_z": -0.15779 
+"service":   5160,
+"service_z": 5159.6 
 },
 "280": {
  "FIPS":     45,
 "year": "1994",
-"population_z": -0.19221 
+"service":   9466,
+"service_z": 9465.6 
 },
 "281": {
  "FIPS":     47,
 "year": "1994",
-"population_z": -0.44569 
+"service":   4160,
+"service_z": 4159.6 
 },
 "282": {
  "FIPS":     49,
 "year": "1994",
-"population_z": -0.39793 
+"service":   3751,
+"service_z": 3750.6 
 },
 "283": {
  "FIPS":     51,
 "year": "1994",
-"population_z": -0.37886 
+"service":   4315,
+"service_z": 4314.6 
 },
 "284": {
  "FIPS":     53,
 "year": "1994",
-"population_z": -0.4693 
+"service":      0,
+"service_z": -0.38515 
 },
 "285": {
  "FIPS":     55,
 "year": "1994",
-"population_z": -0.41769 
+"service":    891,
+"service_z": 890.61 
 },
 "286": {
  "FIPS":     57,
 "year": "1994",
-"population_z": -0.46088 
+"service":    192,
+"service_z": 191.61 
 },
 "287": {
  "FIPS":     59,
 "year": "1994",
-"population_z":  3.479 
+"service": 1.2011e+05,
+"service_z": 1.2011e+05 
 },
 "288": {
  "FIPS":     61,
 "year": "1994",
-"population_z": -0.46046 
+"service":      0,
+"service_z": -0.38515 
 },
 "289": {
  "FIPS":     63,
 "year": "1994",
-"population_z": -0.41428 
+"service":   1458,
+"service_z": 1457.6 
 },
 "290": {
  "FIPS":     65,
 "year": "1994",
-"population_z": -0.1725 
+"service":    905,
+"service_z": 904.61 
 },
 "291": {
  "FIPS":     67,
 "year": "1994",
-"population_z": -0.42213 
+"service":  12236,
+"service_z":  12236 
 },
 "292": {
  "FIPS":     69,
 "year": "1994",
-"population_z": 1.2833 
+"service":  51034,
+"service_z":  51034 
 },
 "293": {
  "FIPS":     71,
 "year": "1994",
-"population_z": -0.35365 
+"service":   2034,
+"service_z": 2033.6 
 },
 "294": {
  "FIPS":     73,
 "year": "1994",
-"population_z": -0.42574 
+"service":    909,
+"service_z": 908.61 
 },
 "295": {
  "FIPS":     75,
 "year": "1994",
-"population_z": -0.32034 
+"service":   4197,
+"service_z": 4196.6 
 },
 "296": {
  "FIPS":     77,
 "year": "1994",
-"population_z": 0.36607 
+"service":  25958,
+"service_z":  25958 
 },
 "297": {
  "FIPS":     79,
 "year": "1994",
-"population_z": -0.46902 
+"service":    226,
+"service_z": 225.61 
 },
 "298": {
  "FIPS":     81,
 "year": "1994",
-"population_z": -0.37621 
+"service":   2459,
+"service_z": 2458.6 
 },
 "299": {
  "FIPS":     83,
 "year": "1994",
-"population_z": -0.29936 
+"service":   4506,
+"service_z": 4505.6 
 },
 "300": {
  "FIPS":     85,
 "year": "1994",
-"population_z": -0.24123 
+"service":   5657,
+"service_z": 5656.6 
 },
 "301": {
  "FIPS":     87,
 "year": "1994",
-"population_z": -0.26915 
+"service":   4665,
+"service_z": 4664.6 
 },
 "302": {
  "FIPS":     89,
 "year": "1994",
-"population_z": -0.30675 
+"service":   4071,
+"service_z": 4070.6 
 },
 "303": {
  "FIPS":     91,
 "year": "1994",
-"population_z": -0.45057 
+"service":    626,
+"service_z": 625.61 
 },
 "304": {
  "FIPS":     93,
 "year": "1994",
-"population_z": -0.3964 
+"service":    530,
+"service_z": 529.61 
 },
 "305": {
  "FIPS":     95,
 "year": "1994",
-"population_z": -0.43831 
+"service":    622,
+"service_z": 621.61 
 },
 "306": {
  "FIPS":     97,
 "year": "1994",
-"population_z": -0.35541 
+"service":  11614,
+"service_z":  11614 
 },
 "307": {
  "FIPS":     99,
 "year": "1994",
-"population_z": -0.36239 
+"service":   2355,
+"service_z": 2354.6 
 },
 "308": {
  "FIPS":    101,
 "year": "1994",
-"population_z": 0.57832 
+"service":  28620,
+"service_z":  28620 
 },
 "309": {
  "FIPS":    103,
 "year": "1994",
-"population_z": -0.42267 
+"service":    881,
+"service_z": 880.61 
 },
 "310": {
  "FIPS":    105,
 "year": "1994",
-"population_z": -0.38058 
+"service":   2124,
+"service_z": 2123.6 
 },
 "311": {
  "FIPS":    107,
 "year": "1994",
-"population_z": -0.33842 
+"service":   7276,
+"service_z": 7275.6 
 },
 "312": {
  "FIPS":    109,
 "year": "1994",
-"population_z": -0.43389 
+"service":    298,
+"service_z": 297.61 
 },
 "313": {
  "FIPS":    111,
 "year": "1994",
-"population_z": -0.4697 
+"service":      0,
+"service_z": -0.38515 
 },
 "314": {
  "FIPS":    113,
 "year": "1994",
-"population_z": -0.43092 
+"service":   2724,
+"service_z": 2723.6 
 },
 "315": {
  "FIPS":    115,
 "year": "1994",
-"population_z": -0.45252 
+"service":    418,
+"service_z": 417.61 
 },
 "316": {
  "FIPS":    117,
 "year": "1994",
-"population_z": -0.33441 
+"service":  12629,
+"service_z":  12629 
 },
 "317": {
  "FIPS":    119,
 "year": "1994",
-"population_z": -0.34518 
+"service":   3595,
+"service_z": 3594.6 
 },
 "318": {
  "FIPS":    121,
 "year": "1994",
-"population_z": -0.43161 
+"service":    588,
+"service_z": 587.61 
 },
 "319": {
  "FIPS":    123,
 "year": "1994",
-"population_z": 0.76351 
+"service":  31779,
+"service_z":  31779 
 },
 "320": {
  "FIPS":    125,
 "year": "1994",
-"population_z": -0.39845 
+"service":   1342,
+"service_z": 1341.6 
 },
 "321": {
  "FIPS":      1,
 "year": "1995",
-"population_z":  2.031 
+"service":  76316,
+"service_z":  76316 
 },
 "322": {
  "FIPS":      3,
 "year": "1995",
-"population_z": -0.3648 
+"service":   3914,
+"service_z": 3913.6 
 },
 "323": {
  "FIPS":      5,
 "year": "1995",
-"population_z":  3.074 
+"service": 1.7150e+05,
+"service_z": 1.715e+05 
 },
 "324": {
  "FIPS":      7,
 "year": "1995",
-"population_z": -0.42089 
+"service":   1348,
+"service_z": 1347.6 
 },
 "325": {
  "FIPS":      9,
 "year": "1995",
-"population_z": -0.4424 
+"service":    439,
+"service_z": 438.61 
 },
 "326": {
  "FIPS":     11,
 "year": "1995",
-"population_z": -0.43341 
+"service":    339,
+"service_z": 338.61 
 },
 "327": {
  "FIPS":     13,
 "year": "1995",
-"population_z": 1.5888 
+"service":  86693,
+"service_z":  86693 
 },
 "328": {
  "FIPS":     14,
 "year": "1995",
-"population_z": -0.47794 
+"service":      0,
+"service_z": -0.38731 
 },
 "329": {
  "FIPS":     15,
 "year": "1995",
-"population_z": -0.36031 
+"service":   3165,
+"service_z": 3164.6 
 },
 "330": {
  "FIPS":     17,
 "year": "1995",
-"population_z": -0.45973 
+"service":    249,
+"service_z": 248.61 
 },
 "331": {
  "FIPS":     19,
 "year": "1995",
-"population_z": -0.40824 
+"service":   1515,
+"service_z": 1514.6 
 },
 "332": {
  "FIPS":     21,
 "year": "1995",
-"population_z": -0.41449 
+"service":    506,
+"service_z": 505.61 
 },
 "333": {
  "FIPS":     23,
 "year": "1995",
-"population_z": -0.44976 
+"service":    175,
+"service_z": 174.61 
 },
 "334": {
  "FIPS":     25,
 "year": "1995",
-"population_z": -0.44406 
+"service":    256,
+"service_z": 255.61 
 },
 "335": {
  "FIPS":     27,
 "year": "1995",
-"population_z": -0.45693 
+"service":    292,
+"service_z": 291.61 
 },
 "336": {
  "FIPS":     29,
 "year": "1995",
-"population_z": -0.27574 
+"service":   3258,
+"service_z": 3257.6 
 },
 "337": {
  "FIPS":     31,
 "year": "1995",
-"population_z": 3.5971 
+"service": 2.9934e+05,
+"service_z": 2.9934e+05 
 },
 "338": {
  "FIPS":     33,
 "year": "1995",
-"population_z": -0.46537 
+"service":    142,
+"service_z": 141.61 
 },
 "339": {
  "FIPS":     35,
 "year": "1995",
-"population_z": 0.35549 
+"service":  16347,
+"service_z":  16347 
 },
 "340": {
  "FIPS":     37,
 "year": "1995",
-"population_z": -0.23007 
+"service":  15846,
+"service_z":  15846 
 },
 "341": {
  "FIPS":     39,
 "year": "1995",
-"population_z": -0.36294 
+"service":    603,
+"service_z": 602.61 
 },
 "342": {
  "FIPS":     41,
 "year": "1995",
-"population_z": 3.2919 
+"service": 1.2518e+05,
+"service_z": 1.2518e+05 
 },
 "343": {
  "FIPS":     43,
 "year": "1995",
-"population_z": -0.15271 
+"service":   5313,
+"service_z": 5312.6 
 },
 "344": {
  "FIPS":     45,
 "year": "1995",
-"population_z": -0.18565 
+"service":   9855,
+"service_z": 9854.6 
 },
 "345": {
  "FIPS":     47,
 "year": "1995",
-"population_z": -0.4485 
+"service":   4682,
+"service_z": 4681.6 
 },
 "346": {
  "FIPS":     49,
 "year": "1995",
-"population_z": -0.39806 
+"service":   4025,
+"service_z": 4024.6 
 },
 "347": {
  "FIPS":     51,
 "year": "1995",
-"population_z": -0.38184 
+"service":   4463,
+"service_z": 4462.6 
 },
 "348": {
  "FIPS":     53,
 "year": "1995",
-"population_z": -0.47265 
+"service":      0,
+"service_z": -0.38731 
 },
 "349": {
  "FIPS":     55,
 "year": "1995",
-"population_z": -0.42046 
+"service":    930,
+"service_z": 929.61 
 },
 "350": {
  "FIPS":     57,
 "year": "1995",
-"population_z": -0.46503 
+"service":    187,
+"service_z": 186.61 
 },
 "351": {
  "FIPS":     59,
 "year": "1995",
-"population_z": 3.4654 
+"service": 1.2259e+05,
+"service_z": 1.2259e+05 
 },
 "352": {
  "FIPS":     61,
 "year": "1995",
-"population_z": -0.46476 
+"service":      0,
+"service_z": -0.38731 
 },
 "353": {
  "FIPS":     63,
 "year": "1995",
-"population_z": -0.41844 
+"service":   1464,
+"service_z": 1463.6 
 },
 "354": {
  "FIPS":     65,
 "year": "1995",
-"population_z": -0.16685 
+"service":    989,
+"service_z": 988.61 
 },
 "355": {
  "FIPS":     67,
 "year": "1995",
-"population_z": -0.42061 
+"service":  12982,
+"service_z":  12982 
 },
 "356": {
  "FIPS":     69,
 "year": "1995",
-"population_z": 1.3008 
+"service":  54867,
+"service_z":  54867 
 },
 "357": {
  "FIPS":     71,
 "year": "1995",
-"population_z": -0.35828 
+"service":   2127,
+"service_z": 2126.6 
 },
 "358": {
  "FIPS":     73,
 "year": "1995",
-"population_z": -0.42992 
+"service":    925,
+"service_z": 924.61 
 },
 "359": {
  "FIPS":     75,
 "year": "1995",
-"population_z": -0.32249 
+"service":   4517,
+"service_z": 4516.6 
 },
 "360": {
  "FIPS":     77,
 "year": "1995",
-"population_z": 0.36806 
+"service":  27670,
+"service_z":  27670 
 },
 "361": {
  "FIPS":     79,
 "year": "1995",
-"population_z": -0.47253 
+"service":    239,
+"service_z": 238.61 
 },
 "362": {
  "FIPS":     81,
 "year": "1995",
-"population_z": -0.38013 
+"service":   2739,
+"service_z": 2738.6 
 },
 "363": {
  "FIPS":     83,
 "year": "1995",
-"population_z": -0.30009 
+"service":   4675,
+"service_z": 4674.6 
 },
 "364": {
  "FIPS":     85,
 "year": "1995",
-"population_z": -0.23981 
+"service":   5859,
+"service_z": 5858.6 
 },
 "365": {
  "FIPS":     87,
 "year": "1995",
-"population_z": -0.27438 
+"service":   4833,
+"service_z": 4832.6 
 },
 "366": {
  "FIPS":     89,
 "year": "1995",
-"population_z": -0.31184 
+"service":   4258,
+"service_z": 4257.6 
 },
 "367": {
  "FIPS":     91,
 "year": "1995",
-"population_z": -0.45318 
+"service":    631,
+"service_z": 630.61 
 },
 "368": {
  "FIPS":     93,
 "year": "1995",
-"population_z": -0.39305 
+"service":    660,
+"service_z": 659.61 
 },
 "369": {
  "FIPS":     95,
 "year": "1995",
-"population_z": -0.44199 
+"service":    633,
+"service_z": 632.61 
 },
 "370": {
  "FIPS":     97,
 "year": "1995",
-"population_z": -0.36034 
+"service":  11629,
+"service_z":  11629 
 },
 "371": {
  "FIPS":     99,
 "year": "1995",
-"population_z": -0.367 
+"service":   2531,
+"service_z": 2530.6 
 },
 "372": {
  "FIPS":    101,
 "year": "1995",
-"population_z": 0.57214 
+"service":  30473,
+"service_z":  30473 
 },
 "373": {
  "FIPS":    103,
 "year": "1995",
-"population_z": -0.42655 
+"service":    832,
+"service_z": 831.61 
 },
 "374": {
  "FIPS":    105,
 "year": "1995",
-"population_z": -0.38405 
+"service":   2192,
+"service_z": 2191.6 
 },
 "375": {
  "FIPS":    107,
 "year": "1995",
-"population_z": -0.33946 
+"service":   7553,
+"service_z": 7552.6 
 },
 "376": {
  "FIPS":    109,
 "year": "1995",
-"population_z": -0.43565 
+"service":    296,
+"service_z": 295.61 
 },
 "377": {
  "FIPS":    111,
 "year": "1995",
-"population_z": -0.47336 
+"service":      0,
+"service_z": -0.38731 
 },
 "378": {
  "FIPS":    113,
 "year": "1995",
-"population_z": -0.43389 
+"service":   2902,
+"service_z": 2901.6 
 },
 "379": {
  "FIPS":    115,
 "year": "1995",
-"population_z": -0.45667 
+"service":    432,
+"service_z": 431.61 
 },
 "380": {
  "FIPS":    117,
 "year": "1995",
-"population_z": -0.3313 
+"service":  13134,
+"service_z":  13134 
 },
 "381": {
  "FIPS":    119,
 "year": "1995",
-"population_z": -0.34165 
+"service":   4052,
+"service_z": 4051.6 
 },
 "382": {
  "FIPS":    121,
 "year": "1995",
-"population_z": -0.43592 
+"service":    639,
+"service_z": 638.61 
 },
 "383": {
  "FIPS":    123,
 "year": "1995",
-"population_z": 0.78356 
+"service":  32919,
+"service_z":  32919 
 },
 "384": {
  "FIPS":    125,
 "year": "1995",
-"population_z": -0.40206 
+"service":   1394,
+"service_z": 1393.6 
 },
 "385": {
  "FIPS":      1,
 "year": "1996",
-"population_z": 2.0638 
+"service":  77368,
+"service_z":  77368 
 },
 "386": {
  "FIPS":      3,
 "year": "1996",
-"population_z": -0.3674 
+"service":   4031,
+"service_z": 4030.6 
 },
 "387": {
  "FIPS":      5,
 "year": "1996",
-"population_z":  3.072 
+"service": 1.8235e+05,
+"service_z": 1.8235e+05 
 },
 "388": {
  "FIPS":      7,
 "year": "1996",
-"population_z": -0.41775 
+"service":   1485,
+"service_z": 1484.6 
 },
 "389": {
  "FIPS":      9,
 "year": "1996",
-"population_z": -0.44454 
+"service":    418,
+"service_z": 417.61 
 },
 "390": {
  "FIPS":     11,
 "year": "1996",
-"population_z": -0.4359 
+"service":    368,
+"service_z": 367.61 
 },
 "391": {
  "FIPS":     13,
 "year": "1996",
-"population_z": 1.5812 
+"service":  89094,
+"service_z":  89094 
 },
 "392": {
  "FIPS":     14,
 "year": "1996",
-"population_z": -0.48018 
+"service":      0,
+"service_z": -0.38975 
 },
 "393": {
  "FIPS":     15,
 "year": "1996",
-"population_z": -0.36107 
+"service":   3411,
+"service_z": 3410.6 
 },
 "394": {
  "FIPS":     17,
 "year": "1996",
-"population_z": -0.4622 
+"service":    262,
+"service_z": 261.61 
 },
 "395": {
  "FIPS":     19,
 "year": "1996",
-"population_z": -0.41155 
+"service":   1564,
+"service_z": 1563.6 
 },
 "396": {
  "FIPS":     21,
 "year": "1996",
-"population_z": -0.41703 
+"service":    548,
+"service_z": 547.61 
 },
 "397": {
  "FIPS":     23,
 "year": "1996",
-"population_z": -0.45198 
+"service":    181,
+"service_z": 180.61 
 },
 "398": {
  "FIPS":     25,
 "year": "1996",
-"population_z": -0.44659 
+"service":    253,
+"service_z": 252.61 
 },
 "399": {
  "FIPS":     27,
 "year": "1996",
-"population_z": -0.45776 
+"service":    313,
+"service_z": 312.61 
 },
 "400": {
  "FIPS":     29,
 "year": "1996",
-"population_z": -0.27766 
+"service":   3401,
+"service_z": 3400.6 
 },
 "401": {
  "FIPS":     31,
 "year": "1996",
-"population_z": 3.6011 
+"service": 3.0467e+05,
+"service_z": 3.0467e+05 
 },
 "402": {
  "FIPS":     33,
 "year": "1996",
-"population_z": -0.4673 
+"service":    146,
+"service_z": 145.61 
 },
 "403": {
  "FIPS":     35,
 "year": "1996",
-"population_z": 0.42318 
+"service":  19614,
+"service_z":  19614 
 },
 "404": {
  "FIPS":     37,
 "year": "1996",
-"population_z": -0.22088 
+"service":  16839,
+"service_z":  16839 
 },
 "405": {
  "FIPS":     39,
 "year": "1996",
-"population_z": -0.35571 
+"service":    678,
+"service_z": 677.61 
 },
 "406": {
  "FIPS":     41,
 "year": "1996",
-"population_z": 3.2761 
+"service": 1.3428e+05,
+"service_z": 1.3428e+05 
 },
 "407": {
  "FIPS":     43,
 "year": "1996",
-"population_z": -0.15079 
+"service":   5472,
+"service_z": 5471.6 
 },
 "408": {
  "FIPS":     45,
 "year": "1996",
-"population_z": -0.18348 
+"service":  10076,
+"service_z":  10076 
 },
 "409": {
  "FIPS":     47,
 "year": "1996",
-"population_z": -0.45032 
+"service":   4315,
+"service_z": 4314.6 
 },
 "410": {
  "FIPS":     49,
 "year": "1996",
-"population_z": -0.39741 
+"service":   4287,
+"service_z": 4286.6 
 },
 "411": {
  "FIPS":     51,
 "year": "1996",
-"population_z": -0.38376 
+"service":   4431,
+"service_z": 4430.6 
 },
 "412": {
  "FIPS":     53,
 "year": "1996",
-"population_z": -0.47462 
+"service":      0,
+"service_z": -0.38975 
 },
 "413": {
  "FIPS":     55,
 "year": "1996",
-"population_z": -0.422 
+"service":    962,
+"service_z": 961.61 
 },
 "414": {
  "FIPS":     57,
 "year": "1996",
-"population_z": -0.46763 
+"service":    187,
+"service_z": 186.61 
 },
 "415": {
  "FIPS":     59,
 "year": "1996",
-"population_z": 3.4419 
+"service": 1.2217e+05,
+"service_z": 1.2217e+05 
 },
 "416": {
  "FIPS":     61,
 "year": "1996",
-"population_z": -0.4671 
+"service":      0,
+"service_z": -0.38975 
 },
 "417": {
  "FIPS":     63,
 "year": "1996",
-"population_z": -0.42123 
+"service":   1511,
+"service_z": 1510.6 
 },
 "418": {
  "FIPS":     65,
 "year": "1996",
-"population_z": -0.16752 
+"service":   1048,
+"service_z": 1047.6 
 },
 "419": {
  "FIPS":     67,
 "year": "1996",
-"population_z": -0.4207 
+"service":  13370,
+"service_z":  13370 
 },
 "420": {
  "FIPS":     69,
 "year": "1996",
-"population_z": 1.3094 
+"service":  59075,
+"service_z":  59075 
 },
 "421": {
  "FIPS":     71,
 "year": "1996",
-"population_z": -0.36232 
+"service":   2219,
+"service_z": 2218.6 
 },
 "422": {
  "FIPS":     73,
 "year": "1996",
-"population_z": -0.43205 
+"service":    938,
+"service_z": 937.61 
 },
 "423": {
  "FIPS":     75,
 "year": "1996",
-"population_z": -0.32535 
+"service":   4567,
+"service_z": 4566.6 
 },
 "424": {
  "FIPS":     77,
 "year": "1996",
-"population_z": 0.36661 
+"service":  28490,
+"service_z":  28490 
 },
 "425": {
  "FIPS":     79,
 "year": "1996",
-"population_z": -0.47448 
+"service":    252,
+"service_z": 251.61 
 },
 "426": {
  "FIPS":     81,
 "year": "1996",
-"population_z": -0.38339 
+"service":   2796,
+"service_z": 2795.6 
 },
 "427": {
  "FIPS":     83,
 "year": "1996",
-"population_z": -0.30182 
+"service":   5237,
+"service_z": 5236.6 
 },
 "428": {
  "FIPS":     85,
 "year": "1996",
-"population_z": -0.2401 
+"service":   6068,
+"service_z": 6067.6 
 },
 "429": {
  "FIPS":     87,
 "year": "1996",
-"population_z": -0.2751 
+"service":   4846,
+"service_z": 4845.6 
 },
 "430": {
  "FIPS":     89,
 "year": "1996",
-"population_z": -0.3168 
+"service":   4379,
+"service_z": 4378.6 
 },
 "431": {
  "FIPS":     91,
 "year": "1996",
-"population_z": -0.45457 
+"service":    644,
+"service_z": 643.61 
 },
 "432": {
  "FIPS":     93,
 "year": "1996",
-"population_z": -0.39059 
+"service":    718,
+"service_z": 717.61 
 },
 "433": {
  "FIPS":     95,
 "year": "1996",
-"population_z": -0.44472 
+"service":    625,
+"service_z": 624.61 
 },
 "434": {
  "FIPS":     97,
 "year": "1996",
-"population_z": -0.36558 
+"service":  11998,
+"service_z":  11998 
 },
 "435": {
  "FIPS":     99,
 "year": "1996",
-"population_z": -0.36992 
+"service":   2511,
+"service_z": 2510.6 
 },
 "436": {
  "FIPS":    101,
 "year": "1996",
-"population_z": 0.56324 
+"service":  32166,
+"service_z":  32166 
 },
 "437": {
  "FIPS":    103,
 "year": "1996",
-"population_z": -0.43025 
+"service":    839,
+"service_z": 838.61 
 },
 "438": {
  "FIPS":    105,
 "year": "1996",
-"population_z": -0.3871 
+"service":   2196,
+"service_z": 2195.6 
 },
 "439": {
  "FIPS":    107,
 "year": "1996",
-"population_z": -0.34066 
+"service":   7767,
+"service_z": 7766.6 
 },
 "440": {
  "FIPS":    109,
 "year": "1996",
-"population_z": -0.43746 
+"service":    291,
+"service_z": 290.61 
 },
 "441": {
  "FIPS":    111,
 "year": "1996",
-"population_z": -0.47562 
+"service":      0,
+"service_z": -0.38975 
 },
 "442": {
  "FIPS":    113,
 "year": "1996",
-"population_z": -0.43448 
+"service":   2852,
+"service_z": 2851.6 
 },
 "443": {
  "FIPS":    115,
 "year": "1996",
-"population_z": -0.45903 
+"service":    414,
+"service_z": 413.61 
 },
 "444": {
  "FIPS":    117,
 "year": "1996",
-"population_z": -0.32744 
+"service":  13638,
+"service_z":  13638 
 },
 "445": {
  "FIPS":    119,
 "year": "1996",
-"population_z": -0.33737 
+"service":   4210,
+"service_z": 4209.6 
 },
 "446": {
  "FIPS":    121,
 "year": "1996",
-"population_z": -0.43907 
+"service":    609,
+"service_z": 608.61 
 },
 "447": {
  "FIPS":    123,
 "year": "1996",
-"population_z": 0.79406 
+"service":  33870,
+"service_z":  33870 
 },
 "448": {
  "FIPS":    125,
 "year": "1996",
-"population_z": -0.40521 
+"service":   1447,
+"service_z": 1446.6 
 },
 "449": {
  "FIPS":      1,
 "year": "1997",
-"population_z": 2.0887 
+"service":  79788,
+"service_z":  79788 
 },
 "450": {
  "FIPS":      3,
 "year": "1997",
-"population_z": -0.37058 
+"service":   4164,
+"service_z": 4163.6 
 },
 "451": {
  "FIPS":      5,
 "year": "1997",
-"population_z": 3.0648 
+"service": 1.9437e+05,
+"service_z": 1.9437e+05 
 },
 "452": {
  "FIPS":      7,
 "year": "1997",
-"population_z": -0.41651 
+"service":   1657,
+"service_z": 1656.6 
 },
 "453": {
  "FIPS":      9,
 "year": "1997",
-"population_z": -0.4472 
+"service":    415,
+"service_z": 414.61 
 },
 "454": {
  "FIPS":     11,
 "year": "1997",
-"population_z": -0.43887 
+"service":    462,
+"service_z": 461.61 
 },
 "455": {
  "FIPS":     13,
 "year": "1997",
-"population_z": 1.5735 
+"service":  95030,
+"service_z":  95030 
 },
 "456": {
  "FIPS":     14,
 "year": "1997",
-"population_z": -0.48245 
+"service":      0,
+"service_z": -0.39156 
 },
 "457": {
  "FIPS":     15,
 "year": "1997",
-"population_z": -0.36341 
+"service":   3561,
+"service_z": 3560.6 
 },
 "458": {
  "FIPS":     17,
 "year": "1997",
-"population_z": -0.46472 
+"service":    294,
+"service_z": 293.61 
 },
 "459": {
  "FIPS":     19,
 "year": "1997",
-"population_z": -0.41384 
+"service":   1535,
+"service_z": 1534.6 
 },
 "460": {
  "FIPS":     21,
 "year": "1997",
-"population_z": -0.41986 
+"service":    545,
+"service_z": 544.61 
 },
 "461": {
  "FIPS":     23,
 "year": "1997",
-"population_z": -0.45432 
+"service":    178,
+"service_z": 177.61 
 },
 "462": {
  "FIPS":     25,
 "year": "1997",
-"population_z": -0.4492 
+"service":    227,
+"service_z": 226.61 
 },
 "463": {
  "FIPS":     27,
 "year": "1997",
-"population_z": -0.45883 
+"service":    358,
+"service_z": 357.61 
 },
 "464": {
  "FIPS":     29,
 "year": "1997",
-"population_z": -0.28151 
+"service":   3543,
+"service_z": 3542.6 
 },
 "465": {
  "FIPS":     31,
 "year": "1997",
-"population_z": 3.5932 
+"service": 3.1297e+05,
+"service_z": 3.1297e+05 
 },
 "466": {
  "FIPS":     33,
 "year": "1997",
-"population_z": -0.46952 
+"service":    131,
+"service_z": 130.61 
 },
 "467": {
  "FIPS":     35,
 "year": "1997",
-"population_z": 0.5169 
+"service":  25394,
+"service_z":  25394 
 },
 "468": {
  "FIPS":     37,
 "year": "1997",
-"population_z": -0.21041 
+"service":  18442,
+"service_z":  18442 
 },
 "469": {
  "FIPS":     39,
 "year": "1997",
-"population_z": -0.35119 
+"service":    752,
+"service_z": 751.61 
 },
 "470": {
  "FIPS":     41,
 "year": "1997",
-"population_z": 3.2792 
+"service": 1.411e+05,
+"service_z": 1.411e+05 
 },
 "471": {
  "FIPS":     43,
 "year": "1997",
-"population_z": -0.15139 
+"service":   5563,
+"service_z": 5562.6 
 },
 "472": {
  "FIPS":     45,
 "year": "1997",
-"population_z": -0.18191 
+"service":  10292,
+"service_z":  10292 
 },
 "473": {
  "FIPS":     47,
 "year": "1997",
-"population_z": -0.45127 
+"service":   4118,
+"service_z": 4117.6 
 },
 "474": {
  "FIPS":     49,
 "year": "1997",
-"population_z": -0.39772 
+"service":   4393,
+"service_z": 4392.6 
 },
 "475": {
  "FIPS":     51,
 "year": "1997",
-"population_z": -0.3866 
+"service":   4648,
+"service_z": 4647.6 
 },
 "476": {
  "FIPS":     53,
 "year": "1997",
-"population_z": -0.47674 
+"service":      0,
+"service_z": -0.39156 
 },
 "477": {
  "FIPS":     55,
 "year": "1997",
-"population_z": -0.42317 
+"service":   1157,
+"service_z": 1156.6 
 },
 "478": {
  "FIPS":     57,
 "year": "1997",
-"population_z": -0.47012 
+"service":    200,
+"service_z": 199.61 
 },
 "479": {
  "FIPS":     59,
 "year": "1997",
-"population_z": 3.4138 
+"service": 1.2682e+05,
+"service_z": 1.2682e+05 
 },
 "480": {
  "FIPS":     61,
 "year": "1997",
-"population_z": -0.46962 
+"service":      0,
+"service_z": -0.39156 
 },
 "481": {
  "FIPS":     63,
 "year": "1997",
-"population_z": -0.42374 
+"service":   1528,
+"service_z": 1527.6 
 },
 "482": {
  "FIPS":     65,
 "year": "1997",
-"population_z": -0.17091 
+"service":   1069,
+"service_z": 1068.6 
 },
 "483": {
  "FIPS":     67,
 "year": "1997",
-"population_z": -0.42172 
+"service":  13773,
+"service_z":  13773 
 },
 "484": {
  "FIPS":     69,
 "year": "1997",
-"population_z": 1.3164 
+"service":  60853,
+"service_z":  60853 
 },
 "485": {
  "FIPS":     71,
 "year": "1997",
-"population_z": -0.3662 
+"service":   2257,
+"service_z": 2256.6 
 },
 "486": {
  "FIPS":     73,
 "year": "1997",
-"population_z": -0.43536 
+"service":    955,
+"service_z": 954.61 
 },
 "487": {
  "FIPS":     75,
 "year": "1997",
-"population_z": -0.32785 
+"service":   4723,
+"service_z": 4722.6 
 },
 "488": {
  "FIPS":     77,
 "year": "1997",
-"population_z": 0.36569 
+"service":  30195,
+"service_z":  30195 
 },
 "489": {
  "FIPS":     79,
 "year": "1997",
-"population_z": -0.4767 
+"service":    263,
+"service_z": 262.61 
 },
 "490": {
  "FIPS":     81,
 "year": "1997",
-"population_z": -0.38531 
+"service":   2831,
+"service_z": 2830.6 
 },
 "491": {
  "FIPS":     83,
 "year": "1997",
-"population_z": -0.30494 
+"service":   5320,
+"service_z": 5319.6 
 },
 "492": {
  "FIPS":     85,
 "year": "1997",
-"population_z": -0.24097 
+"service":   6424,
+"service_z": 6423.6 
 },
 "493": {
  "FIPS":     87,
 "year": "1997",
-"population_z": -0.27655 
+"service":   4847,
+"service_z": 4846.6 
 },
 "494": {
  "FIPS":     89,
 "year": "1997",
-"population_z": -0.32198 
+"service":   4352,
+"service_z": 4351.6 
 },
 "495": {
  "FIPS":     91,
 "year": "1997",
-"population_z": -0.45678 
+"service":    617,
+"service_z": 616.61 
 },
 "496": {
  "FIPS":     93,
 "year": "1997",
-"population_z": -0.38693 
+"service":    734,
+"service_z": 733.61 
 },
 "497": {
  "FIPS":     95,
 "year": "1997",
-"population_z": -0.44711 
+"service":    656,
+"service_z": 655.61 
 },
 "498": {
  "FIPS":     97,
 "year": "1997",
-"population_z": -0.36819 
+"service":  12423,
+"service_z":  12423 
 },
 "499": {
  "FIPS":     99,
 "year": "1997",
-"population_z": -0.37337 
+"service":   2610,
+"service_z": 2609.6 
 },
 "500": {
  "FIPS":    101,
 "year": "1997",
-"population_z": 0.55912 
+"service":  33730,
+"service_z":  33730 
 },
 "501": {
  "FIPS":    103,
 "year": "1997",
-"population_z": -0.4336 
+"service":    841,
+"service_z": 840.61 
 },
 "502": {
  "FIPS":    105,
 "year": "1997",
-"population_z": -0.38999 
+"service":   2176,
+"service_z": 2175.6 
 },
 "503": {
  "FIPS":    107,
 "year": "1997",
-"population_z": -0.34246 
+"service":   7909,
+"service_z": 7908.6 
 },
 "504": {
  "FIPS":    109,
 "year": "1997",
-"population_z": -0.44002 
+"service":    329,
+"service_z": 328.61 
 },
 "505": {
  "FIPS":    111,
 "year": "1997",
-"population_z": -0.47805 
+"service":      0,
+"service_z": -0.39156 
 },
 "506": {
  "FIPS":    113,
 "year": "1997",
-"population_z": -0.43645 
+"service":   2915,
+"service_z": 2914.6 
 },
 "507": {
  "FIPS":    115,
 "year": "1997",
-"population_z": -0.46135 
+"service":    422,
+"service_z": 421.61 
 },
 "508": {
  "FIPS":    117,
 "year": "1997",
-"population_z": -0.32521 
+"service":  14080,
+"service_z":  14080 
 },
 "509": {
  "FIPS":    119,
 "year": "1997",
-"population_z": -0.33513 
+"service":   4557,
+"service_z": 4556.6 
 },
 "510": {
  "FIPS":    121,
 "year": "1997",
-"population_z": -0.4422 
+"service":    588,
+"service_z": 587.61 
 },
 "511": {
  "FIPS":    123,
 "year": "1997",
-"population_z": 0.80674 
+"service":  32476,
+"service_z":  32476 
 },
 "512": {
  "FIPS":    125,
 "year": "1997",
-"population_z": -0.40783 
+"service":   1484,
+"service_z": 1483.6 
 },
 "513": {
  "FIPS":      1,
 "year": "1998",
-"population_z": 2.1157 
+"service":  82713,
+"service_z":  82713 
 },
 "514": {
  "FIPS":      3,
 "year": "1998",
-"population_z": -0.37396 
+"service":   4202,
+"service_z": 4201.6 
 },
 "515": {
  "FIPS":      5,
 "year": "1998",
-"population_z": 3.0859 
+"service": 2.0192e+05,
+"service_z": 2.0192e+05 
 },
 "516": {
  "FIPS":      7,
 "year": "1998",
-"population_z": -0.41545 
+"service":   1808,
+"service_z": 1807.6 
 },
 "517": {
  "FIPS":      9,
 "year": "1998",
-"population_z": -0.45024 
+"service":    435,
+"service_z": 434.61 
 },
 "518": {
  "FIPS":     11,
 "year": "1998",
-"population_z": -0.43919 
+"service":    504,
+"service_z": 503.61 
 },
 "519": {
  "FIPS":     13,
 "year": "1998",
-"population_z": 1.5873 
+"service":  98016,
+"service_z":  98016 
 },
 "520": {
  "FIPS":     14,
 "year": "1998",
-"population_z": -0.48448 
+"service":      0,
+"service_z": -0.39212 
 },
 "521": {
  "FIPS":     15,
 "year": "1998",
-"population_z": -0.36714 
+"service":   3649,
+"service_z": 3648.6 
 },
 "522": {
  "FIPS":     17,
 "year": "1998",
-"population_z": -0.46677 
+"service":    320,
+"service_z": 319.61 
 },
 "523": {
  "FIPS":     19,
 "year": "1998",
-"population_z": -0.41647 
+"service":   1546,
+"service_z": 1545.6 
 },
 "524": {
  "FIPS":     21,
 "year": "1998",
-"population_z": -0.4226 
+"service":    581,
+"service_z": 580.61 
 },
 "525": {
  "FIPS":     23,
 "year": "1998",
-"population_z": -0.45652 
+"service":    197,
+"service_z": 196.61 
 },
 "526": {
  "FIPS":     25,
 "year": "1998",
-"population_z": -0.45209 
+"service":    289,
+"service_z": 288.61 
 },
 "527": {
  "FIPS":     27,
 "year": "1998",
-"population_z": -0.46048 
+"service":    372,
+"service_z": 371.61 
 },
 "528": {
  "FIPS":     29,
 "year": "1998",
-"population_z": -0.28177 
+"service":   3778,
+"service_z": 3777.6 
 },
 "529": {
  "FIPS":     31,
 "year": "1998",
-"population_z":  3.547 
+"service": 3.2564e+05,
+"service_z": 3.2564e+05 
 },
 "530": {
  "FIPS":     33,
 "year": "1998",
-"population_z": -0.47113 
+"service":    142,
+"service_z": 141.61 
 },
 "531": {
  "FIPS":     35,
 "year": "1998",
-"population_z": 0.60655 
+"service":  31146,
+"service_z":  31146 
 },
 "532": {
  "FIPS":     37,
 "year": "1998",
-"population_z": -0.20019 
+"service":  19251,
+"service_z":  19251 
 },
 "533": {
  "FIPS":     39,
 "year": "1998",
-"population_z": -0.34819 
+"service":    880,
+"service_z": 879.61 
 },
 "534": {
  "FIPS":     41,
 "year": "1998",
-"population_z": 3.2796 
+"service": 1.4823e+05,
+"service_z": 1.4823e+05 
 },
 "535": {
  "FIPS":     43,
 "year": "1998",
-"population_z": -0.15334 
+"service":   5837,
+"service_z": 5836.6 
 },
 "536": {
  "FIPS":     45,
 "year": "1998",
-"population_z": -0.17286 
+"service":  10695,
+"service_z":  10695 
 },
 "537": {
  "FIPS":     47,
 "year": "1998",
-"population_z": -0.45239 
+"service":   4072,
+"service_z": 4071.6 
 },
 "538": {
  "FIPS":     49,
 "year": "1998",
-"population_z": -0.39825 
+"service":   4697,
+"service_z": 4696.6 
 },
 "539": {
  "FIPS":     51,
 "year": "1998",
-"population_z": -0.38289 
+"service":   4886,
+"service_z": 4885.6 
 },
 "540": {
  "FIPS":     53,
 "year": "1998",
-"population_z": -0.47862 
+"service":      0,
+"service_z": -0.39212 
 },
 "541": {
  "FIPS":     55,
 "year": "1998",
-"population_z": -0.42567 
+"service":   1355,
+"service_z": 1354.6 
 },
 "542": {
  "FIPS":     57,
 "year": "1998",
-"population_z": -0.47249 
+"service":    205,
+"service_z": 204.61 
 },
 "543": {
  "FIPS":     59,
 "year": "1998",
-"population_z": 3.3889 
+"service": 1.2854e+05,
+"service_z": 1.2854e+05 
 },
 "544": {
  "FIPS":     61,
 "year": "1998",
-"population_z": -0.47206 
+"service":      0,
+"service_z": -0.39212 
 },
 "545": {
  "FIPS":     63,
 "year": "1998",
-"population_z": -0.42588 
+"service":   1619,
+"service_z": 1618.6 
 },
 "546": {
  "FIPS":     65,
 "year": "1998",
-"population_z": -0.17329 
+"service":   1112,
+"service_z": 1111.6 
 },
 "547": {
  "FIPS":     67,
 "year": "1998",
-"population_z": -0.42526 
+"service":  14181,
+"service_z":  14181 
 },
 "548": {
  "FIPS":     69,
 "year": "1998",
-"population_z": 1.3225 
+"service":  63329,
+"service_z":  63329 
 },
 "549": {
  "FIPS":     71,
 "year": "1998",
-"population_z": -0.3707 
+"service":   2456,
+"service_z": 2455.6 
 },
 "550": {
  "FIPS":     73,
 "year": "1998",
-"population_z": -0.43832 
+"service":    928,
+"service_z": 927.61 
 },
 "551": {
  "FIPS":     75,
 "year": "1998",
-"population_z": -0.3333 
+"service":   4687,
+"service_z": 4686.6 
 },
 "552": {
  "FIPS":     77,
 "year": "1998",
-"population_z": 0.36449 
+"service":  31284,
+"service_z":  31284 
 },
 "553": {
  "FIPS":     79,
 "year": "1998",
-"population_z": -0.47865 
+"service":    306,
+"service_z": 305.61 
 },
 "554": {
  "FIPS":     81,
 "year": "1998",
-"population_z": -0.38765 
+"service":   2710,
+"service_z": 2709.6 
 },
 "555": {
  "FIPS":     83,
 "year": "1998",
-"population_z": -0.30976 
+"service":   5560,
+"service_z": 5559.6 
 },
 "556": {
  "FIPS":     85,
 "year": "1998",
-"population_z": -0.24386 
+"service":   6472,
+"service_z": 6471.6 
 },
 "557": {
  "FIPS":     87,
 "year": "1998",
-"population_z": -0.28297 
+"service":   4745,
+"service_z": 4744.6 
 },
 "558": {
  "FIPS":     89,
 "year": "1998",
-"population_z": -0.32942 
+"service":   4432,
+"service_z": 4431.6 
 },
 "559": {
  "FIPS":     91,
 "year": "1998",
-"population_z": -0.45838 
+"service":    637,
+"service_z": 636.61 
 },
 "560": {
  "FIPS":     93,
 "year": "1998",
-"population_z": -0.38574 
+"service":    807,
+"service_z": 806.61 
 },
 "561": {
  "FIPS":     95,
 "year": "1998",
-"population_z": -0.44994 
+"service":    671,
+"service_z": 670.61 
 },
 "562": {
  "FIPS":     97,
 "year": "1998",
-"population_z": -0.37277 
+"service":  12773,
+"service_z":  12773 
 },
 "563": {
  "FIPS":     99,
 "year": "1998",
-"population_z": -0.37698 
+"service":   2761,
+"service_z": 2760.6 
 },
 "564": {
  "FIPS":    101,
 "year": "1998",
-"population_z": 0.55385 
+"service":  34839,
+"service_z":  34839 
 },
 "565": {
  "FIPS":    103,
 "year": "1998",
-"population_z": -0.43738 
+"service":    839,
+"service_z": 838.61 
 },
 "566": {
  "FIPS":    105,
 "year": "1998",
-"population_z": -0.39286 
+"service":   2189,
+"service_z": 2188.6 
 },
 "567": {
  "FIPS":    107,
 "year": "1998",
-"population_z": -0.34386 
+"service":   8207,
+"service_z": 8206.6 
 },
 "568": {
  "FIPS":    109,
 "year": "1998",
-"population_z": -0.44247 
+"service":    383,
+"service_z": 382.61 
 },
 "569": {
  "FIPS":    111,
 "year": "1998",
-"population_z": -0.48029 
+"service":      0,
+"service_z": -0.39212 
 },
 "570": {
  "FIPS":    113,
 "year": "1998",
-"population_z": -0.43571 
+"service":   3057,
+"service_z": 3056.6 
 },
 "571": {
  "FIPS":    115,
 "year": "1998",
-"population_z": -0.46422 
+"service":    408,
+"service_z": 407.61 
 },
 "572": {
  "FIPS":    117,
 "year": "1998",
-"population_z": -0.32364 
+"service":  14157,
+"service_z":  14157 
 },
 "573": {
  "FIPS":    119,
 "year": "1998",
-"population_z": -0.3358 
+"service":   4595,
+"service_z": 4594.6 
 },
 "574": {
  "FIPS":    121,
 "year": "1998",
-"population_z": -0.44552 
+"service":    573,
+"service_z": 572.61 
 },
 "575": {
  "FIPS":    123,
 "year": "1998",
-"population_z": 0.81848 
+"service":  34405,
+"service_z":  34405 
 },
 "576": {
  "FIPS":    125,
 "year": "1998",
-"population_z": -0.41042 
+"service":   1537,
+"service_z": 1536.6 
 },
 "577": {
  "FIPS":      1,
 "year": "1999",
-"population_z": 2.1374 
+"service":  87659,
+"service_z":  87659 
 },
 "578": {
  "FIPS":      3,
 "year": "1999",
-"population_z": -0.37701 
+"service":   4264,
+"service_z": 4263.6 
 },
 "579": {
  "FIPS":      5,
 "year": "1999",
-"population_z": 3.0678 
+"service": 2.1301e+05,
+"service_z": 2.1301e+05 
 },
 "580": {
  "FIPS":      7,
 "year": "1999",
-"population_z": -0.41579 
+"service":   1964,
+"service_z": 1963.6 
 },
 "581": {
  "FIPS":      9,
 "year": "1999",
-"population_z": -0.45306 
+"service":    431,
+"service_z": 430.61 
 },
 "582": {
  "FIPS":     11,
 "year": "1999",
-"population_z": -0.44219 
+"service":    501,
+"service_z": 500.61 
 },
 "583": {
  "FIPS":     13,
 "year": "1999",
-"population_z": 1.6102 
+"service": 1.0596e+05,
+"service_z": 1.0596e+05 
 },
 "584": {
  "FIPS":     14,
 "year": "1999",
-"population_z": -0.48647 
+"service":      0,
+"service_z": -0.39347 
 },
 "585": {
  "FIPS":     15,
 "year": "1999",
-"population_z": -0.36878 
+"service":   3687,
+"service_z": 3686.6 
 },
 "586": {
  "FIPS":     17,
 "year": "1999",
-"population_z": -0.46964 
+"service":    287,
+"service_z": 286.61 
 },
 "587": {
  "FIPS":     19,
 "year": "1999",
-"population_z": -0.41865 
+"service":   1512,
+"service_z": 1511.6 
 },
 "588": {
  "FIPS":     21,
 "year": "1999",
-"population_z": -0.42511 
+"service":    575,
+"service_z": 574.61 
 },
 "589": {
  "FIPS":     23,
 "year": "1999",
-"population_z": -0.4593 
+"service":    222,
+"service_z": 221.61 
 },
 "590": {
  "FIPS":     25,
 "year": "1999",
-"population_z": -0.44956 
+"service":    511,
+"service_z": 510.61 
 },
 "591": {
  "FIPS":     27,
 "year": "1999",
-"population_z": -0.46162 
+"service":    398,
+"service_z": 397.61 
 },
 "592": {
  "FIPS":     29,
 "year": "1999",
-"population_z": -0.28412 
+"service":   3837,
+"service_z": 3836.6 
 },
 "593": {
  "FIPS":     31,
 "year": "1999",
-"population_z":  3.542 
+"service": 3.3549e+05,
+"service_z": 3.3549e+05 
 },
 "594": {
  "FIPS":     33,
 "year": "1999",
-"population_z": -0.47309 
+"service":    163,
+"service_z": 162.61 
 },
 "595": {
  "FIPS":     35,
 "year": "1999",
-"population_z": 0.71224 
+"service":  34025,
+"service_z":  34025 
 },
 "596": {
  "FIPS":     37,
 "year": "1999",
-"population_z": -0.19175 
+"service":  19982,
+"service_z":  19982 
 },
 "597": {
  "FIPS":     39,
 "year": "1999",
-"population_z": -0.34551 
+"service":   1097,
+"service_z": 1096.6 
 },
 "598": {
  "FIPS":     41,
 "year": "1999",
-"population_z":  3.271 
+"service": 1.548e+05,
+"service_z": 1.5479e+05 
 },
 "599": {
  "FIPS":     43,
 "year": "1999",
-"population_z": -0.15309 
+"service":   6241,
+"service_z": 6240.6 
 },
 "600": {
  "FIPS":     45,
 "year": "1999",
-"population_z": -0.17121 
+"service":  11369,
+"service_z":  11369 
 },
 "601": {
  "FIPS":     47,
 "year": "1999",
-"population_z": -0.45295 
+"service":   4407,
+"service_z": 4406.6 
 },
 "602": {
  "FIPS":     49,
 "year": "1999",
-"population_z": -0.39789 
+"service":   4731,
+"service_z": 4730.6 
 },
 "603": {
  "FIPS":     51,
 "year": "1999",
-"population_z": -0.38503 
+"service":   4771,
+"service_z": 4770.6 
 },
 "604": {
  "FIPS":     53,
 "year": "1999",
-"population_z": -0.48068 
+"service":      0,
+"service_z": -0.39347 
 },
 "605": {
  "FIPS":     55,
 "year": "1999",
-"population_z": -0.42867 
+"service":   1314,
+"service_z": 1313.6 
 },
 "606": {
  "FIPS":     57,
 "year": "1999",
-"population_z": -0.47478 
+"service":    207,
+"service_z": 206.61 
 },
 "607": {
  "FIPS":     59,
 "year": "1999",
-"population_z": 3.3596 
+"service": 1.3323e+05,
+"service_z": 1.3323e+05 
 },
 "608": {
  "FIPS":     61,
 "year": "1999",
-"population_z": -0.47441 
+"service":      0,
+"service_z": -0.39347 
 },
 "609": {
  "FIPS":     63,
 "year": "1999",
-"population_z": -0.42812 
+"service":   1732,
+"service_z": 1731.6 
 },
 "610": {
  "FIPS":     65,
 "year": "1999",
-"population_z": -0.17072 
+"service":   1070,
+"service_z": 1069.6 
 },
 "611": {
  "FIPS":     67,
 "year": "1999",
-"population_z": -0.4287 
+"service":  14463,
+"service_z":  14463 
 },
 "612": {
  "FIPS":     69,
 "year": "1999",
-"population_z": 1.3313 
+"service":  66941,
+"service_z":  66941 
 },
 "613": {
  "FIPS":     71,
 "year": "1999",
-"population_z": -0.37465 
+"service":   2601,
+"service_z": 2600.6 
 },
 "614": {
  "FIPS":     73,
 "year": "1999",
-"population_z": -0.44145 
+"service":    977,
+"service_z": 976.61 
 },
 "615": {
  "FIPS":     75,
 "year": "1999",
-"population_z": -0.33664 
+"service":   4769,
+"service_z": 4768.6 
 },
 "616": {
  "FIPS":     77,
 "year": "1999",
-"population_z": 0.35962 
+"service":  32860,
+"service_z":  32860 
 },
 "617": {
  "FIPS":     79,
 "year": "1999",
-"population_z": -0.48051 
+"service":    291,
+"service_z": 290.61 
 },
 "618": {
  "FIPS":     81,
 "year": "1999",
-"population_z": -0.39028 
+"service":   2772,
+"service_z": 2771.6 
 },
 "619": {
  "FIPS":     83,
 "year": "1999",
-"population_z": -0.31275 
+"service":   5800,
+"service_z": 5799.6 
 },
 "620": {
  "FIPS":     85,
 "year": "1999",
-"population_z": -0.24463 
+"service":   6774,
+"service_z": 6773.6 
 },
 "621": {
  "FIPS":     87,
 "year": "1999",
-"population_z": -0.28743 
+"service":   4632,
+"service_z": 4631.6 
 },
 "622": {
  "FIPS":     89,
 "year": "1999",
-"population_z": -0.33582 
+"service":   4395,
+"service_z": 4394.6 
 },
 "623": {
  "FIPS":     91,
 "year": "1999",
-"population_z": -0.45975 
+"service":    640,
+"service_z": 639.61 
 },
 "624": {
  "FIPS":     93,
 "year": "1999",
-"population_z": -0.38382 
+"service":    833,
+"service_z": 832.61 
 },
 "625": {
  "FIPS":     95,
 "year": "1999",
-"population_z": -0.4531 
+"service":    691,
+"service_z": 690.61 
 },
 "626": {
  "FIPS":     97,
 "year": "1999",
-"population_z": -0.37693 
+"service":  12415,
+"service_z":  12415 
 },
 "627": {
  "FIPS":     99,
 "year": "1999",
-"population_z": -0.38033 
+"service":   2799,
+"service_z": 2798.6 
 },
 "628": {
  "FIPS":    101,
 "year": "1999",
-"population_z": 0.54531 
+"service":  35379,
+"service_z":  35379 
 },
 "629": {
  "FIPS":    103,
 "year": "1999",
-"population_z": -0.44149 
+"service":    837,
+"service_z": 836.61 
 },
 "630": {
  "FIPS":    105,
 "year": "1999",
-"population_z": -0.39571 
+"service":   2120,
+"service_z": 2119.6 
 },
 "631": {
  "FIPS":    107,
 "year": "1999",
-"population_z": -0.3445 
+"service":   8247,
+"service_z": 8246.6 
 },
 "632": {
  "FIPS":    109,
 "year": "1999",
-"population_z": -0.44389 
+"service":    394,
+"service_z": 393.61 
 },
 "633": {
  "FIPS":    111,
 "year": "1999",
-"population_z": -0.48235 
+"service":      0,
+"service_z": -0.39347 
 },
 "634": {
  "FIPS":    113,
 "year": "1999",
-"population_z": -0.43822 
+"service":   3205,
+"service_z": 3204.6 
 },
 "635": {
  "FIPS":    115,
 "year": "1999",
-"population_z": -0.46639 
+"service":    377,
+"service_z": 376.61 
 },
 "636": {
  "FIPS":    117,
 "year": "1999",
-"population_z": -0.31981 
+"service":  14733,
+"service_z":  14733 
 },
 "637": {
  "FIPS":    119,
 "year": "1999",
-"population_z": -0.33745 
+"service":   4597,
+"service_z": 4596.6 
 },
 "638": {
  "FIPS":    121,
 "year": "1999",
-"population_z": -0.44936 
+"service":    572,
+"service_z": 571.61 
 },
 "639": {
  "FIPS":    123,
 "year": "1999",
-"population_z": 0.82258 
+"service":  36350,
+"service_z":  36350 
 },
 "640": {
  "FIPS":    125,
 "year": "1999",
-"population_z": -0.41393 
+"service":   1589,
+"service_z": 1588.6 
 },
 "641": {
  "FIPS":      1,
 "year": "2000",
-"population_z": 2.0687 
+"service":  90685,
+"service_z":  90685 
 },
 "642": {
  "FIPS":      3,
 "year": "2000",
-"population_z": -0.38392 
+"service":   4314,
+"service_z": 4313.6 
 },
 "643": {
  "FIPS":      5,
 "year": "2000",
-"population_z": 3.0814 
+"service": 2.2122e+05,
+"service_z": 2.2122e+05 
 },
 "644": {
  "FIPS":      7,
 "year": "2000",
-"population_z": -0.42076 
+"service":   2016,
+"service_z": 2015.6 
 },
 "645": {
  "FIPS":      9,
 "year": "2000",
-"population_z": -0.46115 
+"service":    431,
+"service_z": 430.61 
 },
 "646": {
  "FIPS":     11,
 "year": "2000",
-"population_z": -0.45046 
+"service":    488,
+"service_z": 487.61 
 },
 "647": {
  "FIPS":     13,
 "year": "2000",
-"population_z": 1.5188 
+"service": 1.184e+05,
+"service_z": 1.184e+05 
 },
 "648": {
  "FIPS":     14,
 "year": "2000",
-"population_z": -0.21311 
+"service":      0,
+"service_z": -0.3949 
 },
 "649": {
  "FIPS":     15,
 "year": "2000",
-"population_z": -0.37509 
+"service":   3914,
+"service_z": 3913.6 
 },
 "650": {
  "FIPS":     17,
 "year": "2000",
-"population_z": -0.47779 
+"service":    287,
+"service_z": 286.61 
 },
 "651": {
  "FIPS":     19,
 "year": "2000",
-"population_z": -0.42573 
+"service":   1568,
+"service_z": 1567.6 
 },
 "652": {
  "FIPS":     21,
 "year": "2000",
-"population_z": -0.43267 
+"service":    617,
+"service_z": 616.61 
 },
 "653": {
  "FIPS":     23,
 "year": "2000",
-"population_z": -0.46716 
+"service":    245,
+"service_z": 244.61 
 },
 "654": {
  "FIPS":     25,
 "year": "2000",
-"population_z": -0.45656 
+"service":    539,
+"service_z": 538.61 
 },
 "655": {
  "FIPS":     27,
 "year": "2000",
-"population_z": -0.46829 
+"service":    444,
+"service_z": 443.61 
 },
 "656": {
  "FIPS":     29,
 "year": "2000",
-"population_z": -0.29059 
+"service":   3910,
+"service_z": 3909.6 
 },
 "657": {
  "FIPS":     31,
 "year": "2000",
-"population_z": 3.5624 
+"service": 3.4652e+05,
+"service_z": 3.4652e+05 
 },
 "658": {
  "FIPS":     33,
 "year": "2000",
-"population_z": -0.48046 
+"service":    173,
+"service_z": 172.61 
 },
 "659": {
  "FIPS":     35,
 "year": "2000",
-"population_z": 0.82123 
+"service":  39822,
+"service_z":  39822 
 },
 "660": {
  "FIPS":     37,
 "year": "2000",
-"population_z": -0.17854 
+"service":  20633,
+"service_z":  20633 
 },
 "661": {
  "FIPS":     39,
 "year": "2000",
-"population_z": -0.34746 
+"service":   1298,
+"service_z": 1297.6 
 },
 "662": {
  "FIPS":     41,
 "year": "2000",
-"population_z": 3.2932 
+"service": 1.5934e+05,
+"service_z": 1.5934e+05 
 },
 "663": {
  "FIPS":     43,
 "year": "2000",
-"population_z": -0.15609 
+"service":   6143,
+"service_z": 6142.6 
 },
 "664": {
  "FIPS":     45,
 "year": "2000",
-"population_z": -0.17161 
+"service":  11771,
+"service_z":  11771 
 },
 "665": {
  "FIPS":     47,
 "year": "2000",
-"population_z": -0.45894 
+"service":   5022,
+"service_z": 5021.6 
 },
 "666": {
  "FIPS":     49,
 "year": "2000",
-"population_z": -0.40029 
+"service":   4734,
+"service_z": 4733.6 
 },
 "667": {
  "FIPS":     51,
 "year": "2000",
-"population_z": -0.39201 
+"service":   4729,
+"service_z": 4728.6 
 },
 "668": {
  "FIPS":     53,
 "year": "2000",
-"population_z": -0.48816 
+"service":      0,
+"service_z": -0.3949 
 },
 "669": {
  "FIPS":     55,
 "year": "2000",
-"population_z": -0.43691 
+"service":   1326,
+"service_z": 1325.6 
 },
 "670": {
  "FIPS":     57,
 "year": "2000",
-"population_z": -0.48245 
+"service":    207,
+"service_z": 206.61 
 },
 "671": {
  "FIPS":     59,
 "year": "2000",
-"population_z": 3.3436 
+"service": 1.3728e+05,
+"service_z": 1.3728e+05 
 },
 "672": {
  "FIPS":     61,
 "year": "2000",
-"population_z": -0.48217 
+"service":      0,
+"service_z": -0.3949 
 },
 "673": {
  "FIPS":     63,
 "year": "2000",
-"population_z": -0.43583 
+"service":   1661,
+"service_z": 1660.6 
 },
 "674": {
  "FIPS":     65,
 "year": "2000",
-"population_z": -0.16915 
+"service":   1008,
+"service_z": 1007.6 
 },
 "675": {
  "FIPS":     67,
 "year": "2000",
-"population_z": -0.43608 
+"service":  14838,
+"service_z":  14838 
 },
 "676": {
  "FIPS":     69,
 "year": "2000",
-"population_z":   1.35 
+"service":  70280,
+"service_z":  70280 
 },
 "677": {
  "FIPS":     71,
 "year": "2000",
-"population_z": -0.38256 
+"service":   2672,
+"service_z": 2671.6 
 },
 "678": {
  "FIPS":     73,
 "year": "2000",
-"population_z": -0.44903 
+"service":   1046,
+"service_z": 1045.6 
 },
 "679": {
  "FIPS":     75,
 "year": "2000",
-"population_z": -0.34344 
+"service":   4866,
+"service_z": 4865.6 
 },
 "680": {
  "FIPS":     77,
 "year": "2000",
-"population_z": 0.36325 
+"service":  33515,
+"service_z":  33515 
 },
 "681": {
  "FIPS":     79,
 "year": "2000",
-"population_z": -0.48783 
+"service":    324,
+"service_z": 323.61 
 },
 "682": {
  "FIPS":     81,
 "year": "2000",
-"population_z": -0.39789 
+"service":   2791,
+"service_z": 2790.6 
 },
 "683": {
  "FIPS":     83,
 "year": "2000",
-"population_z": -0.32015 
+"service":   5795,
+"service_z": 5794.6 
 },
 "684": {
  "FIPS":     85,
 "year": "2000",
-"population_z": -0.2493 
+"service":   7167,
+"service_z": 7166.6 
 },
 "685": {
  "FIPS":     87,
 "year": "2000",
-"population_z": -0.29539 
+"service":   4616,
+"service_z": 4615.6 
 },
 "686": {
  "FIPS":     89,
 "year": "2000",
-"population_z": -0.34645 
+"service":   4420,
+"service_z": 4419.6 
 },
 "687": {
  "FIPS":     91,
 "year": "2000",
-"population_z": -0.46643 
+"service":    695,
+"service_z": 694.61 
 },
 "688": {
  "FIPS":     93,
 "year": "2000",
-"population_z": -0.38662 
+"service":    920,
+"service_z": 919.61 
 },
 "689": {
  "FIPS":     95,
 "year": "2000",
-"population_z": -0.4615 
+"service":    706,
+"service_z": 705.61 
 },
 "690": {
  "FIPS":     97,
 "year": "2000",
-"population_z": -0.37908 
+"service":  12536,
+"service_z":  12536 
 },
 "691": {
  "FIPS":     99,
 "year": "2000",
-"population_z": -0.38863 
+"service":   2677,
+"service_z": 2676.6 
 },
 "692": {
  "FIPS":    101,
 "year": "2000",
-"population_z": 0.53959 
+"service":  35398,
+"service_z":  35398 
 },
 "693": {
  "FIPS":    103,
 "year": "2000",
-"population_z": -0.45044 
+"service":    922,
+"service_z": 921.61 
 },
 "694": {
  "FIPS":    105,
 "year": "2000",
-"population_z": -0.40338 
+"service":   2060,
+"service_z": 2059.6 
 },
 "695": {
  "FIPS":    107,
 "year": "2000",
-"population_z": -0.34732 
+"service":   8467,
+"service_z": 8466.6 
 },
 "696": {
  "FIPS":    109,
 "year": "2000",
-"population_z": -0.45034 
+"service":    431,
+"service_z": 430.61 
 },
 "697": {
  "FIPS":    111,
 "year": "2000",
-"population_z": -0.48984 
+"service":      0,
+"service_z": -0.3949 
 },
 "698": {
  "FIPS":    113,
 "year": "2000",
-"population_z": -0.44574 
+"service":   3179,
+"service_z": 3178.6 
 },
 "699": {
  "FIPS":    115,
 "year": "2000",
-"population_z": -0.47394 
+"service":    372,
+"service_z": 371.61 
 },
 "700": {
  "FIPS":    117,
 "year": "2000",
-"population_z": -0.30662 
+"service":  15294,
+"service_z":  15294 
 },
 "701": {
  "FIPS":    119,
 "year": "2000",
-"population_z": -0.34043 
+"service":   4703,
+"service_z": 4702.6 
 },
 "702": {
  "FIPS":    121,
 "year": "2000",
-"population_z": -0.45797 
+"service":    546,
+"service_z": 545.61 
 },
 "703": {
  "FIPS":    123,
 "year": "2000",
-"population_z": 0.83992 
+"service":  38176,
+"service_z":  38176 
 },
 "704": {
  "FIPS":    125,
 "year": "2000",
-"population_z": -0.42242 
+"service":   1615,
+"service_z": 1614.6 
 },
 "705": {
  "FIPS":      1,
 "year": "2001",
-"population_z": 2.0707 
+"service":  90558,
+"service_z":  90558 
 },
 "706": {
  "FIPS":      3,
 "year": "2001",
-"population_z": -0.38712 
+"service":   4558,
+"service_z": 4557.6 
 },
 "707": {
  "FIPS":      5,
 "year": "2001",
-"population_z": 3.0863 
+"service": 2.2196e+05,
+"service_z": 2.2196e+05 
 },
 "708": {
  "FIPS":      7,
 "year": "2001",
-"population_z": -0.42115 
+"service":   2112,
+"service_z": 2111.6 
 },
 "709": {
  "FIPS":      9,
 "year": "2001",
-"population_z": -0.46412 
+"service":    415,
+"service_z":  414.6 
 },
 "710": {
  "FIPS":     11,
 "year": "2001",
-"population_z": -0.45387 
+"service":    499,
+"service_z":  498.6 
 },
 "711": {
  "FIPS":     13,
 "year": "2001",
-"population_z": 1.5285 
+"service": 1.2368e+05,
+"service_z": 1.2368e+05 
 },
 "712": {
  "FIPS":     14,
 "year": "2001",
-"population_z": -0.20035 
+"service":      0,
+"service_z": -0.39933 
 },
 "713": {
  "FIPS":     15,
 "year": "2001",
-"population_z": -0.3787 
+"service":   3886,
+"service_z": 3885.6 
 },
 "714": {
  "FIPS":     17,
 "year": "2001",
-"population_z": -0.48036 
+"service":    306,
+"service_z":  305.6 
 },
 "715": {
  "FIPS":     19,
 "year": "2001",
-"population_z": -0.4283 
+"service":   1576,
+"service_z": 1575.6 
 },
 "716": {
  "FIPS":     21,
 "year": "2001",
-"population_z": -0.43614 
+"service":    590,
+"service_z":  589.6 
 },
 "717": {
  "FIPS":     23,
 "year": "2001",
-"population_z": -0.46916 
+"service":    256,
+"service_z":  255.6 
 },
 "718": {
  "FIPS":     25,
 "year": "2001",
-"population_z": -0.45836 
+"service":    509,
+"service_z":  508.6 
 },
 "719": {
  "FIPS":     27,
 "year": "2001",
-"population_z": -0.46924 
+"service":    457,
+"service_z":  456.6 
 },
 "720": {
  "FIPS":     29,
 "year": "2001",
-"population_z": -0.29318 
+"service":   4109,
+"service_z": 4108.6 
 },
 "721": {
  "FIPS":     31,
 "year": "2001",
-"population_z": 3.5264 
+"service": 3.4041e+05,
+"service_z": 3.4041e+05 
 },
 "722": {
  "FIPS":     33,
 "year": "2001",
-"population_z": -0.48256 
+"service":    170,
+"service_z":  169.6 
 },
 "723": {
  "FIPS":     35,
 "year": "2001",
-"population_z": 0.92535 
+"service":  45783,
+"service_z":  45783 
 },
 "724": {
  "FIPS":     37,
 "year": "2001",
-"population_z": -0.17855 
+"service":  20664,
+"service_z":  20664 
 },
 "725": {
  "FIPS":     39,
 "year": "2001",
-"population_z": -0.34382 
+"service":   1352,
+"service_z": 1351.6 
 },
 "726": {
  "FIPS":     41,
 "year": "2001",
-"population_z": 3.3338 
+"service": 1.6084e+05,
+"service_z": 1.6084e+05 
 },
 "727": {
  "FIPS":     43,
 "year": "2001",
-"population_z": -0.16218 
+"service":   6404,
+"service_z": 6403.6 
 },
 "728": {
  "FIPS":     45,
 "year": "2001",
-"population_z": -0.16808 
+"service":  12032,
+"service_z":  12032 
 },
 "729": {
  "FIPS":     47,
 "year": "2001",
-"population_z": -0.46139 
+"service":   5030,
+"service_z": 5029.6 
 },
 "730": {
  "FIPS":     49,
 "year": "2001",
-"population_z": -0.40103 
+"service":   4869,
+"service_z": 4868.6 
 },
 "731": {
  "FIPS":     51,
 "year": "2001",
-"population_z": -0.39344 
+"service":   4578,
+"service_z": 4577.6 
 },
 "732": {
  "FIPS":     53,
 "year": "2001",
-"population_z": -0.49013 
+"service":    197,
+"service_z":  196.6 
 },
 "733": {
  "FIPS":     55,
 "year": "2001",
-"population_z": -0.43943 
+"service":   1336,
+"service_z": 1335.6 
 },
 "734": {
  "FIPS":     57,
 "year": "2001",
-"population_z": -0.48452 
+"service":    208,
+"service_z":  207.6 
 },
 "735": {
  "FIPS":     59,
 "year": "2001",
-"population_z": 3.2748 
+"service": 1.3898e+05,
+"service_z": 1.3898e+05 
 },
 "736": {
  "FIPS":     61,
 "year": "2001",
-"population_z": -0.48441 
+"service":    145,
+"service_z":  144.6 
 },
 "737": {
  "FIPS":     63,
 "year": "2001",
-"population_z": -0.43823 
+"service":   1692,
+"service_z": 1691.6 
 },
 "738": {
  "FIPS":     65,
 "year": "2001",
-"population_z": -0.16995 
+"service":   1008,
+"service_z": 1007.6 
 },
 "739": {
  "FIPS":     67,
 "year": "2001",
-"population_z": -0.44003 
+"service":  14382,
+"service_z":  14382 
 },
 "740": {
  "FIPS":     69,
 "year": "2001",
-"population_z": 1.3672 
+"service":  71962,
+"service_z":  71962 
 },
 "741": {
  "FIPS":     71,
 "year": "2001",
-"population_z": -0.38655 
+"service":   2734,
+"service_z": 2733.6 
 },
 "742": {
  "FIPS":     73,
 "year": "2001",
-"population_z": -0.45249 
+"service":   1074,
+"service_z": 1073.6 
 },
 "743": {
  "FIPS":     75,
 "year": "2001",
-"population_z": -0.33626 
+"service":   4907,
+"service_z": 4906.6 
 },
 "744": {
  "FIPS":     77,
 "year": "2001",
-"population_z": 0.36001 
+"service":  34301,
+"service_z":  34301 
 },
 "745": {
  "FIPS":     79,
 "year": "2001",
-"population_z": -0.49002 
+"service":    333,
+"service_z":  332.6 
 },
 "746": {
  "FIPS":     81,
 "year": "2001",
-"population_z": -0.40241 
+"service":   2785,
+"service_z": 2784.6 
 },
 "747": {
  "FIPS":     83,
 "year": "2001",
-"population_z": -0.32541 
+"service":   5022,
+"service_z": 5021.6 
 },
 "748": {
  "FIPS":     85,
 "year": "2001",
-"population_z": -0.24994 
+"service":   7102,
+"service_z": 7101.6 
 },
 "749": {
  "FIPS":     87,
 "year": "2001",
-"population_z": -0.29969 
+"service":   4724,
+"service_z": 4723.6 
 },
 "750": {
  "FIPS":     89,
 "year": "2001",
-"population_z": -0.35378 
+"service":   4226,
+"service_z": 4225.6 
 },
 "751": {
  "FIPS":     91,
 "year": "2001",
-"population_z": -0.46868 
+"service":    712,
+"service_z":  711.6 
 },
 "752": {
  "FIPS":     93,
 "year": "2001",
-"population_z": -0.38754 
+"service":    890,
+"service_z":  889.6 
 },
 "753": {
  "FIPS":     95,
 "year": "2001",
-"population_z": -0.46383 
+"service":    709,
+"service_z":  708.6 
 },
 "754": {
  "FIPS":     97,
 "year": "2001",
-"population_z": -0.38031 
+"service":  12744,
+"service_z":  12744 
 },
 "755": {
  "FIPS":     99,
 "year": "2001",
-"population_z": -0.39513 
+"service":   2572,
+"service_z": 2571.6 
 },
 "756": {
  "FIPS":    101,
 "year": "2001",
-"population_z": 0.53233 
+"service":  34774,
+"service_z":  34774 
 },
 "757": {
  "FIPS":    103,
 "year": "2001",
-"population_z": -0.45389 
+"service":    889,
+"service_z":  888.6 
 },
 "758": {
  "FIPS":    105,
 "year": "2001",
-"population_z": -0.40729 
+"service":   2093,
+"service_z": 2092.6 
 },
 "759": {
  "FIPS":    107,
 "year": "2001",
-"population_z": -0.34995 
+"service":   8890,
+"service_z": 8889.6 
 },
 "760": {
  "FIPS":    109,
 "year": "2001",
-"population_z": -0.45244 
+"service":    401,
+"service_z":  400.6 
 },
 "761": {
  "FIPS":    111,
 "year": "2001",
-"population_z": -0.49183 
+"service":    195,
+"service_z":  194.6 
 },
 "762": {
  "FIPS":    113,
 "year": "2001",
-"population_z": -0.4466 
+"service":   3129,
+"service_z": 3128.6 
 },
 "763": {
  "FIPS":    115,
 "year": "2001",
-"population_z": -0.47664 
+"service":    328,
+"service_z":  327.6 
 },
 "764": {
  "FIPS":    117,
 "year": "2001",
-"population_z": -0.30813 
+"service":  15025,
+"service_z":  15025 
 },
 "765": {
  "FIPS":    119,
 "year": "2001",
-"population_z": -0.34065 
+"service":   4515,
+"service_z": 4514.6 
 },
 "766": {
  "FIPS":    121,
 "year": "2001",
-"population_z": -0.46089 
+"service":    530,
+"service_z":  529.6 
 },
 "767": {
  "FIPS":    123,
 "year": "2001",
-"population_z": 0.87854 
+"service":  38506,
+"service_z":  38506 
 },
 "768": {
  "FIPS":    125,
 "year": "2001",
-"population_z": -0.42568 
+"service":   1708,
+"service_z": 1707.6 
 },
 "769": {
  "FIPS":      1,
 "year": "2002",
-"population_z": 2.1262 
+"service":  89223,
+"service_z":  89223 
 },
 "770": {
  "FIPS":      3,
 "year": "2002",
-"population_z": -0.38962 
+"service":   4641,
+"service_z": 4640.6 
 },
 "771": {
  "FIPS":      5,
 "year": "2002",
-"population_z":  3.111 
+"service": 2.1456e+05,
+"service_z": 2.1456e+05 
 },
 "772": {
  "FIPS":      7,
 "year": "2002",
-"population_z": -0.42189 
+"service":   2125,
+"service_z": 2124.6 
 },
 "773": {
  "FIPS":      9,
 "year": "2002",
-"population_z": -0.46703 
+"service":    390,
+"service_z": 389.59 
 },
 "774": {
  "FIPS":     11,
 "year": "2002",
-"population_z": -0.45368 
+"service":    516,
+"service_z": 515.59 
 },
 "775": {
  "FIPS":     13,
 "year": "2002",
-"population_z":  1.513 
+"service": 1.0275e+05,
+"service_z": 1.0275e+05 
 },
 "776": {
  "FIPS":     14,
 "year": "2002",
-"population_z": -0.19759 
+"service":  19450,
+"service_z":  19450 
 },
 "777": {
  "FIPS":     15,
 "year": "2002",
-"population_z": -0.37986 
+"service":   3876,
+"service_z": 3875.6 
 },
 "778": {
  "FIPS":     17,
 "year": "2002",
-"population_z": -0.48224 
+"service":    301,
+"service_z": 300.59 
 },
 "779": {
  "FIPS":     19,
 "year": "2002",
-"population_z": -0.43062 
+"service":   1630,
+"service_z": 1629.6 
 },
 "780": {
  "FIPS":     21,
 "year": "2002",
-"population_z": -0.43823 
+"service":    558,
+"service_z": 557.59 
 },
 "781": {
  "FIPS":     23,
 "year": "2002",
-"population_z": -0.47113 
+"service":    238,
+"service_z": 237.59 
 },
 "782": {
  "FIPS":     25,
 "year": "2002",
-"population_z": -0.45975 
+"service":    518,
+"service_z": 517.59 
 },
 "783": {
  "FIPS":     27,
 "year": "2002",
-"population_z": -0.47079 
+"service":    524,
+"service_z": 523.59 
 },
 "784": {
  "FIPS":     29,
 "year": "2002",
-"population_z": -0.29411 
+"service":   4122,
+"service_z": 4121.6 
 },
 "785": {
  "FIPS":     31,
 "year": "2002",
-"population_z": 3.4544 
+"service": 3.1924e+05,
+"service_z": 3.1924e+05 
 },
 "786": {
  "FIPS":     33,
 "year": "2002",
-"population_z": -0.48424 
+"service":    151,
+"service_z": 150.59 
 },
 "787": {
  "FIPS":     35,
 "year": "2002",
-"population_z": 0.98478 
+"service":  45510,
+"service_z":  45510 
 },
 "788": {
  "FIPS":     37,
 "year": "2002",
-"population_z": -0.17874 
+"service":  20342,
+"service_z":  20342 
 },
 "789": {
  "FIPS":     39,
 "year": "2002",
-"population_z": -0.34482 
+"service":   1452,
+"service_z": 1451.6 
 },
 "790": {
  "FIPS":     41,
 "year": "2002",
-"population_z": 3.3565 
+"service": 1.5824e+05,
+"service_z": 1.5824e+05 
 },
 "791": {
  "FIPS":     43,
 "year": "2002",
-"population_z": -0.16552 
+"service":   6414,
+"service_z": 6413.6 
 },
 "792": {
  "FIPS":     45,
 "year": "2002",
-"population_z": -0.16723 
+"service":  12058,
+"service_z":  12058 
 },
 "793": {
  "FIPS":     47,
 "year": "2002",
-"population_z": -0.46339 
+"service":   5304,
+"service_z": 5303.6 
 },
 "794": {
  "FIPS":     49,
 "year": "2002",
-"population_z": -0.40238 
+"service":   4783,
+"service_z": 4782.6 
 },
 "795": {
  "FIPS":     51,
 "year": "2002",
-"population_z": -0.39633 
+"service":   4442,
+"service_z": 4441.6 
 },
 "796": {
  "FIPS":     53,
 "year": "2002",
-"population_z": -0.49183 
+"service":    172,
+"service_z": 171.59 
 },
 "797": {
  "FIPS":     55,
 "year": "2002",
-"population_z": -0.44157 
+"service":   1374,
+"service_z": 1373.6 
 },
 "798": {
  "FIPS":     57,
 "year": "2002",
-"population_z": -0.48628 
+"service":    196,
+"service_z": 195.59 
 },
 "799": {
  "FIPS":     59,
 "year": "2002",
-"population_z": 3.2314 
+"service": 1.372e+05,
+"service_z": 1.3719e+05 
 },
 "800": {
  "FIPS":     61,
 "year": "2002",
-"population_z": -0.48646 
+"service":    114,
+"service_z": 113.59 
 },
 "801": {
  "FIPS":     63,
 "year": "2002",
-"population_z": -0.43894 
+"service":   1671,
+"service_z": 1670.6 
 },
 "802": {
  "FIPS":     65,
 "year": "2002",
-"population_z": -0.17174 
+"service":   1005,
+"service_z": 1004.6 
 },
 "803": {
  "FIPS":     67,
 "year": "2002",
-"population_z": -0.44291 
+"service":  14249,
+"service_z":  14249 
 },
 "804": {
  "FIPS":     69,
 "year": "2002",
-"population_z": 1.3839 
+"service":  72684,
+"service_z":  72684 
 },
 "805": {
  "FIPS":     71,
 "year": "2002",
-"population_z": -0.38684 
+"service":   2797,
+"service_z": 2796.6 
 },
 "806": {
  "FIPS":     73,
 "year": "2002",
-"population_z": -0.45478 
+"service":   1090,
+"service_z": 1089.6 
 },
 "807": {
  "FIPS":     75,
 "year": "2002",
-"population_z": -0.34135 
+"service":   4930,
+"service_z": 4929.6 
 },
 "808": {
  "FIPS":     77,
 "year": "2002",
-"population_z": 0.36333 
+"service":  35402,
+"service_z":  35402 
 },
 "809": {
  "FIPS":     79,
 "year": "2002",
-"population_z": -0.49184 
+"service":    322,
+"service_z": 321.59 
 },
 "810": {
  "FIPS":     81,
 "year": "2002",
-"population_z": -0.40469 
+"service":   2714,
+"service_z": 2713.6 
 },
 "811": {
  "FIPS":     83,
 "year": "2002",
-"population_z": -0.32711 
+"service":   4882,
+"service_z": 4881.6 
 },
 "812": {
  "FIPS":     85,
 "year": "2002",
-"population_z": -0.25065 
+"service":   7270,
+"service_z": 7269.6 
 },
 "813": {
  "FIPS":     87,
 "year": "2002",
-"population_z": -0.302 
+"service":   4787,
+"service_z": 4786.6 
 },
 "814": {
  "FIPS":     89,
 "year": "2002",
-"population_z": -0.35881 
+"service":   4232,
+"service_z": 4231.6 
 },
 "815": {
  "FIPS":     91,
 "year": "2002",
-"population_z": -0.46994 
+"service":    744,
+"service_z": 743.59 
 },
 "816": {
  "FIPS":     93,
 "year": "2002",
-"population_z": -0.38855 
+"service":    850,
+"service_z": 849.59 
 },
 "817": {
  "FIPS":     95,
 "year": "2002",
-"population_z": -0.46575 
+"service":    694,
+"service_z": 693.59 
 },
 "818": {
  "FIPS":     97,
 "year": "2002",
-"population_z": -0.38372 
+"service":  12419,
+"service_z":  12419 
 },
 "819": {
  "FIPS":     99,
 "year": "2002",
-"population_z": -0.39849 
+"service":   2576,
+"service_z": 2575.6 
 },
 "820": {
  "FIPS":    101,
 "year": "2002",
-"population_z": 0.53788 
+"service":  34292,
+"service_z":  34292 
 },
 "821": {
  "FIPS":    103,
 "year": "2002",
-"population_z": -0.45557 
+"service":    872,
+"service_z": 871.59 
 },
 "822": {
  "FIPS":    105,
 "year": "2002",
-"population_z": -0.40981 
+"service":   2055,
+"service_z": 2054.6 
 },
 "823": {
  "FIPS":    107,
 "year": "2002",
-"population_z": -0.34985 
+"service":   8971,
+"service_z": 8970.6 
 },
 "824": {
  "FIPS":    109,
 "year": "2002",
-"population_z": -0.45338 
+"service":    392,
+"service_z": 391.59 
 },
 "825": {
  "FIPS":    111,
 "year": "2002",
-"population_z": -0.49329 
+"service":    216,
+"service_z": 215.59 
 },
 "826": {
  "FIPS":    113,
 "year": "2002",
-"population_z": -0.44775 
+"service":   3128,
+"service_z": 3127.6 
 },
 "827": {
  "FIPS":    115,
 "year": "2002",
-"population_z": -0.47848 
+"service":    339,
+"service_z": 338.59 
 },
 "828": {
  "FIPS":    117,
 "year": "2002",
-"population_z": -0.31011 
+"service":  14753,
+"service_z":  14753 
 },
 "829": {
  "FIPS":    119,
 "year": "2002",
-"population_z": -0.3421 
+"service":   4321,
+"service_z": 4320.6 
 },
 "830": {
  "FIPS":    121,
 "year": "2002",
-"population_z": -0.46035 
+"service":    504,
+"service_z": 503.59 
 },
 "831": {
  "FIPS":    123,
 "year": "2002",
-"population_z": 0.90893 
+"service":  39104,
+"service_z":  39104 
 },
 "832": {
  "FIPS":    125,
 "year": "2002",
-"population_z": -0.42722 
+"service":   1790,
+"service_z": 1789.6 
 },
 "833": {
  "FIPS":      1,
 "year": "2003",
-"population_z": 2.1495 
+"service":  88672,
+"service_z":  88672 
 },
 "834": {
  "FIPS":      3,
 "year": "2003",
-"population_z": -0.39144 
+"service":   4707,
+"service_z": 4706.6 
 },
 "835": {
  "FIPS":      5,
 "year": "2003",
-"population_z": 3.1222 
+"service": 2.1024e+05,
+"service_z": 2.1023e+05 
 },
 "836": {
  "FIPS":      7,
 "year": "2003",
-"population_z": -0.42227 
+"service":   2113,
+"service_z": 2112.6 
 },
 "837": {
  "FIPS":      9,
 "year": "2003",
-"population_z": -0.4693 
+"service":    358,
+"service_z": 357.59 
 },
 "838": {
  "FIPS":     11,
 "year": "2003",
-"population_z": -0.4525 
+"service":    520,
+"service_z": 519.59 
 },
 "839": {
  "FIPS":     13,
 "year": "2003",
-"population_z":  1.484 
+"service": 1.003e+05,
+"service_z": 1.003e+05 
 },
 "840": {
  "FIPS":     14,
 "year": "2003",
-"population_z": -0.18384 
+"service":  19899,
+"service_z":  19899 
 },
 "841": {
  "FIPS":     15,
 "year": "2003",
-"population_z": -0.38138 
+"service":   3921,
+"service_z": 3920.6 
 },
 "842": {
  "FIPS":     17,
 "year": "2003",
-"population_z": -0.4843 
+"service":    293,
+"service_z": 292.59 
 },
 "843": {
  "FIPS":     19,
 "year": "2003",
-"population_z": -0.43242 
+"service":   1681,
+"service_z": 1680.6 
 },
 "844": {
  "FIPS":     21,
 "year": "2003",
-"population_z": -0.44034 
+"service":    555,
+"service_z": 554.59 
 },
 "845": {
  "FIPS":     23,
 "year": "2003",
-"population_z": -0.47251 
+"service":    238,
+"service_z": 237.59 
 },
 "846": {
  "FIPS":     25,
 "year": "2003",
-"population_z": -0.463 
+"service":    458,
+"service_z": 457.59 
 },
 "847": {
  "FIPS":     27,
 "year": "2003",
-"population_z": -0.47157 
+"service":    526,
+"service_z": 525.59 
 },
 "848": {
  "FIPS":     29,
 "year": "2003",
-"population_z": -0.29535 
+"service":   4068,
+"service_z": 4067.6 
 },
 "849": {
  "FIPS":     31,
 "year": "2003",
-"population_z": 3.4308 
+"service": 3.105e+05,
+"service_z": 3.105e+05 
 },
 "850": {
  "FIPS":     33,
 "year": "2003",
-"population_z": -0.48598 
+"service":    150,
+"service_z": 149.59 
 },
 "851": {
  "FIPS":     35,
 "year": "2003",
-"population_z": 1.0518 
+"service":  46648,
+"service_z":  46648 
 },
 "852": {
  "FIPS":     37,
 "year": "2003",
-"population_z": -0.17825 
+"service":  20215,
+"service_z":  20215 
 },
 "853": {
  "FIPS":     39,
 "year": "2003",
-"population_z": -0.34534 
+"service":   1481,
+"service_z": 1480.6 
 },
 "854": {
  "FIPS":     41,
 "year": "2003",
-"population_z": 3.3699 
+"service": 1.5712e+05,
+"service_z": 1.5712e+05 
 },
 "855": {
  "FIPS":     43,
 "year": "2003",
-"population_z": -0.17074 
+"service":   6328,
+"service_z": 6327.6 
 },
 "856": {
  "FIPS":     45,
 "year": "2003",
-"population_z": -0.16614 
+"service":  12325,
+"service_z":  12325 
 },
 "857": {
  "FIPS":     47,
 "year": "2003",
-"population_z": -0.46514 
+"service":   4846,
+"service_z": 4845.6 
 },
 "858": {
  "FIPS":     49,
 "year": "2003",
-"population_z": -0.40316 
+"service":   4915,
+"service_z": 4914.6 
 },
 "859": {
  "FIPS":     51,
 "year": "2003",
-"population_z": -0.39953 
+"service":   4331,
+"service_z": 4330.6 
 },
 "860": {
  "FIPS":     53,
 "year": "2003",
-"population_z": -0.49366 
+"service":    162,
+"service_z": 161.59 
 },
 "861": {
  "FIPS":     55,
 "year": "2003",
-"population_z": -0.44276 
+"service":   1339,
+"service_z": 1338.6 
 },
 "862": {
  "FIPS":     57,
 "year": "2003",
-"population_z": -0.48804 
+"service":    235,
+"service_z": 234.59 
 },
 "863": {
  "FIPS":     59,
 "year": "2003",
-"population_z": 3.1859 
+"service": 1.3612e+05,
+"service_z": 1.3612e+05 
 },
 "864": {
  "FIPS":     61,
 "year": "2003",
-"population_z": -0.48831 
+"service":     98,
+"service_z": 97.585 
 },
 "865": {
  "FIPS":     63,
 "year": "2003",
-"population_z": -0.44176 
+"service":   1613,
+"service_z": 1612.6 
 },
 "866": {
  "FIPS":     65,
 "year": "2003",
-"population_z": -0.17341 
+"service":   1035,
+"service_z": 1034.6 
 },
 "867": {
  "FIPS":     67,
 "year": "2003",
-"population_z": -0.44642 
+"service":  14139,
+"service_z":  14139 
 },
 "868": {
  "FIPS":     69,
 "year": "2003",
-"population_z": 1.3814 
+"service":  73037,
+"service_z":  73037 
 },
 "869": {
  "FIPS":     71,
 "year": "2003",
-"population_z": -0.38632 
+"service":   2790,
+"service_z": 2789.6 
 },
 "870": {
  "FIPS":     73,
 "year": "2003",
-"population_z": -0.45672 
+"service":   1140,
+"service_z": 1139.6 
 },
 "871": {
  "FIPS":     75,
 "year": "2003",
-"population_z": -0.34227 
+"service":   4800,
+"service_z": 4799.6 
 },
 "872": {
  "FIPS":     77,
 "year": "2003",
-"population_z": 0.37156 
+"service":  35684,
+"service_z":  35684 
 },
 "873": {
  "FIPS":     79,
 "year": "2003",
-"population_z": -0.49334 
+"service":    330,
+"service_z": 329.59 
 },
 "874": {
  "FIPS":     81,
 "year": "2003",
-"population_z": -0.40761 
+"service":   2697,
+"service_z": 2696.6 
 },
 "875": {
  "FIPS":     83,
 "year": "2003",
-"population_z": -0.32819 
+"service":   4781,
+"service_z": 4780.6 
 },
 "876": {
  "FIPS":     85,
 "year": "2003",
-"population_z": -0.24921 
+"service":   7572,
+"service_z": 7571.6 
 },
 "877": {
  "FIPS":     87,
 "year": "2003",
-"population_z": -0.30381 
+"service":   5066,
+"service_z": 5065.6 
 },
 "878": {
  "FIPS":     89,
 "year": "2003",
-"population_z": -0.36123 
+"service":   4182,
+"service_z": 4181.6 
 },
 "879": {
  "FIPS":     91,
 "year": "2003",
-"population_z": -0.47178 
+"service":    784,
+"service_z": 783.59 
 },
 "880": {
  "FIPS":     93,
 "year": "2003",
-"population_z": -0.38843 
+"service":    839,
+"service_z": 838.59 
 },
 "881": {
  "FIPS":     95,
 "year": "2003",
-"population_z": -0.46776 
+"service":    691,
+"service_z": 690.59 
 },
 "882": {
  "FIPS":     97,
 "year": "2003",
-"population_z": -0.38502 
+"service":  12359,
+"service_z":  12359 
 },
 "883": {
  "FIPS":     99,
 "year": "2003",
-"population_z": -0.40222 
+"service":   2490,
+"service_z": 2489.6 
 },
 "884": {
  "FIPS":    101,
 "year": "2003",
-"population_z": 0.53862 
+"service":  34186,
+"service_z":  34186 
 },
 "885": {
  "FIPS":    103,
 "year": "2003",
-"population_z": -0.4581 
+"service":    870,
+"service_z": 869.59 
 },
 "886": {
  "FIPS":    105,
 "year": "2003",
-"population_z": -0.41066 
+"service":   2118,
+"service_z": 2117.6 
 },
 "887": {
  "FIPS":    107,
 "year": "2003",
-"population_z": -0.35098 
+"service":   9028,
+"service_z": 9027.6 
 },
 "888": {
  "FIPS":    109,
 "year": "2003",
-"population_z": -0.45513 
+"service":    420,
+"service_z": 419.59 
 },
 "889": {
  "FIPS":    111,
 "year": "2003",
-"population_z": -0.49485 
+"service":    228,
+"service_z": 227.59 
 },
 "890": {
  "FIPS":    113,
 "year": "2003",
-"population_z":  -0.45 
+"service":   3021,
+"service_z": 3020.6 
 },
 "891": {
  "FIPS":    115,
 "year": "2003",
-"population_z": -0.48012 
+"service":    326,
+"service_z": 325.59 
 },
 "892": {
  "FIPS":    117,
 "year": "2003",
-"population_z": -0.31186 
+"service":  14067,
+"service_z":  14067 
 },
 "893": {
  "FIPS":    119,
 "year": "2003",
-"population_z": -0.34334 
+"service":   4235,
+"service_z": 4234.6 
 },
 "894": {
  "FIPS":    121,
 "year": "2003",
-"population_z": -0.46311 
+"service":    496,
+"service_z": 495.59 
 },
 "895": {
  "FIPS":    123,
 "year": "2003",
-"population_z": 0.9537 
+"service":  39404,
+"service_z":  39404 
 },
 "896": {
  "FIPS":    125,
 "year": "2003",
-"population_z": -0.42838 
+"service":   1747,
+"service_z": 1746.6 
 },
 "897": {
  "FIPS":      1,
 "year": "2004",
-"population_z": 2.1797 
+"service":  89936,
+"service_z":  89936 
 },
 "898": {
  "FIPS":      3,
 "year": "2004",
-"population_z": -0.39304 
+"service":   4623,
+"service_z": 4622.6 
 },
 "899": {
  "FIPS":      5,
 "year": "2004",
-"population_z": 3.1363 
+"service": 2.0872e+05,
+"service_z": 2.0872e+05 
 },
 "900": {
  "FIPS":      7,
 "year": "2004",
-"population_z": -0.42244 
+"service":   2154,
+"service_z": 2153.6 
 },
 "901": {
  "FIPS":      9,
 "year": "2004",
-"population_z": -0.47108 
+"service":    335,
+"service_z": 334.58 
 },
 "902": {
  "FIPS":     11,
 "year": "2004",
-"population_z": -0.45587 
+"service":    495,
+"service_z": 494.58 
 },
 "903": {
  "FIPS":     13,
 "year": "2004",
-"population_z":  1.467 
+"service": 1.0234e+05,
+"service_z": 1.0234e+05 
 },
 "904": {
  "FIPS":     14,
 "year": "2004",
-"population_z": -0.1778 
+"service":  21341,
+"service_z":  21341 
 },
 "905": {
  "FIPS":     15,
 "year": "2004",
-"population_z": -0.38235 
+"service":   4059,
+"service_z": 4058.6 
 },
 "906": {
  "FIPS":     17,
 "year": "2004",
-"population_z": -0.48563 
+"service":    276,
+"service_z": 275.58 
 },
 "907": {
  "FIPS":     19,
 "year": "2004",
-"population_z": -0.43432 
+"service":   1672,
+"service_z": 1671.6 
 },
 "908": {
  "FIPS":     21,
 "year": "2004",
-"population_z": -0.44098 
+"service":    522,
+"service_z": 521.58 
 },
 "909": {
  "FIPS":     23,
 "year": "2004",
-"population_z": -0.47361 
+"service":    229,
+"service_z": 228.58 
 },
 "910": {
  "FIPS":     25,
 "year": "2004",
-"population_z": -0.46229 
+"service":    460,
+"service_z": 459.58 
 },
 "911": {
  "FIPS":     27,
 "year": "2004",
-"population_z": -0.47235 
+"service":    508,
+"service_z": 507.58 
 },
 "912": {
  "FIPS":     29,
 "year": "2004",
-"population_z": -0.29551 
+"service":   4145,
+"service_z": 4144.6 
 },
 "913": {
  "FIPS":     31,
 "year": "2004",
-"population_z": 3.3899 
+"service": 3.1023e+05,
+"service_z": 3.1023e+05 
 },
 "914": {
  "FIPS":     33,
 "year": "2004",
-"population_z": -0.487 
+"service":    155,
+"service_z": 154.58 
 },
 "915": {
  "FIPS":     35,
 "year": "2004",
-"population_z": 1.1223 
+"service":  54387,
+"service_z":  54387 
 },
 "916": {
  "FIPS":     37,
 "year": "2004",
-"population_z": -0.17725 
+"service":  20827,
+"service_z":  20827 
 },
 "917": {
  "FIPS":     39,
 "year": "2004",
-"population_z": -0.34697 
+"service":   1512,
+"service_z": 1511.6 
 },
 "918": {
  "FIPS":     41,
 "year": "2004",
-"population_z": 3.3775 
+"service": 1.5976e+05,
+"service_z": 1.5976e+05 
 },
 "919": {
  "FIPS":     43,
 "year": "2004",
-"population_z": -0.17687 
+"service":   6530,
+"service_z": 6529.6 
 },
 "920": {
  "FIPS":     45,
 "year": "2004",
-"population_z": -0.16564 
+"service":  12951,
+"service_z":  12951 
 },
 "921": {
  "FIPS":     47,
 "year": "2004",
-"population_z": -0.46651 
+"service":   4769,
+"service_z": 4768.6 
 },
 "922": {
  "FIPS":     49,
 "year": "2004",
-"population_z": -0.40341 
+"service":   4767,
+"service_z": 4766.6 
 },
 "923": {
  "FIPS":     51,
 "year": "2004",
-"population_z": -0.4012 
+"service":   4463,
+"service_z": 4462.6 
 },
 "924": {
  "FIPS":     53,
 "year": "2004",
-"population_z": -0.49424 
+"service":    149,
+"service_z": 148.58 
 },
 "925": {
  "FIPS":     55,
 "year": "2004",
-"population_z": -0.44634 
+"service":   1259,
+"service_z": 1258.6 
 },
 "926": {
  "FIPS":     57,
 "year": "2004",
-"population_z": -0.48945 
+"service":    263,
+"service_z": 262.58 
 },
 "927": {
  "FIPS":     59,
 "year": "2004",
-"population_z": 3.1444 
+"service": 1.3658e+05,
+"service_z": 1.3658e+05 
 },
 "928": {
  "FIPS":     61,
 "year": "2004",
-"population_z": -0.48943 
+"service":     94,
+"service_z": 93.581 
 },
 "929": {
  "FIPS":     63,
 "year": "2004",
-"population_z": -0.44268 
+"service":   1584,
+"service_z": 1583.6 
 },
 "930": {
  "FIPS":     65,
 "year": "2004",
-"population_z": -0.17418 
+"service":    996,
+"service_z": 995.58 
 },
 "931": {
  "FIPS":     67,
 "year": "2004",
-"population_z": -0.44852 
+"service":  14765,
+"service_z":  14765 
 },
 "932": {
  "FIPS":     69,
 "year": "2004",
-"population_z": 1.3974 
+"service":  75199,
+"service_z":  75199 
 },
 "933": {
  "FIPS":     71,
 "year": "2004",
-"population_z": -0.391 
+"service":   2747,
+"service_z": 2746.6 
 },
 "934": {
  "FIPS":     73,
 "year": "2004",
-"population_z": -0.45899 
+"service":   1078,
+"service_z": 1077.6 
 },
 "935": {
  "FIPS":     75,
 "year": "2004",
-"population_z": -0.346 
+"service":   4651,
+"service_z": 4650.6 
 },
 "936": {
  "FIPS":     77,
 "year": "2004",
-"population_z": 0.3792 
+"service":  36720,
+"service_z":  36720 
 },
 "937": {
  "FIPS":     79,
 "year": "2004",
-"population_z": -0.49416 
+"service":    339,
+"service_z": 338.58 
 },
 "938": {
  "FIPS":     81,
 "year": "2004",
-"population_z": -0.40931 
+"service":   2774,
+"service_z": 2773.6 
 },
 "939": {
  "FIPS":     83,
 "year": "2004",
-"population_z": -0.32915 
+"service":   4840,
+"service_z": 4839.6 
 },
 "940": {
  "FIPS":     85,
 "year": "2004",
-"population_z": -0.24914 
+"service":   7873,
+"service_z": 7872.6 
 },
 "941": {
  "FIPS":     87,
 "year": "2004",
-"population_z": -0.30621 
+"service":   5002,
+"service_z": 5001.6 
 },
 "942": {
  "FIPS":     89,
 "year": "2004",
-"population_z": -0.36419 
+"service":   4124,
+"service_z": 4123.6 
 },
 "943": {
  "FIPS":     91,
 "year": "2004",
-"population_z": -0.47207 
+"service":    861,
+"service_z": 860.58 
 },
 "944": {
  "FIPS":     93,
 "year": "2004",
-"population_z": -0.38952 
+"service":    919,
+"service_z": 918.58 
 },
 "945": {
  "FIPS":     95,
 "year": "2004",
-"population_z": -0.46821 
+"service":    631,
+"service_z": 630.58 
 },
 "946": {
  "FIPS":     97,
 "year": "2004",
-"population_z": -0.38838 
+"service":  12765,
+"service_z":  12765 
 },
 "947": {
  "FIPS":     99,
 "year": "2004",
-"population_z": -0.40519 
+"service":   2500,
+"service_z": 2499.6 
 },
 "948": {
  "FIPS":    101,
 "year": "2004",
-"population_z": 0.5326 
+"service":  34112,
+"service_z":  34112 
 },
 "949": {
  "FIPS":    103,
 "year": "2004",
-"population_z": -0.45901 
+"service":    878,
+"service_z": 877.58 
 },
 "950": {
  "FIPS":    105,
 "year": "2004",
-"population_z": -0.41097 
+"service":   2151,
+"service_z": 2150.6 
 },
 "951": {
  "FIPS":    107,
 "year": "2004",
-"population_z": -0.35216 
+"service":   9214,
+"service_z": 9213.6 
 },
 "952": {
  "FIPS":    109,
 "year": "2004",
-"population_z": -0.45668 
+"service":    402,
+"service_z": 401.58 
 },
 "953": {
  "FIPS":    111,
 "year": "2004",
-"population_z": -0.4956 
+"service":    189,
+"service_z": 188.58 
 },
 "954": {
  "FIPS":    113,
 "year": "2004",
-"population_z": -0.45122 
+"service":   3055,
+"service_z": 3054.6 
 },
 "955": {
  "FIPS":    115,
 "year": "2004",
-"population_z": -0.48191 
+"service":    340,
+"service_z": 339.58 
 },
 "956": {
  "FIPS":    117,
 "year": "2004",
-"population_z": -0.31457 
+"service":  14103,
+"service_z":  14103 
 },
 "957": {
  "FIPS":    119,
 "year": "2004",
-"population_z": -0.34574 
+"service":   4445,
+"service_z": 4444.6 
 },
 "958": {
  "FIPS":    121,
 "year": "2004",
-"population_z": -0.46487 
+"service":    494,
+"service_z": 493.58 
 },
 "959": {
  "FIPS":    123,
 "year": "2004",
-"population_z": 0.98634 
+"service":  40794,
+"service_z":  40794 
 },
 "960": {
  "FIPS":    125,
 "year": "2004",
-"population_z": -0.43137 
+"service":   1698,
+"service_z": 1697.6 
 },
 "961": {
  "FIPS":      1,
 "year": "2005",
-"population_z": 2.2173 
+"service":  94274,
+"service_z":  94274 
 },
 "962": {
  "FIPS":      3,
 "year": "2005",
-"population_z": -0.395 
+"service":   4556,
+"service_z": 4555.6 
 },
 "963": {
  "FIPS":      5,
 "year": "2005",
-"population_z": 3.1305 
+"service": 2.1005e+05,
+"service_z": 2.1005e+05 
 },
 "964": {
  "FIPS":      7,
 "year": "2005",
-"population_z": -0.42245 
+"service":   2426,
+"service_z": 2425.6 
 },
 "965": {
  "FIPS":      9,
 "year": "2005",
-"population_z": -0.47266 
+"service":    346,
+"service_z": 345.58 
 },
 "966": {
  "FIPS":     11,
 "year": "2005",
-"population_z": -0.45779 
+"service":    471,
+"service_z": 470.58 
 },
 "967": {
  "FIPS":     13,
 "year": "2005",
-"population_z": 1.4441 
+"service": 1.0488e+05,
+"service_z": 1.0488e+05 
 },
 "968": {
  "FIPS":     14,
 "year": "2005",
-"population_z": -0.16912 
+"service":  21955,
+"service_z":  21955 
 },
 "969": {
  "FIPS":     15,
 "year": "2005",
-"population_z": -0.38381 
+"service":   4073,
+"service_z": 4072.6 
 },
 "970": {
  "FIPS":     17,
 "year": "2005",
-"population_z": -0.4868 
+"service":    308,
+"service_z": 307.58 
 },
 "971": {
  "FIPS":     19,
 "year": "2005",
-"population_z": -0.43627 
+"service":   1646,
+"service_z": 1645.6 
 },
 "972": {
  "FIPS":     21,
 "year": "2005",
-"population_z": -0.4424 
+"service":    518,
+"service_z": 517.58 
 },
 "973": {
  "FIPS":     23,
 "year": "2005",
-"population_z": -0.47543 
+"service":    200,
+"service_z": 199.58 
 },
 "974": {
  "FIPS":     25,
 "year": "2005",
-"population_z": -0.46345 
+"service":    476,
+"service_z": 475.58 
 },
 "975": {
  "FIPS":     27,
 "year": "2005",
-"population_z": -0.47302 
+"service":    499,
+"service_z": 498.58 
 },
 "976": {
  "FIPS":     29,
 "year": "2005",
-"population_z": -0.29864 
+"service":   4277,
+"service_z": 4276.6 
 },
 "977": {
  "FIPS":     31,
 "year": "2005",
-"population_z": 3.3453 
+"service": 3.1176e+05,
+"service_z": 3.1176e+05 
 },
 "978": {
  "FIPS":     33,
 "year": "2005",
-"population_z": -0.48785 
+"service":    137,
+"service_z": 136.58 
 },
 "979": {
  "FIPS":     35,
 "year": "2005",
-"population_z": 1.1796 
+"service":  61083,
+"service_z":  61083 
 },
 "980": {
  "FIPS":     37,
 "year": "2005",
-"population_z": -0.17581 
+"service":  21948,
+"service_z":  21948 
 },
 "981": {
  "FIPS":     39,
 "year": "2005",
-"population_z": -0.34781 
+"service":   1593,
+"service_z": 1592.6 
 },
 "982": {
  "FIPS":     41,
 "year": "2005",
-"population_z": 3.4131 
+"service": 1.6363e+05,
+"service_z": 1.6363e+05 
 },
 "983": {
  "FIPS":     43,
 "year": "2005",
-"population_z": -0.18153 
+"service":   6597,
+"service_z": 6596.6 
 },
 "984": {
  "FIPS":     45,
 "year": "2005",
-"population_z": -0.16221 
+"service":  13418,
+"service_z":  13418 
 },
 "985": {
  "FIPS":     47,
 "year": "2005",
-"population_z": -0.4672 
+"service":   4885,
+"service_z": 4884.6 
 },
 "986": {
  "FIPS":     49,
 "year": "2005",
-"population_z": -0.4053 
+"service":   4681,
+"service_z": 4680.6 
 },
 "987": {
  "FIPS":     51,
 "year": "2005",
-"population_z": -0.40134 
+"service":   4688,
+"service_z": 4687.6 
 },
 "988": {
  "FIPS":     53,
 "year": "2005",
-"population_z": -0.49524 
+"service":    145,
+"service_z": 144.58 
 },
 "989": {
  "FIPS":     55,
 "year": "2005",
-"population_z": -0.44705 
+"service":   1245,
+"service_z": 1244.6 
 },
 "990": {
  "FIPS":     57,
 "year": "2005",
-"population_z": -0.49058 
+"service":    257,
+"service_z": 256.58 
 },
 "991": {
  "FIPS":     59,
 "year": "2005",
-"population_z": 3.0982 
+"service": 1.3856e+05,
+"service_z": 1.3856e+05 
 },
 "992": {
  "FIPS":     61,
 "year": "2005",
-"population_z": -0.49022 
+"service":    104,
+"service_z": 103.58 
 },
 "993": {
  "FIPS":     63,
 "year": "2005",
-"population_z": -0.44585 
+"service":   1640,
+"service_z": 1639.6 
 },
 "994": {
  "FIPS":     65,
 "year": "2005",
-"population_z": -0.17282 
+"service":    959,
+"service_z": 958.58 
 },
 "995": {
  "FIPS":     67,
 "year": "2005",
-"population_z": -0.45076 
+"service":  15163,
+"service_z":  15163 
 },
 "996": {
  "FIPS":     69,
 "year": "2005",
-"population_z": 1.3957 
+"service":  78946,
+"service_z":  78946 
 },
 "997": {
  "FIPS":     71,
 "year": "2005",
-"population_z": -0.39379 
+"service":   2762,
+"service_z": 2761.6 
 },
 "998": {
  "FIPS":     73,
 "year": "2005",
-"population_z": -0.46105 
+"service":   1081,
+"service_z": 1080.6 
 },
 "999": {
  "FIPS":     75,
 "year": "2005",
-"population_z": -0.34899 
+"service":   4782,
+"service_z": 4781.6 
 },
 "1000": {
  "FIPS":     77,
 "year": "2005",
-"population_z": 0.38599 
+"service":  37473,
+"service_z":  37473 
 },
 "1001": {
  "FIPS":     79,
 "year": "2005",
-"population_z": -0.49529 
+"service":    200,
+"service_z": 199.58 
 },
 "1002": {
  "FIPS":     81,
 "year": "2005",
-"population_z": -0.4117 
+"service":   2867,
+"service_z": 2866.6 
 },
 "1003": {
  "FIPS":     83,
 "year": "2005",
-"population_z": -0.3317 
+"service":   4797,
+"service_z": 4796.6 
 },
 "1004": {
  "FIPS":     85,
 "year": "2005",
-"population_z": -0.24649 
+"service":   8042,
+"service_z": 8041.6 
 },
 "1005": {
  "FIPS":     87,
 "year": "2005",
-"population_z": -0.30871 
+"service":   4898,
+"service_z": 4897.6 
 },
 "1006": {
  "FIPS":     89,
 "year": "2005",
-"population_z": -0.36767 
+"service":   4054,
+"service_z": 4053.6 
 },
 "1007": {
  "FIPS":     91,
 "year": "2005",
-"population_z": -0.47276 
+"service":    993,
+"service_z": 992.58 
 },
 "1008": {
  "FIPS":     93,
 "year": "2005",
-"population_z": -0.39042 
+"service":   1011,
+"service_z": 1010.6 
 },
 "1009": {
  "FIPS":     95,
 "year": "2005",
-"population_z": -0.46957 
+"service":    649,
+"service_z": 648.58 
 },
 "1010": {
  "FIPS":     97,
 "year": "2005",
-"population_z": -0.3899 
+"service":  13347,
+"service_z":  13347 
 },
 "1011": {
  "FIPS":     99,
 "year": "2005",
-"population_z": -0.40796 
+"service":   2395,
+"service_z": 2394.6 
 },
 "1012": {
  "FIPS":    101,
 "year": "2005",
-"population_z": 0.53015 
+"service":  34510,
+"service_z":  34510 
 },
 "1013": {
  "FIPS":    103,
 "year": "2005",
-"population_z": -0.46084 
+"service":    953,
+"service_z": 952.58 
 },
 "1014": {
  "FIPS":    105,
 "year": "2005",
-"population_z": -0.41355 
+"service":   2151,
+"service_z": 2150.6 
 },
 "1015": {
  "FIPS":    107,
 "year": "2005",
-"population_z": -0.35335 
+"service":   9468,
+"service_z": 9467.6 
 },
 "1016": {
  "FIPS":    109,
 "year": "2005",
-"population_z": -0.45763 
+"service":    442,
+"service_z": 441.58 
 },
 "1017": {
  "FIPS":    111,
 "year": "2005",
-"population_z": -0.4964 
+"service":    178,
+"service_z": 177.58 
 },
 "1018": {
  "FIPS":    113,
 "year": "2005",
-"population_z": -0.4524 
+"service":   3175,
+"service_z": 3174.6 
 },
 "1019": {
  "FIPS":    115,
 "year": "2005",
-"population_z": -0.48311 
+"service":    341,
+"service_z": 340.58 
 },
 "1020": {
  "FIPS":    117,
 "year": "2005",
-"population_z": -0.31781 
+"service":  14135,
+"service_z":  14135 
 },
 "1021": {
  "FIPS":    119,
 "year": "2005",
-"population_z": -0.34612 
+"service":   4616,
+"service_z": 4615.6 
 },
 "1022": {
  "FIPS":    121,
 "year": "2005",
-"population_z": -0.46649 
+"service":    496,
+"service_z": 495.58 
 },
 "1023": {
  "FIPS":    123,
 "year": "2005",
-"population_z": 1.0352 
+"service":  41397,
+"service_z":  41397 
 },
 "1024": {
  "FIPS":    125,
 "year": "2005",
-"population_z": -0.43283 
+"service":   1629,
+"service_z": 1628.6 
 },
 "1025": {
  "FIPS":      1,
 "year": "2006",
-"population_z": 2.2557 
+"service":  97791,
+"service_z":  97791 
 },
 "1026": {
  "FIPS":      3,
 "year": "2006",
-"population_z": -0.39779 
+"service":   4675,
+"service_z": 4674.6 
 },
 "1027": {
  "FIPS":      5,
 "year": "2006",
-"population_z": 3.1247 
+"service": 2.1313e+05,
+"service_z": 2.1313e+05 
 },
 "1028": {
  "FIPS":      7,
 "year": "2006",
-"population_z": -0.42182 
+"service":   2469,
+"service_z": 2468.6 
 },
 "1029": {
  "FIPS":      9,
 "year": "2006",
-"population_z": -0.47397 
+"service":    350,
+"service_z": 349.57 
 },
 "1030": {
  "FIPS":     11,
 "year": "2006",
-"population_z": -0.46052 
+"service":    461,
+"service_z": 460.57 
 },
 "1031": {
  "FIPS":     13,
 "year": "2006",
-"population_z": 1.4341 
+"service": 1.0722e+05,
+"service_z": 1.0722e+05 
 },
 "1032": {
  "FIPS":     14,
 "year": "2006",
-"population_z": -0.15559 
+"service":  22497,
+"service_z":  22497 
 },
 "1033": {
  "FIPS":     15,
 "year": "2006",
-"population_z": -0.38673 
+"service":   4166,
+"service_z": 4165.6 
 },
 "1034": {
  "FIPS":     17,
 "year": "2006",
-"population_z": -0.48825 
+"service":    316,
+"service_z": 315.57 
 },
 "1035": {
  "FIPS":     19,
 "year": "2006",
-"population_z": -0.43886 
+"service":   1693,
+"service_z": 1692.6 
 },
 "1036": {
  "FIPS":     21,
 "year": "2006",
-"population_z": -0.44433 
+"service":    512,
+"service_z": 511.57 
 },
 "1037": {
  "FIPS":     23,
 "year": "2006",
-"population_z": -0.47661 
+"service":    209,
+"service_z": 208.57 
 },
 "1038": {
  "FIPS":     25,
 "year": "2006",
-"population_z": -0.46298 
+"service":    516,
+"service_z": 515.57 
 },
 "1039": {
  "FIPS":     27,
 "year": "2006",
-"population_z": -0.47445 
+"service":    506,
+"service_z": 505.57 
 },
 "1040": {
  "FIPS":     29,
 "year": "2006",
-"population_z": -0.3007 
+"service":   4514,
+"service_z": 4513.6 
 },
 "1041": {
  "FIPS":     31,
 "year": "2006",
-"population_z": 3.3061 
+"service": 3.1852e+05,
+"service_z": 3.1852e+05 
 },
 "1042": {
  "FIPS":     33,
 "year": "2006",
-"population_z": -0.48817 
+"service":    146,
+"service_z": 145.57 
 },
 "1043": {
  "FIPS":     35,
 "year": "2006",
-"population_z": 1.2426 
+"service":  65058,
+"service_z":  65058 
 },
 "1044": {
  "FIPS":     37,
 "year": "2006",
-"population_z": -0.17546 
+"service":  22814,
+"service_z":  22814 
 },
 "1045": {
  "FIPS":     39,
 "year": "2006",
-"population_z": -0.34923 
+"service":   1653,
+"service_z": 1652.6 
 },
 "1046": {
  "FIPS":     41,
 "year": "2006",
-"population_z":  3.439 
+"service": 1.6721e+05,
+"service_z": 1.6721e+05 
 },
 "1047": {
  "FIPS":     43,
 "year": "2006",
-"population_z": -0.18568 
+"service":   6805,
+"service_z": 6804.6 
 },
 "1048": {
  "FIPS":     45,
 "year": "2006",
-"population_z": -0.1559 
+"service":  14402,
+"service_z":  14402 
 },
 "1049": {
  "FIPS":     47,
 "year": "2006",
-"population_z": -0.46812 
+"service":   4773,
+"service_z": 4772.6 
 },
 "1050": {
  "FIPS":     49,
 "year": "2006",
-"population_z": -0.40601 
+"service":   4773,
+"service_z": 4772.6 
 },
 "1051": {
  "FIPS":     51,
 "year": "2006",
-"population_z": -0.40252 
+"service":   4904,
+"service_z": 4903.6 
 },
 "1052": {
  "FIPS":     53,
 "year": "2006",
-"population_z": -0.49601 
+"service":    150,
+"service_z": 149.57 
 },
 "1053": {
  "FIPS":     55,
 "year": "2006",
-"population_z": -0.4492 
+"service":   1291,
+"service_z": 1290.6 
 },
 "1054": {
  "FIPS":     57,
 "year": "2006",
-"population_z": -0.49187 
+"service":    246,
+"service_z": 245.57 
 },
 "1055": {
  "FIPS":     59,
 "year": "2006",
-"population_z": 3.0471 
+"service": 1.394e+05,
+"service_z": 1.394e+05 
 },
 "1056": {
  "FIPS":     61,
 "year": "2006",
-"population_z": -0.49139 
+"service":    100,
+"service_z": 99.575 
 },
 "1057": {
  "FIPS":     63,
 "year": "2006",
-"population_z": -0.44787 
+"service":   1640,
+"service_z": 1639.6 
 },
 "1058": {
  "FIPS":     65,
 "year": "2006",
-"population_z": -0.17415 
+"service":   1027,
+"service_z": 1026.6 
 },
 "1059": {
  "FIPS":     67,
 "year": "2006",
-"population_z": -0.45281 
+"service":  15733,
+"service_z":  15733 
 },
 "1060": {
  "FIPS":     69,
 "year": "2006",
-"population_z": 1.3995 
+"service":  81451,
+"service_z":  81451 
 },
 "1061": {
  "FIPS":     71,
 "year": "2006",
-"population_z": -0.39642 
+"service":   2845,
+"service_z": 2844.6 
 },
 "1062": {
  "FIPS":     73,
 "year": "2006",
-"population_z": -0.46331 
+"service":   1060,
+"service_z": 1059.6 
 },
 "1063": {
  "FIPS":     75,
 "year": "2006",
-"population_z": -0.35099 
+"service":   4866,
+"service_z": 4865.6 
 },
 "1064": {
  "FIPS":     77,
 "year": "2006",
-"population_z": 0.39898 
+"service":  38563,
+"service_z":  38563 
 },
 "1065": {
  "FIPS":     79,
 "year": "2006",
-"population_z": -0.49629 
+"service":    316,
+"service_z": 315.57 
 },
 "1066": {
  "FIPS":     81,
 "year": "2006",
-"population_z": -0.41299 
+"service":   2992,
+"service_z": 2991.6 
 },
 "1067": {
  "FIPS":     83,
 "year": "2006",
-"population_z": -0.33239 
+"service":   4903,
+"service_z": 4902.6 
 },
 "1068": {
  "FIPS":     85,
 "year": "2006",
-"population_z": -0.24478 
+"service":   8391,
+"service_z": 8390.6 
 },
 "1069": {
  "FIPS":     87,
 "year": "2006",
-"population_z": -0.31232 
+"service":   4780,
+"service_z": 4779.6 
 },
 "1070": {
  "FIPS":     89,
 "year": "2006",
-"population_z": -0.37179 
+"service":   3996,
+"service_z": 3995.6 
 },
 "1071": {
  "FIPS":     91,
 "year": "2006",
-"population_z": -0.47364 
+"service":   1017,
+"service_z": 1016.6 
 },
 "1072": {
  "FIPS":     93,
 "year": "2006",
-"population_z": -0.39252 
+"service":   1082,
+"service_z": 1081.6 
 },
 "1073": {
  "FIPS":     95,
 "year": "2006",
-"population_z": -0.47116 
+"service":    625,
+"service_z": 624.57 
 },
 "1074": {
  "FIPS":     97,
 "year": "2006",
-"population_z": -0.3928 
+"service":  13756,
+"service_z":  13756 
 },
 "1075": {
  "FIPS":     99,
 "year": "2006",
-"population_z": -0.41228 
+"service":   2381,
+"service_z": 2380.6 
 },
 "1076": {
  "FIPS":    101,
 "year": "2006",
-"population_z": 0.52708 
+"service":  35465,
+"service_z":  35465 
 },
 "1077": {
  "FIPS":    103,
 "year": "2006",
-"population_z": -0.46117 
+"service":   1035,
+"service_z": 1034.6 
 },
 "1078": {
  "FIPS":    105,
 "year": "2006",
-"population_z": -0.41748 
+"service":   2093,
+"service_z": 2092.6 
 },
 "1079": {
  "FIPS":    107,
 "year": "2006",
-"population_z": -0.35357 
+"service":   9721,
+"service_z": 9720.6 
 },
 "1080": {
  "FIPS":    109,
 "year": "2006",
-"population_z": -0.45941 
+"service":    458,
+"service_z": 457.57 
 },
 "1081": {
  "FIPS":    111,
 "year": "2006",
-"population_z": -0.49708 
+"service":    198,
+"service_z": 197.57 
 },
 "1082": {
  "FIPS":    113,
 "year": "2006",
-"population_z": -0.45387 
+"service":   3183,
+"service_z": 3182.6 
 },
 "1083": {
  "FIPS":    115,
 "year": "2006",
-"population_z": -0.48461 
+"service":    343,
+"service_z": 342.57 
 },
 "1084": {
  "FIPS":    117,
 "year": "2006",
-"population_z": -0.32006 
+"service":  14887,
+"service_z":  14887 
 },
 "1085": {
  "FIPS":    119,
 "year": "2006",
-"population_z": -0.34745 
+"service":   4731,
+"service_z": 4730.6 
 },
 "1086": {
  "FIPS":    121,
 "year": "2006",
-"population_z": -0.46793 
+"service":    502,
+"service_z": 501.57 
 },
 "1087": {
  "FIPS":    123,
 "year": "2006",
-"population_z":  1.063 
+"service":  43621,
+"service_z":  43621 
 },
 "1088": {
  "FIPS":    125,
 "year": "2006",
-"population_z": -0.43454 
+"service":   1666,
+"service_z": 1665.6 
 },
 "1089": {
  "FIPS":      1,
 "year": "2007",
-"population_z": 2.2703 
+"service": 1.0132e+05,
+"service_z": 1.0132e+05 
 },
 "1090": {
  "FIPS":      3,
 "year": "2007",
-"population_z": -0.40028 
+"service":   4695,
+"service_z": 4694.6 
 },
 "1091": {
  "FIPS":      5,
 "year": "2007",
-"population_z": 3.1367 
+"service": 2.1894e+05,
+"service_z": 2.1894e+05 
 },
 "1092": {
  "FIPS":      7,
 "year": "2007",
-"population_z": -0.42151 
+"service":   2605,
+"service_z": 2604.6 
 },
 "1093": {
  "FIPS":      9,
 "year": "2007",
-"population_z": -0.47561 
+"service":    341,
+"service_z": 340.57 
 },
 "1094": {
  "FIPS":     11,
 "year": "2007",
-"population_z": -0.46374 
+"service":    474,
+"service_z": 473.57 
 },
 "1095": {
  "FIPS":     13,
 "year": "2007",
-"population_z": 1.4227 
+"service": 1.1056e+05,
+"service_z": 1.1056e+05 
 },
 "1096": {
  "FIPS":     14,
 "year": "2007",
-"population_z": -0.14674 
+"service":  23389,
+"service_z":  23389 
 },
 "1097": {
  "FIPS":     15,
 "year": "2007",
-"population_z": -0.38731 
+"service":   4171,
+"service_z": 4170.6 
 },
 "1098": {
  "FIPS":     17,
 "year": "2007",
-"population_z": -0.48949 
+"service":    321,
+"service_z": 320.57 
 },
 "1099": {
  "FIPS":     19,
 "year": "2007",
-"population_z": -0.44001 
+"service":   1739,
+"service_z": 1738.6 
 },
 "1100": {
  "FIPS":     21,
 "year": "2007",
-"population_z": -0.44601 
+"service":    541,
+"service_z": 540.57 
 },
 "1101": {
  "FIPS":     23,
 "year": "2007",
-"population_z": -0.47772 
+"service":    205,
+"service_z": 204.57 
 },
 "1102": {
  "FIPS":     25,
 "year": "2007",
-"population_z": -0.46285 
+"service":    524,
+"service_z": 523.57 
 },
 "1103": {
  "FIPS":     27,
 "year": "2007",
-"population_z": -0.47469 
+"service":    525,
+"service_z": 524.57 
 },
 "1104": {
  "FIPS":     29,
 "year": "2007",
-"population_z": -0.30306 
+"service":   4600,
+"service_z": 4599.6 
 },
 "1105": {
  "FIPS":     31,
 "year": "2007",
-"population_z": 3.3004 
+"service": 3.2646e+05,
+"service_z": 3.2646e+05 
 },
 "1106": {
  "FIPS":     33,
 "year": "2007",
-"population_z": -0.48889 
+"service":    183,
+"service_z": 182.57 
 },
 "1107": {
  "FIPS":     35,
 "year": "2007",
-"population_z": 1.2883 
+"service":  68267,
+"service_z":  68267 
 },
 "1108": {
  "FIPS":     37,
 "year": "2007",
-"population_z": -0.17369 
+"service":  23602,
+"service_z":  23602 
 },
 "1109": {
  "FIPS":     39,
 "year": "2007",
-"population_z": -0.35238 
+"service":   1652,
+"service_z": 1651.6 
 },
 "1110": {
  "FIPS":     41,
 "year": "2007",
-"population_z": 3.4226 
+"service": 1.6914e+05,
+"service_z": 1.6914e+05 
 },
 "1111": {
  "FIPS":     43,
 "year": "2007",
-"population_z": -0.19123 
+"service":   6914,
+"service_z": 6913.6 
 },
 "1112": {
  "FIPS":     45,
 "year": "2007",
-"population_z": -0.15108 
+"service":  15330,
+"service_z":  15330 
 },
 "1113": {
  "FIPS":     47,
 "year": "2007",
-"population_z": -0.46913 
+"service":   4412,
+"service_z": 4411.6 
 },
 "1114": {
  "FIPS":     49,
 "year": "2007",
-"population_z": -0.40664 
+"service":   5027,
+"service_z": 5026.6 
 },
 "1115": {
  "FIPS":     51,
 "year": "2007",
-"population_z": -0.40252 
+"service":   4963,
+"service_z": 4962.6 
 },
 "1116": {
  "FIPS":     53,
 "year": "2007",
-"population_z": -0.49659 
+"service":    134,
+"service_z": 133.57 
 },
 "1117": {
  "FIPS":     55,
 "year": "2007",
-"population_z": -0.45118 
+"service":   1298,
+"service_z": 1297.6 
 },
 "1118": {
  "FIPS":     57,
 "year": "2007",
-"population_z": -0.49275 
+"service":    240,
+"service_z": 239.57 
 },
 "1119": {
  "FIPS":     59,
 "year": "2007",
-"population_z": 3.0116 
+"service": 1.4308e+05,
+"service_z": 1.4308e+05 
 },
 "1120": {
  "FIPS":     61,
 "year": "2007",
-"population_z": -0.49242 
+"service":    115,
+"service_z": 114.57 
 },
 "1121": {
  "FIPS":     63,
 "year": "2007",
-"population_z":  -0.45 
+"service":   1608,
+"service_z": 1607.6 
 },
 "1122": {
  "FIPS":     65,
 "year": "2007",
-"population_z": -0.17461 
+"service":   1053,
+"service_z": 1052.6 
 },
 "1123": {
  "FIPS":     67,
 "year": "2007",
-"population_z": -0.45376 
+"service":  16074,
+"service_z":  16074 
 },
 "1124": {
  "FIPS":     69,
 "year": "2007",
-"population_z": 1.4093 
+"service":  83815,
+"service_z":  83815 
 },
 "1125": {
  "FIPS":     71,
 "year": "2007",
-"population_z": -0.39873 
+"service":   2909,
+"service_z": 2908.6 
 },
 "1126": {
  "FIPS":     73,
 "year": "2007",
-"population_z": -0.46509 
+"service":   1004,
+"service_z": 1003.6 
 },
 "1127": {
  "FIPS":     75,
 "year": "2007",
-"population_z": -0.35288 
+"service":   4906,
+"service_z": 4905.6 
 },
 "1128": {
  "FIPS":     77,
 "year": "2007",
-"population_z": 0.41363 
+"service":  40401,
+"service_z":  40401 
 },
 "1129": {
  "FIPS":     79,
 "year": "2007",
-"population_z": -0.49687 
+"service":    328,
+"service_z": 327.57 
 },
 "1130": {
  "FIPS":     81,
 "year": "2007",
-"population_z": -0.41377 
+"service":   3102,
+"service_z": 3101.6 
 },
 "1131": {
  "FIPS":     83,
 "year": "2007",
-"population_z": -0.33439 
+"service":   4993,
+"service_z": 4992.6 
 },
 "1132": {
  "FIPS":     85,
 "year": "2007",
-"population_z": -0.24137 
+"service":   8910,
+"service_z": 8909.6 
 },
 "1133": {
  "FIPS":     87,
 "year": "2007",
-"population_z": -0.31659 
+"service":   4807,
+"service_z": 4806.6 
 },
 "1134": {
  "FIPS":     89,
 "year": "2007",
-"population_z": -0.37599 
+"service":   3883,
+"service_z": 3882.6 
 },
 "1135": {
  "FIPS":     91,
 "year": "2007",
-"population_z": -0.47373 
+"service":   1019,
+"service_z": 1018.6 
 },
 "1136": {
  "FIPS":     93,
 "year": "2007",
-"population_z": -0.39333 
+"service":   1132,
+"service_z": 1131.6 
 },
 "1137": {
  "FIPS":     95,
 "year": "2007",
-"population_z": -0.47233 
+"service":    641,
+"service_z": 640.57 
 },
 "1138": {
  "FIPS":     97,
 "year": "2007",
-"population_z": -0.39399 
+"service":  13622,
+"service_z":  13622 
 },
 "1139": {
  "FIPS":     99,
 "year": "2007",
-"population_z": -0.41709 
+"service":   2416,
+"service_z": 2415.6 
 },
 "1140": {
  "FIPS":    101,
 "year": "2007",
-"population_z": 0.52941 
+"service":  36434,
+"service_z":  36434 
 },
 "1141": {
  "FIPS":    103,
 "year": "2007",
-"population_z": -0.46161 
+"service":   1090,
+"service_z": 1089.6 
 },
 "1142": {
  "FIPS":    105,
 "year": "2007",
-"population_z": -0.42112 
+"service":   2040,
+"service_z": 2039.6 
 },
 "1143": {
  "FIPS":    107,
 "year": "2007",
-"population_z": -0.3528 
+"service":  10096,
+"service_z":  10096 
 },
 "1144": {
  "FIPS":    109,
 "year": "2007",
-"population_z": -0.46117 
+"service":    453,
+"service_z": 452.57 
 },
 "1145": {
  "FIPS":    111,
 "year": "2007",
-"population_z": -0.49765 
+"service":    193,
+"service_z": 192.57 
 },
 "1146": {
  "FIPS":    113,
 "year": "2007",
-"population_z": -0.45372 
+"service":   3225,
+"service_z": 3224.6 
 },
 "1147": {
  "FIPS":    115,
 "year": "2007",
-"population_z": -0.48608 
+"service":    346,
+"service_z": 345.57 
 },
 "1148": {
  "FIPS":    117,
 "year": "2007",
-"population_z": -0.32115 
+"service":  15266,
+"service_z":  15266 
 },
 "1149": {
  "FIPS":    119,
 "year": "2007",
-"population_z": -0.34781 
+"service":   4780,
+"service_z": 4779.6 
 },
 "1150": {
  "FIPS":    121,
 "year": "2007",
-"population_z": -0.46938 
+"service":    500,
+"service_z": 499.57 
 },
 "1151": {
  "FIPS":    123,
 "year": "2007",
-"population_z": 1.0862 
+"service":  44857,
+"service_z":  44857 
 },
 "1152": {
  "FIPS":    125,
 "year": "2007",
-"population_z": -0.43636 
+"service":   1724,
+"service_z": 1723.6 
 },
 "1153": {
  "FIPS":      1,
 "year": "2008",
-"population_z": 2.2832 
+"service": 1.0427e+05,
+"service_z": 1.0427e+05 
 },
 "1154": {
  "FIPS":      3,
 "year": "2008",
-"population_z": -0.40121 
+"service":   4727,
+"service_z": 4726.6 
 },
 "1155": {
  "FIPS":      5,
 "year": "2008",
-"population_z":  3.142 
+"service": 2.2013e+05,
+"service_z": 2.2013e+05 
 },
 "1156": {
  "FIPS":      7,
 "year": "2008",
-"population_z": -0.42264 
+"service":   2566,
+"service_z": 2565.6 
 },
 "1157": {
  "FIPS":      9,
 "year": "2008",
-"population_z": -0.47614 
+"service":    345,
+"service_z": 344.57 
 },
 "1158": {
  "FIPS":     11,
 "year": "2008",
-"population_z": -0.46238 
+"service":    487,
+"service_z": 486.57 
 },
 "1159": {
  "FIPS":     13,
 "year": "2008",
-"population_z": 1.4099 
+"service": 1.1215e+05,
+"service_z": 1.1215e+05 
 },
 "1160": {
  "FIPS":     14,
 "year": "2008",
-"population_z": -0.14538 
+"service":  23169,
+"service_z":  23169 
 },
 "1161": {
  "FIPS":     15,
 "year": "2008",
-"population_z": -0.38773 
+"service":   4246,
+"service_z": 4245.6 
 },
 "1162": {
  "FIPS":     17,
 "year": "2008",
-"population_z": -0.4893 
+"service":    257,
+"service_z": 256.57 
 },
 "1163": {
  "FIPS":     19,
 "year": "2008",
-"population_z": -0.44085 
+"service":   1725,
+"service_z": 1724.6 
 },
 "1164": {
  "FIPS":     21,
 "year": "2008",
-"population_z": -0.44681 
+"service":    527,
+"service_z": 526.57 
 },
 "1165": {
  "FIPS":     23,
 "year": "2008",
-"population_z": -0.47808 
+"service":    212,
+"service_z": 211.57 
 },
 "1166": {
  "FIPS":     25,
 "year": "2008",
-"population_z": -0.46313 
+"service":    536,
+"service_z": 535.57 
 },
 "1167": {
  "FIPS":     27,
 "year": "2008",
-"population_z": -0.47475 
+"service":    477,
+"service_z": 476.57 
 },
 "1168": {
  "FIPS":     29,
 "year": "2008",
-"population_z": -0.30297 
+"service":   4617,
+"service_z": 4616.6 
 },
 "1169": {
  "FIPS":     31,
 "year": "2008",
-"population_z": 3.3101 
+"service": 3.3042e+05,
+"service_z": 3.3042e+05 
 },
 "1170": {
  "FIPS":     33,
 "year": "2008",
-"population_z": -0.48815 
+"service":    154,
+"service_z": 153.57 
 },
 "1171": {
  "FIPS":     35,
 "year": "2008",
-"population_z": 1.3111 
+"service":  70642,
+"service_z":  70642 
 },
 "1172": {
  "FIPS":     37,
 "year": "2008",
-"population_z": -0.17223 
+"service":  24051,
+"service_z":  24051 
 },
 "1173": {
  "FIPS":     39,
 "year": "2008",
-"population_z": -0.35327 
+"service":   1421,
+"service_z": 1420.6 
 },
 "1174": {
  "FIPS":     41,
 "year": "2008",
-"population_z": 3.4225 
+"service": 1.6824e+05,
+"service_z": 1.6824e+05 
 },
 "1175": {
  "FIPS":     43,
 "year": "2008",
-"population_z": -0.19533 
+"service":   6820,
+"service_z": 6819.6 
 },
 "1176": {
  "FIPS":     45,
 "year": "2008",
-"population_z": -0.14652 
+"service":  15794,
+"service_z":  15794 
 },
 "1177": {
  "FIPS":     47,
 "year": "2008",
-"population_z": -0.46843 
+"service":   4215,
+"service_z": 4214.6 
 },
 "1178": {
  "FIPS":     49,
 "year": "2008",
-"population_z": -0.40652 
+"service":   5047,
+"service_z": 5046.6 
 },
 "1179": {
  "FIPS":     51,
 "year": "2008",
-"population_z": -0.40257 
+"service":   4893,
+"service_z": 4892.6 
 },
 "1180": {
  "FIPS":     53,
 "year": "2008",
-"population_z": -0.49633 
+"service":    147,
+"service_z": 146.57 
 },
 "1181": {
  "FIPS":     55,
 "year": "2008",
-"population_z": -0.45142 
+"service":   1337,
+"service_z": 1336.6 
 },
 "1182": {
  "FIPS":     57,
 "year": "2008",
-"population_z": -0.49269 
+"service":    241,
+"service_z": 240.57 
 },
 "1183": {
  "FIPS":     59,
 "year": "2008",
-"population_z": 2.9738 
+"service": 1.4306e+05,
+"service_z": 1.4306e+05 
 },
 "1184": {
  "FIPS":     61,
 "year": "2008",
-"population_z": -0.49235 
+"service":    116,
+"service_z": 115.57 
 },
 "1185": {
  "FIPS":     63,
 "year": "2008",
-"population_z": -0.44905 
+"service":   1663,
+"service_z": 1662.6 
 },
 "1186": {
  "FIPS":     65,
 "year": "2008",
-"population_z": -0.17372 
+"service":   1047,
+"service_z": 1046.6 
 },
 "1187": {
  "FIPS":     67,
 "year": "2008",
-"population_z": -0.45411 
+"service":  16246,
+"service_z":  16246 
 },
 "1188": {
  "FIPS":     69,
 "year": "2008",
-"population_z": 1.4136 
+"service":  84941,
+"service_z":  84941 
 },
 "1189": {
  "FIPS":     71,
 "year": "2008",
-"population_z": -0.40029 
+"service":   2982,
+"service_z": 2981.6 
 },
 "1190": {
  "FIPS":     73,
 "year": "2008",
-"population_z": -0.46556 
+"service":    974,
+"service_z": 973.57 
 },
 "1191": {
  "FIPS":     75,
 "year": "2008",
-"population_z": -0.3555 
+"service":   4997,
+"service_z": 4996.6 
 },
 "1192": {
  "FIPS":     77,
 "year": "2008",
-"population_z": 0.41981 
+"service":  41963,
+"service_z":  41963 
 },
 "1193": {
  "FIPS":     79,
 "year": "2008",
-"population_z": -0.49671 
+"service":    349,
+"service_z": 348.57 
 },
 "1194": {
  "FIPS":     81,
 "year": "2008",
-"population_z": -0.41365 
+"service":   3236,
+"service_z": 3235.6 
 },
 "1195": {
  "FIPS":     83,
 "year": "2008",
-"population_z": -0.33666 
+"service":   4893,
+"service_z": 4892.6 
 },
 "1196": {
  "FIPS":     85,
 "year": "2008",
-"population_z": -0.24002 
+"service":   8970,
+"service_z": 8969.6 
 },
 "1197": {
  "FIPS":     87,
 "year": "2008",
-"population_z": -0.31998 
+"service":   4802,
+"service_z": 4801.6 
 },
 "1198": {
  "FIPS":     89,
 "year": "2008",
-"population_z": -0.37823 
+"service":   3770,
+"service_z": 3769.6 
 },
 "1199": {
  "FIPS":     91,
 "year": "2008",
-"population_z": -0.47286 
+"service":    985,
+"service_z": 984.57 
 },
 "1200": {
  "FIPS":     93,
 "year": "2008",
-"population_z": -0.3951 
+"service":   1123,
+"service_z": 1122.6 
 },
 "1201": {
  "FIPS":     95,
 "year": "2008",
-"population_z": -0.47257 
+"service":    612,
+"service_z": 611.57 
 },
 "1202": {
  "FIPS":     97,
 "year": "2008",
-"population_z": -0.39251 
+"service":  13905,
+"service_z":  13905 
 },
 "1203": {
  "FIPS":     99,
 "year": "2008",
-"population_z": -0.41866 
+"service":   2380,
+"service_z": 2379.6 
 },
 "1204": {
  "FIPS":    101,
 "year": "2008",
-"population_z": 0.52182 
+"service":  37044,
+"service_z":  37044 
 },
 "1205": {
  "FIPS":    103,
 "year": "2008",
-"population_z": -0.46138 
+"service":   1067,
+"service_z": 1066.6 
 },
 "1206": {
  "FIPS":    105,
 "year": "2008",
-"population_z": -0.42244 
+"service":   2051,
+"service_z": 2050.6 
 },
 "1207": {
  "FIPS":    107,
 "year": "2008",
-"population_z": -0.35152 
+"service":  10136,
+"service_z":  10136 
 },
 "1208": {
  "FIPS":    109,
 "year": "2008",
-"population_z": -0.46127 
+"service":    454,
+"service_z": 453.57 
 },
 "1209": {
  "FIPS":    111,
 "year": "2008",
-"population_z": -0.49716 
+"service":    191,
+"service_z": 190.57 
 },
 "1210": {
  "FIPS":    113,
 "year": "2008",
-"population_z": -0.45389 
+"service":   3167,
+"service_z": 3166.6 
 },
 "1211": {
  "FIPS":    115,
 "year": "2008",
-"population_z": -0.48588 
+"service":    333,
+"service_z": 332.57 
 },
 "1212": {
  "FIPS":    117,
 "year": "2008",
-"population_z": -0.32182 
+"service":  14922,
+"service_z":  14922 
 },
 "1213": {
  "FIPS":    119,
 "year": "2008",
-"population_z": -0.3504 
+"service":   4955,
+"service_z": 4954.6 
 },
 "1214": {
  "FIPS":    121,
 "year": "2008",
-"population_z": -0.47028 
+"service":    476,
+"service_z": 475.57 
 },
 "1215": {
  "FIPS":    123,
 "year": "2008",
-"population_z": 1.0974 
+"service":  43776,
+"service_z":  43776 
 },
 "1216": {
  "FIPS":    125,
 "year": "2008",
-"population_z": -0.43691 
+"service":   1792,
+"service_z": 1791.6 
 },
 "1217": {
  "FIPS":      1,
 "year": "2009",
-"population_z": 2.3092 
+"service": 1.0112e+05,
+"service_z": 1.0112e+05 
 },
 "1218": {
  "FIPS":      3,
 "year": "2009",
-"population_z": -0.40226 
+"service":   4776,
+"service_z": 4775.6 
 },
 "1219": {
  "FIPS":      5,
 "year": "2009",
-"population_z": 3.1474 
+"service": 2.1295e+05,
+"service_z": 2.1295e+05 
 },
 "1220": {
  "FIPS":      7,
 "year": "2009",
-"population_z": -0.42417 
+"service":   2345,
+"service_z": 2344.6 
 },
 "1221": {
  "FIPS":      9,
 "year": "2009",
-"population_z": -0.47624 
+"service":    337,
+"service_z": 336.57 
 },
 "1222": {
  "FIPS":     11,
 "year": "2009",
-"population_z": -0.45907 
+"service":    515,
+"service_z": 514.57 
 },
 "1223": {
  "FIPS":     13,
 "year": "2009",
-"population_z": 1.3903 
+"service": 1.0638e+05,
+"service_z": 1.0638e+05 
 },
 "1224": {
  "FIPS":     14,
 "year": "2009",
-"population_z": -0.14416 
+"service":  22224,
+"service_z":  22224 
 },
 "1225": {
  "FIPS":     15,
 "year": "2009",
-"population_z": -0.38743 
+"service":   4106,
+"service_z": 4105.6 
 },
 "1226": {
  "FIPS":     17,
 "year": "2009",
-"population_z": -0.489 
+"service":    275,
+"service_z": 274.57 
 },
 "1227": {
  "FIPS":     19,
 "year": "2009",
-"population_z": -0.44246 
+"service":   1679,
+"service_z": 1678.6 
 },
 "1228": {
  "FIPS":     21,
 "year": "2009",
-"population_z": -0.44793 
+"service":    484,
+"service_z": 483.57 
 },
 "1229": {
  "FIPS":     23,
 "year": "2009",
-"population_z": -0.47823 
+"service":    233,
+"service_z": 232.57 
 },
 "1230": {
  "FIPS":     25,
 "year": "2009",
-"population_z": -0.46343 
+"service":    523,
+"service_z": 522.57 
 },
 "1231": {
  "FIPS":     27,
 "year": "2009",
-"population_z": -0.47397 
+"service":    467,
+"service_z": 466.57 
 },
 "1232": {
  "FIPS":     29,
 "year": "2009",
-"population_z": -0.30358 
+"service":   4454,
+"service_z": 4453.6 
 },
 "1233": {
  "FIPS":     31,
 "year": "2009",
-"population_z": 3.3347 
+"service": 3.1242e+05,
+"service_z": 3.1242e+05 
 },
 "1234": {
  "FIPS":     33,
 "year": "2009",
-"population_z": -0.48759 
+"service":    130,
+"service_z": 129.57 
 },
 "1235": {
  "FIPS":     35,
 "year": "2009",
-"population_z": 1.3164 
+"service":  69166,
+"service_z":  69166 
 },
 "1236": {
  "FIPS":     37,
 "year": "2009",
-"population_z": -0.16901 
+"service":  22173,
+"service_z":  22173 
 },
 "1237": {
  "FIPS":     39,
 "year": "2009",
-"population_z": -0.35339 
+"service":   1454,
+"service_z": 1453.6 
 },
 "1238": {
  "FIPS":     41,
 "year": "2009",
-"population_z": 3.4181 
+"service": 1.6207e+05,
+"service_z": 1.6207e+05 
 },
 "1239": {
  "FIPS":     43,
 "year": "2009",
-"population_z": -0.20047 
+"service":   6589,
+"service_z": 6588.6 
 },
 "1240": {
  "FIPS":     45,
 "year": "2009",
-"population_z": -0.14402 
+"service":  14319,
+"service_z":  14319 
 },
 "1241": {
  "FIPS":     47,
 "year": "2009",
-"population_z": -0.46605 
+"service":   4591,
+"service_z": 4590.6 
 },
 "1242": {
  "FIPS":     49,
 "year": "2009",
-"population_z": -0.40637 
+"service":   4608,
+"service_z": 4607.6 
 },
 "1243": {
  "FIPS":     51,
 "year": "2009",
-"population_z": -0.40249 
+"service":   4483,
+"service_z": 4482.6 
 },
 "1244": {
  "FIPS":     53,
 "year": "2009",
-"population_z": -0.49548 
+"service":    145,
+"service_z": 144.57 
 },
 "1245": {
  "FIPS":     55,
 "year": "2009",
-"population_z": -0.45759 
+"service":   1267,
+"service_z": 1266.6 
 },
 "1246": {
  "FIPS":     57,
 "year": "2009",
-"population_z": -0.49188 
+"service":    253,
+"service_z": 252.57 
 },
 "1247": {
  "FIPS":     59,
 "year": "2009",
-"population_z": 2.9292 
+"service": 1.3901e+05,
+"service_z": 1.3901e+05 
 },
 "1248": {
  "FIPS":     61,
 "year": "2009",
-"population_z": -0.49184 
+"service":    111,
+"service_z": 110.57 
 },
 "1249": {
  "FIPS":     63,
 "year": "2009",
-"population_z": -0.44755 
+"service":   1681,
+"service_z": 1680.6 
 },
 "1250": {
  "FIPS":     65,
 "year": "2009",
-"population_z": -0.17391 
+"service":    948,
+"service_z": 947.57 
 },
 "1251": {
  "FIPS":     67,
 "year": "2009",
-"population_z": -0.4546 
+"service":  15431,
+"service_z":  15431 
 },
 "1252": {
  "FIPS":     69,
 "year": "2009",
-"population_z": 1.4151 
+"service":  82703,
+"service_z":  82703 
 },
 "1253": {
  "FIPS":     71,
 "year": "2009",
-"population_z": -0.40113 
+"service":   2736,
+"service_z": 2735.6 
 },
 "1254": {
  "FIPS":     73,
 "year": "2009",
-"population_z": -0.46562 
+"service":    963,
+"service_z": 962.57 
 },
 "1255": {
  "FIPS":     75,
 "year": "2009",
-"population_z": -0.35579 
+"service":   4998,
+"service_z": 4997.6 
 },
 "1256": {
  "FIPS":     77,
 "year": "2009",
-"population_z": 0.43169 
+"service":  40141,
+"service_z":  40141 
 },
 "1257": {
  "FIPS":     79,
 "year": "2009",
-"population_z": -0.49621 
+"service":    345,
+"service_z": 344.57 
 },
 "1258": {
  "FIPS":     81,
 "year": "2009",
-"population_z": -0.41358 
+"service":   3150,
+"service_z": 3149.6 
 },
 "1259": {
  "FIPS":     83,
 "year": "2009",
-"population_z": -0.33745 
+"service":   4757,
+"service_z": 4756.6 
 },
 "1260": {
  "FIPS":     85,
 "year": "2009",
-"population_z": -0.23882 
+"service":   8436,
+"service_z": 8435.6 
 },
 "1261": {
  "FIPS":     87,
 "year": "2009",
-"population_z": -0.32031 
+"service":   4734,
+"service_z": 4733.6 
 },
 "1262": {
  "FIPS":     89,
 "year": "2009",
-"population_z": -0.37945 
+"service":   3762,
+"service_z": 3761.6 
 },
 "1263": {
  "FIPS":     91,
 "year": "2009",
-"population_z": -0.47265 
+"service":    897,
+"service_z": 896.57 
 },
 "1264": {
  "FIPS":     93,
 "year": "2009",
-"population_z": -0.39795 
+"service":   1028,
+"service_z": 1027.6 
 },
 "1265": {
  "FIPS":     95,
 "year": "2009",
-"population_z": -0.47212 
+"service":    626,
+"service_z": 625.57 
 },
 "1266": {
  "FIPS":     97,
 "year": "2009",
-"population_z": -0.39098 
+"service":  12358,
+"service_z":  12358 
 },
 "1267": {
  "FIPS":     99,
 "year": "2009",
-"population_z": -0.41981 
+"service":   2312,
+"service_z": 2311.6 
 },
 "1268": {
  "FIPS":    101,
 "year": "2009",
-"population_z": 0.51238 
+"service":  36216,
+"service_z":  36216 
 },
 "1269": {
  "FIPS":    103,
 "year": "2009",
-"population_z": -0.46012 
+"service":    998,
+"service_z": 997.57 
 },
 "1270": {
  "FIPS":    105,
 "year": "2009",
-"population_z": -0.42355 
+"service":   2013,
+"service_z": 2012.6 
 },
 "1271": {
  "FIPS":    107,
 "year": "2009",
-"population_z": -0.35059 
+"service":   9381,
+"service_z": 9380.6 
 },
 "1272": {
  "FIPS":    109,
 "year": "2009",
-"population_z": -0.46135 
+"service":    446,
+"service_z": 445.57 
 },
 "1273": {
  "FIPS":    111,
 "year": "2009",
-"population_z": -0.49638 
+"service":    189,
+"service_z": 188.57 
 },
 "1274": {
  "FIPS":    113,
 "year": "2009",
-"population_z": -0.454 
+"service":   3000,
+"service_z": 2999.6 
 },
 "1275": {
  "FIPS":    115,
 "year": "2009",
-"population_z": -0.4855 
+"service":    319,
+"service_z": 318.57 
 },
 "1276": {
  "FIPS":    117,
 "year": "2009",
-"population_z": -0.32188 
+"service":  13870,
+"service_z":  13870 
 },
 "1277": {
  "FIPS":    119,
 "year": "2009",
-"population_z": -0.35136 
+"service":   4791,
+"service_z": 4790.6 
 },
 "1278": {
  "FIPS":    121,
 "year": "2009",
-"population_z": -0.47004 
+"service":    447,
+"service_z": 446.57 
 },
 "1279": {
  "FIPS":    123,
 "year": "2009",
-"population_z": 1.1025 
+"service":  42054,
+"service_z":  42054 
 },
 "1280": {
  "FIPS":    125,
 "year": "2009",
-"population_z": -0.43617 
+"service":   1756,
+"service_z": 1755.6 
 },
 "1281": {
  "FIPS":      1,
 "year": "2010",
-"population_z": 2.3099 
+"service": 1.0039e+05,
+"service_z": 1.0039e+05 
 },
 "1282": {
  "FIPS":      3,
 "year": "2010",
-"population_z": -0.40168 
+"service":   4789,
+"service_z": 4788.6 
 },
 "1283": {
  "FIPS":      5,
 "year": "2010",
-"population_z": 3.1401 
+"service": 2.136e+05,
+"service_z": 2.136e+05 
 },
 "1284": {
  "FIPS":      7,
 "year": "2010",
-"population_z": -0.42329 
+"service":   2262,
+"service_z": 2261.6 
 },
 "1285": {
  "FIPS":      9,
 "year": "2010",
-"population_z": -0.47563 
+"service":    319,
+"service_z": 318.57 
 },
 "1286": {
  "FIPS":     11,
 "year": "2010",
-"population_z": -0.45846 
+"service":    520,
+"service_z": 519.57 
 },
 "1287": {
  "FIPS":     13,
 "year": "2010",
-"population_z": 1.3721 
+"service": 1.0579e+05,
+"service_z": 1.0579e+05 
 },
 "1288": {
  "FIPS":     14,
 "year": "2010",
-"population_z": -0.14439 
+"service":  22582,
+"service_z":  22582 
 },
 "1289": {
  "FIPS":     15,
 "year": "2010",
-"population_z": -0.38697 
+"service":   4047,
+"service_z": 4046.6 
 },
 "1290": {
  "FIPS":     17,
 "year": "2010",
-"population_z": -0.48804 
+"service":    284,
+"service_z": 283.57 
 },
 "1291": {
  "FIPS":     19,
 "year": "2010",
-"population_z": -0.44169 
+"service":   1651,
+"service_z": 1650.6 
 },
 "1292": {
  "FIPS":     21,
 "year": "2010",
-"population_z": -0.44722 
+"service":    535,
+"service_z": 534.57 
 },
 "1293": {
  "FIPS":     23,
 "year": "2010",
-"population_z": -0.47729 
+"service":    251,
+"service_z": 250.57 
 },
 "1294": {
  "FIPS":     25,
 "year": "2010",
-"population_z": -0.46269 
+"service":    524,
+"service_z": 523.57 
 },
 "1295": {
  "FIPS":     27,
 "year": "2010",
-"population_z": -0.47261 
+"service":    451,
+"service_z": 450.57 
 },
 "1296": {
  "FIPS":     29,
 "year": "2010",
-"population_z": -0.30407 
+"service":   4253,
+"service_z": 4252.6 
 },
 "1297": {
  "FIPS":     31,
 "year": "2010",
-"population_z": 3.3304 
+"service": 3.1129e+05,
+"service_z": 3.1129e+05 
 },
 "1298": {
  "FIPS":     33,
 "year": "2010",
-"population_z": -0.48661 
+"service":    127,
+"service_z": 126.57 
 },
 "1299": {
  "FIPS":     35,
 "year": "2010",
-"population_z": 1.3184 
+"service":  69903,
+"service_z":  69903 
 },
 "1300": {
  "FIPS":     37,
 "year": "2010",
-"population_z": -0.17004 
+"service":  21501,
+"service_z":  21501 
 },
 "1301": {
  "FIPS":     39,
 "year": "2010",
-"population_z": -0.35335 
+"service":   1489,
+"service_z": 1488.6 
 },
 "1302": {
  "FIPS":     41,
 "year": "2010",
-"population_z": 3.4719 
+"service": 1.6191e+05,
+"service_z": 1.6191e+05 
 },
 "1303": {
  "FIPS":     43,
 "year": "2010",
-"population_z": -0.20298 
+"service":   6596,
+"service_z": 6595.6 
 },
 "1304": {
  "FIPS":     45,
 "year": "2010",
-"population_z": -0.14412 
+"service":  13320,
+"service_z":  13320 
 },
 "1305": {
  "FIPS":     47,
 "year": "2010",
-"population_z": -0.46507 
+"service":   5005,
+"service_z": 5004.6 
 },
 "1306": {
  "FIPS":     49,
 "year": "2010",
-"population_z": -0.40601 
+"service":   4449,
+"service_z": 4448.6 
 },
 "1307": {
  "FIPS":     51,
 "year": "2010",
-"population_z": -0.40272 
+"service":   4339,
+"service_z": 4338.6 
 },
 "1308": {
  "FIPS":     53,
 "year": "2010",
-"population_z": -0.49432 
+"service":    126,
+"service_z": 125.57 
 },
 "1309": {
  "FIPS":     55,
 "year": "2010",
-"population_z": -0.45752 
+"service":   1115,
+"service_z": 1114.6 
 },
 "1310": {
  "FIPS":     57,
 "year": "2010",
-"population_z": -0.49088 
+"service":    254,
+"service_z": 253.57 
 },
 "1311": {
  "FIPS":     59,
 "year": "2010",
-"population_z":  2.892 
+"service": 1.3876e+05,
+"service_z": 1.3876e+05 
 },
 "1312": {
  "FIPS":     61,
 "year": "2010",
-"population_z": -0.4908 
+"service":    110,
+"service_z": 109.57 
 },
 "1313": {
  "FIPS":     63,
 "year": "2010",
-"population_z": -0.44731 
+"service":   1654,
+"service_z": 1653.6 
 },
 "1314": {
  "FIPS":     65,
 "year": "2010",
-"population_z": -0.17394 
+"service":    917,
+"service_z": 916.57 
 },
 "1315": {
  "FIPS":     67,
 "year": "2010",
-"population_z": -0.45355 
+"service":  15124,
+"service_z":  15124 
 },
 "1316": {
  "FIPS":     69,
 "year": "2010",
-"population_z": 1.4033 
+"service":  84168,
+"service_z":  84168 
 },
 "1317": {
  "FIPS":     71,
 "year": "2010",
-"population_z": -0.4021 
+"service":   2552,
+"service_z": 2551.6 
 },
 "1318": {
  "FIPS":     73,
 "year": "2010",
-"population_z": -0.465 
+"service":    969,
+"service_z": 968.57 
 },
 "1319": {
  "FIPS":     75,
 "year": "2010",
-"population_z": -0.3585 
+"service":   4767,
+"service_z": 4766.6 
 },
 "1320": {
  "FIPS":     77,
 "year": "2010",
-"population_z": 0.43185 
+"service":  38771,
+"service_z":  38771 
 },
 "1321": {
  "FIPS":     79,
 "year": "2010",
-"population_z": -0.49519 
+"service":    338,
+"service_z": 337.57 
 },
 "1322": {
  "FIPS":     81,
 "year": "2010",
-"population_z": -0.41224 
+"service":   2963,
+"service_z": 2962.6 
 },
 "1323": {
  "FIPS":     83,
 "year": "2010",
-"population_z": -0.33799 
+"service":   4785,
+"service_z": 4784.6 
 },
 "1324": {
  "FIPS":     85,
 "year": "2010",
-"population_z": -0.23886 
+"service":   8045,
+"service_z": 8044.6 
 },
 "1325": {
  "FIPS":     87,
 "year": "2010",
-"population_z": -0.32112 
+"service":   4714,
+"service_z": 4713.6 
 },
 "1326": {
  "FIPS":     89,
 "year": "2010",
-"population_z": -0.38038 
+"service":   3713,
+"service_z": 3712.6 
 },
 "1327": {
  "FIPS":     91,
 "year": "2010",
-"population_z": -0.47151 
+"service":    868,
+"service_z": 867.57 
 },
 "1328": {
  "FIPS":     93,
 "year": "2010",
-"population_z": -0.39669 
+"service":   1049,
+"service_z": 1048.6 
 },
 "1329": {
  "FIPS":     95,
 "year": "2010",
-"population_z": -0.47139 
+"service":    641,
+"service_z": 640.57 
 },
 "1330": {
  "FIPS":     97,
 "year": "2010",
-"population_z": -0.39103 
+"service":  12113,
+"service_z":  12113 
 },
 "1331": {
  "FIPS":     99,
 "year": "2010",
-"population_z": -0.42031 
+"service":   2276,
+"service_z": 2275.6 
 },
 "1332": {
  "FIPS":    101,
 "year": "2010",
-"population_z": 0.51026 
+"service":  36361,
+"service_z":  36361 
 },
 "1333": {
  "FIPS":    103,
 "year": "2010",
-"population_z": -0.45776 
+"service":    920,
+"service_z": 919.57 
 },
 "1334": {
  "FIPS":    105,
 "year": "2010",
-"population_z": -0.42367 
+"service":   1952,
+"service_z": 1951.6 
 },
 "1335": {
  "FIPS":    107,
 "year": "2010",
-"population_z": -0.35124 
+"service":   9188,
+"service_z": 9187.6 
 },
 "1336": {
  "FIPS":    109,
 "year": "2010",
-"population_z": -0.46075 
+"service":    457,
+"service_z": 456.57 
 },
 "1337": {
  "FIPS":    111,
 "year": "2010",
-"population_z": -0.49517 
+"service":    182,
+"service_z": 181.57 
 },
 "1338": {
  "FIPS":    113,
 "year": "2010",
-"population_z": -0.45308 
+"service":   3034,
+"service_z": 3033.6 
 },
 "1339": {
  "FIPS":    115,
 "year": "2010",
-"population_z": -0.48467 
+"service":    295,
+"service_z": 294.57 
 },
 "1340": {
  "FIPS":    117,
 "year": "2010",
-"population_z": -0.3219 
+"service":  13756,
+"service_z":  13756 
 },
 "1341": {
  "FIPS":    119,
 "year": "2010",
-"population_z": -0.35123 
+"service":   4786,
+"service_z": 4785.6 
 },
 "1342": {
  "FIPS":    121,
 "year": "2010",
-"population_z": -0.46917 
+"service":    437,
+"service_z": 436.57 
 },
 "1343": {
  "FIPS":    123,
 "year": "2010",
-"population_z": 1.1101 
+"service":  41567,
+"service_z":  41567 
 },
 "1344": {
  "FIPS":    125,
 "year": "2010",
-"population_z": -0.43614 
+"service":   1723,
+"service_z": 1722.6 
 },
 "1345": {
  "FIPS":      1,
 "year": "2011",
-"population_z": 2.3129 
+"service": 1.0212e+05,
+"service_z": 1.0212e+05 
 },
 "1346": {
  "FIPS":      3,
 "year": "2011",
-"population_z": -0.40001 
+"service":   4725,
+"service_z": 4724.6 
 },
 "1347": {
  "FIPS":      5,
 "year": "2011",
-"population_z": 3.1438 
+"service": 2.2070e+05,
+"service_z": 2.207e+05 
 },
 "1348": {
  "FIPS":      7,
 "year": "2011",
-"population_z": -0.42284 
+"service":   2265,
+"service_z": 2264.6 
 },
 "1349": {
  "FIPS":      9,
 "year": "2011",
-"population_z": -0.4739 
+"service":    328,
+"service_z": 327.57 
 },
 "1350": {
  "FIPS":     11,
 "year": "2011",
-"population_z": -0.45829 
+"service":    518,
+"service_z": 517.57 
 },
 "1351": {
  "FIPS":     13,
 "year": "2011",
-"population_z": 1.3694 
+"service": 1.096e+05,
+"service_z": 1.096e+05 
 },
 "1352": {
  "FIPS":     14,
 "year": "2011",
-"population_z": -0.14169 
+"service":  23275,
+"service_z":  23275 
 },
 "1353": {
  "FIPS":     15,
 "year": "2011",
-"population_z": -0.38552 
+"service":   4150,
+"service_z": 4149.6 
 },
 "1354": {
  "FIPS":     17,
 "year": "2011",
-"population_z": -0.48591 
+"service":    277,
+"service_z": 276.57 
 },
 "1355": {
  "FIPS":     19,
 "year": "2011",
-"population_z": -0.44111 
+"service":   1630,
+"service_z": 1629.6 
 },
 "1356": {
  "FIPS":     21,
 "year": "2011",
-"population_z": -0.44597 
+"service":    559,
+"service_z": 558.57 
 },
 "1357": {
  "FIPS":     23,
 "year": "2011",
-"population_z": -0.47483 
+"service":    260,
+"service_z": 259.57 
 },
 "1358": {
  "FIPS":     25,
 "year": "2011",
-"population_z": -0.46132 
+"service":    535,
+"service_z": 534.57 
 },
 "1359": {
  "FIPS":     27,
 "year": "2011",
-"population_z": -0.47124 
+"service":    432,
+"service_z": 431.57 
 },
 "1360": {
  "FIPS":     29,
 "year": "2011",
-"population_z": -0.30859 
+"service":   4161,
+"service_z": 4160.6 
 },
 "1361": {
  "FIPS":     31,
 "year": "2011",
-"population_z": 3.3631 
+"service": 3.1708e+05,
+"service_z": 3.1708e+05 
 },
 "1362": {
  "FIPS":     33,
 "year": "2011",
-"population_z": -0.48493 
+"service":    141,
+"service_z": 140.57 
 },
 "1363": {
  "FIPS":     35,
 "year": "2011",
-"population_z": 1.3212 
+"service":  71703,
+"service_z":  71703 
 },
 "1364": {
  "FIPS":     37,
 "year": "2011",
-"population_z": -0.17636 
+"service":  21964,
+"service_z":  21964 
 },
 "1365": {
  "FIPS":     39,
 "year": "2011",
-"population_z": -0.35314 
+"service":   1402,
+"service_z": 1401.6 
 },
 "1366": {
  "FIPS":     41,
 "year": "2011",
-"population_z": 3.4706 
+"service": 1.6452e+05,
+"service_z": 1.6452e+05 
 },
 "1367": {
  "FIPS":     43,
 "year": "2011",
-"population_z": -0.20281 
+"service":   6686,
+"service_z": 6685.6 
 },
 "1368": {
  "FIPS":     45,
 "year": "2011",
-"population_z": -0.14884 
+"service":  13663,
+"service_z":  13663 
 },
 "1369": {
  "FIPS":     47,
 "year": "2011",
-"population_z": -0.46363 
+"service":   4880,
+"service_z": 4879.6 
 },
 "1370": {
  "FIPS":     49,
 "year": "2011",
-"population_z": -0.40697 
+"service":   4549,
+"service_z": 4548.6 
 },
 "1371": {
  "FIPS":     51,
 "year": "2011",
-"population_z": -0.40177 
+"service":   4382,
+"service_z": 4381.6 
 },
 "1372": {
  "FIPS":     53,
 "year": "2011",
-"population_z": -0.49238 
+"service":    136,
+"service_z": 135.57 
 },
 "1373": {
  "FIPS":     55,
 "year": "2011",
-"population_z": -0.45709 
+"service":   1108,
+"service_z": 1107.6 
 },
 "1374": {
  "FIPS":     57,
 "year": "2011",
-"population_z": -0.48896 
+"service":    253,
+"service_z": 252.57 
 },
 "1375": {
  "FIPS":     59,
 "year": "2011",
-"population_z": 2.8586 
+"service": 1.4171e+05,
+"service_z": 1.4171e+05 
 },
 "1376": {
  "FIPS":     61,
 "year": "2011",
-"population_z": -0.48854 
+"service":    125,
+"service_z": 124.57 
 },
 "1377": {
  "FIPS":     63,
 "year": "2011",
-"population_z": -0.44663 
+"service":   1631,
+"service_z": 1630.6 
 },
 "1378": {
  "FIPS":     65,
 "year": "2011",
-"population_z": -0.17485 
+"service":    958,
+"service_z": 957.57 
 },
 "1379": {
  "FIPS":     67,
 "year": "2011",
-"population_z": -0.45159 
+"service":  14984,
+"service_z":  14984 
 },
 "1380": {
  "FIPS":     69,
 "year": "2011",
-"population_z": 1.3996 
+"service":  86051,
+"service_z":  86051 
 },
 "1381": {
  "FIPS":     71,
 "year": "2011",
-"population_z": -0.40397 
+"service":   2633,
+"service_z": 2632.6 
 },
 "1382": {
  "FIPS":     73,
 "year": "2011",
-"population_z": -0.46389 
+"service":    986,
+"service_z": 985.57 
 },
 "1383": {
  "FIPS":     75,
 "year": "2011",
-"population_z": -0.35906 
+"service":   4644,
+"service_z": 4643.6 
 },
 "1384": {
  "FIPS":     77,
 "year": "2011",
-"population_z": 0.42323 
+"service":  38736,
+"service_z":  38736 
 },
 "1385": {
  "FIPS":     79,
 "year": "2011",
-"population_z": -0.49311 
+"service":    367,
+"service_z": 366.57 
 },
 "1386": {
  "FIPS":     81,
 "year": "2011",
-"population_z": -0.41414 
+"service":   2907,
+"service_z": 2906.6 
 },
 "1387": {
  "FIPS":     83,
 "year": "2011",
-"population_z": -0.33923 
+"service":   4966,
+"service_z": 4965.6 
 },
 "1388": {
  "FIPS":     85,
 "year": "2011",
-"population_z": -0.24302 
+"service":   7965,
+"service_z": 7964.6 
 },
 "1389": {
  "FIPS":     87,
 "year": "2011",
-"population_z": -0.3206 
+"service":   4773,
+"service_z": 4772.6 
 },
 "1390": {
  "FIPS":     89,
 "year": "2011",
-"population_z": -0.38039 
+"service":   3683,
+"service_z": 3682.6 
 },
 "1391": {
  "FIPS":     91,
 "year": "2011",
-"population_z":  -0.47 
+"service":    806,
+"service_z": 805.57 
 },
 "1392": {
  "FIPS":     93,
 "year": "2011",
-"population_z": -0.39743 
+"service":   1044,
+"service_z": 1043.6 
 },
 "1393": {
  "FIPS":     95,
 "year": "2011",
-"population_z": -0.4703 
+"service":    655,
+"service_z": 654.57 
 },
 "1394": {
  "FIPS":     97,
 "year": "2011",
-"population_z": -0.39098 
+"service":  12264,
+"service_z":  12264 
 },
 "1395": {
  "FIPS":     99,
 "year": "2011",
-"population_z": -0.42005 
+"service":   2386,
+"service_z": 2385.6 
 },
 "1396": {
  "FIPS":    101,
 "year": "2011",
-"population_z": 0.49914 
+"service":  37039,
+"service_z":  37039 
 },
 "1397": {
  "FIPS":    103,
 "year": "2011",
-"population_z": -0.4556 
+"service":    918,
+"service_z": 917.57 
 },
 "1398": {
  "FIPS":    105,
 "year": "2011",
-"population_z": -0.42345 
+"service":   1872,
+"service_z": 1871.6 
 },
 "1399": {
  "FIPS":    107,
 "year": "2011",
-"population_z": -0.35301 
+"service":   9465,
+"service_z": 9464.6 
 },
 "1400": {
  "FIPS":    109,
 "year": "2011",
-"population_z": -0.45896 
+"service":    453,
+"service_z": 452.57 
 },
 "1401": {
  "FIPS":    111,
 "year": "2011",
-"population_z": -0.49319 
+"service":    198,
+"service_z": 197.57 
 },
 "1402": {
  "FIPS":    113,
 "year": "2011",
-"population_z": -0.45095 
+"service":   3128,
+"service_z": 3127.6 
 },
 "1403": {
  "FIPS":    115,
 "year": "2011",
-"population_z": -0.48278 
+"service":    283,
+"service_z": 282.57 
 },
 "1404": {
  "FIPS":    117,
 "year": "2011",
-"population_z": -0.32375 
+"service":  14169,
+"service_z":  14169 
 },
 "1405": {
  "FIPS":    119,
 "year": "2011",
-"population_z": -0.35266 
+"service":   4714,
+"service_z": 4713.6 
 },
 "1406": {
  "FIPS":    121,
 "year": "2011",
-"population_z": -0.46776 
+"service":    449,
+"service_z": 448.57 
 },
 "1407": {
  "FIPS":    123,
 "year": "2011",
-"population_z": 1.1111 
+"service":  43323,
+"service_z":  43323 
 },
 "1408": {
  "FIPS":    125,
 "year": "2011",
-"population_z": -0.43455 
+"service":   1700,
+"service_z": 1699.6 
 },
 "1409": {
  "FIPS":      1,
 "year": "2012",
-"population_z": 2.3171 
+"service": 1.05e+05,
+"service_z": 1.05e+05 
 },
 "1410": {
  "FIPS":      3,
 "year": "2012",
-"population_z": -0.39991 
+"service":   4710,
+"service_z": 4709.6 
 },
 "1411": {
  "FIPS":      5,
 "year": "2012",
-"population_z": 3.1454 
+"service": 2.2696e+05,
+"service_z": 2.2696e+05 
 },
 "1412": {
  "FIPS":      7,
 "year": "2012",
-"population_z": -0.42176 
+"service":   2273,
+"service_z": 2272.6 
 },
 "1413": {
  "FIPS":      9,
 "year": "2012",
-"population_z": -0.47292 
+"service":    327,
+"service_z": 326.57 
 },
 "1414": {
  "FIPS":     11,
 "year": "2012",
-"population_z": -0.46052 
+"service":    492,
+"service_z": 491.57 
 },
 "1415": {
  "FIPS":     13,
 "year": "2012",
-"population_z": 1.3692 
+"service": 1.1311e+05,
+"service_z": 1.1311e+05 
 },
 "1416": {
  "FIPS":     14,
 "year": "2012",
-"population_z": -0.13654 
+"service":  24531,
+"service_z":  24531 
 },
 "1417": {
  "FIPS":     15,
 "year": "2012",
-"population_z": -0.38504 
+"service":   4203,
+"service_z": 4202.6 
 },
 "1418": {
  "FIPS":     17,
 "year": "2012",
-"population_z": -0.48429 
+"service":    284,
+"service_z": 283.57 
 },
 "1419": {
  "FIPS":     19,
 "year": "2012",
-"population_z": -0.44024 
+"service":   1634,
+"service_z": 1633.6 
 },
 "1420": {
  "FIPS":     21,
 "year": "2012",
-"population_z": -0.44537 
+"service":    616,
+"service_z": 615.57 
 },
 "1421": {
  "FIPS":     23,
 "year": "2012",
-"population_z": -0.47381 
+"service":    287,
+"service_z": 286.57 
 },
 "1422": {
  "FIPS":     25,
 "year": "2012",
-"population_z": -0.46295 
+"service":    497,
+"service_z": 496.57 
 },
 "1423": {
  "FIPS":     27,
 "year": "2012",
-"population_z": -0.4699 
+"service":    441,
+"service_z": 440.57 
 },
 "1424": {
  "FIPS":     29,
 "year": "2012",
-"population_z": -0.30954 
+"service":   4279,
+"service_z": 4278.6 
 },
 "1425": {
  "FIPS":     31,
 "year": "2012",
-"population_z":  3.384 
+"service": 3.2567e+05,
+"service_z": 3.2567e+05 
 },
 "1426": {
  "FIPS":     33,
 "year": "2012",
-"population_z": -0.48369 
+"service":    146,
+"service_z": 145.57 
 },
 "1427": {
  "FIPS":     35,
 "year": "2012",
-"population_z": 1.3288 
+"service":  75117,
+"service_z":  75117 
 },
 "1428": {
  "FIPS":     37,
 "year": "2012",
-"population_z": -0.17895 
+"service":  22551,
+"service_z":  22551 
 },
 "1429": {
  "FIPS":     39,
 "year": "2012",
-"population_z": -0.35288 
+"service":   1440,
+"service_z": 1439.6 
 },
 "1430": {
  "FIPS":     41,
 "year": "2012",
-"population_z": 3.4602 
+"service": 1.6649e+05,
+"service_z": 1.6649e+05 
 },
 "1431": {
  "FIPS":     43,
 "year": "2012",
-"population_z": -0.20833 
+"service":   6715,
+"service_z": 6714.6 
 },
 "1432": {
  "FIPS":     45,
 "year": "2012",
-"population_z": -0.14829 
+"service":  14029,
+"service_z":  14029 
 },
 "1433": {
  "FIPS":     47,
 "year": "2012",
-"population_z": -0.46247 
+"service":   4848,
+"service_z": 4847.6 
 },
 "1434": {
  "FIPS":     49,
 "year": "2012",
-"population_z": -0.4091 
+"service":   4522,
+"service_z": 4521.6 
 },
 "1435": {
  "FIPS":     51,
 "year": "2012",
-"population_z": -0.40161 
+"service":   4336,
+"service_z": 4335.6 
 },
 "1436": {
  "FIPS":     53,
 "year": "2012",
-"population_z": -0.49095 
+"service":    122,
+"service_z": 121.57 
 },
 "1437": {
  "FIPS":     55,
 "year": "2012",
-"population_z": -0.45569 
+"service":   1111,
+"service_z": 1110.6 
 },
 "1438": {
  "FIPS":     57,
 "year": "2012",
-"population_z": -0.48762 
+"service":    235,
+"service_z": 234.57 
 },
 "1439": {
  "FIPS":     59,
 "year": "2012",
-"population_z": 2.8396 
+"service": 1.4816e+05,
+"service_z": 1.4816e+05 
 },
 "1440": {
  "FIPS":     61,
 "year": "2012",
-"population_z": -0.48712 
+"service":    117,
+"service_z": 116.57 
 },
 "1441": {
  "FIPS":     63,
 "year": "2012",
-"population_z": -0.44641 
+"service":   1631,
+"service_z": 1630.6 
 },
 "1442": {
  "FIPS":     65,
 "year": "2012",
-"population_z": -0.17529 
+"service":    942,
+"service_z": 941.57 
 },
 "1443": {
  "FIPS":     67,
 "year": "2012",
-"population_z": -0.45126 
+"service":  15468,
+"service_z":  15468 
 },
 "1444": {
  "FIPS":     69,
 "year": "2012",
-"population_z": 1.4026 
+"service":  88434,
+"service_z":  88434 
 },
 "1445": {
  "FIPS":     71,
 "year": "2012",
-"population_z": -0.40435 
+"service":   2710,
+"service_z": 2709.6 
 },
 "1446": {
  "FIPS":     73,
 "year": "2012",
-"population_z": -0.46252 
+"service":   1020,
+"service_z": 1019.6 
 },
 "1447": {
  "FIPS":     75,
 "year": "2012",
-"population_z": -0.36118 
+"service":   4665,
+"service_z": 4664.6 
 },
 "1448": {
  "FIPS":     77,
 "year": "2012",
-"population_z": 0.41047 
+"service":  39446,
+"service_z":  39446 
 },
 "1449": {
  "FIPS":     79,
 "year": "2012",
-"population_z": -0.4915 
+"service":    396,
+"service_z": 395.57 
 },
 "1450": {
  "FIPS":     81,
 "year": "2012",
-"population_z": -0.41546 
+"service":   2974,
+"service_z": 2973.6 
 },
 "1451": {
  "FIPS":     83,
 "year": "2012",
-"population_z": -0.34032 
+"service":   5102,
+"service_z": 5101.6 
 },
 "1452": {
  "FIPS":     85,
 "year": "2012",
-"population_z": -0.24674 
+"service":   8044,
+"service_z": 8043.6 
 },
 "1453": {
  "FIPS":     87,
 "year": "2012",
-"population_z": -0.32288 
+"service":   5021,
+"service_z": 5020.6 
 },
 "1454": {
  "FIPS":     89,
 "year": "2012",
-"population_z": -0.38175 
+"service":   3548,
+"service_z": 3547.6 
 },
 "1455": {
  "FIPS":     91,
 "year": "2012",
-"population_z": -0.46821 
+"service":    841,
+"service_z": 840.57 
 },
 "1456": {
  "FIPS":     93,
 "year": "2012",
-"population_z": -0.39769 
+"service":   1052,
+"service_z": 1051.6 
 },
 "1457": {
  "FIPS":     95,
 "year": "2012",
-"population_z": -0.46905 
+"service":    645,
+"service_z": 644.57 
 },
 "1458": {
  "FIPS":     97,
 "year": "2012",
-"population_z": -0.39045 
+"service":  12551,
+"service_z":  12551 
 },
 "1459": {
  "FIPS":     99,
 "year": "2012",
-"population_z": -0.42027 
+"service":   2308,
+"service_z": 2307.6 
 },
 "1460": {
  "FIPS":    101,
 "year": "2012",
-"population_z": 0.48747 
+"service":  37319,
+"service_z":  37319 
 },
 "1461": {
  "FIPS":    103,
 "year": "2012",
-"population_z": -0.4545 
+"service":    946,
+"service_z": 945.57 
 },
 "1462": {
  "FIPS":    105,
 "year": "2012",
-"population_z": -0.42324 
+"service":   1874,
+"service_z": 1873.6 
 },
 "1463": {
  "FIPS":    107,
 "year": "2012",
-"population_z": -0.35385 
+"service":   9664,
+"service_z": 9663.6 
 },
 "1464": {
  "FIPS":    109,
 "year": "2012",
-"population_z": -0.45708 
+"service":    477,
+"service_z": 476.57 
 },
 "1465": {
  "FIPS":    111,
 "year": "2012",
-"population_z": -0.49157 
+"service":    211,
+"service_z": 210.57 
 },
 "1466": {
  "FIPS":    113,
 "year": "2012",
-"population_z": -0.44936 
+"service":   3187,
+"service_z": 3186.6 
 },
 "1467": {
  "FIPS":    115,
 "year": "2012",
-"population_z": -0.48132 
+"service":    313,
+"service_z": 312.57 
 },
 "1468": {
  "FIPS":    117,
 "year": "2012",
-"population_z": -0.32335 
+"service":  14362,
+"service_z":  14362 
 },
 "1469": {
  "FIPS":    119,
 "year": "2012",
-"population_z": -0.35313 
+"service":   4726,
+"service_z": 4725.6 
 },
 "1470": {
  "FIPS":    121,
 "year": "2012",
-"population_z": -0.467 
+"service":    493,
+"service_z": 492.57 
 },
 "1471": {
  "FIPS":    123,
 "year": "2012",
-"population_z": 1.1185 
+"service":  44870,
+"service_z":  44870 
 },
 "1472": {
  "FIPS":    125,
 "year": "2012",
-"population_z": -0.43417 
+"service":   1710,
+"service_z": 1709.6 
 },
 "1473": {
  "FIPS":      1,
 "year": "2013",
-"population_z": 2.3261 
+"service": 1.0882e+05,
+"service_z": 1.0882e+05 
 },
 "1474": {
  "FIPS":      3,
 "year": "2013",
-"population_z": -0.39934 
+"service":   4730,
+"service_z": 4729.6 
 },
 "1475": {
  "FIPS":      5,
 "year": "2013",
-"population_z": 3.1514 
+"service": 2.3571e+05,
+"service_z": 2.3571e+05 
 },
 "1476": {
  "FIPS":      7,
 "year": "2013",
-"population_z": -0.42103 
+"service":   2379,
+"service_z": 2378.6 
 },
 "1477": {
  "FIPS":      9,
 "year": "2013",
-"population_z": -0.47224 
+"service":    330,
+"service_z": 329.58 
 },
 "1478": {
  "FIPS":     11,
 "year": "2013",
-"population_z": -0.4601 
+"service":    486,
+"service_z": 485.58 
 },
 "1479": {
  "FIPS":     13,
 "year": "2013",
-"population_z": 1.3684 
+"service": 1.1583e+05,
+"service_z": 1.1583e+05 
 },
 "1480": {
  "FIPS":     14,
 "year": "2013",
-"population_z": -0.13316 
+"service":  26399,
+"service_z":  26399 
 },
 "1481": {
  "FIPS":     15,
 "year": "2013",
-"population_z": -0.3846 
+"service":   4271,
+"service_z": 4270.6 
 },
 "1482": {
  "FIPS":     17,
 "year": "2013",
-"population_z": -0.48288 
+"service":    268,
+"service_z": 267.58 
 },
 "1483": {
  "FIPS":     19,
 "year": "2013",
-"population_z": -0.43987 
+"service":   1590,
+"service_z": 1589.6 
 },
 "1484": {
  "FIPS":     21,
 "year": "2013",
-"population_z": -0.44497 
+"service":    599,
+"service_z": 598.58 
 },
 "1485": {
  "FIPS":     23,
 "year": "2013",
-"population_z": -0.47304 
+"service":    307,
+"service_z": 306.58 
 },
 "1486": {
  "FIPS":     25,
 "year": "2013",
-"population_z": -0.46261 
+"service":    452,
+"service_z": 451.58 
 },
 "1487": {
  "FIPS":     27,
 "year": "2013",
-"population_z": -0.46856 
+"service":    427,
+"service_z": 426.58 
 },
 "1488": {
  "FIPS":     29,
 "year": "2013",
-"population_z": -0.31211 
+"service":   4280,
+"service_z": 4279.6 
 },
 "1489": {
  "FIPS":     31,
 "year": "2013",
-"population_z": 3.4007 
+"service": 3.3517e+05,
+"service_z": 3.3517e+05 
 },
 "1490": {
  "FIPS":     33,
 "year": "2013",
-"population_z": -0.48219 
+"service":    152,
+"service_z": 151.58 
 },
 "1491": {
  "FIPS":     35,
 "year": "2013",
-"population_z": 1.3454 
+"service":  82242,
+"service_z":  82242 
 },
 "1492": {
  "FIPS":     37,
 "year": "2013",
-"population_z": -0.18005 
+"service":  23048,
+"service_z":  23048 
 },
 "1493": {
  "FIPS":     39,
 "year": "2013",
-"population_z": -0.3523 
+"service":   1543,
+"service_z": 1542.6 
 },
 "1494": {
  "FIPS":     41,
 "year": "2013",
-"population_z": 3.4494 
+"service": 1.7262e+05,
+"service_z": 1.7262e+05 
 },
 "1495": {
  "FIPS":     43,
 "year": "2013",
-"population_z": -0.21591 
+"service":   6581,
+"service_z": 6580.6 
 },
 "1496": {
  "FIPS":     45,
 "year": "2013",
-"population_z": -0.15126 
+"service":  14307,
+"service_z":  14307 
 },
 "1497": {
  "FIPS":     47,
 "year": "2013",
-"population_z": -0.46085 
+"service":   4745,
+"service_z": 4744.6 
 },
 "1498": {
  "FIPS":     49,
 "year": "2013",
-"population_z": -0.40834 
+"service":   4734,
+"service_z": 4733.6 
 },
 "1499": {
  "FIPS":     51,
 "year": "2013",
-"population_z": -0.40154 
+"service":   4454,
+"service_z": 4453.6 
 },
 "1500": {
  "FIPS":     53,
 "year": "2013",
-"population_z": -0.48947 
+"service":    129,
+"service_z": 128.58 
 },
 "1501": {
  "FIPS":     55,
 "year": "2013",
-"population_z": -0.45539 
+"service":   1119,
+"service_z": 1118.6 
 },
 "1502": {
  "FIPS":     57,
 "year": "2013",
-"population_z": -0.48616 
+"service":    212,
+"service_z": 211.58 
 },
 "1503": {
  "FIPS":     59,
 "year": "2013",
-"population_z": 2.8143 
+"service": 1.5172e+05,
+"service_z": 1.5172e+05 
 },
 "1504": {
  "FIPS":     61,
 "year": "2013",
-"population_z": -0.48588 
+"service":    120,
+"service_z": 119.58 
 },
 "1505": {
  "FIPS":     63,
 "year": "2013",
-"population_z": -0.44615 
+"service":   1637,
+"service_z": 1636.6 
 },
 "1506": {
  "FIPS":     65,
 "year": "2013",
-"population_z": -0.17376 
+"service":    941,
+"service_z": 940.58 
 },
 "1507": {
  "FIPS":     67,
 "year": "2013",
-"population_z": -0.45045 
+"service":  15810,
+"service_z":  15810 
 },
 "1508": {
  "FIPS":     69,
 "year": "2013",
-"population_z": 1.4032 
+"service":  86537,
+"service_z":  86537 
 },
 "1509": {
  "FIPS":     71,
 "year": "2013",
-"population_z": -0.40803 
+"service":   2693,
+"service_z": 2692.6 
 },
 "1510": {
  "FIPS":     73,
 "year": "2013",
-"population_z": -0.46174 
+"service":   1019,
+"service_z": 1018.6 
 },
 "1511": {
  "FIPS":     75,
 "year": "2013",
-"population_z": -0.36324 
+"service":   4765,
+"service_z": 4764.6 
 },
 "1512": {
  "FIPS":     77,
 "year": "2013",
-"population_z": 0.39571 
+"service":  40120,
+"service_z":  40120 
 },
 "1513": {
  "FIPS":     79,
 "year": "2013",
-"population_z": -0.48993 
+"service":    367,
+"service_z": 366.58 
 },
 "1514": {
  "FIPS":     81,
 "year": "2013",
-"population_z": -0.41568 
+"service":   2964,
+"service_z": 2963.6 
 },
 "1515": {
  "FIPS":     83,
 "year": "2013",
-"population_z": -0.34024 
+"service":   5181,
+"service_z": 5180.6 
 },
 "1516": {
  "FIPS":     85,
 "year": "2013",
-"population_z": -0.24964 
+"service":   8119,
+"service_z": 8118.6 
 },
 "1517": {
  "FIPS":     87,
 "year": "2013",
-"population_z": -0.32434 
+"service":   5149,
+"service_z": 5148.6 
 },
 "1518": {
  "FIPS":     89,
 "year": "2013",
-"population_z": -0.38314 
+"service":   3439,
+"service_z": 3438.6 
 },
 "1519": {
  "FIPS":     91,
 "year": "2013",
-"population_z": -0.467 
+"service":    877,
+"service_z": 876.58 
 },
 "1520": {
  "FIPS":     93,
 "year": "2013",
-"population_z": -0.39713 
+"service":   1038,
+"service_z": 1037.6 
 },
 "1521": {
  "FIPS":     95,
 "year": "2013",
-"population_z": -0.46819 
+"service":    708,
+"service_z": 707.58 
 },
 "1522": {
  "FIPS":     97,
 "year": "2013",
-"population_z": -0.38979 
+"service":  12921,
+"service_z":  12921 
 },
 "1523": {
  "FIPS":     99,
 "year": "2013",
-"population_z": -0.42082 
+"service":   2230,
+"service_z": 2229.6 
 },
 "1524": {
  "FIPS":    101,
 "year": "2013",
-"population_z": 0.47329 
+"service":  37606,
+"service_z":  37606 
 },
 "1525": {
  "FIPS":    103,
 "year": "2013",
-"population_z": -0.454 
+"service":    977,
+"service_z": 976.58 
 },
 "1526": {
  "FIPS":    105,
 "year": "2013",
-"population_z": -0.42401 
+"service":   1860,
+"service_z": 1859.6 
 },
 "1527": {
  "FIPS":    107,
 "year": "2013",
-"population_z": -0.35339 
+"service":   9923,
+"service_z": 9922.6 
 },
 "1528": {
  "FIPS":    109,
 "year": "2013",
-"population_z": -0.45681 
+"service":    486,
+"service_z": 485.58 
 },
 "1529": {
  "FIPS":    111,
 "year": "2013",
-"population_z": -0.49009 
+"service":    171,
+"service_z": 170.58 
 },
 "1530": {
  "FIPS":    113,
 "year": "2013",
-"population_z": -0.44818 
+"service":   3234,
+"service_z": 3233.6 
 },
 "1531": {
  "FIPS":    115,
 "year": "2013",
-"population_z": -0.4802 
+"service":    326,
+"service_z": 325.58 
 },
 "1532": {
  "FIPS":    117,
 "year": "2013",
-"population_z": -0.32169 
+"service":  14971,
+"service_z":  14971 
 },
 "1533": {
  "FIPS":    119,
 "year": "2013",
-"population_z": -0.35462 
+"service":   4534,
+"service_z": 4533.6 
 },
 "1534": {
  "FIPS":    121,
 "year": "2013",
-"population_z": -0.46574 
+"service":    501,
+"service_z": 500.58 
 },
 "1535": {
  "FIPS":    123,
 "year": "2013",
-"population_z": 1.1276 
+"service":  46943,
+"service_z":  46943 
 },
 "1536": {
  "FIPS":    125,
 "year": "2013",
-"population_z": -0.43367 
+"service":   1715,
+"service_z": 1714.6 
 },
 "1537": {
  "FIPS":      1,
 "year": "2014",
-"population_z": 2.3383 
+"service": 1.1424e+05,
+"service_z": 1.1424e+05 
 },
 "1538": {
  "FIPS":      3,
 "year": "2014",
-"population_z": -0.39954 
+"service":   4819,
+"service_z": 4818.6 
 },
 "1539": {
  "FIPS":      5,
 "year": "2014",
-"population_z": 3.1519 
+"service": 2.4301e+05,
+"service_z": 2.4301e+05 
 },
 "1540": {
  "FIPS":      7,
 "year": "2014",
-"population_z": -0.42088 
+"service":   2431,
+"service_z": 2430.6 
 },
 "1541": {
  "FIPS":      9,
 "year": "2014",
-"population_z": -0.47173 
+"service":    332,
+"service_z": 331.58 
 },
 "1542": {
  "FIPS":     11,
 "year": "2014",
-"population_z": -0.46044 
+"service":    488,
+"service_z": 487.58 
 },
 "1543": {
  "FIPS":     13,
 "year": "2014",
-"population_z": 1.3562 
+"service": 1.1897e+05,
+"service_z": 1.1897e+05 
 },
 "1544": {
  "FIPS":     14,
 "year": "2014",
-"population_z": -0.12864 
+"service":  26860,
+"service_z":  26860 
 },
 "1545": {
  "FIPS":     15,
 "year": "2014",
-"population_z": -0.38431 
+"service":   4402,
+"service_z": 4401.6 
 },
 "1546": {
  "FIPS":     17,
 "year": "2014",
-"population_z": -0.48207 
+"service":    266,
+"service_z": 265.58 
 },
 "1547": {
  "FIPS":     19,
 "year": "2014",
-"population_z": -0.43913 
+"service":   1639,
+"service_z": 1638.6 
 },
 "1548": {
  "FIPS":     21,
 "year": "2014",
-"population_z": -0.44458 
+"service":    621,
+"service_z": 620.58 
 },
 "1549": {
  "FIPS":     23,
 "year": "2014",
-"population_z": -0.47213 
+"service":    310,
+"service_z": 309.58 
 },
 "1550": {
  "FIPS":     25,
 "year": "2014",
-"population_z": -0.46037 
+"service":    474,
+"service_z": 473.58 
 },
 "1551": {
  "FIPS":     27,
 "year": "2014",
-"population_z": -0.46731 
+"service":    465,
+"service_z": 464.58 
 },
 "1552": {
  "FIPS":     29,
 "year": "2014",
-"population_z": -0.31609 
+"service":   4308,
+"service_z": 4307.6 
 },
 "1553": {
  "FIPS":     31,
 "year": "2014",
-"population_z": 3.4224 
+"service": 3.4988e+05,
+"service_z": 3.4988e+05 
 },
 "1554": {
  "FIPS":     33,
 "year": "2014",
-"population_z": -0.48169 
+"service":    152,
+"service_z": 151.58 
 },
 "1555": {
  "FIPS":     35,
 "year": "2014",
-"population_z": 1.3614 
+"service":  85318,
+"service_z":  85318 
 },
 "1556": {
  "FIPS":     37,
 "year": "2014",
-"population_z": -0.18166 
+"service":  23593,
+"service_z":  23593 
 },
 "1557": {
  "FIPS":     39,
 "year": "2014",
-"population_z": -0.35076 
+"service":   1432,
+"service_z": 1431.6 
 },
 "1558": {
  "FIPS":     41,
 "year": "2014",
-"population_z": 3.4274 
+"service": 1.7634e+05,
+"service_z": 1.7634e+05 
 },
 "1559": {
  "FIPS":     43,
 "year": "2014",
-"population_z": -0.22019 
+"service":   6478,
+"service_z": 6477.6 
 },
 "1560": {
  "FIPS":     45,
 "year": "2014",
-"population_z": -0.15385 
+"service":  14683,
+"service_z":  14683 
 },
 "1561": {
  "FIPS":     47,
 "year": "2014",
-"population_z": -0.45872 
+"service":   4519,
+"service_z": 4518.6 
 },
 "1562": {
  "FIPS":     49,
 "year": "2014",
-"population_z": -0.40758 
+"service":   4867,
+"service_z": 4866.6 
 },
 "1563": {
  "FIPS":     51,
 "year": "2014",
-"population_z": -0.40078 
+"service":   4742,
+"service_z": 4741.6 
 },
 "1564": {
  "FIPS":     53,
 "year": "2014",
-"population_z": -0.48856 
+"service":    139,
+"service_z": 138.58 
 },
 "1565": {
  "FIPS":     55,
 "year": "2014",
-"population_z": -0.4552 
+"service":   1068,
+"service_z": 1067.6 
 },
 "1566": {
  "FIPS":     57,
 "year": "2014",
-"population_z": -0.48491 
+"service":    223,
+"service_z": 222.58 
 },
 "1567": {
  "FIPS":     59,
 "year": "2014",
-"population_z": 2.7993 
+"service": 1.5615e+05,
+"service_z": 1.5615e+05 
 },
 "1568": {
  "FIPS":     61,
 "year": "2014",
-"population_z": -0.48492 
+"service":    144,
+"service_z": 143.58 
 },
 "1569": {
  "FIPS":     63,
 "year": "2014",
-"population_z": -0.447 
+"service":   1648,
+"service_z": 1647.6 
 },
 "1570": {
  "FIPS":     65,
 "year": "2014",
-"population_z": -0.17469 
+"service":   1026,
+"service_z": 1025.6 
 },
 "1571": {
  "FIPS":     67,
 "year": "2014",
-"population_z": -0.44977 
+"service":  16107,
+"service_z":  16107 
 },
 "1572": {
  "FIPS":     69,
 "year": "2014",
-"population_z":  1.416 
+"service":  89190,
+"service_z":  89190 
 },
 "1573": {
  "FIPS":     71,
 "year": "2014",
-"population_z": -0.41021 
+"service":   2695,
+"service_z": 2694.6 
 },
 "1574": {
  "FIPS":     73,
 "year": "2014",
-"population_z": -0.46062 
+"service":   1012,
+"service_z": 1011.6 
 },
 "1575": {
  "FIPS":     75,
 "year": "2014",
-"population_z": -0.36288 
+"service":   4891,
+"service_z": 4890.6 
 },
 "1576": {
  "FIPS":     77,
 "year": "2014",
-"population_z": 0.38139 
+"service":  40753,
+"service_z":  40753 
 },
 "1577": {
  "FIPS":     79,
 "year": "2014",
-"population_z": -0.48898 
+"service":    379,
+"service_z": 378.58 
 },
 "1578": {
  "FIPS":     81,
 "year": "2014",
-"population_z": -0.41722 
+"service":   2853,
+"service_z": 2852.6 
 },
 "1579": {
  "FIPS":     83,
 "year": "2014",
-"population_z": -0.34093 
+"service":   5262,
+"service_z": 5261.6 
 },
 "1580": {
  "FIPS":     85,
 "year": "2014",
-"population_z": -0.25197 
+"service":   8197,
+"service_z": 8196.6 
 },
 "1581": {
  "FIPS":     87,
 "year": "2014",
-"population_z": -0.32654 
+"service":   5328,
+"service_z": 5327.6 
 },
 "1582": {
  "FIPS":     89,
 "year": "2014",
-"population_z": -0.38474 
+"service":   3310,
+"service_z": 3309.6 
 },
 "1583": {
  "FIPS":     91,
 "year": "2014",
-"population_z": -0.46605 
+"service":    902,
+"service_z": 901.58 
 },
 "1584": {
  "FIPS":     93,
 "year": "2014",
-"population_z": -0.39651 
+"service":   1059,
+"service_z": 1058.6 
 },
 "1585": {
  "FIPS":     95,
 "year": "2014",
-"population_z": -0.46727 
+"service":    729,
+"service_z": 728.58 
 },
 "1586": {
  "FIPS":     97,
 "year": "2014",
-"population_z": -0.38907 
+"service":  13501,
+"service_z":  13501 
 },
 "1587": {
  "FIPS":     99,
 "year": "2014",
-"population_z": -0.42244 
+"service":   2183,
+"service_z": 2182.6 
 },
 "1588": {
  "FIPS":    101,
 "year": "2014",
-"population_z": 0.46058 
+"service":  38153,
+"service_z":  38153 
 },
 "1589": {
  "FIPS":    103,
 "year": "2014",
-"population_z": -0.45414 
+"service":    983,
+"service_z": 982.58 
 },
 "1590": {
  "FIPS":    105,
 "year": "2014",
-"population_z": -0.42486 
+"service":   1808,
+"service_z": 1807.6 
 },
 "1591": {
  "FIPS":    107,
 "year": "2014",
-"population_z": -0.35223 
+"service":  10216,
+"service_z":  10216 
 },
 "1592": {
  "FIPS":    109,
 "year": "2014",
-"population_z": -0.45651 
+"service":    518,
+"service_z": 517.58 
 },
 "1593": {
  "FIPS":    111,
 "year": "2014",
-"population_z": -0.48886 
+"service":    177,
+"service_z": 176.58 
 },
 "1594": {
  "FIPS":    113,
 "year": "2014",
-"population_z": -0.44697 
+"service":   3417,
+"service_z": 3416.6 
 },
 "1595": {
  "FIPS":    115,
 "year": "2014",
-"population_z": -0.47935 
+"service":    307,
+"service_z": 306.58 
 },
 "1596": {
  "FIPS":    117,
 "year": "2014",
-"population_z": -0.31979 
+"service":  15815,
+"service_z":  15815 
 },
 "1597": {
  "FIPS":    119,
 "year": "2014",
-"population_z": -0.35519 
+"service":   4512,
+"service_z": 4511.6 
 },
 "1598": {
  "FIPS":    121,
 "year": "2014",
-"population_z": -0.46498 
+"service":    512,
+"service_z": 511.58 
 },
 "1599": {
  "FIPS":    123,
 "year": "2014",
-"population_z": 1.1343 
+"service":  50289,
+"service_z":  50289 
 },
 "1600": {
  "FIPS":    125,
 "year": "2014",
-"population_z": -0.43336 
+"service":   1771,
+"service_z": 1770.6 
 } 
 }

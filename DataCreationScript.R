@@ -69,7 +69,7 @@ goods_z=goods[,-1]%>%
          goods_z=(goods-mean(goods))/sd(goods))%>%
   select(FIPS, year, goods_z)
 
-service=service[,-1]%>%
+service_z=service[,-1]%>%
   rename(FIPS=FIPS_NUM)%>%
   filter(FIPS!=0)%>%
   select(-Ownership, -Industry)%>%
@@ -88,9 +88,31 @@ goods_service_z=goods_service_ratio[,-1]%>%
 
 
 ## JSON Conversion
-library(RJSONIO)
 
-pop_z_json_1990=toJSON(filter(pop_z, year==1990))
-write(pop_z_json_1990, "cocountiesPop1990.JSON")
+
+
+json_out=function(data, year, filename){
+  require(RJSONIO, quietly=TRUE)
+  d=filter(data, year==year)
+  jd=toJSON(split(d, 1:nrow(d)))
+  write(jd, paste0(filename, ".JSON"))
+}
+
+json_out(pop_z, 1990, "cocountiesPop1990")
+json_out(emp_z, 1990, "cocountiesEmp1990")
+json_out(qcw_z, 1990, "cocountiesQCW1990")
+json_out(emp_pop_z, 1990, "cocountiesEmpPop1990")
+json_out(goods_z, 1990, "cocountiesGoods1990")
+json_out(service_z, 1990, "cocountiesService1990")
+json_out(goods_service_z, 1990, "cocountiesGoodsService1990")
+
+
+
+
+
+
+
+
+
 
 

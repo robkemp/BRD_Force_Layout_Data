@@ -88,8 +88,13 @@ goods_service_z=goods_service_ratio[,-1]%>%
 
 
 ## JSON Conversion
-
-
+modified <- list(
+  traits = colnames(tmp),
+  values = unname(apply(tmp, 1, function(x) as.data.frame(t(x))))
+)
+cat(toJSON(modified))
+tmp=pop_z%>%
+  filter(year==1990)
 
 json_out=function(data, year, filename){
   require(RJSONIO, quietly=TRUE)
@@ -108,6 +113,8 @@ json_out(goods_service_z, 1990, "cocountiesGoodsService1990")
 
 
 
+
+### Notes from Call:
 
 
 

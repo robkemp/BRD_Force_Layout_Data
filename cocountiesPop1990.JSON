@@ -1,8002 +1,8002 @@
-{
- "1": {
+[
+ {
  "FIPS":      1,
 "year": "1990",
 "population_z": 1.9428 
 },
-"2": {
+{
  "FIPS":      3,
 "year": "1990",
 "population_z": -0.3444 
 },
-"3": {
+{
  "FIPS":      5,
 "year": "1990",
 "population_z": 3.0933 
 },
-"4": {
+{
  "FIPS":      7,
 "year": "1990",
 "population_z": -0.41965 
 },
-"5": {
+{
  "FIPS":      9,
 "year": "1990",
 "population_z": -0.42683 
 },
-"6": {
+{
  "FIPS":     11,
 "year": "1990",
 "population_z": -0.42235 
 },
-"7": {
+{
  "FIPS":     13,
 "year": "1990",
 "population_z": 1.5816 
 },
-"8": {
+{
  "FIPS":     14,
 "year": "1990",
 "population_z": -0.46827 
 },
-"9": {
+{
  "FIPS":     15,
 "year": "1990",
 "population_z": -0.35289 
 },
-"10": {
+{
  "FIPS":     17,
 "year": "1990",
 "population_z": -0.44647 
 },
-"11": {
+{
  "FIPS":     19,
 "year": "1990",
 "population_z": -0.39896 
 },
-"12": {
+{
  "FIPS":     21,
 "year": "1990",
 "population_z": -0.40047 
 },
-"13": {
+{
  "FIPS":     23,
 "year": "1990",
 "population_z": -0.43926 
 },
-"14": {
+{
  "FIPS":     25,
 "year": "1990",
 "population_z": -0.43238 
 },
-"15": {
+{
  "FIPS":     27,
 "year": "1990",
 "population_z": -0.45075 
 },
-"16": {
+{
  "FIPS":     29,
 "year": "1990",
 "population_z": -0.27742 
 },
-"17": {
+{
  "FIPS":     31,
 "year": "1990",
 "population_z": 3.7855 
 },
-"18": {
+{
  "FIPS":     33,
 "year": "1990",
 "population_z": -0.45459 
 },
-"19": {
+{
  "FIPS":     35,
 "year": "1990",
 "population_z": 0.081098 
 },
-"20": {
+{
  "FIPS":     37,
 "year": "1990",
 "population_z": -0.2688 
 },
-"21": {
+{
  "FIPS":     39,
 "year": "1990",
 "population_z": -0.38053 
 },
-"22": {
+{
  "FIPS":     41,
 "year": "1990",
 "population_z": 3.1433 
 },
-"23": {
+{
  "FIPS":     43,
 "year": "1990",
 "population_z": -0.17469 
 },
-"24": {
+{
  "FIPS":     45,
 "year": "1990",
 "population_z": -0.1956 
 },
-"25": {
+{
  "FIPS":     47,
 "year": "1990",
 "population_z": -0.44035 
 },
-"26": {
+{
  "FIPS":     49,
 "year": "1990",
 "population_z": -0.39581 
 },
-"27": {
+{
  "FIPS":     51,
 "year": "1990",
 "population_z": -0.37482 
 },
-"28": {
+{
  "FIPS":     53,
 "year": "1990",
 "population_z": -0.46403 
 },
-"29": {
+{
  "FIPS":     55,
 "year": "1990",
 "population_z": -0.41361 
 },
-"30": {
+{
  "FIPS":     57,
 "year": "1990",
 "population_z": -0.45367 
 },
-"31": {
+{
  "FIPS":     59,
 "year": "1990",
 "population_z": 3.5201 
 },
-"32": {
+{
  "FIPS":     61,
 "year": "1990",
 "population_z": -0.45292 
 },
-"33": {
+{
  "FIPS":     63,
 "year": "1990",
 "population_z": -0.40332 
 },
-"34": {
+{
  "FIPS":     65,
 "year": "1990",
 "population_z": -0.17459 
 },
-"35": {
+{
  "FIPS":     67,
 "year": "1990",
 "population_z": -0.41363 
 },
-"36": {
+{
  "FIPS":     69,
 "year": "1990",
 "population_z":  1.225 
 },
-"37": {
+{
  "FIPS":     71,
 "year": "1990",
 "population_z": -0.34306 
 },
-"38": {
+{
  "FIPS":     73,
 "year": "1990",
 "population_z": -0.42707 
 },
-"39": {
+{
  "FIPS":     75,
 "year": "1990",
 "population_z": -0.30847 
 },
-"40": {
+{
  "FIPS":     77,
 "year": "1990",
 "population_z": 0.37906 
 },
-"41": {
+{
  "FIPS":     79,
 "year": "1990",
 "population_z": -0.4632 
 },
-"42": {
+{
  "FIPS":     81,
 "year": "1990",
 "population_z": -0.36496 
 },
-"43": {
+{
  "FIPS":     83,
 "year": "1990",
 "population_z": -0.29842 
 },
-"44": {
+{
  "FIPS":     85,
 "year": "1990",
 "population_z": -0.2461 
 },
-"45": {
+{
  "FIPS":     87,
 "year": "1990",
 "population_z": -0.2687 
 },
-"46": {
+{
  "FIPS":     89,
 "year": "1990",
 "population_z": -0.28465 
 },
-"47": {
+{
  "FIPS":     91,
 "year": "1990",
 "population_z": -0.4474 
 },
-"48": {
+{
  "FIPS":     93,
 "year": "1990",
 "population_z": -0.40301 
 },
-"49": {
+{
  "FIPS":     95,
 "year": "1990",
 "population_z": -0.43017 
 },
-"50": {
+{
  "FIPS":     97,
 "year": "1990",
 "population_z": -0.3531 
 },
-"51": {
+{
  "FIPS":     99,
 "year": "1990",
 "population_z": -0.34686 
 },
-"52": {
+{
  "FIPS":    101,
 "year": "1990",
 "population_z": 0.65111 
 },
-"53": {
+{
  "FIPS":    103,
 "year": "1990",
 "population_z": -0.41323 
 },
-"54": {
+{
  "FIPS":    105,
 "year": "1990",
 "population_z": -0.3703 
 },
-"55": {
+{
  "FIPS":    107,
 "year": "1990",
 "population_z": -0.34012 
 },
-"56": {
+{
  "FIPS":    109,
 "year": "1990",
 "population_z": -0.42626 
 },
-"57": {
+{
  "FIPS":    111,
 "year": "1990",
 "population_z": -0.4615 
 },
-"58": {
+{
  "FIPS":    113,
 "year": "1990",
 "population_z": -0.43504 
 },
-"59": {
+{
  "FIPS":    115,
 "year": "1990",
 "population_z": -0.4438 
 },
-"60": {
+{
  "FIPS":    117,
 "year": "1990",
 "population_z": -0.3511 
 },
-"61": {
+{
  "FIPS":    119,
 "year": "1990",
 "population_z": -0.35485 
 },
-"62": {
+{
  "FIPS":    121,
 "year": "1990",
 "population_z": -0.4245 
 },
-"63": {
+{
  "FIPS":    123,
 "year": "1990",
 "population_z": 0.73089 
 },
-"64": {
+{
  "FIPS":    125,
 "year": "1990",
 "population_z": -0.38682 
 },
-"65": {
+{
  "FIPS":      1,
 "year": "1991",
 "population_z": 1.9609 
 },
-"66": {
+{
  "FIPS":      3,
 "year": "1991",
 "population_z": -0.34803 
 },
-"67": {
+{
  "FIPS":      5,
 "year": "1991",
 "population_z": 3.1116 
 },
-"68": {
+{
  "FIPS":      7,
 "year": "1991",
 "population_z": -0.41919 
 },
-"69": {
+{
  "FIPS":      9,
 "year": "1991",
 "population_z": -0.42971 
 },
-"70": {
+{
  "FIPS":     11,
 "year": "1991",
 "population_z": -0.4251 
 },
-"71": {
+{
  "FIPS":     13,
 "year": "1991",
 "population_z": 1.5821 
 },
-"72": {
+{
  "FIPS":     14,
 "year": "1991",
 "population_z": -0.46915 
 },
-"73": {
+{
  "FIPS":     15,
 "year": "1991",
 "population_z": -0.35491 
 },
-"74": {
+{
  "FIPS":     17,
 "year": "1991",
 "population_z": -0.44716 
 },
-"75": {
+{
  "FIPS":     19,
 "year": "1991",
 "population_z": -0.40119 
 },
-"76": {
+{
  "FIPS":     21,
 "year": "1991",
 "population_z": -0.40224 
 },
-"77": {
+{
  "FIPS":     23,
 "year": "1991",
 "population_z": -0.44024 
 },
-"78": {
+{
  "FIPS":     25,
 "year": "1991",
 "population_z": -0.43387 
 },
-"79": {
+{
  "FIPS":     27,
 "year": "1991",
 "population_z": -0.45128 
 },
-"80": {
+{
  "FIPS":     29,
 "year": "1991",
 "population_z": -0.28062 
 },
-"81": {
+{
  "FIPS":     31,
 "year": "1991",
 "population_z": 3.7509 
 },
-"82": {
+{
  "FIPS":     33,
 "year": "1991",
 "population_z": -0.45639 
 },
-"83": {
+{
  "FIPS":     35,
 "year": "1991",
 "population_z": 0.12309 
 },
-"84": {
+{
  "FIPS":     37,
 "year": "1991",
 "population_z": -0.26083 
 },
-"85": {
+{
  "FIPS":     39,
 "year": "1991",
 "population_z": -0.37796 
 },
-"86": {
+{
  "FIPS":     41,
 "year": "1991",
 "population_z": 3.1361 
 },
-"87": {
+{
  "FIPS":     43,
 "year": "1991",
 "population_z": -0.18286 
 },
-"88": {
+{
  "FIPS":     45,
 "year": "1991",
 "population_z": -0.1918 
 },
-"89": {
+{
  "FIPS":     47,
 "year": "1991",
 "population_z": -0.44172 
 },
-"90": {
+{
  "FIPS":     49,
 "year": "1991",
 "population_z": -0.39465 
 },
-"91": {
+{
  "FIPS":     51,
 "year": "1991",
 "population_z": -0.37665 
 },
-"92": {
+{
  "FIPS":     53,
 "year": "1991",
 "population_z": -0.46513 
 },
-"93": {
+{
  "FIPS":     55,
 "year": "1991",
 "population_z": -0.41536 
 },
-"94": {
+{
  "FIPS":     57,
 "year": "1991",
 "population_z": -0.45533 
 },
-"95": {
+{
  "FIPS":     59,
 "year": "1991",
 "population_z": 3.5242 
 },
-"96": {
+{
  "FIPS":     61,
 "year": "1991",
 "population_z": -0.45421 
 },
-"97": {
+{
  "FIPS":     63,
 "year": "1991",
 "population_z": -0.40556 
 },
-"98": {
+{
  "FIPS":     65,
 "year": "1991",
 "population_z": -0.17243 
 },
-"99": {
+{
  "FIPS":     67,
 "year": "1991",
 "population_z": -0.41462 
 },
-"100": {
+{
  "FIPS":     69,
 "year": "1991",
 "population_z": 1.2497 
 },
-"101": {
+{
  "FIPS":     71,
 "year": "1991",
 "population_z": -0.34645 
 },
-"102": {
+{
  "FIPS":     73,
 "year": "1991",
 "population_z": -0.42093 
 },
-"103": {
+{
  "FIPS":     75,
 "year": "1991",
 "population_z": -0.31371 
 },
-"104": {
+{
  "FIPS":     77,
 "year": "1991",
 "population_z": 0.38334 
 },
-"105": {
+{
  "FIPS":     79,
 "year": "1991",
 "population_z": -0.46409 
 },
-"106": {
+{
  "FIPS":     81,
 "year": "1991",
 "population_z": -0.36748 
 },
-"107": {
+{
  "FIPS":     83,
 "year": "1991",
 "population_z": -0.29988 
 },
-"108": {
+{
  "FIPS":     85,
 "year": "1991",
 "population_z": -0.24469 
 },
-"109": {
+{
  "FIPS":     87,
 "year": "1991",
 "population_z": -0.26753 
 },
-"110": {
+{
  "FIPS":     89,
 "year": "1991",
 "population_z": -0.28822 
 },
-"111": {
+{
  "FIPS":     91,
 "year": "1991",
 "population_z": -0.44767 
 },
-"112": {
+{
  "FIPS":     93,
 "year": "1991",
 "population_z": -0.40077 
 },
-"113": {
+{
  "FIPS":     95,
 "year": "1991",
 "population_z": -0.43177 
 },
-"114": {
+{
  "FIPS":     97,
 "year": "1991",
 "population_z": -0.35386 
 },
-"115": {
+{
  "FIPS":     99,
 "year": "1991",
 "population_z": -0.35407 
 },
-"116": {
+{
  "FIPS":    101,
 "year": "1991",
 "population_z": 0.62751 
 },
-"117": {
+{
  "FIPS":    103,
 "year": "1991",
 "population_z": -0.41563 
 },
-"118": {
+{
  "FIPS":    105,
 "year": "1991",
 "population_z": -0.37293 
 },
-"119": {
+{
  "FIPS":    107,
 "year": "1991",
 "population_z": -0.33833 
 },
-"120": {
+{
  "FIPS":    109,
 "year": "1991",
 "population_z": -0.42713 
 },
-"121": {
+{
  "FIPS":    111,
 "year": "1991",
 "population_z": -0.46284 
 },
-"122": {
+{
  "FIPS":    113,
 "year": "1991",
 "population_z": -0.43247 
 },
-"123": {
+{
  "FIPS":    115,
 "year": "1991",
 "population_z": -0.44544 
 },
-"124": {
+{
  "FIPS":    117,
 "year": "1991",
 "population_z": -0.34952 
 },
-"125": {
+{
  "FIPS":    119,
 "year": "1991",
 "population_z": -0.35626 
 },
-"126": {
+{
  "FIPS":    121,
 "year": "1991",
 "population_z": -0.42668 
 },
-"127": {
+{
  "FIPS":    123,
 "year": "1991",
 "population_z": 0.73626 
 },
-"128": {
+{
  "FIPS":    125,
 "year": "1991",
 "population_z": -0.38913 
 },
-"129": {
+{
  "FIPS":      1,
 "year": "1992",
 "population_z": 1.9509 
 },
-"130": {
+{
  "FIPS":      3,
 "year": "1992",
 "population_z": -0.35221 
 },
-"131": {
+{
  "FIPS":      5,
 "year": "1992",
 "population_z":  3.123 
 },
-"132": {
+{
  "FIPS":      7,
 "year": "1992",
 "population_z": -0.41836 
 },
-"133": {
+{
  "FIPS":      9,
 "year": "1992",
 "population_z": -0.43193 
 },
-"134": {
+{
  "FIPS":     11,
 "year": "1992",
 "population_z": -0.42558 
 },
-"135": {
+{
  "FIPS":     13,
 "year": "1992",
 "population_z": 1.5812 
 },
-"136": {
+{
  "FIPS":     14,
 "year": "1992",
 "population_z": -0.46892 
 },
-"137": {
+{
  "FIPS":     15,
 "year": "1992",
 "population_z": -0.35609 
 },
-"138": {
+{
  "FIPS":     17,
 "year": "1992",
 "population_z": -0.44823 
 },
-"139": {
+{
  "FIPS":     19,
 "year": "1992",
 "population_z": -0.40149 
 },
-"140": {
+{
  "FIPS":     21,
 "year": "1992",
 "population_z": -0.40431 
 },
-"141": {
+{
  "FIPS":     23,
 "year": "1992",
 "population_z": -0.44149 
 },
-"142": {
+{
  "FIPS":     25,
 "year": "1992",
 "population_z": -0.43332 
 },
-"143": {
+{
  "FIPS":     27,
 "year": "1992",
 "population_z": -0.45051 
 },
-"144": {
+{
  "FIPS":     29,
 "year": "1992",
 "population_z": -0.28086 
 },
-"145": {
+{
  "FIPS":     31,
 "year": "1992",
 "population_z": 3.7299 
 },
-"146": {
+{
  "FIPS":     33,
 "year": "1992",
 "population_z": -0.45686 
 },
-"147": {
+{
  "FIPS":     35,
 "year": "1992",
 "population_z": 0.17915 
 },
-"148": {
+{
  "FIPS":     37,
 "year": "1992",
 "population_z": -0.25445 
 },
-"149": {
+{
  "FIPS":     39,
 "year": "1992",
 "population_z": -0.37634 
 },
-"150": {
+{
  "FIPS":     41,
 "year": "1992",
 "population_z": 3.1671 
 },
-"151": {
+{
  "FIPS":     43,
 "year": "1992",
 "population_z": -0.1781 
 },
-"152": {
+{
  "FIPS":     45,
 "year": "1992",
 "population_z": -0.19942 
 },
-"153": {
+{
  "FIPS":     47,
 "year": "1992",
 "population_z": -0.44103 
 },
-"154": {
+{
  "FIPS":     49,
 "year": "1992",
 "population_z": -0.39493 
 },
-"155": {
+{
  "FIPS":     51,
 "year": "1992",
 "population_z": -0.37626 
 },
-"156": {
+{
  "FIPS":     53,
 "year": "1992",
 "population_z": -0.46459 
 },
-"157": {
+{
  "FIPS":     55,
 "year": "1992",
 "population_z": -0.41577 
 },
-"158": {
+{
  "FIPS":     57,
 "year": "1992",
 "population_z": -0.45539 
 },
-"159": {
+{
  "FIPS":     59,
 "year": "1992",
 "population_z": 3.5173 
 },
-"160": {
+{
  "FIPS":     61,
 "year": "1992",
 "population_z": -0.45435 
 },
-"161": {
+{
  "FIPS":     63,
 "year": "1992",
 "population_z": -0.40673 
 },
-"162": {
+{
  "FIPS":     65,
 "year": "1992",
 "population_z": -0.17285 
 },
-"163": {
+{
  "FIPS":     67,
 "year": "1992",
 "population_z": -0.41553 
 },
-"164": {
+{
  "FIPS":     69,
 "year": "1992",
 "population_z": 1.2481 
 },
-"165": {
+{
  "FIPS":     71,
 "year": "1992",
 "population_z": -0.34828 
 },
-"166": {
+{
  "FIPS":     73,
 "year": "1992",
 "population_z": -0.41754 
 },
-"167": {
+{
  "FIPS":     75,
 "year": "1992",
 "population_z": -0.3179 
 },
-"168": {
+{
  "FIPS":     77,
 "year": "1992",
 "population_z": 0.36877 
 },
-"169": {
+{
  "FIPS":     79,
 "year": "1992",
 "population_z": -0.46385 
 },
-"170": {
+{
  "FIPS":     81,
 "year": "1992",
 "population_z": -0.36838 
 },
-"171": {
+{
  "FIPS":     83,
 "year": "1992",
 "population_z": -0.29993 
 },
-"172": {
+{
  "FIPS":     85,
 "year": "1992",
 "population_z": -0.24342 
 },
-"173": {
+{
  "FIPS":     87,
 "year": "1992",
 "population_z": -0.26699 
 },
-"174": {
+{
  "FIPS":     89,
 "year": "1992",
 "population_z": -0.2944 
 },
-"175": {
+{
  "FIPS":     91,
 "year": "1992",
 "population_z": -0.44712 
 },
-"176": {
+{
  "FIPS":     93,
 "year": "1992",
 "population_z": -0.39934 
 },
-"177": {
+{
  "FIPS":     95,
 "year": "1992",
 "population_z": -0.43254 
 },
-"178": {
+{
  "FIPS":     97,
 "year": "1992",
 "population_z": -0.35394 
 },
-"179": {
+{
  "FIPS":     99,
 "year": "1992",
 "population_z": -0.35623 
 },
-"180": {
+{
  "FIPS":    101,
 "year": "1992",
 "population_z": 0.60095 
 },
-"181": {
+{
  "FIPS":    103,
 "year": "1992",
 "population_z": -0.41578 
 },
-"182": {
+{
  "FIPS":    105,
 "year": "1992",
 "population_z": -0.37485 
 },
-"183": {
+{
  "FIPS":    107,
 "year": "1992",
 "population_z": -0.33865 
 },
-"184": {
+{
  "FIPS":    109,
 "year": "1992",
 "population_z": -0.42775 
 },
-"185": {
+{
  "FIPS":    111,
 "year": "1992",
 "population_z": -0.46399 
 },
-"186": {
+{
  "FIPS":    113,
 "year": "1992",
 "population_z": -0.42967 
 },
-"187": {
+{
  "FIPS":    115,
 "year": "1992",
 "population_z": -0.44632 
 },
-"188": {
+{
  "FIPS":    117,
 "year": "1992",
 "population_z": -0.34991 
 },
-"189": {
+{
  "FIPS":    119,
 "year": "1992",
 "population_z": -0.35137 
 },
-"190": {
+{
  "FIPS":    121,
 "year": "1992",
 "population_z": -0.42691 
 },
-"191": {
+{
  "FIPS":    123,
 "year": "1992",
 "population_z": 0.73607 
 },
-"192": {
+{
  "FIPS":    125,
 "year": "1992",
 "population_z": -0.39152 
 },
-"193": {
+{
  "FIPS":      1,
 "year": "1993",
 "population_z": 1.9595 
 },
-"194": {
+{
  "FIPS":      3,
 "year": "1993",
 "population_z": -0.35665 
 },
-"195": {
+{
  "FIPS":      5,
 "year": "1993",
 "population_z":  3.102 
 },
-"196": {
+{
  "FIPS":      7,
 "year": "1993",
 "population_z": -0.41916 
 },
-"197": {
+{
  "FIPS":      9,
 "year": "1993",
 "population_z": -0.43464 
 },
-"198": {
+{
  "FIPS":     11,
 "year": "1993",
 "population_z": -0.42608 
 },
-"199": {
+{
  "FIPS":     13,
 "year": "1993",
 "population_z": 1.5959 
 },
-"200": {
+{
  "FIPS":     14,
 "year": "1993",
 "population_z": -0.47079 
 },
-"201": {
+{
  "FIPS":     15,
 "year": "1993",
 "population_z": -0.35629 
 },
-"202": {
+{
  "FIPS":     17,
 "year": "1993",
 "population_z": -0.45152 
 },
-"203": {
+{
  "FIPS":     19,
 "year": "1993",
 "population_z": -0.40362 
 },
-"204": {
+{
  "FIPS":     21,
 "year": "1993",
 "population_z": -0.40692 
 },
-"205": {
+{
  "FIPS":     23,
 "year": "1993",
 "population_z": -0.4429 
 },
-"206": {
+{
  "FIPS":     25,
 "year": "1993",
 "population_z": -0.43615 
 },
-"207": {
+{
  "FIPS":     27,
 "year": "1993",
 "population_z": -0.45138 
 },
-"208": {
+{
  "FIPS":     29,
 "year": "1993",
 "population_z": -0.27661 
 },
-"209": {
+{
  "FIPS":     31,
 "year": "1993",
 "population_z": 3.7193 
 },
-"210": {
+{
  "FIPS":     33,
 "year": "1993",
 "population_z": -0.45887 
 },
-"211": {
+{
  "FIPS":     35,
 "year": "1993",
 "population_z": 0.22402 
 },
-"212": {
+{
  "FIPS":     37,
 "year": "1993",
 "population_z": -0.24653 
 },
-"213": {
+{
  "FIPS":     39,
 "year": "1993",
 "population_z": -0.37432 
 },
-"214": {
+{
  "FIPS":     41,
 "year": "1993",
 "population_z": 3.1828 
 },
-"215": {
+{
  "FIPS":     43,
 "year": "1993",
 "population_z": -0.16567 
 },
-"216": {
+{
  "FIPS":     45,
 "year": "1993",
 "population_z": -0.19854 
 },
-"217": {
+{
  "FIPS":     47,
 "year": "1993",
 "population_z": -0.44258 
 },
-"218": {
+{
  "FIPS":     49,
 "year": "1993",
 "population_z": -0.3962 
 },
-"219": {
+{
  "FIPS":     51,
 "year": "1993",
 "population_z": -0.37626 
 },
-"220": {
+{
  "FIPS":     53,
 "year": "1993",
 "population_z": -0.46623 
 },
-"221": {
+{
  "FIPS":     55,
 "year": "1993",
 "population_z": -0.41697 
 },
-"222": {
+{
  "FIPS":     57,
 "year": "1993",
 "population_z": -0.45715 
 },
-"223": {
+{
  "FIPS":     59,
 "year": "1993",
 "population_z": 3.5093 
 },
-"224": {
+{
  "FIPS":     61,
 "year": "1993",
 "population_z": -0.4566 
 },
-"225": {
+{
  "FIPS":     63,
 "year": "1993",
 "population_z": -0.41005 
 },
-"226": {
+{
  "FIPS":     65,
 "year": "1993",
 "population_z": -0.17327 
 },
-"227": {
+{
  "FIPS":     67,
 "year": "1993",
 "population_z": -0.41838 
 },
-"228": {
+{
  "FIPS":     69,
 "year": "1993",
 "population_z":  1.258 
 },
-"229": {
+{
  "FIPS":     71,
 "year": "1993",
 "population_z": -0.35201 
 },
-"230": {
+{
  "FIPS":     73,
 "year": "1993",
 "population_z": -0.42166 
 },
-"231": {
+{
  "FIPS":     75,
 "year": "1993",
 "population_z": -0.32069 
 },
-"232": {
+{
  "FIPS":     77,
 "year": "1993",
 "population_z": 0.36419 
 },
-"233": {
+{
  "FIPS":     79,
 "year": "1993",
 "population_z": -0.46578 
 },
-"234": {
+{
  "FIPS":     81,
 "year": "1993",
 "population_z": -0.37219 
 },
-"235": {
+{
  "FIPS":     83,
 "year": "1993",
 "population_z": -0.29828 
 },
-"236": {
+{
  "FIPS":     85,
 "year": "1993",
 "population_z": -0.24273 
 },
-"237": {
+{
  "FIPS":     87,
 "year": "1993",
 "population_z": -0.26819 
 },
-"238": {
+{
  "FIPS":     89,
 "year": "1993",
 "population_z":   -0.3 
 },
-"239": {
+{
  "FIPS":     91,
 "year": "1993",
 "population_z": -0.44862 
 },
-"240": {
+{
  "FIPS":     93,
 "year": "1993",
 "population_z": -0.39907 
 },
-"241": {
+{
  "FIPS":     95,
 "year": "1993",
 "population_z": -0.4342 
 },
-"242": {
+{
  "FIPS":     97,
 "year": "1993",
 "population_z": -0.35327 
 },
-"243": {
+{
  "FIPS":     99,
 "year": "1993",
 "population_z": -0.35861 
 },
-"244": {
+{
  "FIPS":    101,
 "year": "1993",
 "population_z": 0.58522 
 },
-"245": {
+{
  "FIPS":    103,
 "year": "1993",
 "population_z": -0.41848 
 },
-"246": {
+{
  "FIPS":    105,
 "year": "1993",
 "population_z": -0.37709 
 },
-"247": {
+{
  "FIPS":    107,
 "year": "1993",
 "population_z": -0.3377 
 },
-"248": {
+{
  "FIPS":    109,
 "year": "1993",
 "population_z": -0.43046 
 },
-"249": {
+{
  "FIPS":    111,
 "year": "1993",
 "population_z": -0.46628 
 },
-"250": {
+{
  "FIPS":    113,
 "year": "1993",
 "population_z": -0.43014 
 },
-"251": {
+{
  "FIPS":    115,
 "year": "1993",
 "population_z": -0.44865 
 },
-"252": {
+{
  "FIPS":    117,
 "year": "1993",
 "population_z": -0.3438 
 },
-"253": {
+{
  "FIPS":    119,
 "year": "1993",
 "population_z": -0.34764 
 },
-"254": {
+{
  "FIPS":    121,
 "year": "1993",
 "population_z": -0.4278 
 },
-"255": {
+{
  "FIPS":    123,
 "year": "1993",
 "population_z": 0.74761 
 },
-"256": {
+{
  "FIPS":    125,
 "year": "1993",
 "population_z": -0.39418 
 },
-"257": {
+{
  "FIPS":      1,
 "year": "1994",
 "population_z": 1.9854 
 },
-"258": {
+{
  "FIPS":      3,
 "year": "1994",
 "population_z": -0.36127 
 },
-"259": {
+{
  "FIPS":      5,
 "year": "1994",
 "population_z": 3.0944 
 },
-"260": {
+{
  "FIPS":      7,
 "year": "1994",
 "population_z": -0.42083 
 },
-"261": {
+{
  "FIPS":      9,
 "year": "1994",
 "population_z": -0.4384 
 },
-"262": {
+{
  "FIPS":     11,
 "year": "1994",
 "population_z": -0.43015 
 },
-"263": {
+{
  "FIPS":     13,
 "year": "1994",
 "population_z": 1.5924 
 },
-"264": {
+{
  "FIPS":     14,
 "year": "1994",
 "population_z": -0.4743 
 },
-"265": {
+{
  "FIPS":     15,
 "year": "1994",
 "population_z": -0.35894 
 },
-"266": {
+{
  "FIPS":     17,
 "year": "1994",
 "population_z": -0.45557 
 },
-"267": {
+{
  "FIPS":     19,
 "year": "1994",
 "population_z": -0.40514 
 },
-"268": {
+{
  "FIPS":     21,
 "year": "1994",
 "population_z": -0.41089 
 },
-"269": {
+{
  "FIPS":     23,
 "year": "1994",
 "population_z": -0.4467 
 },
-"270": {
+{
  "FIPS":     25,
 "year": "1994",
 "population_z": -0.4399 
 },
-"271": {
+{
  "FIPS":     27,
 "year": "1994",
 "population_z": -0.45453 
 },
-"272": {
+{
  "FIPS":     29,
 "year": "1994",
 "population_z": -0.27524 
 },
-"273": {
+{
  "FIPS":     31,
 "year": "1994",
 "population_z": 3.6492 
 },
-"274": {
+{
  "FIPS":     33,
 "year": "1994",
 "population_z": -0.46205 
 },
-"275": {
+{
  "FIPS":     35,
 "year": "1994",
 "population_z": 0.28233 
 },
-"276": {
+{
  "FIPS":     37,
 "year": "1994",
 "population_z": -0.23694 
 },
-"277": {
+{
  "FIPS":     39,
 "year": "1994",
 "population_z": -0.36925 
 },
-"278": {
+{
  "FIPS":     41,
 "year": "1994",
 "population_z": 3.2587 
 },
-"279": {
+{
  "FIPS":     43,
 "year": "1994",
 "population_z": -0.15779 
 },
-"280": {
+{
  "FIPS":     45,
 "year": "1994",
 "population_z": -0.19221 
 },
-"281": {
+{
  "FIPS":     47,
 "year": "1994",
 "population_z": -0.44569 
 },
-"282": {
+{
  "FIPS":     49,
 "year": "1994",
 "population_z": -0.39793 
 },
-"283": {
+{
  "FIPS":     51,
 "year": "1994",
 "population_z": -0.37886 
 },
-"284": {
+{
  "FIPS":     53,
 "year": "1994",
 "population_z": -0.4693 
 },
-"285": {
+{
  "FIPS":     55,
 "year": "1994",
 "population_z": -0.41769 
 },
-"286": {
+{
  "FIPS":     57,
 "year": "1994",
 "population_z": -0.46088 
 },
-"287": {
+{
  "FIPS":     59,
 "year": "1994",
 "population_z":  3.479 
 },
-"288": {
+{
  "FIPS":     61,
 "year": "1994",
 "population_z": -0.46046 
 },
-"289": {
+{
  "FIPS":     63,
 "year": "1994",
 "population_z": -0.41428 
 },
-"290": {
+{
  "FIPS":     65,
 "year": "1994",
 "population_z": -0.1725 
 },
-"291": {
+{
  "FIPS":     67,
 "year": "1994",
 "population_z": -0.42213 
 },
-"292": {
+{
  "FIPS":     69,
 "year": "1994",
 "population_z": 1.2833 
 },
-"293": {
+{
  "FIPS":     71,
 "year": "1994",
 "population_z": -0.35365 
 },
-"294": {
+{
  "FIPS":     73,
 "year": "1994",
 "population_z": -0.42574 
 },
-"295": {
+{
  "FIPS":     75,
 "year": "1994",
 "population_z": -0.32034 
 },
-"296": {
+{
  "FIPS":     77,
 "year": "1994",
 "population_z": 0.36607 
 },
-"297": {
+{
  "FIPS":     79,
 "year": "1994",
 "population_z": -0.46902 
 },
-"298": {
+{
  "FIPS":     81,
 "year": "1994",
 "population_z": -0.37621 
 },
-"299": {
+{
  "FIPS":     83,
 "year": "1994",
 "population_z": -0.29936 
 },
-"300": {
+{
  "FIPS":     85,
 "year": "1994",
 "population_z": -0.24123 
 },
-"301": {
+{
  "FIPS":     87,
 "year": "1994",
 "population_z": -0.26915 
 },
-"302": {
+{
  "FIPS":     89,
 "year": "1994",
 "population_z": -0.30675 
 },
-"303": {
+{
  "FIPS":     91,
 "year": "1994",
 "population_z": -0.45057 
 },
-"304": {
+{
  "FIPS":     93,
 "year": "1994",
 "population_z": -0.3964 
 },
-"305": {
+{
  "FIPS":     95,
 "year": "1994",
 "population_z": -0.43831 
 },
-"306": {
+{
  "FIPS":     97,
 "year": "1994",
 "population_z": -0.35541 
 },
-"307": {
+{
  "FIPS":     99,
 "year": "1994",
 "population_z": -0.36239 
 },
-"308": {
+{
  "FIPS":    101,
 "year": "1994",
 "population_z": 0.57832 
 },
-"309": {
+{
  "FIPS":    103,
 "year": "1994",
 "population_z": -0.42267 
 },
-"310": {
+{
  "FIPS":    105,
 "year": "1994",
 "population_z": -0.38058 
 },
-"311": {
+{
  "FIPS":    107,
 "year": "1994",
 "population_z": -0.33842 
 },
-"312": {
+{
  "FIPS":    109,
 "year": "1994",
 "population_z": -0.43389 
 },
-"313": {
+{
  "FIPS":    111,
 "year": "1994",
 "population_z": -0.4697 
 },
-"314": {
+{
  "FIPS":    113,
 "year": "1994",
 "population_z": -0.43092 
 },
-"315": {
+{
  "FIPS":    115,
 "year": "1994",
 "population_z": -0.45252 
 },
-"316": {
+{
  "FIPS":    117,
 "year": "1994",
 "population_z": -0.33441 
 },
-"317": {
+{
  "FIPS":    119,
 "year": "1994",
 "population_z": -0.34518 
 },
-"318": {
+{
  "FIPS":    121,
 "year": "1994",
 "population_z": -0.43161 
 },
-"319": {
+{
  "FIPS":    123,
 "year": "1994",
 "population_z": 0.76351 
 },
-"320": {
+{
  "FIPS":    125,
 "year": "1994",
 "population_z": -0.39845 
 },
-"321": {
+{
  "FIPS":      1,
 "year": "1995",
 "population_z":  2.031 
 },
-"322": {
+{
  "FIPS":      3,
 "year": "1995",
 "population_z": -0.3648 
 },
-"323": {
+{
  "FIPS":      5,
 "year": "1995",
 "population_z":  3.074 
 },
-"324": {
+{
  "FIPS":      7,
 "year": "1995",
 "population_z": -0.42089 
 },
-"325": {
+{
  "FIPS":      9,
 "year": "1995",
 "population_z": -0.4424 
 },
-"326": {
+{
  "FIPS":     11,
 "year": "1995",
 "population_z": -0.43341 
 },
-"327": {
+{
  "FIPS":     13,
 "year": "1995",
 "population_z": 1.5888 
 },
-"328": {
+{
  "FIPS":     14,
 "year": "1995",
 "population_z": -0.47794 
 },
-"329": {
+{
  "FIPS":     15,
 "year": "1995",
 "population_z": -0.36031 
 },
-"330": {
+{
  "FIPS":     17,
 "year": "1995",
 "population_z": -0.45973 
 },
-"331": {
+{
  "FIPS":     19,
 "year": "1995",
 "population_z": -0.40824 
 },
-"332": {
+{
  "FIPS":     21,
 "year": "1995",
 "population_z": -0.41449 
 },
-"333": {
+{
  "FIPS":     23,
 "year": "1995",
 "population_z": -0.44976 
 },
-"334": {
+{
  "FIPS":     25,
 "year": "1995",
 "population_z": -0.44406 
 },
-"335": {
+{
  "FIPS":     27,
 "year": "1995",
 "population_z": -0.45693 
 },
-"336": {
+{
  "FIPS":     29,
 "year": "1995",
 "population_z": -0.27574 
 },
-"337": {
+{
  "FIPS":     31,
 "year": "1995",
 "population_z": 3.5971 
 },
-"338": {
+{
  "FIPS":     33,
 "year": "1995",
 "population_z": -0.46537 
 },
-"339": {
+{
  "FIPS":     35,
 "year": "1995",
 "population_z": 0.35549 
 },
-"340": {
+{
  "FIPS":     37,
 "year": "1995",
 "population_z": -0.23007 
 },
-"341": {
+{
  "FIPS":     39,
 "year": "1995",
 "population_z": -0.36294 
 },
-"342": {
+{
  "FIPS":     41,
 "year": "1995",
 "population_z": 3.2919 
 },
-"343": {
+{
  "FIPS":     43,
 "year": "1995",
 "population_z": -0.15271 
 },
-"344": {
+{
  "FIPS":     45,
 "year": "1995",
 "population_z": -0.18565 
 },
-"345": {
+{
  "FIPS":     47,
 "year": "1995",
 "population_z": -0.4485 
 },
-"346": {
+{
  "FIPS":     49,
 "year": "1995",
 "population_z": -0.39806 
 },
-"347": {
+{
  "FIPS":     51,
 "year": "1995",
 "population_z": -0.38184 
 },
-"348": {
+{
  "FIPS":     53,
 "year": "1995",
 "population_z": -0.47265 
 },
-"349": {
+{
  "FIPS":     55,
 "year": "1995",
 "population_z": -0.42046 
 },
-"350": {
+{
  "FIPS":     57,
 "year": "1995",
 "population_z": -0.46503 
 },
-"351": {
+{
  "FIPS":     59,
 "year": "1995",
 "population_z": 3.4654 
 },
-"352": {
+{
  "FIPS":     61,
 "year": "1995",
 "population_z": -0.46476 
 },
-"353": {
+{
  "FIPS":     63,
 "year": "1995",
 "population_z": -0.41844 
 },
-"354": {
+{
  "FIPS":     65,
 "year": "1995",
 "population_z": -0.16685 
 },
-"355": {
+{
  "FIPS":     67,
 "year": "1995",
 "population_z": -0.42061 
 },
-"356": {
+{
  "FIPS":     69,
 "year": "1995",
 "population_z": 1.3008 
 },
-"357": {
+{
  "FIPS":     71,
 "year": "1995",
 "population_z": -0.35828 
 },
-"358": {
+{
  "FIPS":     73,
 "year": "1995",
 "population_z": -0.42992 
 },
-"359": {
+{
  "FIPS":     75,
 "year": "1995",
 "population_z": -0.32249 
 },
-"360": {
+{
  "FIPS":     77,
 "year": "1995",
 "population_z": 0.36806 
 },
-"361": {
+{
  "FIPS":     79,
 "year": "1995",
 "population_z": -0.47253 
 },
-"362": {
+{
  "FIPS":     81,
 "year": "1995",
 "population_z": -0.38013 
 },
-"363": {
+{
  "FIPS":     83,
 "year": "1995",
 "population_z": -0.30009 
 },
-"364": {
+{
  "FIPS":     85,
 "year": "1995",
 "population_z": -0.23981 
 },
-"365": {
+{
  "FIPS":     87,
 "year": "1995",
 "population_z": -0.27438 
 },
-"366": {
+{
  "FIPS":     89,
 "year": "1995",
 "population_z": -0.31184 
 },
-"367": {
+{
  "FIPS":     91,
 "year": "1995",
 "population_z": -0.45318 
 },
-"368": {
+{
  "FIPS":     93,
 "year": "1995",
 "population_z": -0.39305 
 },
-"369": {
+{
  "FIPS":     95,
 "year": "1995",
 "population_z": -0.44199 
 },
-"370": {
+{
  "FIPS":     97,
 "year": "1995",
 "population_z": -0.36034 
 },
-"371": {
+{
  "FIPS":     99,
 "year": "1995",
 "population_z": -0.367 
 },
-"372": {
+{
  "FIPS":    101,
 "year": "1995",
 "population_z": 0.57214 
 },
-"373": {
+{
  "FIPS":    103,
 "year": "1995",
 "population_z": -0.42655 
 },
-"374": {
+{
  "FIPS":    105,
 "year": "1995",
 "population_z": -0.38405 
 },
-"375": {
+{
  "FIPS":    107,
 "year": "1995",
 "population_z": -0.33946 
 },
-"376": {
+{
  "FIPS":    109,
 "year": "1995",
 "population_z": -0.43565 
 },
-"377": {
+{
  "FIPS":    111,
 "year": "1995",
 "population_z": -0.47336 
 },
-"378": {
+{
  "FIPS":    113,
 "year": "1995",
 "population_z": -0.43389 
 },
-"379": {
+{
  "FIPS":    115,
 "year": "1995",
 "population_z": -0.45667 
 },
-"380": {
+{
  "FIPS":    117,
 "year": "1995",
 "population_z": -0.3313 
 },
-"381": {
+{
  "FIPS":    119,
 "year": "1995",
 "population_z": -0.34165 
 },
-"382": {
+{
  "FIPS":    121,
 "year": "1995",
 "population_z": -0.43592 
 },
-"383": {
+{
  "FIPS":    123,
 "year": "1995",
 "population_z": 0.78356 
 },
-"384": {
+{
  "FIPS":    125,
 "year": "1995",
 "population_z": -0.40206 
 },
-"385": {
+{
  "FIPS":      1,
 "year": "1996",
 "population_z": 2.0638 
 },
-"386": {
+{
  "FIPS":      3,
 "year": "1996",
 "population_z": -0.3674 
 },
-"387": {
+{
  "FIPS":      5,
 "year": "1996",
 "population_z":  3.072 
 },
-"388": {
+{
  "FIPS":      7,
 "year": "1996",
 "population_z": -0.41775 
 },
-"389": {
+{
  "FIPS":      9,
 "year": "1996",
 "population_z": -0.44454 
 },
-"390": {
+{
  "FIPS":     11,
 "year": "1996",
 "population_z": -0.4359 
 },
-"391": {
+{
  "FIPS":     13,
 "year": "1996",
 "population_z": 1.5812 
 },
-"392": {
+{
  "FIPS":     14,
 "year": "1996",
 "population_z": -0.48018 
 },
-"393": {
+{
  "FIPS":     15,
 "year": "1996",
 "population_z": -0.36107 
 },
-"394": {
+{
  "FIPS":     17,
 "year": "1996",
 "population_z": -0.4622 
 },
-"395": {
+{
  "FIPS":     19,
 "year": "1996",
 "population_z": -0.41155 
 },
-"396": {
+{
  "FIPS":     21,
 "year": "1996",
 "population_z": -0.41703 
 },
-"397": {
+{
  "FIPS":     23,
 "year": "1996",
 "population_z": -0.45198 
 },
-"398": {
+{
  "FIPS":     25,
 "year": "1996",
 "population_z": -0.44659 
 },
-"399": {
+{
  "FIPS":     27,
 "year": "1996",
 "population_z": -0.45776 
 },
-"400": {
+{
  "FIPS":     29,
 "year": "1996",
 "population_z": -0.27766 
 },
-"401": {
+{
  "FIPS":     31,
 "year": "1996",
 "population_z": 3.6011 
 },
-"402": {
+{
  "FIPS":     33,
 "year": "1996",
 "population_z": -0.4673 
 },
-"403": {
+{
  "FIPS":     35,
 "year": "1996",
 "population_z": 0.42318 
 },
-"404": {
+{
  "FIPS":     37,
 "year": "1996",
 "population_z": -0.22088 
 },
-"405": {
+{
  "FIPS":     39,
 "year": "1996",
 "population_z": -0.35571 
 },
-"406": {
+{
  "FIPS":     41,
 "year": "1996",
 "population_z": 3.2761 
 },
-"407": {
+{
  "FIPS":     43,
 "year": "1996",
 "population_z": -0.15079 
 },
-"408": {
+{
  "FIPS":     45,
 "year": "1996",
 "population_z": -0.18348 
 },
-"409": {
+{
  "FIPS":     47,
 "year": "1996",
 "population_z": -0.45032 
 },
-"410": {
+{
  "FIPS":     49,
 "year": "1996",
 "population_z": -0.39741 
 },
-"411": {
+{
  "FIPS":     51,
 "year": "1996",
 "population_z": -0.38376 
 },
-"412": {
+{
  "FIPS":     53,
 "year": "1996",
 "population_z": -0.47462 
 },
-"413": {
+{
  "FIPS":     55,
 "year": "1996",
 "population_z": -0.422 
 },
-"414": {
+{
  "FIPS":     57,
 "year": "1996",
 "population_z": -0.46763 
 },
-"415": {
+{
  "FIPS":     59,
 "year": "1996",
 "population_z": 3.4419 
 },
-"416": {
+{
  "FIPS":     61,
 "year": "1996",
 "population_z": -0.4671 
 },
-"417": {
+{
  "FIPS":     63,
 "year": "1996",
 "population_z": -0.42123 
 },
-"418": {
+{
  "FIPS":     65,
 "year": "1996",
 "population_z": -0.16752 
 },
-"419": {
+{
  "FIPS":     67,
 "year": "1996",
 "population_z": -0.4207 
 },
-"420": {
+{
  "FIPS":     69,
 "year": "1996",
 "population_z": 1.3094 
 },
-"421": {
+{
  "FIPS":     71,
 "year": "1996",
 "population_z": -0.36232 
 },
-"422": {
+{
  "FIPS":     73,
 "year": "1996",
 "population_z": -0.43205 
 },
-"423": {
+{
  "FIPS":     75,
 "year": "1996",
 "population_z": -0.32535 
 },
-"424": {
+{
  "FIPS":     77,
 "year": "1996",
 "population_z": 0.36661 
 },
-"425": {
+{
  "FIPS":     79,
 "year": "1996",
 "population_z": -0.47448 
 },
-"426": {
+{
  "FIPS":     81,
 "year": "1996",
 "population_z": -0.38339 
 },
-"427": {
+{
  "FIPS":     83,
 "year": "1996",
 "population_z": -0.30182 
 },
-"428": {
+{
  "FIPS":     85,
 "year": "1996",
 "population_z": -0.2401 
 },
-"429": {
+{
  "FIPS":     87,
 "year": "1996",
 "population_z": -0.2751 
 },
-"430": {
+{
  "FIPS":     89,
 "year": "1996",
 "population_z": -0.3168 
 },
-"431": {
+{
  "FIPS":     91,
 "year": "1996",
 "population_z": -0.45457 
 },
-"432": {
+{
  "FIPS":     93,
 "year": "1996",
 "population_z": -0.39059 
 },
-"433": {
+{
  "FIPS":     95,
 "year": "1996",
 "population_z": -0.44472 
 },
-"434": {
+{
  "FIPS":     97,
 "year": "1996",
 "population_z": -0.36558 
 },
-"435": {
+{
  "FIPS":     99,
 "year": "1996",
 "population_z": -0.36992 
 },
-"436": {
+{
  "FIPS":    101,
 "year": "1996",
 "population_z": 0.56324 
 },
-"437": {
+{
  "FIPS":    103,
 "year": "1996",
 "population_z": -0.43025 
 },
-"438": {
+{
  "FIPS":    105,
 "year": "1996",
 "population_z": -0.3871 
 },
-"439": {
+{
  "FIPS":    107,
 "year": "1996",
 "population_z": -0.34066 
 },
-"440": {
+{
  "FIPS":    109,
 "year": "1996",
 "population_z": -0.43746 
 },
-"441": {
+{
  "FIPS":    111,
 "year": "1996",
 "population_z": -0.47562 
 },
-"442": {
+{
  "FIPS":    113,
 "year": "1996",
 "population_z": -0.43448 
 },
-"443": {
+{
  "FIPS":    115,
 "year": "1996",
 "population_z": -0.45903 
 },
-"444": {
+{
  "FIPS":    117,
 "year": "1996",
 "population_z": -0.32744 
 },
-"445": {
+{
  "FIPS":    119,
 "year": "1996",
 "population_z": -0.33737 
 },
-"446": {
+{
  "FIPS":    121,
 "year": "1996",
 "population_z": -0.43907 
 },
-"447": {
+{
  "FIPS":    123,
 "year": "1996",
 "population_z": 0.79406 
 },
-"448": {
+{
  "FIPS":    125,
 "year": "1996",
 "population_z": -0.40521 
 },
-"449": {
+{
  "FIPS":      1,
 "year": "1997",
 "population_z": 2.0887 
 },
-"450": {
+{
  "FIPS":      3,
 "year": "1997",
 "population_z": -0.37058 
 },
-"451": {
+{
  "FIPS":      5,
 "year": "1997",
 "population_z": 3.0648 
 },
-"452": {
+{
  "FIPS":      7,
 "year": "1997",
 "population_z": -0.41651 
 },
-"453": {
+{
  "FIPS":      9,
 "year": "1997",
 "population_z": -0.4472 
 },
-"454": {
+{
  "FIPS":     11,
 "year": "1997",
 "population_z": -0.43887 
 },
-"455": {
+{
  "FIPS":     13,
 "year": "1997",
 "population_z": 1.5735 
 },
-"456": {
+{
  "FIPS":     14,
 "year": "1997",
 "population_z": -0.48245 
 },
-"457": {
+{
  "FIPS":     15,
 "year": "1997",
 "population_z": -0.36341 
 },
-"458": {
+{
  "FIPS":     17,
 "year": "1997",
 "population_z": -0.46472 
 },
-"459": {
+{
  "FIPS":     19,
 "year": "1997",
 "population_z": -0.41384 
 },
-"460": {
+{
  "FIPS":     21,
 "year": "1997",
 "population_z": -0.41986 
 },
-"461": {
+{
  "FIPS":     23,
 "year": "1997",
 "population_z": -0.45432 
 },
-"462": {
+{
  "FIPS":     25,
 "year": "1997",
 "population_z": -0.4492 
 },
-"463": {
+{
  "FIPS":     27,
 "year": "1997",
 "population_z": -0.45883 
 },
-"464": {
+{
  "FIPS":     29,
 "year": "1997",
 "population_z": -0.28151 
 },
-"465": {
+{
  "FIPS":     31,
 "year": "1997",
 "population_z": 3.5932 
 },
-"466": {
+{
  "FIPS":     33,
 "year": "1997",
 "population_z": -0.46952 
 },
-"467": {
+{
  "FIPS":     35,
 "year": "1997",
 "population_z": 0.5169 
 },
-"468": {
+{
  "FIPS":     37,
 "year": "1997",
 "population_z": -0.21041 
 },
-"469": {
+{
  "FIPS":     39,
 "year": "1997",
 "population_z": -0.35119 
 },
-"470": {
+{
  "FIPS":     41,
 "year": "1997",
 "population_z": 3.2792 
 },
-"471": {
+{
  "FIPS":     43,
 "year": "1997",
 "population_z": -0.15139 
 },
-"472": {
+{
  "FIPS":     45,
 "year": "1997",
 "population_z": -0.18191 
 },
-"473": {
+{
  "FIPS":     47,
 "year": "1997",
 "population_z": -0.45127 
 },
-"474": {
+{
  "FIPS":     49,
 "year": "1997",
 "population_z": -0.39772 
 },
-"475": {
+{
  "FIPS":     51,
 "year": "1997",
 "population_z": -0.3866 
 },
-"476": {
+{
  "FIPS":     53,
 "year": "1997",
 "population_z": -0.47674 
 },
-"477": {
+{
  "FIPS":     55,
 "year": "1997",
 "population_z": -0.42317 
 },
-"478": {
+{
  "FIPS":     57,
 "year": "1997",
 "population_z": -0.47012 
 },
-"479": {
+{
  "FIPS":     59,
 "year": "1997",
 "population_z": 3.4138 
 },
-"480": {
+{
  "FIPS":     61,
 "year": "1997",
 "population_z": -0.46962 
 },
-"481": {
+{
  "FIPS":     63,
 "year": "1997",
 "population_z": -0.42374 
 },
-"482": {
+{
  "FIPS":     65,
 "year": "1997",
 "population_z": -0.17091 
 },
-"483": {
+{
  "FIPS":     67,
 "year": "1997",
 "population_z": -0.42172 
 },
-"484": {
+{
  "FIPS":     69,
 "year": "1997",
 "population_z": 1.3164 
 },
-"485": {
+{
  "FIPS":     71,
 "year": "1997",
 "population_z": -0.3662 
 },
-"486": {
+{
  "FIPS":     73,
 "year": "1997",
 "population_z": -0.43536 
 },
-"487": {
+{
  "FIPS":     75,
 "year": "1997",
 "population_z": -0.32785 
 },
-"488": {
+{
  "FIPS":     77,
 "year": "1997",
 "population_z": 0.36569 
 },
-"489": {
+{
  "FIPS":     79,
 "year": "1997",
 "population_z": -0.4767 
 },
-"490": {
+{
  "FIPS":     81,
 "year": "1997",
 "population_z": -0.38531 
 },
-"491": {
+{
  "FIPS":     83,
 "year": "1997",
 "population_z": -0.30494 
 },
-"492": {
+{
  "FIPS":     85,
 "year": "1997",
 "population_z": -0.24097 
 },
-"493": {
+{
  "FIPS":     87,
 "year": "1997",
 "population_z": -0.27655 
 },
-"494": {
+{
  "FIPS":     89,
 "year": "1997",
 "population_z": -0.32198 
 },
-"495": {
+{
  "FIPS":     91,
 "year": "1997",
 "population_z": -0.45678 
 },
-"496": {
+{
  "FIPS":     93,
 "year": "1997",
 "population_z": -0.38693 
 },
-"497": {
+{
  "FIPS":     95,
 "year": "1997",
 "population_z": -0.44711 
 },
-"498": {
+{
  "FIPS":     97,
 "year": "1997",
 "population_z": -0.36819 
 },
-"499": {
+{
  "FIPS":     99,
 "year": "1997",
 "population_z": -0.37337 
 },
-"500": {
+{
  "FIPS":    101,
 "year": "1997",
 "population_z": 0.55912 
 },
-"501": {
+{
  "FIPS":    103,
 "year": "1997",
 "population_z": -0.4336 
 },
-"502": {
+{
  "FIPS":    105,
 "year": "1997",
 "population_z": -0.38999 
 },
-"503": {
+{
  "FIPS":    107,
 "year": "1997",
 "population_z": -0.34246 
 },
-"504": {
+{
  "FIPS":    109,
 "year": "1997",
 "population_z": -0.44002 
 },
-"505": {
+{
  "FIPS":    111,
 "year": "1997",
 "population_z": -0.47805 
 },
-"506": {
+{
  "FIPS":    113,
 "year": "1997",
 "population_z": -0.43645 
 },
-"507": {
+{
  "FIPS":    115,
 "year": "1997",
 "population_z": -0.46135 
 },
-"508": {
+{
  "FIPS":    117,
 "year": "1997",
 "population_z": -0.32521 
 },
-"509": {
+{
  "FIPS":    119,
 "year": "1997",
 "population_z": -0.33513 
 },
-"510": {
+{
  "FIPS":    121,
 "year": "1997",
 "population_z": -0.4422 
 },
-"511": {
+{
  "FIPS":    123,
 "year": "1997",
 "population_z": 0.80674 
 },
-"512": {
+{
  "FIPS":    125,
 "year": "1997",
 "population_z": -0.40783 
 },
-"513": {
+{
  "FIPS":      1,
 "year": "1998",
 "population_z": 2.1157 
 },
-"514": {
+{
  "FIPS":      3,
 "year": "1998",
 "population_z": -0.37396 
 },
-"515": {
+{
  "FIPS":      5,
 "year": "1998",
 "population_z": 3.0859 
 },
-"516": {
+{
  "FIPS":      7,
 "year": "1998",
 "population_z": -0.41545 
 },
-"517": {
+{
  "FIPS":      9,
 "year": "1998",
 "population_z": -0.45024 
 },
-"518": {
+{
  "FIPS":     11,
 "year": "1998",
 "population_z": -0.43919 
 },
-"519": {
+{
  "FIPS":     13,
 "year": "1998",
 "population_z": 1.5873 
 },
-"520": {
+{
  "FIPS":     14,
 "year": "1998",
 "population_z": -0.48448 
 },
-"521": {
+{
  "FIPS":     15,
 "year": "1998",
 "population_z": -0.36714 
 },
-"522": {
+{
  "FIPS":     17,
 "year": "1998",
 "population_z": -0.46677 
 },
-"523": {
+{
  "FIPS":     19,
 "year": "1998",
 "population_z": -0.41647 
 },
-"524": {
+{
  "FIPS":     21,
 "year": "1998",
 "population_z": -0.4226 
 },
-"525": {
+{
  "FIPS":     23,
 "year": "1998",
 "population_z": -0.45652 
 },
-"526": {
+{
  "FIPS":     25,
 "year": "1998",
 "population_z": -0.45209 
 },
-"527": {
+{
  "FIPS":     27,
 "year": "1998",
 "population_z": -0.46048 
 },
-"528": {
+{
  "FIPS":     29,
 "year": "1998",
 "population_z": -0.28177 
 },
-"529": {
+{
  "FIPS":     31,
 "year": "1998",
 "population_z":  3.547 
 },
-"530": {
+{
  "FIPS":     33,
 "year": "1998",
 "population_z": -0.47113 
 },
-"531": {
+{
  "FIPS":     35,
 "year": "1998",
 "population_z": 0.60655 
 },
-"532": {
+{
  "FIPS":     37,
 "year": "1998",
 "population_z": -0.20019 
 },
-"533": {
+{
  "FIPS":     39,
 "year": "1998",
 "population_z": -0.34819 
 },
-"534": {
+{
  "FIPS":     41,
 "year": "1998",
 "population_z": 3.2796 
 },
-"535": {
+{
  "FIPS":     43,
 "year": "1998",
 "population_z": -0.15334 
 },
-"536": {
+{
  "FIPS":     45,
 "year": "1998",
 "population_z": -0.17286 
 },
-"537": {
+{
  "FIPS":     47,
 "year": "1998",
 "population_z": -0.45239 
 },
-"538": {
+{
  "FIPS":     49,
 "year": "1998",
 "population_z": -0.39825 
 },
-"539": {
+{
  "FIPS":     51,
 "year": "1998",
 "population_z": -0.38289 
 },
-"540": {
+{
  "FIPS":     53,
 "year": "1998",
 "population_z": -0.47862 
 },
-"541": {
+{
  "FIPS":     55,
 "year": "1998",
 "population_z": -0.42567 
 },
-"542": {
+{
  "FIPS":     57,
 "year": "1998",
 "population_z": -0.47249 
 },
-"543": {
+{
  "FIPS":     59,
 "year": "1998",
 "population_z": 3.3889 
 },
-"544": {
+{
  "FIPS":     61,
 "year": "1998",
 "population_z": -0.47206 
 },
-"545": {
+{
  "FIPS":     63,
 "year": "1998",
 "population_z": -0.42588 
 },
-"546": {
+{
  "FIPS":     65,
 "year": "1998",
 "population_z": -0.17329 
 },
-"547": {
+{
  "FIPS":     67,
 "year": "1998",
 "population_z": -0.42526 
 },
-"548": {
+{
  "FIPS":     69,
 "year": "1998",
 "population_z": 1.3225 
 },
-"549": {
+{
  "FIPS":     71,
 "year": "1998",
 "population_z": -0.3707 
 },
-"550": {
+{
  "FIPS":     73,
 "year": "1998",
 "population_z": -0.43832 
 },
-"551": {
+{
  "FIPS":     75,
 "year": "1998",
 "population_z": -0.3333 
 },
-"552": {
+{
  "FIPS":     77,
 "year": "1998",
 "population_z": 0.36449 
 },
-"553": {
+{
  "FIPS":     79,
 "year": "1998",
 "population_z": -0.47865 
 },
-"554": {
+{
  "FIPS":     81,
 "year": "1998",
 "population_z": -0.38765 
 },
-"555": {
+{
  "FIPS":     83,
 "year": "1998",
 "population_z": -0.30976 
 },
-"556": {
+{
  "FIPS":     85,
 "year": "1998",
 "population_z": -0.24386 
 },
-"557": {
+{
  "FIPS":     87,
 "year": "1998",
 "population_z": -0.28297 
 },
-"558": {
+{
  "FIPS":     89,
 "year": "1998",
 "population_z": -0.32942 
 },
-"559": {
+{
  "FIPS":     91,
 "year": "1998",
 "population_z": -0.45838 
 },
-"560": {
+{
  "FIPS":     93,
 "year": "1998",
 "population_z": -0.38574 
 },
-"561": {
+{
  "FIPS":     95,
 "year": "1998",
 "population_z": -0.44994 
 },
-"562": {
+{
  "FIPS":     97,
 "year": "1998",
 "population_z": -0.37277 
 },
-"563": {
+{
  "FIPS":     99,
 "year": "1998",
 "population_z": -0.37698 
 },
-"564": {
+{
  "FIPS":    101,
 "year": "1998",
 "population_z": 0.55385 
 },
-"565": {
+{
  "FIPS":    103,
 "year": "1998",
 "population_z": -0.43738 
 },
-"566": {
+{
  "FIPS":    105,
 "year": "1998",
 "population_z": -0.39286 
 },
-"567": {
+{
  "FIPS":    107,
 "year": "1998",
 "population_z": -0.34386 
 },
-"568": {
+{
  "FIPS":    109,
 "year": "1998",
 "population_z": -0.44247 
 },
-"569": {
+{
  "FIPS":    111,
 "year": "1998",
 "population_z": -0.48029 
 },
-"570": {
+{
  "FIPS":    113,
 "year": "1998",
 "population_z": -0.43571 
 },
-"571": {
+{
  "FIPS":    115,
 "year": "1998",
 "population_z": -0.46422 
 },
-"572": {
+{
  "FIPS":    117,
 "year": "1998",
 "population_z": -0.32364 
 },
-"573": {
+{
  "FIPS":    119,
 "year": "1998",
 "population_z": -0.3358 
 },
-"574": {
+{
  "FIPS":    121,
 "year": "1998",
 "population_z": -0.44552 
 },
-"575": {
+{
  "FIPS":    123,
 "year": "1998",
 "population_z": 0.81848 
 },
-"576": {
+{
  "FIPS":    125,
 "year": "1998",
 "population_z": -0.41042 
 },
-"577": {
+{
  "FIPS":      1,
 "year": "1999",
 "population_z": 2.1374 
 },
-"578": {
+{
  "FIPS":      3,
 "year": "1999",
 "population_z": -0.37701 
 },
-"579": {
+{
  "FIPS":      5,
 "year": "1999",
 "population_z": 3.0678 
 },
-"580": {
+{
  "FIPS":      7,
 "year": "1999",
 "population_z": -0.41579 
 },
-"581": {
+{
  "FIPS":      9,
 "year": "1999",
 "population_z": -0.45306 
 },
-"582": {
+{
  "FIPS":     11,
 "year": "1999",
 "population_z": -0.44219 
 },
-"583": {
+{
  "FIPS":     13,
 "year": "1999",
 "population_z": 1.6102 
 },
-"584": {
+{
  "FIPS":     14,
 "year": "1999",
 "population_z": -0.48647 
 },
-"585": {
+{
  "FIPS":     15,
 "year": "1999",
 "population_z": -0.36878 
 },
-"586": {
+{
  "FIPS":     17,
 "year": "1999",
 "population_z": -0.46964 
 },
-"587": {
+{
  "FIPS":     19,
 "year": "1999",
 "population_z": -0.41865 
 },
-"588": {
+{
  "FIPS":     21,
 "year": "1999",
 "population_z": -0.42511 
 },
-"589": {
+{
  "FIPS":     23,
 "year": "1999",
 "population_z": -0.4593 
 },
-"590": {
+{
  "FIPS":     25,
 "year": "1999",
 "population_z": -0.44956 
 },
-"591": {
+{
  "FIPS":     27,
 "year": "1999",
 "population_z": -0.46162 
 },
-"592": {
+{
  "FIPS":     29,
 "year": "1999",
 "population_z": -0.28412 
 },
-"593": {
+{
  "FIPS":     31,
 "year": "1999",
 "population_z":  3.542 
 },
-"594": {
+{
  "FIPS":     33,
 "year": "1999",
 "population_z": -0.47309 
 },
-"595": {
+{
  "FIPS":     35,
 "year": "1999",
 "population_z": 0.71224 
 },
-"596": {
+{
  "FIPS":     37,
 "year": "1999",
 "population_z": -0.19175 
 },
-"597": {
+{
  "FIPS":     39,
 "year": "1999",
 "population_z": -0.34551 
 },
-"598": {
+{
  "FIPS":     41,
 "year": "1999",
 "population_z":  3.271 
 },
-"599": {
+{
  "FIPS":     43,
 "year": "1999",
 "population_z": -0.15309 
 },
-"600": {
+{
  "FIPS":     45,
 "year": "1999",
 "population_z": -0.17121 
 },
-"601": {
+{
  "FIPS":     47,
 "year": "1999",
 "population_z": -0.45295 
 },
-"602": {
+{
  "FIPS":     49,
 "year": "1999",
 "population_z": -0.39789 
 },
-"603": {
+{
  "FIPS":     51,
 "year": "1999",
 "population_z": -0.38503 
 },
-"604": {
+{
  "FIPS":     53,
 "year": "1999",
 "population_z": -0.48068 
 },
-"605": {
+{
  "FIPS":     55,
 "year": "1999",
 "population_z": -0.42867 
 },
-"606": {
+{
  "FIPS":     57,
 "year": "1999",
 "population_z": -0.47478 
 },
-"607": {
+{
  "FIPS":     59,
 "year": "1999",
 "population_z": 3.3596 
 },
-"608": {
+{
  "FIPS":     61,
 "year": "1999",
 "population_z": -0.47441 
 },
-"609": {
+{
  "FIPS":     63,
 "year": "1999",
 "population_z": -0.42812 
 },
-"610": {
+{
  "FIPS":     65,
 "year": "1999",
 "population_z": -0.17072 
 },
-"611": {
+{
  "FIPS":     67,
 "year": "1999",
 "population_z": -0.4287 
 },
-"612": {
+{
  "FIPS":     69,
 "year": "1999",
 "population_z": 1.3313 
 },
-"613": {
+{
  "FIPS":     71,
 "year": "1999",
 "population_z": -0.37465 
 },
-"614": {
+{
  "FIPS":     73,
 "year": "1999",
 "population_z": -0.44145 
 },
-"615": {
+{
  "FIPS":     75,
 "year": "1999",
 "population_z": -0.33664 
 },
-"616": {
+{
  "FIPS":     77,
 "year": "1999",
 "population_z": 0.35962 
 },
-"617": {
+{
  "FIPS":     79,
 "year": "1999",
 "population_z": -0.48051 
 },
-"618": {
+{
  "FIPS":     81,
 "year": "1999",
 "population_z": -0.39028 
 },
-"619": {
+{
  "FIPS":     83,
 "year": "1999",
 "population_z": -0.31275 
 },
-"620": {
+{
  "FIPS":     85,
 "year": "1999",
 "population_z": -0.24463 
 },
-"621": {
+{
  "FIPS":     87,
 "year": "1999",
 "population_z": -0.28743 
 },
-"622": {
+{
  "FIPS":     89,
 "year": "1999",
 "population_z": -0.33582 
 },
-"623": {
+{
  "FIPS":     91,
 "year": "1999",
 "population_z": -0.45975 
 },
-"624": {
+{
  "FIPS":     93,
 "year": "1999",
 "population_z": -0.38382 
 },
-"625": {
+{
  "FIPS":     95,
 "year": "1999",
 "population_z": -0.4531 
 },
-"626": {
+{
  "FIPS":     97,
 "year": "1999",
 "population_z": -0.37693 
 },
-"627": {
+{
  "FIPS":     99,
 "year": "1999",
 "population_z": -0.38033 
 },
-"628": {
+{
  "FIPS":    101,
 "year": "1999",
 "population_z": 0.54531 
 },
-"629": {
+{
  "FIPS":    103,
 "year": "1999",
 "population_z": -0.44149 
 },
-"630": {
+{
  "FIPS":    105,
 "year": "1999",
 "population_z": -0.39571 
 },
-"631": {
+{
  "FIPS":    107,
 "year": "1999",
 "population_z": -0.3445 
 },
-"632": {
+{
  "FIPS":    109,
 "year": "1999",
 "population_z": -0.44389 
 },
-"633": {
+{
  "FIPS":    111,
 "year": "1999",
 "population_z": -0.48235 
 },
-"634": {
+{
  "FIPS":    113,
 "year": "1999",
 "population_z": -0.43822 
 },
-"635": {
+{
  "FIPS":    115,
 "year": "1999",
 "population_z": -0.46639 
 },
-"636": {
+{
  "FIPS":    117,
 "year": "1999",
 "population_z": -0.31981 
 },
-"637": {
+{
  "FIPS":    119,
 "year": "1999",
 "population_z": -0.33745 
 },
-"638": {
+{
  "FIPS":    121,
 "year": "1999",
 "population_z": -0.44936 
 },
-"639": {
+{
  "FIPS":    123,
 "year": "1999",
 "population_z": 0.82258 
 },
-"640": {
+{
  "FIPS":    125,
 "year": "1999",
 "population_z": -0.41393 
 },
-"641": {
+{
  "FIPS":      1,
 "year": "2000",
 "population_z": 2.0687 
 },
-"642": {
+{
  "FIPS":      3,
 "year": "2000",
 "population_z": -0.38392 
 },
-"643": {
+{
  "FIPS":      5,
 "year": "2000",
 "population_z": 3.0814 
 },
-"644": {
+{
  "FIPS":      7,
 "year": "2000",
 "population_z": -0.42076 
 },
-"645": {
+{
  "FIPS":      9,
 "year": "2000",
 "population_z": -0.46115 
 },
-"646": {
+{
  "FIPS":     11,
 "year": "2000",
 "population_z": -0.45046 
 },
-"647": {
+{
  "FIPS":     13,
 "year": "2000",
 "population_z": 1.5188 
 },
-"648": {
+{
  "FIPS":     14,
 "year": "2000",
 "population_z": -0.21311 
 },
-"649": {
+{
  "FIPS":     15,
 "year": "2000",
 "population_z": -0.37509 
 },
-"650": {
+{
  "FIPS":     17,
 "year": "2000",
 "population_z": -0.47779 
 },
-"651": {
+{
  "FIPS":     19,
 "year": "2000",
 "population_z": -0.42573 
 },
-"652": {
+{
  "FIPS":     21,
 "year": "2000",
 "population_z": -0.43267 
 },
-"653": {
+{
  "FIPS":     23,
 "year": "2000",
 "population_z": -0.46716 
 },
-"654": {
+{
  "FIPS":     25,
 "year": "2000",
 "population_z": -0.45656 
 },
-"655": {
+{
  "FIPS":     27,
 "year": "2000",
 "population_z": -0.46829 
 },
-"656": {
+{
  "FIPS":     29,
 "year": "2000",
 "population_z": -0.29059 
 },
-"657": {
+{
  "FIPS":     31,
 "year": "2000",
 "population_z": 3.5624 
 },
-"658": {
+{
  "FIPS":     33,
 "year": "2000",
 "population_z": -0.48046 
 },
-"659": {
+{
  "FIPS":     35,
 "year": "2000",
 "population_z": 0.82123 
 },
-"660": {
+{
  "FIPS":     37,
 "year": "2000",
 "population_z": -0.17854 
 },
-"661": {
+{
  "FIPS":     39,
 "year": "2000",
 "population_z": -0.34746 
 },
-"662": {
+{
  "FIPS":     41,
 "year": "2000",
 "population_z": 3.2932 
 },
-"663": {
+{
  "FIPS":     43,
 "year": "2000",
 "population_z": -0.15609 
 },
-"664": {
+{
  "FIPS":     45,
 "year": "2000",
 "population_z": -0.17161 
 },
-"665": {
+{
  "FIPS":     47,
 "year": "2000",
 "population_z": -0.45894 
 },
-"666": {
+{
  "FIPS":     49,
 "year": "2000",
 "population_z": -0.40029 
 },
-"667": {
+{
  "FIPS":     51,
 "year": "2000",
 "population_z": -0.39201 
 },
-"668": {
+{
  "FIPS":     53,
 "year": "2000",
 "population_z": -0.48816 
 },
-"669": {
+{
  "FIPS":     55,
 "year": "2000",
 "population_z": -0.43691 
 },
-"670": {
+{
  "FIPS":     57,
 "year": "2000",
 "population_z": -0.48245 
 },
-"671": {
+{
  "FIPS":     59,
 "year": "2000",
 "population_z": 3.3436 
 },
-"672": {
+{
  "FIPS":     61,
 "year": "2000",
 "population_z": -0.48217 
 },
-"673": {
+{
  "FIPS":     63,
 "year": "2000",
 "population_z": -0.43583 
 },
-"674": {
+{
  "FIPS":     65,
 "year": "2000",
 "population_z": -0.16915 
 },
-"675": {
+{
  "FIPS":     67,
 "year": "2000",
 "population_z": -0.43608 
 },
-"676": {
+{
  "FIPS":     69,
 "year": "2000",
 "population_z":   1.35 
 },
-"677": {
+{
  "FIPS":     71,
 "year": "2000",
 "population_z": -0.38256 
 },
-"678": {
+{
  "FIPS":     73,
 "year": "2000",
 "population_z": -0.44903 
 },
-"679": {
+{
  "FIPS":     75,
 "year": "2000",
 "population_z": -0.34344 
 },
-"680": {
+{
  "FIPS":     77,
 "year": "2000",
 "population_z": 0.36325 
 },
-"681": {
+{
  "FIPS":     79,
 "year": "2000",
 "population_z": -0.48783 
 },
-"682": {
+{
  "FIPS":     81,
 "year": "2000",
 "population_z": -0.39789 
 },
-"683": {
+{
  "FIPS":     83,
 "year": "2000",
 "population_z": -0.32015 
 },
-"684": {
+{
  "FIPS":     85,
 "year": "2000",
 "population_z": -0.2493 
 },
-"685": {
+{
  "FIPS":     87,
 "year": "2000",
 "population_z": -0.29539 
 },
-"686": {
+{
  "FIPS":     89,
 "year": "2000",
 "population_z": -0.34645 
 },
-"687": {
+{
  "FIPS":     91,
 "year": "2000",
 "population_z": -0.46643 
 },
-"688": {
+{
  "FIPS":     93,
 "year": "2000",
 "population_z": -0.38662 
 },
-"689": {
+{
  "FIPS":     95,
 "year": "2000",
 "population_z": -0.4615 
 },
-"690": {
+{
  "FIPS":     97,
 "year": "2000",
 "population_z": -0.37908 
 },
-"691": {
+{
  "FIPS":     99,
 "year": "2000",
 "population_z": -0.38863 
 },
-"692": {
+{
  "FIPS":    101,
 "year": "2000",
 "population_z": 0.53959 
 },
-"693": {
+{
  "FIPS":    103,
 "year": "2000",
 "population_z": -0.45044 
 },
-"694": {
+{
  "FIPS":    105,
 "year": "2000",
 "population_z": -0.40338 
 },
-"695": {
+{
  "FIPS":    107,
 "year": "2000",
 "population_z": -0.34732 
 },
-"696": {
+{
  "FIPS":    109,
 "year": "2000",
 "population_z": -0.45034 
 },
-"697": {
+{
  "FIPS":    111,
 "year": "2000",
 "population_z": -0.48984 
 },
-"698": {
+{
  "FIPS":    113,
 "year": "2000",
 "population_z": -0.44574 
 },
-"699": {
+{
  "FIPS":    115,
 "year": "2000",
 "population_z": -0.47394 
 },
-"700": {
+{
  "FIPS":    117,
 "year": "2000",
 "population_z": -0.30662 
 },
-"701": {
+{
  "FIPS":    119,
 "year": "2000",
 "population_z": -0.34043 
 },
-"702": {
+{
  "FIPS":    121,
 "year": "2000",
 "population_z": -0.45797 
 },
-"703": {
+{
  "FIPS":    123,
 "year": "2000",
 "population_z": 0.83992 
 },
-"704": {
+{
  "FIPS":    125,
 "year": "2000",
 "population_z": -0.42242 
 },
-"705": {
+{
  "FIPS":      1,
 "year": "2001",
 "population_z": 2.0707 
 },
-"706": {
+{
  "FIPS":      3,
 "year": "2001",
 "population_z": -0.38712 
 },
-"707": {
+{
  "FIPS":      5,
 "year": "2001",
 "population_z": 3.0863 
 },
-"708": {
+{
  "FIPS":      7,
 "year": "2001",
 "population_z": -0.42115 
 },
-"709": {
+{
  "FIPS":      9,
 "year": "2001",
 "population_z": -0.46412 
 },
-"710": {
+{
  "FIPS":     11,
 "year": "2001",
 "population_z": -0.45387 
 },
-"711": {
+{
  "FIPS":     13,
 "year": "2001",
 "population_z": 1.5285 
 },
-"712": {
+{
  "FIPS":     14,
 "year": "2001",
 "population_z": -0.20035 
 },
-"713": {
+{
  "FIPS":     15,
 "year": "2001",
 "population_z": -0.3787 
 },
-"714": {
+{
  "FIPS":     17,
 "year": "2001",
 "population_z": -0.48036 
 },
-"715": {
+{
  "FIPS":     19,
 "year": "2001",
 "population_z": -0.4283 
 },
-"716": {
+{
  "FIPS":     21,
 "year": "2001",
 "population_z": -0.43614 
 },
-"717": {
+{
  "FIPS":     23,
 "year": "2001",
 "population_z": -0.46916 
 },
-"718": {
+{
  "FIPS":     25,
 "year": "2001",
 "population_z": -0.45836 
 },
-"719": {
+{
  "FIPS":     27,
 "year": "2001",
 "population_z": -0.46924 
 },
-"720": {
+{
  "FIPS":     29,
 "year": "2001",
 "population_z": -0.29318 
 },
-"721": {
+{
  "FIPS":     31,
 "year": "2001",
 "population_z": 3.5264 
 },
-"722": {
+{
  "FIPS":     33,
 "year": "2001",
 "population_z": -0.48256 
 },
-"723": {
+{
  "FIPS":     35,
 "year": "2001",
 "population_z": 0.92535 
 },
-"724": {
+{
  "FIPS":     37,
 "year": "2001",
 "population_z": -0.17855 
 },
-"725": {
+{
  "FIPS":     39,
 "year": "2001",
 "population_z": -0.34382 
 },
-"726": {
+{
  "FIPS":     41,
 "year": "2001",
 "population_z": 3.3338 
 },
-"727": {
+{
  "FIPS":     43,
 "year": "2001",
 "population_z": -0.16218 
 },
-"728": {
+{
  "FIPS":     45,
 "year": "2001",
 "population_z": -0.16808 
 },
-"729": {
+{
  "FIPS":     47,
 "year": "2001",
 "population_z": -0.46139 
 },
-"730": {
+{
  "FIPS":     49,
 "year": "2001",
 "population_z": -0.40103 
 },
-"731": {
+{
  "FIPS":     51,
 "year": "2001",
 "population_z": -0.39344 
 },
-"732": {
+{
  "FIPS":     53,
 "year": "2001",
 "population_z": -0.49013 
 },
-"733": {
+{
  "FIPS":     55,
 "year": "2001",
 "population_z": -0.43943 
 },
-"734": {
+{
  "FIPS":     57,
 "year": "2001",
 "population_z": -0.48452 
 },
-"735": {
+{
  "FIPS":     59,
 "year": "2001",
 "population_z": 3.2748 
 },
-"736": {
+{
  "FIPS":     61,
 "year": "2001",
 "population_z": -0.48441 
 },
-"737": {
+{
  "FIPS":     63,
 "year": "2001",
 "population_z": -0.43823 
 },
-"738": {
+{
  "FIPS":     65,
 "year": "2001",
 "population_z": -0.16995 
 },
-"739": {
+{
  "FIPS":     67,
 "year": "2001",
 "population_z": -0.44003 
 },
-"740": {
+{
  "FIPS":     69,
 "year": "2001",
 "population_z": 1.3672 
 },
-"741": {
+{
  "FIPS":     71,
 "year": "2001",
 "population_z": -0.38655 
 },
-"742": {
+{
  "FIPS":     73,
 "year": "2001",
 "population_z": -0.45249 
 },
-"743": {
+{
  "FIPS":     75,
 "year": "2001",
 "population_z": -0.33626 
 },
-"744": {
+{
  "FIPS":     77,
 "year": "2001",
 "population_z": 0.36001 
 },
-"745": {
+{
  "FIPS":     79,
 "year": "2001",
 "population_z": -0.49002 
 },
-"746": {
+{
  "FIPS":     81,
 "year": "2001",
 "population_z": -0.40241 
 },
-"747": {
+{
  "FIPS":     83,
 "year": "2001",
 "population_z": -0.32541 
 },
-"748": {
+{
  "FIPS":     85,
 "year": "2001",
 "population_z": -0.24994 
 },
-"749": {
+{
  "FIPS":     87,
 "year": "2001",
 "population_z": -0.29969 
 },
-"750": {
+{
  "FIPS":     89,
 "year": "2001",
 "population_z": -0.35378 
 },
-"751": {
+{
  "FIPS":     91,
 "year": "2001",
 "population_z": -0.46868 
 },
-"752": {
+{
  "FIPS":     93,
 "year": "2001",
 "population_z": -0.38754 
 },
-"753": {
+{
  "FIPS":     95,
 "year": "2001",
 "population_z": -0.46383 
 },
-"754": {
+{
  "FIPS":     97,
 "year": "2001",
 "population_z": -0.38031 
 },
-"755": {
+{
  "FIPS":     99,
 "year": "2001",
 "population_z": -0.39513 
 },
-"756": {
+{
  "FIPS":    101,
 "year": "2001",
 "population_z": 0.53233 
 },
-"757": {
+{
  "FIPS":    103,
 "year": "2001",
 "population_z": -0.45389 
 },
-"758": {
+{
  "FIPS":    105,
 "year": "2001",
 "population_z": -0.40729 
 },
-"759": {
+{
  "FIPS":    107,
 "year": "2001",
 "population_z": -0.34995 
 },
-"760": {
+{
  "FIPS":    109,
 "year": "2001",
 "population_z": -0.45244 
 },
-"761": {
+{
  "FIPS":    111,
 "year": "2001",
 "population_z": -0.49183 
 },
-"762": {
+{
  "FIPS":    113,
 "year": "2001",
 "population_z": -0.4466 
 },
-"763": {
+{
  "FIPS":    115,
 "year": "2001",
 "population_z": -0.47664 
 },
-"764": {
+{
  "FIPS":    117,
 "year": "2001",
 "population_z": -0.30813 
 },
-"765": {
+{
  "FIPS":    119,
 "year": "2001",
 "population_z": -0.34065 
 },
-"766": {
+{
  "FIPS":    121,
 "year": "2001",
 "population_z": -0.46089 
 },
-"767": {
+{
  "FIPS":    123,
 "year": "2001",
 "population_z": 0.87854 
 },
-"768": {
+{
  "FIPS":    125,
 "year": "2001",
 "population_z": -0.42568 
 },
-"769": {
+{
  "FIPS":      1,
 "year": "2002",
 "population_z": 2.1262 
 },
-"770": {
+{
  "FIPS":      3,
 "year": "2002",
 "population_z": -0.38962 
 },
-"771": {
+{
  "FIPS":      5,
 "year": "2002",
 "population_z":  3.111 
 },
-"772": {
+{
  "FIPS":      7,
 "year": "2002",
 "population_z": -0.42189 
 },
-"773": {
+{
  "FIPS":      9,
 "year": "2002",
 "population_z": -0.46703 
 },
-"774": {
+{
  "FIPS":     11,
 "year": "2002",
 "population_z": -0.45368 
 },
-"775": {
+{
  "FIPS":     13,
 "year": "2002",
 "population_z":  1.513 
 },
-"776": {
+{
  "FIPS":     14,
 "year": "2002",
 "population_z": -0.19759 
 },
-"777": {
+{
  "FIPS":     15,
 "year": "2002",
 "population_z": -0.37986 
 },
-"778": {
+{
  "FIPS":     17,
 "year": "2002",
 "population_z": -0.48224 
 },
-"779": {
+{
  "FIPS":     19,
 "year": "2002",
 "population_z": -0.43062 
 },
-"780": {
+{
  "FIPS":     21,
 "year": "2002",
 "population_z": -0.43823 
 },
-"781": {
+{
  "FIPS":     23,
 "year": "2002",
 "population_z": -0.47113 
 },
-"782": {
+{
  "FIPS":     25,
 "year": "2002",
 "population_z": -0.45975 
 },
-"783": {
+{
  "FIPS":     27,
 "year": "2002",
 "population_z": -0.47079 
 },
-"784": {
+{
  "FIPS":     29,
 "year": "2002",
 "population_z": -0.29411 
 },
-"785": {
+{
  "FIPS":     31,
 "year": "2002",
 "population_z": 3.4544 
 },
-"786": {
+{
  "FIPS":     33,
 "year": "2002",
 "population_z": -0.48424 
 },
-"787": {
+{
  "FIPS":     35,
 "year": "2002",
 "population_z": 0.98478 
 },
-"788": {
+{
  "FIPS":     37,
 "year": "2002",
 "population_z": -0.17874 
 },
-"789": {
+{
  "FIPS":     39,
 "year": "2002",
 "population_z": -0.34482 
 },
-"790": {
+{
  "FIPS":     41,
 "year": "2002",
 "population_z": 3.3565 
 },
-"791": {
+{
  "FIPS":     43,
 "year": "2002",
 "population_z": -0.16552 
 },
-"792": {
+{
  "FIPS":     45,
 "year": "2002",
 "population_z": -0.16723 
 },
-"793": {
+{
  "FIPS":     47,
 "year": "2002",
 "population_z": -0.46339 
 },
-"794": {
+{
  "FIPS":     49,
 "year": "2002",
 "population_z": -0.40238 
 },
-"795": {
+{
  "FIPS":     51,
 "year": "2002",
 "population_z": -0.39633 
 },
-"796": {
+{
  "FIPS":     53,
 "year": "2002",
 "population_z": -0.49183 
 },
-"797": {
+{
  "FIPS":     55,
 "year": "2002",
 "population_z": -0.44157 
 },
-"798": {
+{
  "FIPS":     57,
 "year": "2002",
 "population_z": -0.48628 
 },
-"799": {
+{
  "FIPS":     59,
 "year": "2002",
 "population_z": 3.2314 
 },
-"800": {
+{
  "FIPS":     61,
 "year": "2002",
 "population_z": -0.48646 
 },
-"801": {
+{
  "FIPS":     63,
 "year": "2002",
 "population_z": -0.43894 
 },
-"802": {
+{
  "FIPS":     65,
 "year": "2002",
 "population_z": -0.17174 
 },
-"803": {
+{
  "FIPS":     67,
 "year": "2002",
 "population_z": -0.44291 
 },
-"804": {
+{
  "FIPS":     69,
 "year": "2002",
 "population_z": 1.3839 
 },
-"805": {
+{
  "FIPS":     71,
 "year": "2002",
 "population_z": -0.38684 
 },
-"806": {
+{
  "FIPS":     73,
 "year": "2002",
 "population_z": -0.45478 
 },
-"807": {
+{
  "FIPS":     75,
 "year": "2002",
 "population_z": -0.34135 
 },
-"808": {
+{
  "FIPS":     77,
 "year": "2002",
 "population_z": 0.36333 
 },
-"809": {
+{
  "FIPS":     79,
 "year": "2002",
 "population_z": -0.49184 
 },
-"810": {
+{
  "FIPS":     81,
 "year": "2002",
 "population_z": -0.40469 
 },
-"811": {
+{
  "FIPS":     83,
 "year": "2002",
 "population_z": -0.32711 
 },
-"812": {
+{
  "FIPS":     85,
 "year": "2002",
 "population_z": -0.25065 
 },
-"813": {
+{
  "FIPS":     87,
 "year": "2002",
 "population_z": -0.302 
 },
-"814": {
+{
  "FIPS":     89,
 "year": "2002",
 "population_z": -0.35881 
 },
-"815": {
+{
  "FIPS":     91,
 "year": "2002",
 "population_z": -0.46994 
 },
-"816": {
+{
  "FIPS":     93,
 "year": "2002",
 "population_z": -0.38855 
 },
-"817": {
+{
  "FIPS":     95,
 "year": "2002",
 "population_z": -0.46575 
 },
-"818": {
+{
  "FIPS":     97,
 "year": "2002",
 "population_z": -0.38372 
 },
-"819": {
+{
  "FIPS":     99,
 "year": "2002",
 "population_z": -0.39849 
 },
-"820": {
+{
  "FIPS":    101,
 "year": "2002",
 "population_z": 0.53788 
 },
-"821": {
+{
  "FIPS":    103,
 "year": "2002",
 "population_z": -0.45557 
 },
-"822": {
+{
  "FIPS":    105,
 "year": "2002",
 "population_z": -0.40981 
 },
-"823": {
+{
  "FIPS":    107,
 "year": "2002",
 "population_z": -0.34985 
 },
-"824": {
+{
  "FIPS":    109,
 "year": "2002",
 "population_z": -0.45338 
 },
-"825": {
+{
  "FIPS":    111,
 "year": "2002",
 "population_z": -0.49329 
 },
-"826": {
+{
  "FIPS":    113,
 "year": "2002",
 "population_z": -0.44775 
 },
-"827": {
+{
  "FIPS":    115,
 "year": "2002",
 "population_z": -0.47848 
 },
-"828": {
+{
  "FIPS":    117,
 "year": "2002",
 "population_z": -0.31011 
 },
-"829": {
+{
  "FIPS":    119,
 "year": "2002",
 "population_z": -0.3421 
 },
-"830": {
+{
  "FIPS":    121,
 "year": "2002",
 "population_z": -0.46035 
 },
-"831": {
+{
  "FIPS":    123,
 "year": "2002",
 "population_z": 0.90893 
 },
-"832": {
+{
  "FIPS":    125,
 "year": "2002",
 "population_z": -0.42722 
 },
-"833": {
+{
  "FIPS":      1,
 "year": "2003",
 "population_z": 2.1495 
 },
-"834": {
+{
  "FIPS":      3,
 "year": "2003",
 "population_z": -0.39144 
 },
-"835": {
+{
  "FIPS":      5,
 "year": "2003",
 "population_z": 3.1222 
 },
-"836": {
+{
  "FIPS":      7,
 "year": "2003",
 "population_z": -0.42227 
 },
-"837": {
+{
  "FIPS":      9,
 "year": "2003",
 "population_z": -0.4693 
 },
-"838": {
+{
  "FIPS":     11,
 "year": "2003",
 "population_z": -0.4525 
 },
-"839": {
+{
  "FIPS":     13,
 "year": "2003",
 "population_z":  1.484 
 },
-"840": {
+{
  "FIPS":     14,
 "year": "2003",
 "population_z": -0.18384 
 },
-"841": {
+{
  "FIPS":     15,
 "year": "2003",
 "population_z": -0.38138 
 },
-"842": {
+{
  "FIPS":     17,
 "year": "2003",
 "population_z": -0.4843 
 },
-"843": {
+{
  "FIPS":     19,
 "year": "2003",
 "population_z": -0.43242 
 },
-"844": {
+{
  "FIPS":     21,
 "year": "2003",
 "population_z": -0.44034 
 },
-"845": {
+{
  "FIPS":     23,
 "year": "2003",
 "population_z": -0.47251 
 },
-"846": {
+{
  "FIPS":     25,
 "year": "2003",
 "population_z": -0.463 
 },
-"847": {
+{
  "FIPS":     27,
 "year": "2003",
 "population_z": -0.47157 
 },
-"848": {
+{
  "FIPS":     29,
 "year": "2003",
 "population_z": -0.29535 
 },
-"849": {
+{
  "FIPS":     31,
 "year": "2003",
 "population_z": 3.4308 
 },
-"850": {
+{
  "FIPS":     33,
 "year": "2003",
 "population_z": -0.48598 
 },
-"851": {
+{
  "FIPS":     35,
 "year": "2003",
 "population_z": 1.0518 
 },
-"852": {
+{
  "FIPS":     37,
 "year": "2003",
 "population_z": -0.17825 
 },
-"853": {
+{
  "FIPS":     39,
 "year": "2003",
 "population_z": -0.34534 
 },
-"854": {
+{
  "FIPS":     41,
 "year": "2003",
 "population_z": 3.3699 
 },
-"855": {
+{
  "FIPS":     43,
 "year": "2003",
 "population_z": -0.17074 
 },
-"856": {
+{
  "FIPS":     45,
 "year": "2003",
 "population_z": -0.16614 
 },
-"857": {
+{
  "FIPS":     47,
 "year": "2003",
 "population_z": -0.46514 
 },
-"858": {
+{
  "FIPS":     49,
 "year": "2003",
 "population_z": -0.40316 
 },
-"859": {
+{
  "FIPS":     51,
 "year": "2003",
 "population_z": -0.39953 
 },
-"860": {
+{
  "FIPS":     53,
 "year": "2003",
 "population_z": -0.49366 
 },
-"861": {
+{
  "FIPS":     55,
 "year": "2003",
 "population_z": -0.44276 
 },
-"862": {
+{
  "FIPS":     57,
 "year": "2003",
 "population_z": -0.48804 
 },
-"863": {
+{
  "FIPS":     59,
 "year": "2003",
 "population_z": 3.1859 
 },
-"864": {
+{
  "FIPS":     61,
 "year": "2003",
 "population_z": -0.48831 
 },
-"865": {
+{
  "FIPS":     63,
 "year": "2003",
 "population_z": -0.44176 
 },
-"866": {
+{
  "FIPS":     65,
 "year": "2003",
 "population_z": -0.17341 
 },
-"867": {
+{
  "FIPS":     67,
 "year": "2003",
 "population_z": -0.44642 
 },
-"868": {
+{
  "FIPS":     69,
 "year": "2003",
 "population_z": 1.3814 
 },
-"869": {
+{
  "FIPS":     71,
 "year": "2003",
 "population_z": -0.38632 
 },
-"870": {
+{
  "FIPS":     73,
 "year": "2003",
 "population_z": -0.45672 
 },
-"871": {
+{
  "FIPS":     75,
 "year": "2003",
 "population_z": -0.34227 
 },
-"872": {
+{
  "FIPS":     77,
 "year": "2003",
 "population_z": 0.37156 
 },
-"873": {
+{
  "FIPS":     79,
 "year": "2003",
 "population_z": -0.49334 
 },
-"874": {
+{
  "FIPS":     81,
 "year": "2003",
 "population_z": -0.40761 
 },
-"875": {
+{
  "FIPS":     83,
 "year": "2003",
 "population_z": -0.32819 
 },
-"876": {
+{
  "FIPS":     85,
 "year": "2003",
 "population_z": -0.24921 
 },
-"877": {
+{
  "FIPS":     87,
 "year": "2003",
 "population_z": -0.30381 
 },
-"878": {
+{
  "FIPS":     89,
 "year": "2003",
 "population_z": -0.36123 
 },
-"879": {
+{
  "FIPS":     91,
 "year": "2003",
 "population_z": -0.47178 
 },
-"880": {
+{
  "FIPS":     93,
 "year": "2003",
 "population_z": -0.38843 
 },
-"881": {
+{
  "FIPS":     95,
 "year": "2003",
 "population_z": -0.46776 
 },
-"882": {
+{
  "FIPS":     97,
 "year": "2003",
 "population_z": -0.38502 
 },
-"883": {
+{
  "FIPS":     99,
 "year": "2003",
 "population_z": -0.40222 
 },
-"884": {
+{
  "FIPS":    101,
 "year": "2003",
 "population_z": 0.53862 
 },
-"885": {
+{
  "FIPS":    103,
 "year": "2003",
 "population_z": -0.4581 
 },
-"886": {
+{
  "FIPS":    105,
 "year": "2003",
 "population_z": -0.41066 
 },
-"887": {
+{
  "FIPS":    107,
 "year": "2003",
 "population_z": -0.35098 
 },
-"888": {
+{
  "FIPS":    109,
 "year": "2003",
 "population_z": -0.45513 
 },
-"889": {
+{
  "FIPS":    111,
 "year": "2003",
 "population_z": -0.49485 
 },
-"890": {
+{
  "FIPS":    113,
 "year": "2003",
 "population_z":  -0.45 
 },
-"891": {
+{
  "FIPS":    115,
 "year": "2003",
 "population_z": -0.48012 
 },
-"892": {
+{
  "FIPS":    117,
 "year": "2003",
 "population_z": -0.31186 
 },
-"893": {
+{
  "FIPS":    119,
 "year": "2003",
 "population_z": -0.34334 
 },
-"894": {
+{
  "FIPS":    121,
 "year": "2003",
 "population_z": -0.46311 
 },
-"895": {
+{
  "FIPS":    123,
 "year": "2003",
 "population_z": 0.9537 
 },
-"896": {
+{
  "FIPS":    125,
 "year": "2003",
 "population_z": -0.42838 
 },
-"897": {
+{
  "FIPS":      1,
 "year": "2004",
 "population_z": 2.1797 
 },
-"898": {
+{
  "FIPS":      3,
 "year": "2004",
 "population_z": -0.39304 
 },
-"899": {
+{
  "FIPS":      5,
 "year": "2004",
 "population_z": 3.1363 
 },
-"900": {
+{
  "FIPS":      7,
 "year": "2004",
 "population_z": -0.42244 
 },
-"901": {
+{
  "FIPS":      9,
 "year": "2004",
 "population_z": -0.47108 
 },
-"902": {
+{
  "FIPS":     11,
 "year": "2004",
 "population_z": -0.45587 
 },
-"903": {
+{
  "FIPS":     13,
 "year": "2004",
 "population_z":  1.467 
 },
-"904": {
+{
  "FIPS":     14,
 "year": "2004",
 "population_z": -0.1778 
 },
-"905": {
+{
  "FIPS":     15,
 "year": "2004",
 "population_z": -0.38235 
 },
-"906": {
+{
  "FIPS":     17,
 "year": "2004",
 "population_z": -0.48563 
 },
-"907": {
+{
  "FIPS":     19,
 "year": "2004",
 "population_z": -0.43432 
 },
-"908": {
+{
  "FIPS":     21,
 "year": "2004",
 "population_z": -0.44098 
 },
-"909": {
+{
  "FIPS":     23,
 "year": "2004",
 "population_z": -0.47361 
 },
-"910": {
+{
  "FIPS":     25,
 "year": "2004",
 "population_z": -0.46229 
 },
-"911": {
+{
  "FIPS":     27,
 "year": "2004",
 "population_z": -0.47235 
 },
-"912": {
+{
  "FIPS":     29,
 "year": "2004",
 "population_z": -0.29551 
 },
-"913": {
+{
  "FIPS":     31,
 "year": "2004",
 "population_z": 3.3899 
 },
-"914": {
+{
  "FIPS":     33,
 "year": "2004",
 "population_z": -0.487 
 },
-"915": {
+{
  "FIPS":     35,
 "year": "2004",
 "population_z": 1.1223 
 },
-"916": {
+{
  "FIPS":     37,
 "year": "2004",
 "population_z": -0.17725 
 },
-"917": {
+{
  "FIPS":     39,
 "year": "2004",
 "population_z": -0.34697 
 },
-"918": {
+{
  "FIPS":     41,
 "year": "2004",
 "population_z": 3.3775 
 },
-"919": {
+{
  "FIPS":     43,
 "year": "2004",
 "population_z": -0.17687 
 },
-"920": {
+{
  "FIPS":     45,
 "year": "2004",
 "population_z": -0.16564 
 },
-"921": {
+{
  "FIPS":     47,
 "year": "2004",
 "population_z": -0.46651 
 },
-"922": {
+{
  "FIPS":     49,
 "year": "2004",
 "population_z": -0.40341 
 },
-"923": {
+{
  "FIPS":     51,
 "year": "2004",
 "population_z": -0.4012 
 },
-"924": {
+{
  "FIPS":     53,
 "year": "2004",
 "population_z": -0.49424 
 },
-"925": {
+{
  "FIPS":     55,
 "year": "2004",
 "population_z": -0.44634 
 },
-"926": {
+{
  "FIPS":     57,
 "year": "2004",
 "population_z": -0.48945 
 },
-"927": {
+{
  "FIPS":     59,
 "year": "2004",
 "population_z": 3.1444 
 },
-"928": {
+{
  "FIPS":     61,
 "year": "2004",
 "population_z": -0.48943 
 },
-"929": {
+{
  "FIPS":     63,
 "year": "2004",
 "population_z": -0.44268 
 },
-"930": {
+{
  "FIPS":     65,
 "year": "2004",
 "population_z": -0.17418 
 },
-"931": {
+{
  "FIPS":     67,
 "year": "2004",
 "population_z": -0.44852 
 },
-"932": {
+{
  "FIPS":     69,
 "year": "2004",
 "population_z": 1.3974 
 },
-"933": {
+{
  "FIPS":     71,
 "year": "2004",
 "population_z": -0.391 
 },
-"934": {
+{
  "FIPS":     73,
 "year": "2004",
 "population_z": -0.45899 
 },
-"935": {
+{
  "FIPS":     75,
 "year": "2004",
 "population_z": -0.346 
 },
-"936": {
+{
  "FIPS":     77,
 "year": "2004",
 "population_z": 0.3792 
 },
-"937": {
+{
  "FIPS":     79,
 "year": "2004",
 "population_z": -0.49416 
 },
-"938": {
+{
  "FIPS":     81,
 "year": "2004",
 "population_z": -0.40931 
 },
-"939": {
+{
  "FIPS":     83,
 "year": "2004",
 "population_z": -0.32915 
 },
-"940": {
+{
  "FIPS":     85,
 "year": "2004",
 "population_z": -0.24914 
 },
-"941": {
+{
  "FIPS":     87,
 "year": "2004",
 "population_z": -0.30621 
 },
-"942": {
+{
  "FIPS":     89,
 "year": "2004",
 "population_z": -0.36419 
 },
-"943": {
+{
  "FIPS":     91,
 "year": "2004",
 "population_z": -0.47207 
 },
-"944": {
+{
  "FIPS":     93,
 "year": "2004",
 "population_z": -0.38952 
 },
-"945": {
+{
  "FIPS":     95,
 "year": "2004",
 "population_z": -0.46821 
 },
-"946": {
+{
  "FIPS":     97,
 "year": "2004",
 "population_z": -0.38838 
 },
-"947": {
+{
  "FIPS":     99,
 "year": "2004",
 "population_z": -0.40519 
 },
-"948": {
+{
  "FIPS":    101,
 "year": "2004",
 "population_z": 0.5326 
 },
-"949": {
+{
  "FIPS":    103,
 "year": "2004",
 "population_z": -0.45901 
 },
-"950": {
+{
  "FIPS":    105,
 "year": "2004",
 "population_z": -0.41097 
 },
-"951": {
+{
  "FIPS":    107,
 "year": "2004",
 "population_z": -0.35216 
 },
-"952": {
+{
  "FIPS":    109,
 "year": "2004",
 "population_z": -0.45668 
 },
-"953": {
+{
  "FIPS":    111,
 "year": "2004",
 "population_z": -0.4956 
 },
-"954": {
+{
  "FIPS":    113,
 "year": "2004",
 "population_z": -0.45122 
 },
-"955": {
+{
  "FIPS":    115,
 "year": "2004",
 "population_z": -0.48191 
 },
-"956": {
+{
  "FIPS":    117,
 "year": "2004",
 "population_z": -0.31457 
 },
-"957": {
+{
  "FIPS":    119,
 "year": "2004",
 "population_z": -0.34574 
 },
-"958": {
+{
  "FIPS":    121,
 "year": "2004",
 "population_z": -0.46487 
 },
-"959": {
+{
  "FIPS":    123,
 "year": "2004",
 "population_z": 0.98634 
 },
-"960": {
+{
  "FIPS":    125,
 "year": "2004",
 "population_z": -0.43137 
 },
-"961": {
+{
  "FIPS":      1,
 "year": "2005",
 "population_z": 2.2173 
 },
-"962": {
+{
  "FIPS":      3,
 "year": "2005",
 "population_z": -0.395 
 },
-"963": {
+{
  "FIPS":      5,
 "year": "2005",
 "population_z": 3.1305 
 },
-"964": {
+{
  "FIPS":      7,
 "year": "2005",
 "population_z": -0.42245 
 },
-"965": {
+{
  "FIPS":      9,
 "year": "2005",
 "population_z": -0.47266 
 },
-"966": {
+{
  "FIPS":     11,
 "year": "2005",
 "population_z": -0.45779 
 },
-"967": {
+{
  "FIPS":     13,
 "year": "2005",
 "population_z": 1.4441 
 },
-"968": {
+{
  "FIPS":     14,
 "year": "2005",
 "population_z": -0.16912 
 },
-"969": {
+{
  "FIPS":     15,
 "year": "2005",
 "population_z": -0.38381 
 },
-"970": {
+{
  "FIPS":     17,
 "year": "2005",
 "population_z": -0.4868 
 },
-"971": {
+{
  "FIPS":     19,
 "year": "2005",
 "population_z": -0.43627 
 },
-"972": {
+{
  "FIPS":     21,
 "year": "2005",
 "population_z": -0.4424 
 },
-"973": {
+{
  "FIPS":     23,
 "year": "2005",
 "population_z": -0.47543 
 },
-"974": {
+{
  "FIPS":     25,
 "year": "2005",
 "population_z": -0.46345 
 },
-"975": {
+{
  "FIPS":     27,
 "year": "2005",
 "population_z": -0.47302 
 },
-"976": {
+{
  "FIPS":     29,
 "year": "2005",
 "population_z": -0.29864 
 },
-"977": {
+{
  "FIPS":     31,
 "year": "2005",
 "population_z": 3.3453 
 },
-"978": {
+{
  "FIPS":     33,
 "year": "2005",
 "population_z": -0.48785 
 },
-"979": {
+{
  "FIPS":     35,
 "year": "2005",
 "population_z": 1.1796 
 },
-"980": {
+{
  "FIPS":     37,
 "year": "2005",
 "population_z": -0.17581 
 },
-"981": {
+{
  "FIPS":     39,
 "year": "2005",
 "population_z": -0.34781 
 },
-"982": {
+{
  "FIPS":     41,
 "year": "2005",
 "population_z": 3.4131 
 },
-"983": {
+{
  "FIPS":     43,
 "year": "2005",
 "population_z": -0.18153 
 },
-"984": {
+{
  "FIPS":     45,
 "year": "2005",
 "population_z": -0.16221 
 },
-"985": {
+{
  "FIPS":     47,
 "year": "2005",
 "population_z": -0.4672 
 },
-"986": {
+{
  "FIPS":     49,
 "year": "2005",
 "population_z": -0.4053 
 },
-"987": {
+{
  "FIPS":     51,
 "year": "2005",
 "population_z": -0.40134 
 },
-"988": {
+{
  "FIPS":     53,
 "year": "2005",
 "population_z": -0.49524 
 },
-"989": {
+{
  "FIPS":     55,
 "year": "2005",
 "population_z": -0.44705 
 },
-"990": {
+{
  "FIPS":     57,
 "year": "2005",
 "population_z": -0.49058 
 },
-"991": {
+{
  "FIPS":     59,
 "year": "2005",
 "population_z": 3.0982 
 },
-"992": {
+{
  "FIPS":     61,
 "year": "2005",
 "population_z": -0.49022 
 },
-"993": {
+{
  "FIPS":     63,
 "year": "2005",
 "population_z": -0.44585 
 },
-"994": {
+{
  "FIPS":     65,
 "year": "2005",
 "population_z": -0.17282 
 },
-"995": {
+{
  "FIPS":     67,
 "year": "2005",
 "population_z": -0.45076 
 },
-"996": {
+{
  "FIPS":     69,
 "year": "2005",
 "population_z": 1.3957 
 },
-"997": {
+{
  "FIPS":     71,
 "year": "2005",
 "population_z": -0.39379 
 },
-"998": {
+{
  "FIPS":     73,
 "year": "2005",
 "population_z": -0.46105 
 },
-"999": {
+{
  "FIPS":     75,
 "year": "2005",
 "population_z": -0.34899 
 },
-"1000": {
+{
  "FIPS":     77,
 "year": "2005",
 "population_z": 0.38599 
 },
-"1001": {
+{
  "FIPS":     79,
 "year": "2005",
 "population_z": -0.49529 
 },
-"1002": {
+{
  "FIPS":     81,
 "year": "2005",
 "population_z": -0.4117 
 },
-"1003": {
+{
  "FIPS":     83,
 "year": "2005",
 "population_z": -0.3317 
 },
-"1004": {
+{
  "FIPS":     85,
 "year": "2005",
 "population_z": -0.24649 
 },
-"1005": {
+{
  "FIPS":     87,
 "year": "2005",
 "population_z": -0.30871 
 },
-"1006": {
+{
  "FIPS":     89,
 "year": "2005",
 "population_z": -0.36767 
 },
-"1007": {
+{
  "FIPS":     91,
 "year": "2005",
 "population_z": -0.47276 
 },
-"1008": {
+{
  "FIPS":     93,
 "year": "2005",
 "population_z": -0.39042 
 },
-"1009": {
+{
  "FIPS":     95,
 "year": "2005",
 "population_z": -0.46957 
 },
-"1010": {
+{
  "FIPS":     97,
 "year": "2005",
 "population_z": -0.3899 
 },
-"1011": {
+{
  "FIPS":     99,
 "year": "2005",
 "population_z": -0.40796 
 },
-"1012": {
+{
  "FIPS":    101,
 "year": "2005",
 "population_z": 0.53015 
 },
-"1013": {
+{
  "FIPS":    103,
 "year": "2005",
 "population_z": -0.46084 
 },
-"1014": {
+{
  "FIPS":    105,
 "year": "2005",
 "population_z": -0.41355 
 },
-"1015": {
+{
  "FIPS":    107,
 "year": "2005",
 "population_z": -0.35335 
 },
-"1016": {
+{
  "FIPS":    109,
 "year": "2005",
 "population_z": -0.45763 
 },
-"1017": {
+{
  "FIPS":    111,
 "year": "2005",
 "population_z": -0.4964 
 },
-"1018": {
+{
  "FIPS":    113,
 "year": "2005",
 "population_z": -0.4524 
 },
-"1019": {
+{
  "FIPS":    115,
 "year": "2005",
 "population_z": -0.48311 
 },
-"1020": {
+{
  "FIPS":    117,
 "year": "2005",
 "population_z": -0.31781 
 },
-"1021": {
+{
  "FIPS":    119,
 "year": "2005",
 "population_z": -0.34612 
 },
-"1022": {
+{
  "FIPS":    121,
 "year": "2005",
 "population_z": -0.46649 
 },
-"1023": {
+{
  "FIPS":    123,
 "year": "2005",
 "population_z": 1.0352 
 },
-"1024": {
+{
  "FIPS":    125,
 "year": "2005",
 "population_z": -0.43283 
 },
-"1025": {
+{
  "FIPS":      1,
 "year": "2006",
 "population_z": 2.2557 
 },
-"1026": {
+{
  "FIPS":      3,
 "year": "2006",
 "population_z": -0.39779 
 },
-"1027": {
+{
  "FIPS":      5,
 "year": "2006",
 "population_z": 3.1247 
 },
-"1028": {
+{
  "FIPS":      7,
 "year": "2006",
 "population_z": -0.42182 
 },
-"1029": {
+{
  "FIPS":      9,
 "year": "2006",
 "population_z": -0.47397 
 },
-"1030": {
+{
  "FIPS":     11,
 "year": "2006",
 "population_z": -0.46052 
 },
-"1031": {
+{
  "FIPS":     13,
 "year": "2006",
 "population_z": 1.4341 
 },
-"1032": {
+{
  "FIPS":     14,
 "year": "2006",
 "population_z": -0.15559 
 },
-"1033": {
+{
  "FIPS":     15,
 "year": "2006",
 "population_z": -0.38673 
 },
-"1034": {
+{
  "FIPS":     17,
 "year": "2006",
 "population_z": -0.48825 
 },
-"1035": {
+{
  "FIPS":     19,
 "year": "2006",
 "population_z": -0.43886 
 },
-"1036": {
+{
  "FIPS":     21,
 "year": "2006",
 "population_z": -0.44433 
 },
-"1037": {
+{
  "FIPS":     23,
 "year": "2006",
 "population_z": -0.47661 
 },
-"1038": {
+{
  "FIPS":     25,
 "year": "2006",
 "population_z": -0.46298 
 },
-"1039": {
+{
  "FIPS":     27,
 "year": "2006",
 "population_z": -0.47445 
 },
-"1040": {
+{
  "FIPS":     29,
 "year": "2006",
 "population_z": -0.3007 
 },
-"1041": {
+{
  "FIPS":     31,
 "year": "2006",
 "population_z": 3.3061 
 },
-"1042": {
+{
  "FIPS":     33,
 "year": "2006",
 "population_z": -0.48817 
 },
-"1043": {
+{
  "FIPS":     35,
 "year": "2006",
 "population_z": 1.2426 
 },
-"1044": {
+{
  "FIPS":     37,
 "year": "2006",
 "population_z": -0.17546 
 },
-"1045": {
+{
  "FIPS":     39,
 "year": "2006",
 "population_z": -0.34923 
 },
-"1046": {
+{
  "FIPS":     41,
 "year": "2006",
 "population_z":  3.439 
 },
-"1047": {
+{
  "FIPS":     43,
 "year": "2006",
 "population_z": -0.18568 
 },
-"1048": {
+{
  "FIPS":     45,
 "year": "2006",
 "population_z": -0.1559 
 },
-"1049": {
+{
  "FIPS":     47,
 "year": "2006",
 "population_z": -0.46812 
 },
-"1050": {
+{
  "FIPS":     49,
 "year": "2006",
 "population_z": -0.40601 
 },
-"1051": {
+{
  "FIPS":     51,
 "year": "2006",
 "population_z": -0.40252 
 },
-"1052": {
+{
  "FIPS":     53,
 "year": "2006",
 "population_z": -0.49601 
 },
-"1053": {
+{
  "FIPS":     55,
 "year": "2006",
 "population_z": -0.4492 
 },
-"1054": {
+{
  "FIPS":     57,
 "year": "2006",
 "population_z": -0.49187 
 },
-"1055": {
+{
  "FIPS":     59,
 "year": "2006",
 "population_z": 3.0471 
 },
-"1056": {
+{
  "FIPS":     61,
 "year": "2006",
 "population_z": -0.49139 
 },
-"1057": {
+{
  "FIPS":     63,
 "year": "2006",
 "population_z": -0.44787 
 },
-"1058": {
+{
  "FIPS":     65,
 "year": "2006",
 "population_z": -0.17415 
 },
-"1059": {
+{
  "FIPS":     67,
 "year": "2006",
 "population_z": -0.45281 
 },
-"1060": {
+{
  "FIPS":     69,
 "year": "2006",
 "population_z": 1.3995 
 },
-"1061": {
+{
  "FIPS":     71,
 "year": "2006",
 "population_z": -0.39642 
 },
-"1062": {
+{
  "FIPS":     73,
 "year": "2006",
 "population_z": -0.46331 
 },
-"1063": {
+{
  "FIPS":     75,
 "year": "2006",
 "population_z": -0.35099 
 },
-"1064": {
+{
  "FIPS":     77,
 "year": "2006",
 "population_z": 0.39898 
 },
-"1065": {
+{
  "FIPS":     79,
 "year": "2006",
 "population_z": -0.49629 
 },
-"1066": {
+{
  "FIPS":     81,
 "year": "2006",
 "population_z": -0.41299 
 },
-"1067": {
+{
  "FIPS":     83,
 "year": "2006",
 "population_z": -0.33239 
 },
-"1068": {
+{
  "FIPS":     85,
 "year": "2006",
 "population_z": -0.24478 
 },
-"1069": {
+{
  "FIPS":     87,
 "year": "2006",
 "population_z": -0.31232 
 },
-"1070": {
+{
  "FIPS":     89,
 "year": "2006",
 "population_z": -0.37179 
 },
-"1071": {
+{
  "FIPS":     91,
 "year": "2006",
 "population_z": -0.47364 
 },
-"1072": {
+{
  "FIPS":     93,
 "year": "2006",
 "population_z": -0.39252 
 },
-"1073": {
+{
  "FIPS":     95,
 "year": "2006",
 "population_z": -0.47116 
 },
-"1074": {
+{
  "FIPS":     97,
 "year": "2006",
 "population_z": -0.3928 
 },
-"1075": {
+{
  "FIPS":     99,
 "year": "2006",
 "population_z": -0.41228 
 },
-"1076": {
+{
  "FIPS":    101,
 "year": "2006",
 "population_z": 0.52708 
 },
-"1077": {
+{
  "FIPS":    103,
 "year": "2006",
 "population_z": -0.46117 
 },
-"1078": {
+{
  "FIPS":    105,
 "year": "2006",
 "population_z": -0.41748 
 },
-"1079": {
+{
  "FIPS":    107,
 "year": "2006",
 "population_z": -0.35357 
 },
-"1080": {
+{
  "FIPS":    109,
 "year": "2006",
 "population_z": -0.45941 
 },
-"1081": {
+{
  "FIPS":    111,
 "year": "2006",
 "population_z": -0.49708 
 },
-"1082": {
+{
  "FIPS":    113,
 "year": "2006",
 "population_z": -0.45387 
 },
-"1083": {
+{
  "FIPS":    115,
 "year": "2006",
 "population_z": -0.48461 
 },
-"1084": {
+{
  "FIPS":    117,
 "year": "2006",
 "population_z": -0.32006 
 },
-"1085": {
+{
  "FIPS":    119,
 "year": "2006",
 "population_z": -0.34745 
 },
-"1086": {
+{
  "FIPS":    121,
 "year": "2006",
 "population_z": -0.46793 
 },
-"1087": {
+{
  "FIPS":    123,
 "year": "2006",
 "population_z":  1.063 
 },
-"1088": {
+{
  "FIPS":    125,
 "year": "2006",
 "population_z": -0.43454 
 },
-"1089": {
+{
  "FIPS":      1,
 "year": "2007",
 "population_z": 2.2703 
 },
-"1090": {
+{
  "FIPS":      3,
 "year": "2007",
 "population_z": -0.40028 
 },
-"1091": {
+{
  "FIPS":      5,
 "year": "2007",
 "population_z": 3.1367 
 },
-"1092": {
+{
  "FIPS":      7,
 "year": "2007",
 "population_z": -0.42151 
 },
-"1093": {
+{
  "FIPS":      9,
 "year": "2007",
 "population_z": -0.47561 
 },
-"1094": {
+{
  "FIPS":     11,
 "year": "2007",
 "population_z": -0.46374 
 },
-"1095": {
+{
  "FIPS":     13,
 "year": "2007",
 "population_z": 1.4227 
 },
-"1096": {
+{
  "FIPS":     14,
 "year": "2007",
 "population_z": -0.14674 
 },
-"1097": {
+{
  "FIPS":     15,
 "year": "2007",
 "population_z": -0.38731 
 },
-"1098": {
+{
  "FIPS":     17,
 "year": "2007",
 "population_z": -0.48949 
 },
-"1099": {
+{
  "FIPS":     19,
 "year": "2007",
 "population_z": -0.44001 
 },
-"1100": {
+{
  "FIPS":     21,
 "year": "2007",
 "population_z": -0.44601 
 },
-"1101": {
+{
  "FIPS":     23,
 "year": "2007",
 "population_z": -0.47772 
 },
-"1102": {
+{
  "FIPS":     25,
 "year": "2007",
 "population_z": -0.46285 
 },
-"1103": {
+{
  "FIPS":     27,
 "year": "2007",
 "population_z": -0.47469 
 },
-"1104": {
+{
  "FIPS":     29,
 "year": "2007",
 "population_z": -0.30306 
 },
-"1105": {
+{
  "FIPS":     31,
 "year": "2007",
 "population_z": 3.3004 
 },
-"1106": {
+{
  "FIPS":     33,
 "year": "2007",
 "population_z": -0.48889 
 },
-"1107": {
+{
  "FIPS":     35,
 "year": "2007",
 "population_z": 1.2883 
 },
-"1108": {
+{
  "FIPS":     37,
 "year": "2007",
 "population_z": -0.17369 
 },
-"1109": {
+{
  "FIPS":     39,
 "year": "2007",
 "population_z": -0.35238 
 },
-"1110": {
+{
  "FIPS":     41,
 "year": "2007",
 "population_z": 3.4226 
 },
-"1111": {
+{
  "FIPS":     43,
 "year": "2007",
 "population_z": -0.19123 
 },
-"1112": {
+{
  "FIPS":     45,
 "year": "2007",
 "population_z": -0.15108 
 },
-"1113": {
+{
  "FIPS":     47,
 "year": "2007",
 "population_z": -0.46913 
 },
-"1114": {
+{
  "FIPS":     49,
 "year": "2007",
 "population_z": -0.40664 
 },
-"1115": {
+{
  "FIPS":     51,
 "year": "2007",
 "population_z": -0.40252 
 },
-"1116": {
+{
  "FIPS":     53,
 "year": "2007",
 "population_z": -0.49659 
 },
-"1117": {
+{
  "FIPS":     55,
 "year": "2007",
 "population_z": -0.45118 
 },
-"1118": {
+{
  "FIPS":     57,
 "year": "2007",
 "population_z": -0.49275 
 },
-"1119": {
+{
  "FIPS":     59,
 "year": "2007",
 "population_z": 3.0116 
 },
-"1120": {
+{
  "FIPS":     61,
 "year": "2007",
 "population_z": -0.49242 
 },
-"1121": {
+{
  "FIPS":     63,
 "year": "2007",
 "population_z":  -0.45 
 },
-"1122": {
+{
  "FIPS":     65,
 "year": "2007",
 "population_z": -0.17461 
 },
-"1123": {
+{
  "FIPS":     67,
 "year": "2007",
 "population_z": -0.45376 
 },
-"1124": {
+{
  "FIPS":     69,
 "year": "2007",
 "population_z": 1.4093 
 },
-"1125": {
+{
  "FIPS":     71,
 "year": "2007",
 "population_z": -0.39873 
 },
-"1126": {
+{
  "FIPS":     73,
 "year": "2007",
 "population_z": -0.46509 
 },
-"1127": {
+{
  "FIPS":     75,
 "year": "2007",
 "population_z": -0.35288 
 },
-"1128": {
+{
  "FIPS":     77,
 "year": "2007",
 "population_z": 0.41363 
 },
-"1129": {
+{
  "FIPS":     79,
 "year": "2007",
 "population_z": -0.49687 
 },
-"1130": {
+{
  "FIPS":     81,
 "year": "2007",
 "population_z": -0.41377 
 },
-"1131": {
+{
  "FIPS":     83,
 "year": "2007",
 "population_z": -0.33439 
 },
-"1132": {
+{
  "FIPS":     85,
 "year": "2007",
 "population_z": -0.24137 
 },
-"1133": {
+{
  "FIPS":     87,
 "year": "2007",
 "population_z": -0.31659 
 },
-"1134": {
+{
  "FIPS":     89,
 "year": "2007",
 "population_z": -0.37599 
 },
-"1135": {
+{
  "FIPS":     91,
 "year": "2007",
 "population_z": -0.47373 
 },
-"1136": {
+{
  "FIPS":     93,
 "year": "2007",
 "population_z": -0.39333 
 },
-"1137": {
+{
  "FIPS":     95,
 "year": "2007",
 "population_z": -0.47233 
 },
-"1138": {
+{
  "FIPS":     97,
 "year": "2007",
 "population_z": -0.39399 
 },
-"1139": {
+{
  "FIPS":     99,
 "year": "2007",
 "population_z": -0.41709 
 },
-"1140": {
+{
  "FIPS":    101,
 "year": "2007",
 "population_z": 0.52941 
 },
-"1141": {
+{
  "FIPS":    103,
 "year": "2007",
 "population_z": -0.46161 
 },
-"1142": {
+{
  "FIPS":    105,
 "year": "2007",
 "population_z": -0.42112 
 },
-"1143": {
+{
  "FIPS":    107,
 "year": "2007",
 "population_z": -0.3528 
 },
-"1144": {
+{
  "FIPS":    109,
 "year": "2007",
 "population_z": -0.46117 
 },
-"1145": {
+{
  "FIPS":    111,
 "year": "2007",
 "population_z": -0.49765 
 },
-"1146": {
+{
  "FIPS":    113,
 "year": "2007",
 "population_z": -0.45372 
 },
-"1147": {
+{
  "FIPS":    115,
 "year": "2007",
 "population_z": -0.48608 
 },
-"1148": {
+{
  "FIPS":    117,
 "year": "2007",
 "population_z": -0.32115 
 },
-"1149": {
+{
  "FIPS":    119,
 "year": "2007",
 "population_z": -0.34781 
 },
-"1150": {
+{
  "FIPS":    121,
 "year": "2007",
 "population_z": -0.46938 
 },
-"1151": {
+{
  "FIPS":    123,
 "year": "2007",
 "population_z": 1.0862 
 },
-"1152": {
+{
  "FIPS":    125,
 "year": "2007",
 "population_z": -0.43636 
 },
-"1153": {
+{
  "FIPS":      1,
 "year": "2008",
 "population_z": 2.2832 
 },
-"1154": {
+{
  "FIPS":      3,
 "year": "2008",
 "population_z": -0.40121 
 },
-"1155": {
+{
  "FIPS":      5,
 "year": "2008",
 "population_z":  3.142 
 },
-"1156": {
+{
  "FIPS":      7,
 "year": "2008",
 "population_z": -0.42264 
 },
-"1157": {
+{
  "FIPS":      9,
 "year": "2008",
 "population_z": -0.47614 
 },
-"1158": {
+{
  "FIPS":     11,
 "year": "2008",
 "population_z": -0.46238 
 },
-"1159": {
+{
  "FIPS":     13,
 "year": "2008",
 "population_z": 1.4099 
 },
-"1160": {
+{
  "FIPS":     14,
 "year": "2008",
 "population_z": -0.14538 
 },
-"1161": {
+{
  "FIPS":     15,
 "year": "2008",
 "population_z": -0.38773 
 },
-"1162": {
+{
  "FIPS":     17,
 "year": "2008",
 "population_z": -0.4893 
 },
-"1163": {
+{
  "FIPS":     19,
 "year": "2008",
 "population_z": -0.44085 
 },
-"1164": {
+{
  "FIPS":     21,
 "year": "2008",
 "population_z": -0.44681 
 },
-"1165": {
+{
  "FIPS":     23,
 "year": "2008",
 "population_z": -0.47808 
 },
-"1166": {
+{
  "FIPS":     25,
 "year": "2008",
 "population_z": -0.46313 
 },
-"1167": {
+{
  "FIPS":     27,
 "year": "2008",
 "population_z": -0.47475 
 },
-"1168": {
+{
  "FIPS":     29,
 "year": "2008",
 "population_z": -0.30297 
 },
-"1169": {
+{
  "FIPS":     31,
 "year": "2008",
 "population_z": 3.3101 
 },
-"1170": {
+{
  "FIPS":     33,
 "year": "2008",
 "population_z": -0.48815 
 },
-"1171": {
+{
  "FIPS":     35,
 "year": "2008",
 "population_z": 1.3111 
 },
-"1172": {
+{
  "FIPS":     37,
 "year": "2008",
 "population_z": -0.17223 
 },
-"1173": {
+{
  "FIPS":     39,
 "year": "2008",
 "population_z": -0.35327 
 },
-"1174": {
+{
  "FIPS":     41,
 "year": "2008",
 "population_z": 3.4225 
 },
-"1175": {
+{
  "FIPS":     43,
 "year": "2008",
 "population_z": -0.19533 
 },
-"1176": {
+{
  "FIPS":     45,
 "year": "2008",
 "population_z": -0.14652 
 },
-"1177": {
+{
  "FIPS":     47,
 "year": "2008",
 "population_z": -0.46843 
 },
-"1178": {
+{
  "FIPS":     49,
 "year": "2008",
 "population_z": -0.40652 
 },
-"1179": {
+{
  "FIPS":     51,
 "year": "2008",
 "population_z": -0.40257 
 },
-"1180": {
+{
  "FIPS":     53,
 "year": "2008",
 "population_z": -0.49633 
 },
-"1181": {
+{
  "FIPS":     55,
 "year": "2008",
 "population_z": -0.45142 
 },
-"1182": {
+{
  "FIPS":     57,
 "year": "2008",
 "population_z": -0.49269 
 },
-"1183": {
+{
  "FIPS":     59,
 "year": "2008",
 "population_z": 2.9738 
 },
-"1184": {
+{
  "FIPS":     61,
 "year": "2008",
 "population_z": -0.49235 
 },
-"1185": {
+{
  "FIPS":     63,
 "year": "2008",
 "population_z": -0.44905 
 },
-"1186": {
+{
  "FIPS":     65,
 "year": "2008",
 "population_z": -0.17372 
 },
-"1187": {
+{
  "FIPS":     67,
 "year": "2008",
 "population_z": -0.45411 
 },
-"1188": {
+{
  "FIPS":     69,
 "year": "2008",
 "population_z": 1.4136 
 },
-"1189": {
+{
  "FIPS":     71,
 "year": "2008",
 "population_z": -0.40029 
 },
-"1190": {
+{
  "FIPS":     73,
 "year": "2008",
 "population_z": -0.46556 
 },
-"1191": {
+{
  "FIPS":     75,
 "year": "2008",
 "population_z": -0.3555 
 },
-"1192": {
+{
  "FIPS":     77,
 "year": "2008",
 "population_z": 0.41981 
 },
-"1193": {
+{
  "FIPS":     79,
 "year": "2008",
 "population_z": -0.49671 
 },
-"1194": {
+{
  "FIPS":     81,
 "year": "2008",
 "population_z": -0.41365 
 },
-"1195": {
+{
  "FIPS":     83,
 "year": "2008",
 "population_z": -0.33666 
 },
-"1196": {
+{
  "FIPS":     85,
 "year": "2008",
 "population_z": -0.24002 
 },
-"1197": {
+{
  "FIPS":     87,
 "year": "2008",
 "population_z": -0.31998 
 },
-"1198": {
+{
  "FIPS":     89,
 "year": "2008",
 "population_z": -0.37823 
 },
-"1199": {
+{
  "FIPS":     91,
 "year": "2008",
 "population_z": -0.47286 
 },
-"1200": {
+{
  "FIPS":     93,
 "year": "2008",
 "population_z": -0.3951 
 },
-"1201": {
+{
  "FIPS":     95,
 "year": "2008",
 "population_z": -0.47257 
 },
-"1202": {
+{
  "FIPS":     97,
 "year": "2008",
 "population_z": -0.39251 
 },
-"1203": {
+{
  "FIPS":     99,
 "year": "2008",
 "population_z": -0.41866 
 },
-"1204": {
+{
  "FIPS":    101,
 "year": "2008",
 "population_z": 0.52182 
 },
-"1205": {
+{
  "FIPS":    103,
 "year": "2008",
 "population_z": -0.46138 
 },
-"1206": {
+{
  "FIPS":    105,
 "year": "2008",
 "population_z": -0.42244 
 },
-"1207": {
+{
  "FIPS":    107,
 "year": "2008",
 "population_z": -0.35152 
 },
-"1208": {
+{
  "FIPS":    109,
 "year": "2008",
 "population_z": -0.46127 
 },
-"1209": {
+{
  "FIPS":    111,
 "year": "2008",
 "population_z": -0.49716 
 },
-"1210": {
+{
  "FIPS":    113,
 "year": "2008",
 "population_z": -0.45389 
 },
-"1211": {
+{
  "FIPS":    115,
 "year": "2008",
 "population_z": -0.48588 
 },
-"1212": {
+{
  "FIPS":    117,
 "year": "2008",
 "population_z": -0.32182 
 },
-"1213": {
+{
  "FIPS":    119,
 "year": "2008",
 "population_z": -0.3504 
 },
-"1214": {
+{
  "FIPS":    121,
 "year": "2008",
 "population_z": -0.47028 
 },
-"1215": {
+{
  "FIPS":    123,
 "year": "2008",
 "population_z": 1.0974 
 },
-"1216": {
+{
  "FIPS":    125,
 "year": "2008",
 "population_z": -0.43691 
 },
-"1217": {
+{
  "FIPS":      1,
 "year": "2009",
 "population_z": 2.3092 
 },
-"1218": {
+{
  "FIPS":      3,
 "year": "2009",
 "population_z": -0.40226 
 },
-"1219": {
+{
  "FIPS":      5,
 "year": "2009",
 "population_z": 3.1474 
 },
-"1220": {
+{
  "FIPS":      7,
 "year": "2009",
 "population_z": -0.42417 
 },
-"1221": {
+{
  "FIPS":      9,
 "year": "2009",
 "population_z": -0.47624 
 },
-"1222": {
+{
  "FIPS":     11,
 "year": "2009",
 "population_z": -0.45907 
 },
-"1223": {
+{
  "FIPS":     13,
 "year": "2009",
 "population_z": 1.3903 
 },
-"1224": {
+{
  "FIPS":     14,
 "year": "2009",
 "population_z": -0.14416 
 },
-"1225": {
+{
  "FIPS":     15,
 "year": "2009",
 "population_z": -0.38743 
 },
-"1226": {
+{
  "FIPS":     17,
 "year": "2009",
 "population_z": -0.489 
 },
-"1227": {
+{
  "FIPS":     19,
 "year": "2009",
 "population_z": -0.44246 
 },
-"1228": {
+{
  "FIPS":     21,
 "year": "2009",
 "population_z": -0.44793 
 },
-"1229": {
+{
  "FIPS":     23,
 "year": "2009",
 "population_z": -0.47823 
 },
-"1230": {
+{
  "FIPS":     25,
 "year": "2009",
 "population_z": -0.46343 
 },
-"1231": {
+{
  "FIPS":     27,
 "year": "2009",
 "population_z": -0.47397 
 },
-"1232": {
+{
  "FIPS":     29,
 "year": "2009",
 "population_z": -0.30358 
 },
-"1233": {
+{
  "FIPS":     31,
 "year": "2009",
 "population_z": 3.3347 
 },
-"1234": {
+{
  "FIPS":     33,
 "year": "2009",
 "population_z": -0.48759 
 },
-"1235": {
+{
  "FIPS":     35,
 "year": "2009",
 "population_z": 1.3164 
 },
-"1236": {
+{
  "FIPS":     37,
 "year": "2009",
 "population_z": -0.16901 
 },
-"1237": {
+{
  "FIPS":     39,
 "year": "2009",
 "population_z": -0.35339 
 },
-"1238": {
+{
  "FIPS":     41,
 "year": "2009",
 "population_z": 3.4181 
 },
-"1239": {
+{
  "FIPS":     43,
 "year": "2009",
 "population_z": -0.20047 
 },
-"1240": {
+{
  "FIPS":     45,
 "year": "2009",
 "population_z": -0.14402 
 },
-"1241": {
+{
  "FIPS":     47,
 "year": "2009",
 "population_z": -0.46605 
 },
-"1242": {
+{
  "FIPS":     49,
 "year": "2009",
 "population_z": -0.40637 
 },
-"1243": {
+{
  "FIPS":     51,
 "year": "2009",
 "population_z": -0.40249 
 },
-"1244": {
+{
  "FIPS":     53,
 "year": "2009",
 "population_z": -0.49548 
 },
-"1245": {
+{
  "FIPS":     55,
 "year": "2009",
 "population_z": -0.45759 
 },
-"1246": {
+{
  "FIPS":     57,
 "year": "2009",
 "population_z": -0.49188 
 },
-"1247": {
+{
  "FIPS":     59,
 "year": "2009",
 "population_z": 2.9292 
 },
-"1248": {
+{
  "FIPS":     61,
 "year": "2009",
 "population_z": -0.49184 
 },
-"1249": {
+{
  "FIPS":     63,
 "year": "2009",
 "population_z": -0.44755 
 },
-"1250": {
+{
  "FIPS":     65,
 "year": "2009",
 "population_z": -0.17391 
 },
-"1251": {
+{
  "FIPS":     67,
 "year": "2009",
 "population_z": -0.4546 
 },
-"1252": {
+{
  "FIPS":     69,
 "year": "2009",
 "population_z": 1.4151 
 },
-"1253": {
+{
  "FIPS":     71,
 "year": "2009",
 "population_z": -0.40113 
 },
-"1254": {
+{
  "FIPS":     73,
 "year": "2009",
 "population_z": -0.46562 
 },
-"1255": {
+{
  "FIPS":     75,
 "year": "2009",
 "population_z": -0.35579 
 },
-"1256": {
+{
  "FIPS":     77,
 "year": "2009",
 "population_z": 0.43169 
 },
-"1257": {
+{
  "FIPS":     79,
 "year": "2009",
 "population_z": -0.49621 
 },
-"1258": {
+{
  "FIPS":     81,
 "year": "2009",
 "population_z": -0.41358 
 },
-"1259": {
+{
  "FIPS":     83,
 "year": "2009",
 "population_z": -0.33745 
 },
-"1260": {
+{
  "FIPS":     85,
 "year": "2009",
 "population_z": -0.23882 
 },
-"1261": {
+{
  "FIPS":     87,
 "year": "2009",
 "population_z": -0.32031 
 },
-"1262": {
+{
  "FIPS":     89,
 "year": "2009",
 "population_z": -0.37945 
 },
-"1263": {
+{
  "FIPS":     91,
 "year": "2009",
 "population_z": -0.47265 
 },
-"1264": {
+{
  "FIPS":     93,
 "year": "2009",
 "population_z": -0.39795 
 },
-"1265": {
+{
  "FIPS":     95,
 "year": "2009",
 "population_z": -0.47212 
 },
-"1266": {
+{
  "FIPS":     97,
 "year": "2009",
 "population_z": -0.39098 
 },
-"1267": {
+{
  "FIPS":     99,
 "year": "2009",
 "population_z": -0.41981 
 },
-"1268": {
+{
  "FIPS":    101,
 "year": "2009",
 "population_z": 0.51238 
 },
-"1269": {
+{
  "FIPS":    103,
 "year": "2009",
 "population_z": -0.46012 
 },
-"1270": {
+{
  "FIPS":    105,
 "year": "2009",
 "population_z": -0.42355 
 },
-"1271": {
+{
  "FIPS":    107,
 "year": "2009",
 "population_z": -0.35059 
 },
-"1272": {
+{
  "FIPS":    109,
 "year": "2009",
 "population_z": -0.46135 
 },
-"1273": {
+{
  "FIPS":    111,
 "year": "2009",
 "population_z": -0.49638 
 },
-"1274": {
+{
  "FIPS":    113,
 "year": "2009",
 "population_z": -0.454 
 },
-"1275": {
+{
  "FIPS":    115,
 "year": "2009",
 "population_z": -0.4855 
 },
-"1276": {
+{
  "FIPS":    117,
 "year": "2009",
 "population_z": -0.32188 
 },
-"1277": {
+{
  "FIPS":    119,
 "year": "2009",
 "population_z": -0.35136 
 },
-"1278": {
+{
  "FIPS":    121,
 "year": "2009",
 "population_z": -0.47004 
 },
-"1279": {
+{
  "FIPS":    123,
 "year": "2009",
 "population_z": 1.1025 
 },
-"1280": {
+{
  "FIPS":    125,
 "year": "2009",
 "population_z": -0.43617 
 },
-"1281": {
+{
  "FIPS":      1,
 "year": "2010",
 "population_z": 2.3099 
 },
-"1282": {
+{
  "FIPS":      3,
 "year": "2010",
 "population_z": -0.40168 
 },
-"1283": {
+{
  "FIPS":      5,
 "year": "2010",
 "population_z": 3.1401 
 },
-"1284": {
+{
  "FIPS":      7,
 "year": "2010",
 "population_z": -0.42329 
 },
-"1285": {
+{
  "FIPS":      9,
 "year": "2010",
 "population_z": -0.47563 
 },
-"1286": {
+{
  "FIPS":     11,
 "year": "2010",
 "population_z": -0.45846 
 },
-"1287": {
+{
  "FIPS":     13,
 "year": "2010",
 "population_z": 1.3721 
 },
-"1288": {
+{
  "FIPS":     14,
 "year": "2010",
 "population_z": -0.14439 
 },
-"1289": {
+{
  "FIPS":     15,
 "year": "2010",
 "population_z": -0.38697 
 },
-"1290": {
+{
  "FIPS":     17,
 "year": "2010",
 "population_z": -0.48804 
 },
-"1291": {
+{
  "FIPS":     19,
 "year": "2010",
 "population_z": -0.44169 
 },
-"1292": {
+{
  "FIPS":     21,
 "year": "2010",
 "population_z": -0.44722 
 },
-"1293": {
+{
  "FIPS":     23,
 "year": "2010",
 "population_z": -0.47729 
 },
-"1294": {
+{
  "FIPS":     25,
 "year": "2010",
 "population_z": -0.46269 
 },
-"1295": {
+{
  "FIPS":     27,
 "year": "2010",
 "population_z": -0.47261 
 },
-"1296": {
+{
  "FIPS":     29,
 "year": "2010",
 "population_z": -0.30407 
 },
-"1297": {
+{
  "FIPS":     31,
 "year": "2010",
 "population_z": 3.3304 
 },
-"1298": {
+{
  "FIPS":     33,
 "year": "2010",
 "population_z": -0.48661 
 },
-"1299": {
+{
  "FIPS":     35,
 "year": "2010",
 "population_z": 1.3184 
 },
-"1300": {
+{
  "FIPS":     37,
 "year": "2010",
 "population_z": -0.17004 
 },
-"1301": {
+{
  "FIPS":     39,
 "year": "2010",
 "population_z": -0.35335 
 },
-"1302": {
+{
  "FIPS":     41,
 "year": "2010",
 "population_z": 3.4719 
 },
-"1303": {
+{
  "FIPS":     43,
 "year": "2010",
 "population_z": -0.20298 
 },
-"1304": {
+{
  "FIPS":     45,
 "year": "2010",
 "population_z": -0.14412 
 },
-"1305": {
+{
  "FIPS":     47,
 "year": "2010",
 "population_z": -0.46507 
 },
-"1306": {
+{
  "FIPS":     49,
 "year": "2010",
 "population_z": -0.40601 
 },
-"1307": {
+{
  "FIPS":     51,
 "year": "2010",
 "population_z": -0.40272 
 },
-"1308": {
+{
  "FIPS":     53,
 "year": "2010",
 "population_z": -0.49432 
 },
-"1309": {
+{
  "FIPS":     55,
 "year": "2010",
 "population_z": -0.45752 
 },
-"1310": {
+{
  "FIPS":     57,
 "year": "2010",
 "population_z": -0.49088 
 },
-"1311": {
+{
  "FIPS":     59,
 "year": "2010",
 "population_z":  2.892 
 },
-"1312": {
+{
  "FIPS":     61,
 "year": "2010",
 "population_z": -0.4908 
 },
-"1313": {
+{
  "FIPS":     63,
 "year": "2010",
 "population_z": -0.44731 
 },
-"1314": {
+{
  "FIPS":     65,
 "year": "2010",
 "population_z": -0.17394 
 },
-"1315": {
+{
  "FIPS":     67,
 "year": "2010",
 "population_z": -0.45355 
 },
-"1316": {
+{
  "FIPS":     69,
 "year": "2010",
 "population_z": 1.4033 
 },
-"1317": {
+{
  "FIPS":     71,
 "year": "2010",
 "population_z": -0.4021 
 },
-"1318": {
+{
  "FIPS":     73,
 "year": "2010",
 "population_z": -0.465 
 },
-"1319": {
+{
  "FIPS":     75,
 "year": "2010",
 "population_z": -0.3585 
 },
-"1320": {
+{
  "FIPS":     77,
 "year": "2010",
 "population_z": 0.43185 
 },
-"1321": {
+{
  "FIPS":     79,
 "year": "2010",
 "population_z": -0.49519 
 },
-"1322": {
+{
  "FIPS":     81,
 "year": "2010",
 "population_z": -0.41224 
 },
-"1323": {
+{
  "FIPS":     83,
 "year": "2010",
 "population_z": -0.33799 
 },
-"1324": {
+{
  "FIPS":     85,
 "year": "2010",
 "population_z": -0.23886 
 },
-"1325": {
+{
  "FIPS":     87,
 "year": "2010",
 "population_z": -0.32112 
 },
-"1326": {
+{
  "FIPS":     89,
 "year": "2010",
 "population_z": -0.38038 
 },
-"1327": {
+{
  "FIPS":     91,
 "year": "2010",
 "population_z": -0.47151 
 },
-"1328": {
+{
  "FIPS":     93,
 "year": "2010",
 "population_z": -0.39669 
 },
-"1329": {
+{
  "FIPS":     95,
 "year": "2010",
 "population_z": -0.47139 
 },
-"1330": {
+{
  "FIPS":     97,
 "year": "2010",
 "population_z": -0.39103 
 },
-"1331": {
+{
  "FIPS":     99,
 "year": "2010",
 "population_z": -0.42031 
 },
-"1332": {
+{
  "FIPS":    101,
 "year": "2010",
 "population_z": 0.51026 
 },
-"1333": {
+{
  "FIPS":    103,
 "year": "2010",
 "population_z": -0.45776 
 },
-"1334": {
+{
  "FIPS":    105,
 "year": "2010",
 "population_z": -0.42367 
 },
-"1335": {
+{
  "FIPS":    107,
 "year": "2010",
 "population_z": -0.35124 
 },
-"1336": {
+{
  "FIPS":    109,
 "year": "2010",
 "population_z": -0.46075 
 },
-"1337": {
+{
  "FIPS":    111,
 "year": "2010",
 "population_z": -0.49517 
 },
-"1338": {
+{
  "FIPS":    113,
 "year": "2010",
 "population_z": -0.45308 
 },
-"1339": {
+{
  "FIPS":    115,
 "year": "2010",
 "population_z": -0.48467 
 },
-"1340": {
+{
  "FIPS":    117,
 "year": "2010",
 "population_z": -0.3219 
 },
-"1341": {
+{
  "FIPS":    119,
 "year": "2010",
 "population_z": -0.35123 
 },
-"1342": {
+{
  "FIPS":    121,
 "year": "2010",
 "population_z": -0.46917 
 },
-"1343": {
+{
  "FIPS":    123,
 "year": "2010",
 "population_z": 1.1101 
 },
-"1344": {
+{
  "FIPS":    125,
 "year": "2010",
 "population_z": -0.43614 
 },
-"1345": {
+{
  "FIPS":      1,
 "year": "2011",
 "population_z": 2.3129 
 },
-"1346": {
+{
  "FIPS":      3,
 "year": "2011",
 "population_z": -0.40001 
 },
-"1347": {
+{
  "FIPS":      5,
 "year": "2011",
 "population_z": 3.1438 
 },
-"1348": {
+{
  "FIPS":      7,
 "year": "2011",
 "population_z": -0.42284 
 },
-"1349": {
+{
  "FIPS":      9,
 "year": "2011",
 "population_z": -0.4739 
 },
-"1350": {
+{
  "FIPS":     11,
 "year": "2011",
 "population_z": -0.45829 
 },
-"1351": {
+{
  "FIPS":     13,
 "year": "2011",
 "population_z": 1.3694 
 },
-"1352": {
+{
  "FIPS":     14,
 "year": "2011",
 "population_z": -0.14169 
 },
-"1353": {
+{
  "FIPS":     15,
 "year": "2011",
 "population_z": -0.38552 
 },
-"1354": {
+{
  "FIPS":     17,
 "year": "2011",
 "population_z": -0.48591 
 },
-"1355": {
+{
  "FIPS":     19,
 "year": "2011",
 "population_z": -0.44111 
 },
-"1356": {
+{
  "FIPS":     21,
 "year": "2011",
 "population_z": -0.44597 
 },
-"1357": {
+{
  "FIPS":     23,
 "year": "2011",
 "population_z": -0.47483 
 },
-"1358": {
+{
  "FIPS":     25,
 "year": "2011",
 "population_z": -0.46132 
 },
-"1359": {
+{
  "FIPS":     27,
 "year": "2011",
 "population_z": -0.47124 
 },
-"1360": {
+{
  "FIPS":     29,
 "year": "2011",
 "population_z": -0.30859 
 },
-"1361": {
+{
  "FIPS":     31,
 "year": "2011",
 "population_z": 3.3631 
 },
-"1362": {
+{
  "FIPS":     33,
 "year": "2011",
 "population_z": -0.48493 
 },
-"1363": {
+{
  "FIPS":     35,
 "year": "2011",
 "population_z": 1.3212 
 },
-"1364": {
+{
  "FIPS":     37,
 "year": "2011",
 "population_z": -0.17636 
 },
-"1365": {
+{
  "FIPS":     39,
 "year": "2011",
 "population_z": -0.35314 
 },
-"1366": {
+{
  "FIPS":     41,
 "year": "2011",
 "population_z": 3.4706 
 },
-"1367": {
+{
  "FIPS":     43,
 "year": "2011",
 "population_z": -0.20281 
 },
-"1368": {
+{
  "FIPS":     45,
 "year": "2011",
 "population_z": -0.14884 
 },
-"1369": {
+{
  "FIPS":     47,
 "year": "2011",
 "population_z": -0.46363 
 },
-"1370": {
+{
  "FIPS":     49,
 "year": "2011",
 "population_z": -0.40697 
 },
-"1371": {
+{
  "FIPS":     51,
 "year": "2011",
 "population_z": -0.40177 
 },
-"1372": {
+{
  "FIPS":     53,
 "year": "2011",
 "population_z": -0.49238 
 },
-"1373": {
+{
  "FIPS":     55,
 "year": "2011",
 "population_z": -0.45709 
 },
-"1374": {
+{
  "FIPS":     57,
 "year": "2011",
 "population_z": -0.48896 
 },
-"1375": {
+{
  "FIPS":     59,
 "year": "2011",
 "population_z": 2.8586 
 },
-"1376": {
+{
  "FIPS":     61,
 "year": "2011",
 "population_z": -0.48854 
 },
-"1377": {
+{
  "FIPS":     63,
 "year": "2011",
 "population_z": -0.44663 
 },
-"1378": {
+{
  "FIPS":     65,
 "year": "2011",
 "population_z": -0.17485 
 },
-"1379": {
+{
  "FIPS":     67,
 "year": "2011",
 "population_z": -0.45159 
 },
-"1380": {
+{
  "FIPS":     69,
 "year": "2011",
 "population_z": 1.3996 
 },
-"1381": {
+{
  "FIPS":     71,
 "year": "2011",
 "population_z": -0.40397 
 },
-"1382": {
+{
  "FIPS":     73,
 "year": "2011",
 "population_z": -0.46389 
 },
-"1383": {
+{
  "FIPS":     75,
 "year": "2011",
 "population_z": -0.35906 
 },
-"1384": {
+{
  "FIPS":     77,
 "year": "2011",
 "population_z": 0.42323 
 },
-"1385": {
+{
  "FIPS":     79,
 "year": "2011",
 "population_z": -0.49311 
 },
-"1386": {
+{
  "FIPS":     81,
 "year": "2011",
 "population_z": -0.41414 
 },
-"1387": {
+{
  "FIPS":     83,
 "year": "2011",
 "population_z": -0.33923 
 },
-"1388": {
+{
  "FIPS":     85,
 "year": "2011",
 "population_z": -0.24302 
 },
-"1389": {
+{
  "FIPS":     87,
 "year": "2011",
 "population_z": -0.3206 
 },
-"1390": {
+{
  "FIPS":     89,
 "year": "2011",
 "population_z": -0.38039 
 },
-"1391": {
+{
  "FIPS":     91,
 "year": "2011",
 "population_z":  -0.47 
 },
-"1392": {
+{
  "FIPS":     93,
 "year": "2011",
 "population_z": -0.39743 
 },
-"1393": {
+{
  "FIPS":     95,
 "year": "2011",
 "population_z": -0.4703 
 },
-"1394": {
+{
  "FIPS":     97,
 "year": "2011",
 "population_z": -0.39098 
 },
-"1395": {
+{
  "FIPS":     99,
 "year": "2011",
 "population_z": -0.42005 
 },
-"1396": {
+{
  "FIPS":    101,
 "year": "2011",
 "population_z": 0.49914 
 },
-"1397": {
+{
  "FIPS":    103,
 "year": "2011",
 "population_z": -0.4556 
 },
-"1398": {
+{
  "FIPS":    105,
 "year": "2011",
 "population_z": -0.42345 
 },
-"1399": {
+{
  "FIPS":    107,
 "year": "2011",
 "population_z": -0.35301 
 },
-"1400": {
+{
  "FIPS":    109,
 "year": "2011",
 "population_z": -0.45896 
 },
-"1401": {
+{
  "FIPS":    111,
 "year": "2011",
 "population_z": -0.49319 
 },
-"1402": {
+{
  "FIPS":    113,
 "year": "2011",
 "population_z": -0.45095 
 },
-"1403": {
+{
  "FIPS":    115,
 "year": "2011",
 "population_z": -0.48278 
 },
-"1404": {
+{
  "FIPS":    117,
 "year": "2011",
 "population_z": -0.32375 
 },
-"1405": {
+{
  "FIPS":    119,
 "year": "2011",
 "population_z": -0.35266 
 },
-"1406": {
+{
  "FIPS":    121,
 "year": "2011",
 "population_z": -0.46776 
 },
-"1407": {
+{
  "FIPS":    123,
 "year": "2011",
 "population_z": 1.1111 
 },
-"1408": {
+{
  "FIPS":    125,
 "year": "2011",
 "population_z": -0.43455 
 },
-"1409": {
+{
  "FIPS":      1,
 "year": "2012",
 "population_z": 2.3171 
 },
-"1410": {
+{
  "FIPS":      3,
 "year": "2012",
 "population_z": -0.39991 
 },
-"1411": {
+{
  "FIPS":      5,
 "year": "2012",
 "population_z": 3.1454 
 },
-"1412": {
+{
  "FIPS":      7,
 "year": "2012",
 "population_z": -0.42176 
 },
-"1413": {
+{
  "FIPS":      9,
 "year": "2012",
 "population_z": -0.47292 
 },
-"1414": {
+{
  "FIPS":     11,
 "year": "2012",
 "population_z": -0.46052 
 },
-"1415": {
+{
  "FIPS":     13,
 "year": "2012",
 "population_z": 1.3692 
 },
-"1416": {
+{
  "FIPS":     14,
 "year": "2012",
 "population_z": -0.13654 
 },
-"1417": {
+{
  "FIPS":     15,
 "year": "2012",
 "population_z": -0.38504 
 },
-"1418": {
+{
  "FIPS":     17,
 "year": "2012",
 "population_z": -0.48429 
 },
-"1419": {
+{
  "FIPS":     19,
 "year": "2012",
 "population_z": -0.44024 
 },
-"1420": {
+{
  "FIPS":     21,
 "year": "2012",
 "population_z": -0.44537 
 },
-"1421": {
+{
  "FIPS":     23,
 "year": "2012",
 "population_z": -0.47381 
 },
-"1422": {
+{
  "FIPS":     25,
 "year": "2012",
 "population_z": -0.46295 
 },
-"1423": {
+{
  "FIPS":     27,
 "year": "2012",
 "population_z": -0.4699 
 },
-"1424": {
+{
  "FIPS":     29,
 "year": "2012",
 "population_z": -0.30954 
 },
-"1425": {
+{
  "FIPS":     31,
 "year": "2012",
 "population_z":  3.384 
 },
-"1426": {
+{
  "FIPS":     33,
 "year": "2012",
 "population_z": -0.48369 
 },
-"1427": {
+{
  "FIPS":     35,
 "year": "2012",
 "population_z": 1.3288 
 },
-"1428": {
+{
  "FIPS":     37,
 "year": "2012",
 "population_z": -0.17895 
 },
-"1429": {
+{
  "FIPS":     39,
 "year": "2012",
 "population_z": -0.35288 
 },
-"1430": {
+{
  "FIPS":     41,
 "year": "2012",
 "population_z": 3.4602 
 },
-"1431": {
+{
  "FIPS":     43,
 "year": "2012",
 "population_z": -0.20833 
 },
-"1432": {
+{
  "FIPS":     45,
 "year": "2012",
 "population_z": -0.14829 
 },
-"1433": {
+{
  "FIPS":     47,
 "year": "2012",
 "population_z": -0.46247 
 },
-"1434": {
+{
  "FIPS":     49,
 "year": "2012",
 "population_z": -0.4091 
 },
-"1435": {
+{
  "FIPS":     51,
 "year": "2012",
 "population_z": -0.40161 
 },
-"1436": {
+{
  "FIPS":     53,
 "year": "2012",
 "population_z": -0.49095 
 },
-"1437": {
+{
  "FIPS":     55,
 "year": "2012",
 "population_z": -0.45569 
 },
-"1438": {
+{
  "FIPS":     57,
 "year": "2012",
 "population_z": -0.48762 
 },
-"1439": {
+{
  "FIPS":     59,
 "year": "2012",
 "population_z": 2.8396 
 },
-"1440": {
+{
  "FIPS":     61,
 "year": "2012",
 "population_z": -0.48712 
 },
-"1441": {
+{
  "FIPS":     63,
 "year": "2012",
 "population_z": -0.44641 
 },
-"1442": {
+{
  "FIPS":     65,
 "year": "2012",
 "population_z": -0.17529 
 },
-"1443": {
+{
  "FIPS":     67,
 "year": "2012",
 "population_z": -0.45126 
 },
-"1444": {
+{
  "FIPS":     69,
 "year": "2012",
 "population_z": 1.4026 
 },
-"1445": {
+{
  "FIPS":     71,
 "year": "2012",
 "population_z": -0.40435 
 },
-"1446": {
+{
  "FIPS":     73,
 "year": "2012",
 "population_z": -0.46252 
 },
-"1447": {
+{
  "FIPS":     75,
 "year": "2012",
 "population_z": -0.36118 
 },
-"1448": {
+{
  "FIPS":     77,
 "year": "2012",
 "population_z": 0.41047 
 },
-"1449": {
+{
  "FIPS":     79,
 "year": "2012",
 "population_z": -0.4915 
 },
-"1450": {
+{
  "FIPS":     81,
 "year": "2012",
 "population_z": -0.41546 
 },
-"1451": {
+{
  "FIPS":     83,
 "year": "2012",
 "population_z": -0.34032 
 },
-"1452": {
+{
  "FIPS":     85,
 "year": "2012",
 "population_z": -0.24674 
 },
-"1453": {
+{
  "FIPS":     87,
 "year": "2012",
 "population_z": -0.32288 
 },
-"1454": {
+{
  "FIPS":     89,
 "year": "2012",
 "population_z": -0.38175 
 },
-"1455": {
+{
  "FIPS":     91,
 "year": "2012",
 "population_z": -0.46821 
 },
-"1456": {
+{
  "FIPS":     93,
 "year": "2012",
 "population_z": -0.39769 
 },
-"1457": {
+{
  "FIPS":     95,
 "year": "2012",
 "population_z": -0.46905 
 },
-"1458": {
+{
  "FIPS":     97,
 "year": "2012",
 "population_z": -0.39045 
 },
-"1459": {
+{
  "FIPS":     99,
 "year": "2012",
 "population_z": -0.42027 
 },
-"1460": {
+{
  "FIPS":    101,
 "year": "2012",
 "population_z": 0.48747 
 },
-"1461": {
+{
  "FIPS":    103,
 "year": "2012",
 "population_z": -0.4545 
 },
-"1462": {
+{
  "FIPS":    105,
 "year": "2012",
 "population_z": -0.42324 
 },
-"1463": {
+{
  "FIPS":    107,
 "year": "2012",
 "population_z": -0.35385 
 },
-"1464": {
+{
  "FIPS":    109,
 "year": "2012",
 "population_z": -0.45708 
 },
-"1465": {
+{
  "FIPS":    111,
 "year": "2012",
 "population_z": -0.49157 
 },
-"1466": {
+{
  "FIPS":    113,
 "year": "2012",
 "population_z": -0.44936 
 },
-"1467": {
+{
  "FIPS":    115,
 "year": "2012",
 "population_z": -0.48132 
 },
-"1468": {
+{
  "FIPS":    117,
 "year": "2012",
 "population_z": -0.32335 
 },
-"1469": {
+{
  "FIPS":    119,
 "year": "2012",
 "population_z": -0.35313 
 },
-"1470": {
+{
  "FIPS":    121,
 "year": "2012",
 "population_z": -0.467 
 },
-"1471": {
+{
  "FIPS":    123,
 "year": "2012",
 "population_z": 1.1185 
 },
-"1472": {
+{
  "FIPS":    125,
 "year": "2012",
 "population_z": -0.43417 
 },
-"1473": {
+{
  "FIPS":      1,
 "year": "2013",
 "population_z": 2.3261 
 },
-"1474": {
+{
  "FIPS":      3,
 "year": "2013",
 "population_z": -0.39934 
 },
-"1475": {
+{
  "FIPS":      5,
 "year": "2013",
 "population_z": 3.1514 
 },
-"1476": {
+{
  "FIPS":      7,
 "year": "2013",
 "population_z": -0.42103 
 },
-"1477": {
+{
  "FIPS":      9,
 "year": "2013",
 "population_z": -0.47224 
 },
-"1478": {
+{
  "FIPS":     11,
 "year": "2013",
 "population_z": -0.4601 
 },
-"1479": {
+{
  "FIPS":     13,
 "year": "2013",
 "population_z": 1.3684 
 },
-"1480": {
+{
  "FIPS":     14,
 "year": "2013",
 "population_z": -0.13316 
 },
-"1481": {
+{
  "FIPS":     15,
 "year": "2013",
 "population_z": -0.3846 
 },
-"1482": {
+{
  "FIPS":     17,
 "year": "2013",
 "population_z": -0.48288 
 },
-"1483": {
+{
  "FIPS":     19,
 "year": "2013",
 "population_z": -0.43987 
 },
-"1484": {
+{
  "FIPS":     21,
 "year": "2013",
 "population_z": -0.44497 
 },
-"1485": {
+{
  "FIPS":     23,
 "year": "2013",
 "population_z": -0.47304 
 },
-"1486": {
+{
  "FIPS":     25,
 "year": "2013",
 "population_z": -0.46261 
 },
-"1487": {
+{
  "FIPS":     27,
 "year": "2013",
 "population_z": -0.46856 
 },
-"1488": {
+{
  "FIPS":     29,
 "year": "2013",
 "population_z": -0.31211 
 },
-"1489": {
+{
  "FIPS":     31,
 "year": "2013",
 "population_z": 3.4007 
 },
-"1490": {
+{
  "FIPS":     33,
 "year": "2013",
 "population_z": -0.48219 
 },
-"1491": {
+{
  "FIPS":     35,
 "year": "2013",
 "population_z": 1.3454 
 },
-"1492": {
+{
  "FIPS":     37,
 "year": "2013",
 "population_z": -0.18005 
 },
-"1493": {
+{
  "FIPS":     39,
 "year": "2013",
 "population_z": -0.3523 
 },
-"1494": {
+{
  "FIPS":     41,
 "year": "2013",
 "population_z": 3.4494 
 },
-"1495": {
+{
  "FIPS":     43,
 "year": "2013",
 "population_z": -0.21591 
 },
-"1496": {
+{
  "FIPS":     45,
 "year": "2013",
 "population_z": -0.15126 
 },
-"1497": {
+{
  "FIPS":     47,
 "year": "2013",
 "population_z": -0.46085 
 },
-"1498": {
+{
  "FIPS":     49,
 "year": "2013",
 "population_z": -0.40834 
 },
-"1499": {
+{
  "FIPS":     51,
 "year": "2013",
 "population_z": -0.40154 
 },
-"1500": {
+{
  "FIPS":     53,
 "year": "2013",
 "population_z": -0.48947 
 },
-"1501": {
+{
  "FIPS":     55,
 "year": "2013",
 "population_z": -0.45539 
 },
-"1502": {
+{
  "FIPS":     57,
 "year": "2013",
 "population_z": -0.48616 
 },
-"1503": {
+{
  "FIPS":     59,
 "year": "2013",
 "population_z": 2.8143 
 },
-"1504": {
+{
  "FIPS":     61,
 "year": "2013",
 "population_z": -0.48588 
 },
-"1505": {
+{
  "FIPS":     63,
 "year": "2013",
 "population_z": -0.44615 
 },
-"1506": {
+{
  "FIPS":     65,
 "year": "2013",
 "population_z": -0.17376 
 },
-"1507": {
+{
  "FIPS":     67,
 "year": "2013",
 "population_z": -0.45045 
 },
-"1508": {
+{
  "FIPS":     69,
 "year": "2013",
 "population_z": 1.4032 
 },
-"1509": {
+{
  "FIPS":     71,
 "year": "2013",
 "population_z": -0.40803 
 },
-"1510": {
+{
  "FIPS":     73,
 "year": "2013",
 "population_z": -0.46174 
 },
-"1511": {
+{
  "FIPS":     75,
 "year": "2013",
 "population_z": -0.36324 
 },
-"1512": {
+{
  "FIPS":     77,
 "year": "2013",
 "population_z": 0.39571 
 },
-"1513": {
+{
  "FIPS":     79,
 "year": "2013",
 "population_z": -0.48993 
 },
-"1514": {
+{
  "FIPS":     81,
 "year": "2013",
 "population_z": -0.41568 
 },
-"1515": {
+{
  "FIPS":     83,
 "year": "2013",
 "population_z": -0.34024 
 },
-"1516": {
+{
  "FIPS":     85,
 "year": "2013",
 "population_z": -0.24964 
 },
-"1517": {
+{
  "FIPS":     87,
 "year": "2013",
 "population_z": -0.32434 
 },
-"1518": {
+{
  "FIPS":     89,
 "year": "2013",
 "population_z": -0.38314 
 },
-"1519": {
+{
  "FIPS":     91,
 "year": "2013",
 "population_z": -0.467 
 },
-"1520": {
+{
  "FIPS":     93,
 "year": "2013",
 "population_z": -0.39713 
 },
-"1521": {
+{
  "FIPS":     95,
 "year": "2013",
 "population_z": -0.46819 
 },
-"1522": {
+{
  "FIPS":     97,
 "year": "2013",
 "population_z": -0.38979 
 },
-"1523": {
+{
  "FIPS":     99,
 "year": "2013",
 "population_z": -0.42082 
 },
-"1524": {
+{
  "FIPS":    101,
 "year": "2013",
 "population_z": 0.47329 
 },
-"1525": {
+{
  "FIPS":    103,
 "year": "2013",
 "population_z": -0.454 
 },
-"1526": {
+{
  "FIPS":    105,
 "year": "2013",
 "population_z": -0.42401 
 },
-"1527": {
+{
  "FIPS":    107,
 "year": "2013",
 "population_z": -0.35339 
 },
-"1528": {
+{
  "FIPS":    109,
 "year": "2013",
 "population_z": -0.45681 
 },
-"1529": {
+{
  "FIPS":    111,
 "year": "2013",
 "population_z": -0.49009 
 },
-"1530": {
+{
  "FIPS":    113,
 "year": "2013",
 "population_z": -0.44818 
 },
-"1531": {
+{
  "FIPS":    115,
 "year": "2013",
 "population_z": -0.4802 
 },
-"1532": {
+{
  "FIPS":    117,
 "year": "2013",
 "population_z": -0.32169 
 },
-"1533": {
+{
  "FIPS":    119,
 "year": "2013",
 "population_z": -0.35462 
 },
-"1534": {
+{
  "FIPS":    121,
 "year": "2013",
 "population_z": -0.46574 
 },
-"1535": {
+{
  "FIPS":    123,
 "year": "2013",
 "population_z": 1.1276 
 },
-"1536": {
+{
  "FIPS":    125,
 "year": "2013",
 "population_z": -0.43367 
 },
-"1537": {
+{
  "FIPS":      1,
 "year": "2014",
 "population_z": 2.3383 
 },
-"1538": {
+{
  "FIPS":      3,
 "year": "2014",
 "population_z": -0.39954 
 },
-"1539": {
+{
  "FIPS":      5,
 "year": "2014",
 "population_z": 3.1519 
 },
-"1540": {
+{
  "FIPS":      7,
 "year": "2014",
 "population_z": -0.42088 
 },
-"1541": {
+{
  "FIPS":      9,
 "year": "2014",
 "population_z": -0.47173 
 },
-"1542": {
+{
  "FIPS":     11,
 "year": "2014",
 "population_z": -0.46044 
 },
-"1543": {
+{
  "FIPS":     13,
 "year": "2014",
 "population_z": 1.3562 
 },
-"1544": {
+{
  "FIPS":     14,
 "year": "2014",
 "population_z": -0.12864 
 },
-"1545": {
+{
  "FIPS":     15,
 "year": "2014",
 "population_z": -0.38431 
 },
-"1546": {
+{
  "FIPS":     17,
 "year": "2014",
 "population_z": -0.48207 
 },
-"1547": {
+{
  "FIPS":     19,
 "year": "2014",
 "population_z": -0.43913 
 },
-"1548": {
+{
  "FIPS":     21,
 "year": "2014",
 "population_z": -0.44458 
 },
-"1549": {
+{
  "FIPS":     23,
 "year": "2014",
 "population_z": -0.47213 
 },
-"1550": {
+{
  "FIPS":     25,
 "year": "2014",
 "population_z": -0.46037 
 },
-"1551": {
+{
  "FIPS":     27,
 "year": "2014",
 "population_z": -0.46731 
 },
-"1552": {
+{
  "FIPS":     29,
 "year": "2014",
 "population_z": -0.31609 
 },
-"1553": {
+{
  "FIPS":     31,
 "year": "2014",
 "population_z": 3.4224 
 },
-"1554": {
+{
  "FIPS":     33,
 "year": "2014",
 "population_z": -0.48169 
 },
-"1555": {
+{
  "FIPS":     35,
 "year": "2014",
 "population_z": 1.3614 
 },
-"1556": {
+{
  "FIPS":     37,
 "year": "2014",
 "population_z": -0.18166 
 },
-"1557": {
+{
  "FIPS":     39,
 "year": "2014",
 "population_z": -0.35076 
 },
-"1558": {
+{
  "FIPS":     41,
 "year": "2014",
 "population_z": 3.4274 
 },
-"1559": {
+{
  "FIPS":     43,
 "year": "2014",
 "population_z": -0.22019 
 },
-"1560": {
+{
  "FIPS":     45,
 "year": "2014",
 "population_z": -0.15385 
 },
-"1561": {
+{
  "FIPS":     47,
 "year": "2014",
 "population_z": -0.45872 
 },
-"1562": {
+{
  "FIPS":     49,
 "year": "2014",
 "population_z": -0.40758 
 },
-"1563": {
+{
  "FIPS":     51,
 "year": "2014",
 "population_z": -0.40078 
 },
-"1564": {
+{
  "FIPS":     53,
 "year": "2014",
 "population_z": -0.48856 
 },
-"1565": {
+{
  "FIPS":     55,
 "year": "2014",
 "population_z": -0.4552 
 },
-"1566": {
+{
  "FIPS":     57,
 "year": "2014",
 "population_z": -0.48491 
 },
-"1567": {
+{
  "FIPS":     59,
 "year": "2014",
 "population_z": 2.7993 
 },
-"1568": {
+{
  "FIPS":     61,
 "year": "2014",
 "population_z": -0.48492 
 },
-"1569": {
+{
  "FIPS":     63,
 "year": "2014",
 "population_z": -0.447 
 },
-"1570": {
+{
  "FIPS":     65,
 "year": "2014",
 "population_z": -0.17469 
 },
-"1571": {
+{
  "FIPS":     67,
 "year": "2014",
 "population_z": -0.44977 
 },
-"1572": {
+{
  "FIPS":     69,
 "year": "2014",
 "population_z":  1.416 
 },
-"1573": {
+{
  "FIPS":     71,
 "year": "2014",
 "population_z": -0.41021 
 },
-"1574": {
+{
  "FIPS":     73,
 "year": "2014",
 "population_z": -0.46062 
 },
-"1575": {
+{
  "FIPS":     75,
 "year": "2014",
 "population_z": -0.36288 
 },
-"1576": {
+{
  "FIPS":     77,
 "year": "2014",
 "population_z": 0.38139 
 },
-"1577": {
+{
  "FIPS":     79,
 "year": "2014",
 "population_z": -0.48898 
 },
-"1578": {
+{
  "FIPS":     81,
 "year": "2014",
 "population_z": -0.41722 
 },
-"1579": {
+{
  "FIPS":     83,
 "year": "2014",
 "population_z": -0.34093 
 },
-"1580": {
+{
  "FIPS":     85,
 "year": "2014",
 "population_z": -0.25197 
 },
-"1581": {
+{
  "FIPS":     87,
 "year": "2014",
 "population_z": -0.32654 
 },
-"1582": {
+{
  "FIPS":     89,
 "year": "2014",
 "population_z": -0.38474 
 },
-"1583": {
+{
  "FIPS":     91,
 "year": "2014",
 "population_z": -0.46605 
 },
-"1584": {
+{
  "FIPS":     93,
 "year": "2014",
 "population_z": -0.39651 
 },
-"1585": {
+{
  "FIPS":     95,
 "year": "2014",
 "population_z": -0.46727 
 },
-"1586": {
+{
  "FIPS":     97,
 "year": "2014",
 "population_z": -0.38907 
 },
-"1587": {
+{
  "FIPS":     99,
 "year": "2014",
 "population_z": -0.42244 
 },
-"1588": {
+{
  "FIPS":    101,
 "year": "2014",
 "population_z": 0.46058 
 },
-"1589": {
+{
  "FIPS":    103,
 "year": "2014",
 "population_z": -0.45414 
 },
-"1590": {
+{
  "FIPS":    105,
 "year": "2014",
 "population_z": -0.42486 
 },
-"1591": {
+{
  "FIPS":    107,
 "year": "2014",
 "population_z": -0.35223 
 },
-"1592": {
+{
  "FIPS":    109,
 "year": "2014",
 "population_z": -0.45651 
 },
-"1593": {
+{
  "FIPS":    111,
 "year": "2014",
 "population_z": -0.48886 
 },
-"1594": {
+{
  "FIPS":    113,
 "year": "2014",
 "population_z": -0.44697 
 },
-"1595": {
+{
  "FIPS":    115,
 "year": "2014",
 "population_z": -0.47935 
 },
-"1596": {
+{
  "FIPS":    117,
 "year": "2014",
 "population_z": -0.31979 
 },
-"1597": {
+{
  "FIPS":    119,
 "year": "2014",
 "population_z": -0.35519 
 },
-"1598": {
+{
  "FIPS":    121,
 "year": "2014",
 "population_z": -0.46498 
 },
-"1599": {
+{
  "FIPS":    123,
 "year": "2014",
 "population_z": 1.1343 
 },
-"1600": {
+{
  "FIPS":    125,
 "year": "2014",
 "population_z": -0.43336 
 } 
-}
+]

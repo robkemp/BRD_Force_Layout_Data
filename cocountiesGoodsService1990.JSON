@@ -1,9602 +1,9602 @@
-{
- "1": {
+[
+ {
  "FIPS":      1,
 "year": "1990",
 "goods_service": 0.30613,
 "goods_service_z": -0.82421 
 },
-"2": {
+{
  "FIPS":      3,
 "year": "1990",
 "goods_service": 0.23564,
 "goods_service_z": -0.8947 
 },
-"3": {
+{
  "FIPS":      5,
 "year": "1990",
 "goods_service": 0.15388,
 "goods_service_z": -0.97647 
 },
-"4": {
+{
  "FIPS":      7,
 "year": "1990",
 "goods_service": 0.1028,
 "goods_service_z": -1.0275 
 },
-"5": {
+{
  "FIPS":      9,
 "year": "1990",
 "goods_service": 0.14286,
 "goods_service_z": -0.98749 
 },
-"6": {
+{
  "FIPS":     11,
 "year": "1990",
 "goods_service": 0.35124,
 "goods_service_z": -0.77911 
 },
-"7": {
+{
  "FIPS":     13,
 "year": "1990",
 "goods_service": 0.4234,
 "goods_service_z": -0.70695 
 },
-"8": {
+{
  "FIPS":     14,
 "year": "1990",
 "goods_service":      0,
 "goods_service_z": -1.1303 
 },
-"9": {
+{
  "FIPS":     15,
 "year": "1990",
 "goods_service": 0.16195,
 "goods_service_z": -0.9684 
 },
-"10": {
+{
  "FIPS":     17,
 "year": "1990",
 "goods_service": 0.43284,
 "goods_service_z": -0.69751 
 },
-"11": {
+{
  "FIPS":     19,
 "year": "1990",
 "goods_service": 0.55079,
 "goods_service_z": -0.57956 
 },
-"12": {
+{
  "FIPS":     21,
 "year": "1990",
 "goods_service": 0.63551,
 "goods_service_z": -0.49483 
 },
-"13": {
+{
  "FIPS":     23,
 "year": "1990",
 "goods_service": 1.4429,
 "goods_service_z": 0.31251 
 },
-"14": {
+{
  "FIPS":     25,
 "year": "1990",
 "goods_service": 0.37264,
 "goods_service_z": -0.75771 
 },
-"15": {
+{
  "FIPS":     27,
 "year": "1990",
 "goods_service": 0.38356,
 "goods_service_z": -0.74679 
 },
-"16": {
+{
  "FIPS":     29,
 "year": "1990",
 "goods_service": 0.34302,
 "goods_service_z": -0.78733 
 },
-"17": {
+{
  "FIPS":     31,
 "year": "1990",
 "goods_service": 0.16666,
 "goods_service_z": -0.96368 
 },
-"18": {
+{
  "FIPS":     33,
 "year": "1990",
 "goods_service": 0.34524,
 "goods_service_z": -0.78511 
 },
-"19": {
+{
  "FIPS":     35,
 "year": "1990",
 "goods_service": 0.31172,
 "goods_service_z": -0.81863 
 },
-"20": {
+{
  "FIPS":     37,
 "year": "1990",
 "goods_service": 0.17899,
 "goods_service_z": -0.95136 
 },
-"21": {
+{
  "FIPS":     39,
 "year": "1990",
 "goods_service": 0.69081,
 "goods_service_z": -0.43954 
 },
-"22": {
+{
  "FIPS":     41,
 "year": "1990",
 "goods_service": 0.28084,
 "goods_service_z": -0.84951 
 },
-"23": {
+{
  "FIPS":     43,
 "year": "1990",
 "goods_service": 0.29562,
 "goods_service_z": -0.83473 
 },
-"24": {
+{
  "FIPS":     45,
 "year": "1990",
 "goods_service": 0.30924,
 "goods_service_z": -0.82111 
 },
-"25": {
+{
  "FIPS":     47,
 "year": "1990",
 "goods_service": 0.14612,
 "goods_service_z": -0.98423 
 },
-"26": {
+{
  "FIPS":     49,
 "year": "1990",
 "goods_service": 0.098243,
 "goods_service_z": -1.0321 
 },
-"27": {
+{
  "FIPS":     51,
 "year": "1990",
 "goods_service": 0.16313,
 "goods_service_z": -0.96722 
 },
-"28": {
+{
  "FIPS":     53,
 "year": "1990",
 "goods_service":      0,
 "goods_service_z": -1.1303 
 },
-"29": {
+{
  "FIPS":     55,
 "year": "1990",
 "goods_service": 0.23005,
 "goods_service_z": -0.9003 
 },
-"30": {
+{
  "FIPS":     57,
 "year": "1990",
 "goods_service": 1.0915,
 "goods_service_z": -0.038798 
 },
-"31": {
+{
  "FIPS":     59,
 "year": "1990",
 "goods_service": 0.31083,
 "goods_service_z": -0.81951 
 },
-"32": {
+{
  "FIPS":     61,
 "year": "1990",
 "goods_service":      0,
 "goods_service_z": -1.1303 
 },
-"33": {
+{
  "FIPS":     63,
 "year": "1990",
 "goods_service": 0.24591,
 "goods_service_z": -0.88443 
 },
-"34": {
+{
  "FIPS":     65,
 "year": "1990",
 "goods_service": 0.55786,
 "goods_service_z": -0.57249 
 },
-"35": {
+{
  "FIPS":     67,
 "year": "1990",
 "goods_service": 0.16983,
 "goods_service_z": -0.96052 
 },
-"36": {
+{
  "FIPS":     69,
 "year": "1990",
 "goods_service": 0.46859,
 "goods_service_z": -0.66176 
 },
-"37": {
+{
  "FIPS":     71,
 "year": "1990",
 "goods_service": 0.16547,
 "goods_service_z": -0.96488 
 },
-"38": {
+{
  "FIPS":     73,
 "year": "1990",
 "goods_service": 0.098324,
 "goods_service_z": -1.032 
 },
-"39": {
+{
  "FIPS":     75,
 "year": "1990",
 "goods_service": 0.30459,
 "goods_service_z": -0.82576 
 },
-"40": {
+{
  "FIPS":     77,
 "year": "1990",
 "goods_service": 0.26608,
 "goods_service_z": -0.86426 
 },
-"41": {
+{
  "FIPS":     79,
 "year": "1990",
 "goods_service": 0.10405,
 "goods_service_z": -1.0263 
 },
-"42": {
+{
  "FIPS":     81,
 "year": "1990",
 "goods_service": 0.54012,
 "goods_service_z": -0.59022 
 },
-"43": {
+{
  "FIPS":     83,
 "year": "1990",
 "goods_service": 0.37386,
 "goods_service_z": -0.75649 
 },
-"44": {
+{
  "FIPS":     85,
 "year": "1990",
 "goods_service": 0.42455,
 "goods_service_z": -0.7058 
 },
-"45": {
+{
  "FIPS":     87,
 "year": "1990",
 "goods_service": 0.59097,
 "goods_service_z": -0.53938 
 },
-"46": {
+{
  "FIPS":     89,
 "year": "1990",
 "goods_service": 0.30642,
 "goods_service_z": -0.82393 
 },
-"47": {
+{
  "FIPS":     91,
 "year": "1990",
 "goods_service": 0.42462,
 "goods_service_z": -0.70572 
 },
-"48": {
+{
  "FIPS":     93,
 "year": "1990",
 "goods_service": 0.43438,
 "goods_service_z": -0.69597 
 },
-"49": {
+{
  "FIPS":     95,
 "year": "1990",
 "goods_service": 0.37218,
 "goods_service_z": -0.75817 
 },
-"50": {
+{
  "FIPS":     97,
 "year": "1990",
 "goods_service": 0.19273,
 "goods_service_z": -0.93762 
 },
-"51": {
+{
  "FIPS":     99,
 "year": "1990",
 "goods_service": 0.50675,
 "goods_service_z": -0.62359 
 },
-"52": {
+{
  "FIPS":    101,
 "year": "1990",
 "goods_service": 0.27756,
 "goods_service_z": -0.85279 
 },
-"53": {
+{
  "FIPS":    103,
 "year": "1990",
 "goods_service": 1.1352,
 "goods_service_z": 0.004825 
 },
-"54": {
+{
  "FIPS":    105,
 "year": "1990",
 "goods_service": 0.52987,
 "goods_service_z": -0.60048 
 },
-"55": {
+{
  "FIPS":    107,
 "year": "1990",
 "goods_service":  0.213,
 "goods_service_z": -0.91734 
 },
-"56": {
+{
  "FIPS":    109,
 "year": "1990",
 "goods_service": 1.7409,
 "goods_service_z": 0.61054 
 },
-"57": {
+{
  "FIPS":    111,
 "year": "1990",
 "goods_service":      0,
 "goods_service_z": -1.1303 
 },
-"58": {
+{
  "FIPS":    113,
 "year": "1990",
 "goods_service": 0.28752,
 "goods_service_z": -0.84283 
 },
-"59": {
+{
  "FIPS":    115,
 "year": "1990",
 "goods_service": 0.10444,
 "goods_service_z": -1.0259 
 },
-"60": {
+{
  "FIPS":    117,
 "year": "1990",
 "goods_service": 0.056422,
 "goods_service_z": -1.0739 
 },
-"61": {
+{
  "FIPS":    119,
 "year": "1990",
 "goods_service": 0.12798,
 "goods_service_z": -1.0024 
 },
-"62": {
+{
  "FIPS":    121,
 "year": "1990",
 "goods_service": 0.20545,
 "goods_service_z": -0.92489 
 },
-"63": {
+{
  "FIPS":    123,
 "year": "1990",
 "goods_service": 0.43939,
 "goods_service_z": -0.69096 
 },
-"64": {
+{
  "FIPS":    125,
 "year": "1990",
 "goods_service": 0.32783,
 "goods_service_z": -0.80252 
 },
-"65": {
+{
  "FIPS":      1,
 "year": "1991",
 "goods_service": 0.30876,
 "goods_service_z": -0.64256 
 },
-"66": {
+{
  "FIPS":      3,
 "year": "1991",
 "goods_service": 0.23415,
 "goods_service_z": -0.71718 
 },
-"67": {
+{
  "FIPS":      5,
 "year": "1991",
 "goods_service": 0.14461,
 "goods_service_z": -0.80672 
 },
-"68": {
+{
  "FIPS":      7,
 "year": "1991",
 "goods_service": 0.11898,
 "goods_service_z": -0.83235 
 },
-"69": {
+{
  "FIPS":      9,
 "year": "1991",
 "goods_service": 0.13494,
 "goods_service_z": -0.81639 
 },
-"70": {
+{
  "FIPS":     11,
 "year": "1991",
 "goods_service": 0.36638,
 "goods_service_z": -0.58495 
 },
-"71": {
+{
  "FIPS":     13,
 "year": "1991",
 "goods_service": 0.32525,
 "goods_service_z": -0.62608 
 },
-"72": {
+{
  "FIPS":     14,
 "year": "1991",
 "goods_service":      0,
 "goods_service_z": -0.95133 
 },
-"73": {
+{
  "FIPS":     15,
 "year": "1991",
 "goods_service": 0.2172,
 "goods_service_z": -0.73413 
 },
-"74": {
+{
  "FIPS":     17,
 "year": "1991",
 "goods_service": 0.55235,
 "goods_service_z": -0.39898 
 },
-"75": {
+{
  "FIPS":     19,
 "year": "1991",
 "goods_service": 0.51858,
 "goods_service_z": -0.43274 
 },
-"76": {
+{
  "FIPS":     21,
 "year": "1991",
 "goods_service": 0.61707,
 "goods_service_z": -0.33426 
 },
-"77": {
+{
  "FIPS":     23,
 "year": "1991",
 "goods_service":  1.942,
 "goods_service_z": 0.9907 
 },
-"78": {
+{
  "FIPS":     25,
 "year": "1991",
 "goods_service": 0.36493,
 "goods_service_z": -0.5864 
 },
-"79": {
+{
  "FIPS":     27,
 "year": "1991",
 "goods_service": 0.26923,
 "goods_service_z": -0.68209 
 },
-"80": {
+{
  "FIPS":     29,
 "year": "1991",
 "goods_service": 0.37198,
 "goods_service_z": -0.57934 
 },
-"81": {
+{
  "FIPS":     31,
 "year": "1991",
 "goods_service": 0.16631,
 "goods_service_z": -0.78502 
 },
-"82": {
+{
  "FIPS":     33,
 "year": "1991",
 "goods_service": 0.28902,
 "goods_service_z": -0.66231 
 },
-"83": {
+{
  "FIPS":     35,
 "year": "1991",
 "goods_service": 0.30014,
 "goods_service_z": -0.65118 
 },
-"84": {
+{
  "FIPS":     37,
 "year": "1991",
 "goods_service": 0.15834,
 "goods_service_z": -0.79298 
 },
-"85": {
+{
  "FIPS":     39,
 "year": "1991",
 "goods_service": 0.64844,
 "goods_service_z": -0.30289 
 },
-"86": {
+{
  "FIPS":     41,
 "year": "1991",
 "goods_service": 0.26631,
 "goods_service_z": -0.68501 
 },
-"87": {
+{
  "FIPS":     43,
 "year": "1991",
 "goods_service": 0.28166,
 "goods_service_z": -0.66967 
 },
-"88": {
+{
  "FIPS":     45,
 "year": "1991",
 "goods_service": 0.20421,
 "goods_service_z": -0.74712 
 },
-"89": {
+{
  "FIPS":     47,
 "year": "1991",
 "goods_service": 0.14583,
 "goods_service_z": -0.80549 
 },
-"90": {
+{
  "FIPS":     49,
 "year": "1991",
 "goods_service": 0.097054,
 "goods_service_z": -0.85427 
 },
-"91": {
+{
  "FIPS":     51,
 "year": "1991",
 "goods_service": 0.17295,
 "goods_service_z": -0.77838 
 },
-"92": {
+{
  "FIPS":     53,
 "year": "1991",
 "goods_service":      0,
 "goods_service_z": -0.95133 
 },
-"93": {
+{
  "FIPS":     55,
 "year": "1991",
 "goods_service": 0.30492,
 "goods_service_z": -0.64641 
 },
-"94": {
+{
  "FIPS":     57,
 "year": "1991",
 "goods_service": 1.2391,
 "goods_service_z": 0.28781 
 },
-"95": {
+{
  "FIPS":     59,
 "year": "1991",
 "goods_service": 0.29814,
 "goods_service_z": -0.65319 
 },
-"96": {
+{
  "FIPS":     61,
 "year": "1991",
 "goods_service":      0,
 "goods_service_z": -0.95133 
 },
-"97": {
+{
  "FIPS":     63,
 "year": "1991",
 "goods_service": 0.24148,
 "goods_service_z": -0.70985 
 },
-"98": {
+{
  "FIPS":     65,
 "year": "1991",
 "goods_service": 0.69134,
 "goods_service_z": -0.25998 
 },
-"99": {
+{
  "FIPS":     67,
 "year": "1991",
 "goods_service": 0.16823,
 "goods_service_z": -0.7831 
 },
-"100": {
+{
  "FIPS":     69,
 "year": "1991",
 "goods_service": 0.45005,
 "goods_service_z": -0.50127 
 },
-"101": {
+{
  "FIPS":     71,
 "year": "1991",
 "goods_service": 0.17715,
 "goods_service_z": -0.77417 
 },
-"102": {
+{
  "FIPS":     73,
 "year": "1991",
 "goods_service": 0.089716,
 "goods_service_z": -0.86161 
 },
-"103": {
+{
  "FIPS":     75,
 "year": "1991",
 "goods_service": 0.30153,
 "goods_service_z": -0.6498 
 },
-"104": {
+{
  "FIPS":     77,
 "year": "1991",
 "goods_service": 0.26238,
 "goods_service_z": -0.68895 
 },
-"105": {
+{
  "FIPS":     79,
 "year": "1991",
 "goods_service": 0.096257,
 "goods_service_z": -0.85507 
 },
-"106": {
+{
  "FIPS":     81,
 "year": "1991",
 "goods_service": 0.51041,
 "goods_service_z": -0.44092 
 },
-"107": {
+{
  "FIPS":     83,
 "year": "1991",
 "goods_service": 0.35976,
 "goods_service_z": -0.59156 
 },
-"108": {
+{
  "FIPS":     85,
 "year": "1991",
 "goods_service": 0.38656,
 "goods_service_z": -0.56477 
 },
-"109": {
+{
  "FIPS":     87,
 "year": "1991",
 "goods_service": 0.63778,
 "goods_service_z": -0.31354 
 },
-"110": {
+{
  "FIPS":     89,
 "year": "1991",
 "goods_service": 0.31605,
 "goods_service_z": -0.63527 
 },
-"111": {
+{
  "FIPS":     91,
 "year": "1991",
 "goods_service": 0.31102,
 "goods_service_z": -0.64031 
 },
-"112": {
+{
  "FIPS":     93,
 "year": "1991",
 "goods_service": 0.43114,
 "goods_service_z": -0.52019 
 },
-"113": {
+{
  "FIPS":     95,
 "year": "1991",
 "goods_service": 0.41843,
 "goods_service_z": -0.5329 
 },
-"114": {
+{
  "FIPS":     97,
 "year": "1991",
 "goods_service": 0.12159,
 "goods_service_z": -0.82974 
 },
-"115": {
+{
  "FIPS":     99,
 "year": "1991",
 "goods_service": 0.46282,
 "goods_service_z": -0.4885 
 },
-"116": {
+{
  "FIPS":    101,
 "year": "1991",
 "goods_service": 0.27332,
 "goods_service_z": -0.67801 
 },
-"117": {
+{
  "FIPS":    103,
 "year": "1991",
 "goods_service": 1.0398,
 "goods_service_z": 0.088469 
 },
-"118": {
+{
  "FIPS":    105,
 "year": "1991",
 "goods_service": 0.49452,
 "goods_service_z": -0.4568 
 },
-"119": {
+{
  "FIPS":    107,
 "year": "1991",
 "goods_service": 0.19672,
 "goods_service_z": -0.75461 
 },
-"120": {
+{
  "FIPS":    109,
 "year": "1991",
 "goods_service": 2.2264,
 "goods_service_z": 1.2751 
 },
-"121": {
+{
  "FIPS":    111,
 "year": "1991",
 "goods_service":      0,
 "goods_service_z": -0.95133 
 },
-"122": {
+{
  "FIPS":    113,
 "year": "1991",
 "goods_service": 0.28731,
 "goods_service_z": -0.66402 
 },
-"123": {
+{
  "FIPS":    115,
 "year": "1991",
 "goods_service": 0.079545,
 "goods_service_z": -0.87178 
 },
-"124": {
+{
  "FIPS":    117,
 "year": "1991",
 "goods_service": 0.062963,
 "goods_service_z": -0.88836 
 },
-"125": {
+{
  "FIPS":    119,
 "year": "1991",
 "goods_service": 0.16542,
 "goods_service_z": -0.7859 
 },
-"126": {
+{
  "FIPS":    121,
 "year": "1991",
 "goods_service": 0.22495,
 "goods_service_z": -0.72637 
 },
-"127": {
+{
  "FIPS":    123,
 "year": "1991",
 "goods_service": 0.46185,
 "goods_service_z": -0.48948 
 },
-"128": {
+{
  "FIPS":    125,
 "year": "1991",
 "goods_service": 0.34419,
 "goods_service_z": -0.60714 
 },
-"129": {
+{
  "FIPS":      1,
 "year": "1992",
 "goods_service": 0.33765,
 "goods_service_z": -0.65599 
 },
-"130": {
+{
  "FIPS":      3,
 "year": "1992",
 "goods_service": 0.22543,
 "goods_service_z": -0.76822 
 },
-"131": {
+{
  "FIPS":      5,
 "year": "1992",
 "goods_service": 0.14863,
 "goods_service_z": -0.84501 
 },
-"132": {
+{
  "FIPS":      7,
 "year": "1992",
 "goods_service":  0.187,
 "goods_service_z": -0.80665 
 },
-"133": {
+{
  "FIPS":      9,
 "year": "1992",
 "goods_service": 0.12649,
 "goods_service_z": -0.86716 
 },
-"134": {
+{
  "FIPS":     11,
 "year": "1992",
 "goods_service": 0.3494,
 "goods_service_z": -0.64425 
 },
-"135": {
+{
  "FIPS":     13,
 "year": "1992",
 "goods_service": 0.33229,
 "goods_service_z": -0.66136 
 },
-"136": {
+{
  "FIPS":     14,
 "year": "1992",
 "goods_service":      0,
 "goods_service_z": -0.99365 
 },
-"137": {
+{
  "FIPS":     15,
 "year": "1992",
 "goods_service": 0.22446,
 "goods_service_z": -0.76919 
 },
-"138": {
+{
  "FIPS":     17,
 "year": "1992",
 "goods_service": 0.57455,
 "goods_service_z": -0.4191 
 },
-"139": {
+{
  "FIPS":     19,
 "year": "1992",
 "goods_service": 0.51461,
 "goods_service_z": -0.47904 
 },
-"140": {
+{
  "FIPS":     21,
 "year": "1992",
 "goods_service": 0.61538,
 "goods_service_z": -0.37826 
 },
-"141": {
+{
  "FIPS":     23,
 "year": "1992",
 "goods_service": 1.8042,
 "goods_service_z": 0.81055 
 },
-"142": {
+{
  "FIPS":     25,
 "year": "1992",
 "goods_service": 0.42326,
 "goods_service_z": -0.57039 
 },
-"143": {
+{
  "FIPS":     27,
 "year": "1992",
 "goods_service": 0.27149,
 "goods_service_z": -0.72216 
 },
-"144": {
+{
  "FIPS":     29,
 "year": "1992",
 "goods_service": 0.36367,
 "goods_service_z": -0.62998 
 },
-"145": {
+{
  "FIPS":     31,
 "year": "1992",
 "goods_service": 0.16651,
 "goods_service_z": -0.82714 
 },
-"146": {
+{
  "FIPS":     33,
 "year": "1992",
 "goods_service": 0.34395,
 "goods_service_z": -0.6497 
 },
-"147": {
+{
  "FIPS":     35,
 "year": "1992",
 "goods_service": 0.33937,
 "goods_service_z": -0.65428 
 },
-"148": {
+{
  "FIPS":     37,
 "year": "1992",
 "goods_service": 0.16169,
 "goods_service_z": -0.83196 
 },
-"149": {
+{
  "FIPS":     39,
 "year": "1992",
 "goods_service": 0.69213,
 "goods_service_z": -0.30152 
 },
-"150": {
+{
  "FIPS":     41,
 "year": "1992",
 "goods_service": 0.25666,
 "goods_service_z": -0.73699 
 },
-"151": {
+{
  "FIPS":     43,
 "year": "1992",
 "goods_service": 0.33406,
 "goods_service_z": -0.65959 
 },
-"152": {
+{
  "FIPS":     45,
 "year": "1992",
 "goods_service": 0.19902,
 "goods_service_z": -0.79463 
 },
-"153": {
+{
  "FIPS":     47,
 "year": "1992",
 "goods_service": 0.030136,
 "goods_service_z": -0.96351 
 },
-"154": {
+{
  "FIPS":     49,
 "year": "1992",
 "goods_service": 0.077807,
 "goods_service_z": -0.91584 
 },
-"155": {
+{
  "FIPS":     51,
 "year": "1992",
 "goods_service": 0.18166,
 "goods_service_z": -0.81199 
 },
-"156": {
+{
  "FIPS":     53,
 "year": "1992",
 "goods_service":      0,
 "goods_service_z": -0.99365 
 },
-"157": {
+{
  "FIPS":     55,
 "year": "1992",
 "goods_service": 0.28419,
 "goods_service_z": -0.70945 
 },
-"158": {
+{
  "FIPS":     57,
 "year": "1992",
 "goods_service": 1.2877,
 "goods_service_z": 0.29402 
 },
-"159": {
+{
  "FIPS":     59,
 "year": "1992",
 "goods_service": 0.26989,
 "goods_service_z": -0.72376 
 },
-"160": {
+{
  "FIPS":     61,
 "year": "1992",
 "goods_service":      0,
 "goods_service_z": -0.99365 
 },
-"161": {
+{
  "FIPS":     63,
 "year": "1992",
 "goods_service": 0.23772,
 "goods_service_z": -0.75593 
 },
-"162": {
+{
  "FIPS":     65,
 "year": "1992",
 "goods_service": 0.47537,
 "goods_service_z": -0.51828 
 },
-"163": {
+{
  "FIPS":     67,
 "year": "1992",
 "goods_service": 0.17822,
 "goods_service_z": -0.81543 
 },
-"164": {
+{
  "FIPS":     69,
 "year": "1992",
 "goods_service": 0.43973,
 "goods_service_z": -0.55392 
 },
-"165": {
+{
  "FIPS":     71,
 "year": "1992",
 "goods_service": 0.14182,
 "goods_service_z": -0.85183 
 },
-"166": {
+{
  "FIPS":     73,
 "year": "1992",
 "goods_service": 0.077348,
 "goods_service_z": -0.9163 
 },
-"167": {
+{
  "FIPS":     75,
 "year": "1992",
 "goods_service": 0.29685,
 "goods_service_z": -0.6968 
 },
-"168": {
+{
  "FIPS":     77,
 "year": "1992",
 "goods_service": 0.2495,
 "goods_service_z": -0.74415 
 },
-"169": {
+{
  "FIPS":     79,
 "year": "1992",
 "goods_service": 0.097674,
 "goods_service_z": -0.89597 
 },
-"170": {
+{
  "FIPS":     81,
 "year": "1992",
 "goods_service": 0.45507,
 "goods_service_z": -0.53857 
 },
-"171": {
+{
  "FIPS":     83,
 "year": "1992",
 "goods_service": 0.36447,
 "goods_service_z": -0.62918 
 },
-"172": {
+{
  "FIPS":     85,
 "year": "1992",
 "goods_service": 0.38833,
 "goods_service_z": -0.60532 
 },
-"173": {
+{
  "FIPS":     87,
 "year": "1992",
 "goods_service": 0.64642,
 "goods_service_z": -0.34723 
 },
-"174": {
+{
  "FIPS":     89,
 "year": "1992",
 "goods_service": 0.28145,
 "goods_service_z": -0.71219 
 },
-"175": {
+{
  "FIPS":     91,
 "year": "1992",
 "goods_service": 0.29065,
 "goods_service_z": -0.703 
 },
-"176": {
+{
  "FIPS":     93,
 "year": "1992",
 "goods_service": 0.3538,
 "goods_service_z": -0.63985 
 },
-"177": {
+{
  "FIPS":     95,
 "year": "1992",
 "goods_service": 0.42803,
 "goods_service_z": -0.56562 
 },
-"178": {
+{
  "FIPS":     97,
 "year": "1992",
 "goods_service": 0.10104,
 "goods_service_z": -0.8926 
 },
-"179": {
+{
  "FIPS":     99,
 "year": "1992",
 "goods_service": 0.4838,
 "goods_service_z": -0.50985 
 },
-"180": {
+{
  "FIPS":    101,
 "year": "1992",
 "goods_service": 0.27204,
 "goods_service_z": -0.72161 
 },
-"181": {
+{
  "FIPS":    103,
 "year": "1992",
 "goods_service": 1.0484,
 "goods_service_z": 0.054777 
 },
-"182": {
+{
  "FIPS":    105,
 "year": "1992",
 "goods_service": 0.46943,
 "goods_service_z": -0.52422 
 },
-"183": {
+{
  "FIPS":    107,
 "year": "1992",
 "goods_service": 0.18869,
 "goods_service_z": -0.80496 
 },
-"184": {
+{
  "FIPS":    109,
 "year": "1992",
 "goods_service": 1.9594,
 "goods_service_z": 0.96576 
 },
-"185": {
+{
  "FIPS":    111,
 "year": "1992",
 "goods_service":      0,
 "goods_service_z": -0.99365 
 },
-"186": {
+{
  "FIPS":    113,
 "year": "1992",
 "goods_service": 0.23054,
 "goods_service_z": -0.76311 
 },
-"187": {
+{
  "FIPS":    115,
 "year": "1992",
 "goods_service": 0.10233,
 "goods_service_z": -0.89132 
 },
-"188": {
+{
  "FIPS":    117,
 "year": "1992",
 "goods_service": 0.066557,
 "goods_service_z": -0.92709 
 },
-"189": {
+{
  "FIPS":    119,
 "year": "1992",
 "goods_service": 0.15078,
 "goods_service_z": -0.84287 
 },
-"190": {
+{
  "FIPS":    121,
 "year": "1992",
 "goods_service": 0.25594,
 "goods_service_z": -0.73771 
 },
-"191": {
+{
  "FIPS":    123,
 "year": "1992",
 "goods_service": 0.46194,
 "goods_service_z": -0.53171 
 },
-"192": {
+{
  "FIPS":    125,
 "year": "1992",
 "goods_service": 0.37539,
 "goods_service_z": -0.61826 
 },
-"193": {
+{
  "FIPS":      1,
 "year": "1993",
 "goods_service": 0.34989,
 "goods_service_z": -0.55762 
 },
-"194": {
+{
  "FIPS":      3,
 "year": "1993",
 "goods_service":  0.233,
 "goods_service_z": -0.67451 
 },
-"195": {
+{
  "FIPS":      5,
 "year": "1993",
 "goods_service": 0.15628,
 "goods_service_z": -0.75123 
 },
-"196": {
+{
  "FIPS":      7,
 "year": "1993",
 "goods_service": 0.17219,
 "goods_service_z": -0.73531 
 },
-"197": {
+{
  "FIPS":      9,
 "year": "1993",
 "goods_service": 0.082278,
 "goods_service_z": -0.82523 
 },
-"198": {
+{
  "FIPS":     11,
 "year": "1993",
 "goods_service": 0.29091,
 "goods_service_z": -0.6166 
 },
-"199": {
+{
  "FIPS":     13,
 "year": "1993",
 "goods_service": 0.33609,
 "goods_service_z": -0.57141 
 },
-"200": {
+{
  "FIPS":     14,
 "year": "1993",
 "goods_service":      0,
 "goods_service_z": -0.90751 
 },
-"201": {
+{
  "FIPS":     15,
 "year": "1993",
 "goods_service": 0.22631,
 "goods_service_z": -0.6812 
 },
-"202": {
+{
  "FIPS":     17,
 "year": "1993",
 "goods_service": 0.65333,
 "goods_service_z": -0.25417 
 },
-"203": {
+{
  "FIPS":     19,
 "year": "1993",
 "goods_service": 0.44535,
 "goods_service_z": -0.46215 
 },
-"204": {
+{
  "FIPS":     21,
 "year": "1993",
 "goods_service": 0.64588,
 "goods_service_z": -0.26163 
 },
-"205": {
+{
  "FIPS":     23,
 "year": "1993",
 "goods_service":  2.223,
 "goods_service_z": 1.3155 
 },
-"206": {
+{
  "FIPS":     25,
 "year": "1993",
 "goods_service": 0.42424,
 "goods_service_z": -0.48326 
 },
-"207": {
+{
  "FIPS":     27,
 "year": "1993",
 "goods_service": 0.28044,
 "goods_service_z": -0.62706 
 },
-"208": {
+{
  "FIPS":     29,
 "year": "1993",
 "goods_service": 0.39067,
 "goods_service_z": -0.51683 
 },
-"209": {
+{
  "FIPS":     31,
 "year": "1993",
 "goods_service": 0.16785,
 "goods_service_z": -0.73966 
 },
-"210": {
+{
  "FIPS":     33,
 "year": "1993",
 "goods_service": 0.26744,
 "goods_service_z": -0.64006 
 },
-"211": {
+{
  "FIPS":     35,
 "year": "1993",
 "goods_service": 0.33185,
 "goods_service_z": -0.57566 
 },
-"212": {
+{
  "FIPS":     37,
 "year": "1993",
 "goods_service": 0.1717,
 "goods_service_z": -0.73581 
 },
-"213": {
+{
  "FIPS":     39,
 "year": "1993",
 "goods_service": 0.71516,
 "goods_service_z": -0.19234 
 },
-"214": {
+{
  "FIPS":     41,
 "year": "1993",
 "goods_service": 0.26541,
 "goods_service_z": -0.64209 
 },
-"215": {
+{
  "FIPS":     43,
 "year": "1993",
 "goods_service": 0.31541,
 "goods_service_z": -0.5921 
 },
-"216": {
+{
  "FIPS":     45,
 "year": "1993",
 "goods_service": 0.19839,
 "goods_service_z": -0.70911 
 },
-"217": {
+{
  "FIPS":     47,
 "year": "1993",
 "goods_service": 0.020699,
 "goods_service_z": -0.88681 
 },
-"218": {
+{
  "FIPS":     49,
 "year": "1993",
 "goods_service": 0.085793,
 "goods_service_z": -0.82171 
 },
-"219": {
+{
  "FIPS":     51,
 "year": "1993",
 "goods_service": 0.19657,
 "goods_service_z": -0.71094 
 },
-"220": {
+{
  "FIPS":     53,
 "year": "1993",
 "goods_service":      0,
 "goods_service_z": -0.90751 
 },
-"221": {
+{
  "FIPS":     55,
 "year": "1993",
 "goods_service": 0.21574,
 "goods_service_z": -0.69177 
 },
-"222": {
+{
  "FIPS":     57,
 "year": "1993",
 "goods_service": 1.0674,
 "goods_service_z": 0.15985 
 },
-"223": {
+{
  "FIPS":     59,
 "year": "1993",
 "goods_service": 0.25507,
 "goods_service_z": -0.65244 
 },
-"224": {
+{
  "FIPS":     61,
 "year": "1993",
 "goods_service":      0,
 "goods_service_z": -0.90751 
 },
-"225": {
+{
  "FIPS":     63,
 "year": "1993",
 "goods_service": 0.25353,
 "goods_service_z": -0.65398 
 },
-"226": {
+{
  "FIPS":     65,
 "year": "1993",
 "goods_service": 0.37015,
 "goods_service_z": -0.53736 
 },
-"227": {
+{
  "FIPS":     67,
 "year": "1993",
 "goods_service": 0.16974,
 "goods_service_z": -0.73776 
 },
-"228": {
+{
  "FIPS":     69,
 "year": "1993",
 "goods_service": 0.42156,
 "goods_service_z": -0.48595 
 },
-"229": {
+{
  "FIPS":     71,
 "year": "1993",
 "goods_service": 0.16119,
 "goods_service_z": -0.74632 
 },
-"230": {
+{
  "FIPS":     73,
 "year": "1993",
 "goods_service": 0.083716,
 "goods_service_z": -0.82379 
 },
-"231": {
+{
  "FIPS":     75,
 "year": "1993",
 "goods_service": 0.30481,
 "goods_service_z": -0.60269 
 },
-"232": {
+{
  "FIPS":     77,
 "year": "1993",
 "goods_service": 0.2432,
 "goods_service_z": -0.66431 
 },
-"233": {
+{
  "FIPS":     79,
 "year": "1993",
 "goods_service": 0.080508,
 "goods_service_z": -0.827 
 },
-"234": {
+{
  "FIPS":     81,
 "year": "1993",
 "goods_service": 0.41004,
 "goods_service_z": -0.49747 
 },
-"235": {
+{
  "FIPS":     83,
 "year": "1993",
 "goods_service": 0.36735,
 "goods_service_z": -0.54016 
 },
-"236": {
+{
  "FIPS":     85,
 "year": "1993",
 "goods_service": 0.41459,
 "goods_service_z": -0.49291 
 },
-"237": {
+{
  "FIPS":     87,
 "year": "1993",
 "goods_service": 0.67757,
 "goods_service_z": -0.22994 
 },
-"238": {
+{
  "FIPS":     89,
 "year": "1993",
 "goods_service": 0.28732,
 "goods_service_z": -0.62019 
 },
-"239": {
+{
  "FIPS":     91,
 "year": "1993",
 "goods_service": 0.29455,
 "goods_service_z": -0.61296 
 },
-"240": {
+{
  "FIPS":     93,
 "year": "1993",
 "goods_service": 0.3588,
 "goods_service_z": -0.54871 
 },
-"241": {
+{
  "FIPS":     95,
 "year": "1993",
 "goods_service": 0.42589,
 "goods_service_z": -0.48161 
 },
-"242": {
+{
  "FIPS":     97,
 "year": "1993",
 "goods_service": 0.10748,
 "goods_service_z": -0.80003 
 },
-"243": {
+{
  "FIPS":     99,
 "year": "1993",
 "goods_service": 0.53333,
 "goods_service_z": -0.37417 
 },
-"244": {
+{
  "FIPS":    101,
 "year": "1993",
 "goods_service": 0.26218,
 "goods_service_z": -0.64533 
 },
-"245": {
+{
  "FIPS":    103,
 "year": "1993",
 "goods_service": 0.9546,
 "goods_service_z": 0.047092 
 },
-"246": {
+{
  "FIPS":    105,
 "year": "1993",
 "goods_service": 0.45829,
 "goods_service_z": -0.44921 
 },
-"247": {
+{
  "FIPS":    107,
 "year": "1993",
 "goods_service": 0.20624,
 "goods_service_z": -0.70126 
 },
-"248": {
+{
  "FIPS":    109,
 "year": "1993",
 "goods_service": 2.2274,
 "goods_service_z": 1.3199 
 },
-"249": {
+{
  "FIPS":    111,
 "year": "1993",
 "goods_service":      0,
 "goods_service_z": -0.90751 
 },
-"250": {
+{
  "FIPS":    113,
 "year": "1993",
 "goods_service": 0.25515,
 "goods_service_z": -0.65236 
 },
-"251": {
+{
  "FIPS":    115,
 "year": "1993",
 "goods_service": 0.20665,
 "goods_service_z": -0.70086 
 },
-"252": {
+{
  "FIPS":    117,
 "year": "1993",
 "goods_service": 0.07404,
 "goods_service_z": -0.83347 
 },
-"253": {
+{
  "FIPS":    119,
 "year": "1993",
 "goods_service": 0.13442,
 "goods_service_z": -0.77309 
 },
-"254": {
+{
  "FIPS":    121,
 "year": "1993",
 "goods_service": 0.25862,
 "goods_service_z": -0.64889 
 },
-"255": {
+{
  "FIPS":    123,
 "year": "1993",
 "goods_service": 0.46319,
 "goods_service_z": -0.44431 
 },
-"256": {
+{
  "FIPS":    125,
 "year": "1993",
 "goods_service": 0.38727,
 "goods_service_z": -0.52024 
 },
-"257": {
+{
  "FIPS":      1,
 "year": "1994",
 "goods_service": 0.34101,
 "goods_service_z": -0.64849 
 },
-"258": {
+{
  "FIPS":      3,
 "year": "1994",
 "goods_service": 0.21934,
 "goods_service_z": -0.77017 
 },
-"259": {
+{
  "FIPS":      5,
 "year": "1994",
 "goods_service": 0.15383,
 "goods_service_z": -0.83568 
 },
-"260": {
+{
  "FIPS":      7,
 "year": "1994",
 "goods_service": 0.1949,
 "goods_service_z": -0.79461 
 },
-"261": {
+{
  "FIPS":      9,
 "year": "1994",
 "goods_service": 0.096019,
 "goods_service_z": -0.89349 
 },
-"262": {
+{
  "FIPS":     11,
 "year": "1994",
 "goods_service":   0.25,
 "goods_service_z": -0.73951 
 },
-"263": {
+{
  "FIPS":     13,
 "year": "1994",
 "goods_service": 0.32963,
 "goods_service_z": -0.65987 
 },
-"264": {
+{
  "FIPS":     14,
 "year": "1994",
 "goods_service":      0,
 "goods_service_z": -0.98951 
 },
-"265": {
+{
  "FIPS":     15,
 "year": "1994",
 "goods_service": 0.21878,
 "goods_service_z": -0.77072 
 },
-"266": {
+{
  "FIPS":     17,
 "year": "1994",
 "goods_service": 0.62338,
 "goods_service_z": -0.36613 
 },
-"267": {
+{
  "FIPS":     19,
 "year": "1994",
 "goods_service": 0.34266,
 "goods_service_z": -0.64684 
 },
-"268": {
+{
  "FIPS":     21,
 "year": "1994",
 "goods_service": 0.61179,
 "goods_service_z": -0.37772 
 },
-"269": {
+{
  "FIPS":     23,
 "year": "1994",
 "goods_service": 1.9675,
 "goods_service_z": 0.97803 
 },
-"270": {
+{
  "FIPS":     25,
 "year": "1994",
 "goods_service": 0.37759,
 "goods_service_z": -0.61191 
 },
-"271": {
+{
  "FIPS":     27,
 "year": "1994",
 "goods_service": 0.41245,
 "goods_service_z": -0.57706 
 },
-"272": {
+{
  "FIPS":     29,
 "year": "1994",
 "goods_service": 0.40381,
 "goods_service_z": -0.5857 
 },
-"273": {
+{
  "FIPS":     31,
 "year": "1994",
 "goods_service": 0.16613,
 "goods_service_z": -0.82338 
 },
-"274": {
+{
  "FIPS":     33,
 "year": "1994",
 "goods_service": 0.23626,
 "goods_service_z": -0.75324 
 },
-"275": {
+{
  "FIPS":     35,
 "year": "1994",
 "goods_service": 0.31212,
 "goods_service_z": -0.67739 
 },
-"276": {
+{
  "FIPS":     37,
 "year": "1994",
 "goods_service": 0.19599,
 "goods_service_z": -0.79352 
 },
-"277": {
+{
  "FIPS":     39,
 "year": "1994",
 "goods_service": 0.79297,
 "goods_service_z": -0.19654 
 },
-"278": {
+{
  "FIPS":     41,
 "year": "1994",
 "goods_service": 0.26504,
 "goods_service_z": -0.72447 
 },
-"279": {
+{
  "FIPS":     43,
 "year": "1994",
 "goods_service": 0.28256,
 "goods_service_z": -0.70695 
 },
-"280": {
+{
  "FIPS":     45,
 "year": "1994",
 "goods_service": 0.23991,
 "goods_service_z": -0.7496 
 },
-"281": {
+{
  "FIPS":     47,
 "year": "1994",
 "goods_service": 0.016346,
 "goods_service_z": -0.97316 
 },
-"282": {
+{
  "FIPS":     49,
 "year": "1994",
 "goods_service": 0.1149,
 "goods_service_z": -0.8746 
 },
-"283": {
+{
  "FIPS":     51,
 "year": "1994",
 "goods_service": 0.20301,
 "goods_service_z": -0.78649 
 },
-"284": {
+{
  "FIPS":     53,
 "year": "1994",
 "goods_service":      0,
 "goods_service_z": -0.98951 
 },
-"285": {
+{
  "FIPS":     55,
 "year": "1994",
 "goods_service": 0.19529,
 "goods_service_z": -0.79422 
 },
-"286": {
+{
  "FIPS":     57,
 "year": "1994",
 "goods_service": 0.69792,
 "goods_service_z": -0.29159 
 },
-"287": {
+{
  "FIPS":     59,
 "year": "1994",
 "goods_service": 0.24776,
 "goods_service_z": -0.74175 
 },
-"288": {
+{
  "FIPS":     61,
 "year": "1994",
 "goods_service":      0,
 "goods_service_z": -0.98951 
 },
-"289": {
+{
  "FIPS":     63,
 "year": "1994",
 "goods_service": 0.26337,
 "goods_service_z": -0.72613 
 },
-"290": {
+{
  "FIPS":     65,
 "year": "1994",
 "goods_service": 0.2884,
 "goods_service_z": -0.70111 
 },
-"291": {
+{
  "FIPS":     67,
 "year": "1994",
 "goods_service": 0.17203,
 "goods_service_z": -0.81747 
 },
-"292": {
+{
  "FIPS":     69,
 "year": "1994",
 "goods_service": 0.42117,
 "goods_service_z": -0.56834 
 },
-"293": {
+{
  "FIPS":     71,
 "year": "1994",
 "goods_service": 0.22714,
 "goods_service_z": -0.76237 
 },
-"294": {
+{
  "FIPS":     73,
 "year": "1994",
 "goods_service": 0.10671,
 "goods_service_z": -0.8828 
 },
-"295": {
+{
  "FIPS":     75,
 "year": "1994",
 "goods_service": 0.34858,
 "goods_service_z": -0.64092 
 },
-"296": {
+{
  "FIPS":     77,
 "year": "1994",
 "goods_service": 0.24432,
 "goods_service_z": -0.74519 
 },
-"297": {
+{
  "FIPS":     79,
 "year": "1994",
 "goods_service": 0.084071,
 "goods_service_z": -0.90544 
 },
-"298": {
+{
  "FIPS":     81,
 "year": "1994",
 "goods_service":   0.39,
 "goods_service_z": -0.59951 
 },
-"299": {
+{
  "FIPS":     83,
 "year": "1994",
 "goods_service": 0.29228,
 "goods_service_z": -0.69723 
 },
-"300": {
+{
  "FIPS":     85,
 "year": "1994",
 "goods_service": 0.42885,
 "goods_service_z": -0.56066 
 },
-"301": {
+{
  "FIPS":     87,
 "year": "1994",
 "goods_service": 0.73226,
 "goods_service_z": -0.25724 
 },
-"302": {
+{
  "FIPS":     89,
 "year": "1994",
 "goods_service": 0.29084,
 "goods_service_z": -0.69867 
 },
-"303": {
+{
  "FIPS":     91,
 "year": "1994",
 "goods_service": 0.35783,
 "goods_service_z": -0.63168 
 },
-"304": {
+{
  "FIPS":     93,
 "year": "1994",
 "goods_service": 0.46792,
 "goods_service_z": -0.52158 
 },
-"305": {
+{
  "FIPS":     95,
 "year": "1994",
 "goods_service": 0.45177,
 "goods_service_z": -0.53774 
 },
-"306": {
+{
  "FIPS":     97,
 "year": "1994",
 "goods_service":  0.132,
 "goods_service_z": -0.85751 
 },
-"307": {
+{
  "FIPS":     99,
 "year": "1994",
 "goods_service": 0.58854,
 "goods_service_z": -0.40097 
 },
-"308": {
+{
  "FIPS":    101,
 "year": "1994",
 "goods_service": 0.27533,
 "goods_service_z": -0.71417 
 },
-"309": {
+{
  "FIPS":    103,
 "year": "1994",
 "goods_service": 0.93757,
 "goods_service_z": -0.051935 
 },
-"310": {
+{
  "FIPS":    105,
 "year": "1994",
 "goods_service": 0.4581,
 "goods_service_z": -0.53141 
 },
-"311": {
+{
  "FIPS":    107,
 "year": "1994",
 "goods_service": 0.23516,
 "goods_service_z": -0.75435 
 },
-"312": {
+{
  "FIPS":    109,
 "year": "1994",
 "goods_service": 2.0638,
 "goods_service_z": 1.0743 
 },
-"313": {
+{
  "FIPS":    111,
 "year": "1994",
 "goods_service":      0,
 "goods_service_z": -0.98951 
 },
-"314": {
+{
  "FIPS":    113,
 "year": "1994",
 "goods_service": 0.23935,
 "goods_service_z": -0.75015 
 },
-"315": {
+{
  "FIPS":    115,
 "year": "1994",
 "goods_service": 0.26555,
 "goods_service_z": -0.72396 
 },
-"316": {
+{
  "FIPS":    117,
 "year": "1994",
 "goods_service": 0.086784,
 "goods_service_z": -0.90272 
 },
-"317": {
+{
  "FIPS":    119,
 "year": "1994",
 "goods_service": 0.1274,
 "goods_service_z": -0.86211 
 },
-"318": {
+{
  "FIPS":    121,
 "year": "1994",
 "goods_service": 0.2432,
 "goods_service_z": -0.74631 
 },
-"319": {
+{
  "FIPS":    123,
 "year": "1994",
 "goods_service": 0.43623,
 "goods_service_z": -0.55327 
 },
-"320": {
+{
  "FIPS":    125,
 "year": "1994",
 "goods_service": 0.45604,
 "goods_service_z": -0.53347 
 },
-"321": {
+{
  "FIPS":      1,
 "year": "1995",
 "goods_service": 0.32617,
 "goods_service_z": -0.75283 
 },
-"322": {
+{
  "FIPS":      3,
 "year": "1995",
 "goods_service": 0.23352,
 "goods_service_z": -0.84548 
 },
-"323": {
+{
  "FIPS":      5,
 "year": "1995",
 "goods_service": 0.14677,
 "goods_service_z": -0.93223 
 },
-"324": {
+{
  "FIPS":      7,
 "year": "1995",
 "goods_service": 0.22997,
 "goods_service_z": -0.84903 
 },
-"325": {
+{
  "FIPS":      9,
 "year": "1995",
 "goods_service": 0.12073,
 "goods_service_z": -0.95827 
 },
-"326": {
+{
  "FIPS":     11,
 "year": "1995",
 "goods_service": 0.20354,
 "goods_service_z": -0.87546 
 },
-"327": {
+{
  "FIPS":     13,
 "year": "1995",
 "goods_service": 0.37063,
 "goods_service_z": -0.70837 
 },
-"328": {
+{
  "FIPS":     14,
 "year": "1995",
 "goods_service":      0,
 "goods_service_z": -1.079 
 },
-"329": {
+{
  "FIPS":     15,
 "year": "1995",
 "goods_service": 0.21264,
 "goods_service_z": -0.86636 
 },
-"330": {
+{
  "FIPS":     17,
 "year": "1995",
 "goods_service": 0.56627,
 "goods_service_z": -0.51274 
 },
-"331": {
+{
  "FIPS":     19,
 "year": "1995",
 "goods_service": 0.43102,
 "goods_service_z": -0.64798 
 },
-"332": {
+{
  "FIPS":     21,
 "year": "1995",
 "goods_service": 0.65613,
 "goods_service_z": -0.42287 
 },
-"333": {
+{
  "FIPS":     23,
 "year": "1995",
 "goods_service": 1.6857,
 "goods_service_z": 0.60671 
 },
-"334": {
+{
  "FIPS":     25,
 "year": "1995",
 "goods_service": 0.35938,
 "goods_service_z": -0.71963 
 },
-"335": {
+{
  "FIPS":     27,
 "year": "1995",
 "goods_service": 0.50685,
 "goods_service_z": -0.57215 
 },
-"336": {
+{
  "FIPS":     29,
 "year": "1995",
 "goods_service": 0.36618,
 "goods_service_z": -0.71282 
 },
-"337": {
+{
  "FIPS":     31,
 "year": "1995",
 "goods_service": 0.16253,
 "goods_service_z": -0.91647 
 },
-"338": {
+{
  "FIPS":     33,
 "year": "1995",
 "goods_service": 0.41549,
 "goods_service_z": -0.66351 
 },
-"339": {
+{
  "FIPS":     35,
 "year": "1995",
 "goods_service": 0.33235,
 "goods_service_z": -0.74665 
 },
-"340": {
+{
  "FIPS":     37,
 "year": "1995",
 "goods_service": 0.2068,
 "goods_service_z": -0.8722 
 },
-"341": {
+{
  "FIPS":     39,
 "year": "1995",
 "goods_service": 0.91376,
 "goods_service_z": -0.16524 
 },
-"342": {
+{
  "FIPS":     41,
 "year": "1995",
 "goods_service": 0.26913,
 "goods_service_z": -0.80987 
 },
-"343": {
+{
  "FIPS":     43,
 "year": "1995",
 "goods_service": 0.27743,
 "goods_service_z": -0.80157 
 },
-"344": {
+{
  "FIPS":     45,
 "year": "1995",
 "goods_service": 0.24515,
 "goods_service_z": -0.83385 
 },
-"345": {
+{
  "FIPS":     47,
 "year": "1995",
 "goods_service": 0.015164,
 "goods_service_z": -1.0638 
 },
-"346": {
+{
  "FIPS":     49,
 "year": "1995",
 "goods_service": 0.12248,
 "goods_service_z": -0.95652 
 },
-"347": {
+{
  "FIPS":     51,
 "year": "1995",
 "goods_service": 0.20928,
 "goods_service_z": -0.86972 
 },
-"348": {
+{
  "FIPS":     53,
 "year": "1995",
 "goods_service":      0,
 "goods_service_z": -1.079 
 },
-"349": {
+{
  "FIPS":     55,
 "year": "1995",
 "goods_service": 0.19032,
 "goods_service_z": -0.88868 
 },
-"350": {
+{
  "FIPS":     57,
 "year": "1995",
 "goods_service": 0.47594,
 "goods_service_z": -0.60306 
 },
-"351": {
+{
  "FIPS":     59,
 "year": "1995",
 "goods_service": 0.27544,
 "goods_service_z": -0.80356 
 },
-"352": {
+{
  "FIPS":     61,
 "year": "1995",
 "goods_service":      0,
 "goods_service_z": -1.079 
 },
-"353": {
+{
  "FIPS":     63,
 "year": "1995",
 "goods_service": 0.25956,
 "goods_service_z": -0.81944 
 },
-"354": {
+{
  "FIPS":     65,
 "year": "1995",
 "goods_service": 0.36906,
 "goods_service_z": -0.70994 
 },
-"355": {
+{
  "FIPS":     67,
 "year": "1995",
 "goods_service": 0.17879,
 "goods_service_z": -0.90021 
 },
-"356": {
+{
  "FIPS":     69,
 "year": "1995",
 "goods_service": 0.40748,
 "goods_service_z": -0.67152 
 },
-"357": {
+{
  "FIPS":     71,
 "year": "1995",
 "goods_service": 0.29901,
 "goods_service_z": -0.77999 
 },
-"358": {
+{
  "FIPS":     73,
 "year": "1995",
 "goods_service": 0.064865,
 "goods_service_z": -1.0141 
 },
-"359": {
+{
  "FIPS":     75,
 "year": "1995",
 "goods_service": 0.36174,
 "goods_service_z": -0.71726 
 },
-"360": {
+{
  "FIPS":     77,
 "year": "1995",
 "goods_service": 0.23553,
 "goods_service_z": -0.84347 
 },
-"361": {
+{
  "FIPS":     79,
 "year": "1995",
 "goods_service": 0.087866,
 "goods_service_z": -0.99113 
 },
-"362": {
+{
  "FIPS":     81,
 "year": "1995",
 "goods_service": 0.36875,
 "goods_service_z": -0.71025 
 },
-"363": {
+{
  "FIPS":     83,
 "year": "1995",
 "goods_service": 0.29968,
 "goods_service_z": -0.77932 
 },
-"364": {
+{
  "FIPS":     85,
 "year": "1995",
 "goods_service": 0.44052,
 "goods_service_z": -0.63848 
 },
-"365": {
+{
  "FIPS":     87,
 "year": "1995",
 "goods_service": 0.74612,
 "goods_service_z": -0.33288 
 },
-"366": {
+{
  "FIPS":     89,
 "year": "1995",
 "goods_service": 0.29497,
 "goods_service_z": -0.78403 
 },
-"367": {
+{
  "FIPS":     91,
 "year": "1995",
 "goods_service": 0.36609,
 "goods_service_z": -0.71291 
 },
-"368": {
+{
  "FIPS":     93,
 "year": "1995",
 "goods_service": 0.49091,
 "goods_service_z": -0.58809 
 },
-"369": {
+{
  "FIPS":     95,
 "year": "1995",
 "goods_service": 0.45182,
 "goods_service_z": -0.62718 
 },
-"370": {
+{
  "FIPS":     97,
 "year": "1995",
 "goods_service": 0.12151,
 "goods_service_z": -0.95749 
 },
-"371": {
+{
  "FIPS":     99,
 "year": "1995",
 "goods_service": 0.56895,
 "goods_service_z": -0.51006 
 },
-"372": {
+{
  "FIPS":    101,
 "year": "1995",
 "goods_service": 0.25793,
 "goods_service_z": -0.82107 
 },
-"373": {
+{
  "FIPS":    103,
 "year": "1995",
 "goods_service": 0.87981,
 "goods_service_z": -0.19919 
 },
-"374": {
+{
  "FIPS":    105,
 "year": "1995",
 "goods_service": 0.50547,
 "goods_service_z": -0.57353 
 },
-"375": {
+{
  "FIPS":    107,
 "year": "1995",
 "goods_service": 0.21872,
 "goods_service_z": -0.86028 
 },
-"376": {
+{
  "FIPS":    109,
 "year": "1995",
 "goods_service": 1.9764,
 "goods_service_z": 0.89735 
 },
-"377": {
+{
  "FIPS":    111,
 "year": "1995",
 "goods_service":      0,
 "goods_service_z": -1.079 
 },
-"378": {
+{
  "FIPS":    113,
 "year": "1995",
 "goods_service": 0.26189,
 "goods_service_z": -0.81711 
 },
-"379": {
+{
  "FIPS":    115,
 "year": "1995",
 "goods_service": 0.2963,
 "goods_service_z": -0.7827 
 },
-"380": {
+{
  "FIPS":    117,
 "year": "1995",
 "goods_service": 0.099132,
 "goods_service_z": -0.97987 
 },
-"381": {
+{
  "FIPS":    119,
 "year": "1995",
 "goods_service": 0.1693,
 "goods_service_z": -0.9097 
 },
-"382": {
+{
  "FIPS":    121,
 "year": "1995",
 "goods_service": 0.22848,
 "goods_service_z": -0.85052 
 },
-"383": {
+{
  "FIPS":    123,
 "year": "1995",
 "goods_service": 0.46639,
 "goods_service_z": -0.61261 
 },
-"384": {
+{
  "FIPS":    125,
 "year": "1995",
 "goods_service": 0.54448,
 "goods_service_z": -0.53452 
 },
-"385": {
+{
  "FIPS":      1,
 "year": "1996",
 "goods_service": 0.33493,
 "goods_service_z": -0.74198 
 },
-"386": {
+{
  "FIPS":      3,
 "year": "1996",
 "goods_service": 0.2585,
 "goods_service_z": -0.81842 
 },
-"387": {
+{
  "FIPS":      5,
 "year": "1996",
 "goods_service": 0.14891,
 "goods_service_z": -0.928 
 },
-"388": {
+{
  "FIPS":      7,
 "year": "1996",
 "goods_service": 0.2303,
 "goods_service_z": -0.84661 
 },
-"389": {
+{
  "FIPS":      9,
 "year": "1996",
 "goods_service": 0.15789,
 "goods_service_z": -0.91902 
 },
-"390": {
+{
  "FIPS":     11,
 "year": "1996",
 "goods_service": 0.18478,
 "goods_service_z": -0.89213 
 },
-"391": {
+{
  "FIPS":     13,
 "year": "1996",
 "goods_service": 0.39468,
 "goods_service_z": -0.68223 
 },
-"392": {
+{
  "FIPS":     14,
 "year": "1996",
 "goods_service":      0,
 "goods_service_z": -1.0769 
 },
-"393": {
+{
  "FIPS":     15,
 "year": "1996",
 "goods_service": 0.19818,
 "goods_service_z": -0.87873 
 },
-"394": {
+{
  "FIPS":     17,
 "year": "1996",
 "goods_service": 0.52672,
 "goods_service_z": -0.5502 
 },
-"395": {
+{
  "FIPS":     19,
 "year": "1996",
 "goods_service": 0.42391,
 "goods_service_z": -0.653 
 },
-"396": {
+{
  "FIPS":     21,
 "year": "1996",
 "goods_service": 0.59124,
 "goods_service_z": -0.48568 
 },
-"397": {
+{
  "FIPS":     23,
 "year": "1996",
 "goods_service": 1.6133,
 "goods_service_z": 0.53634 
 },
-"398": {
+{
  "FIPS":     25,
 "year": "1996",
 "goods_service": 0.27668,
 "goods_service_z": -0.80024 
 },
-"399": {
+{
  "FIPS":     27,
 "year": "1996",
 "goods_service": 0.55591,
 "goods_service_z": -0.52101 
 },
-"400": {
+{
  "FIPS":     29,
 "year": "1996",
 "goods_service": 0.36195,
 "goods_service_z": -0.71496 
 },
-"401": {
+{
  "FIPS":     31,
 "year": "1996",
 "goods_service": 0.16326,
 "goods_service_z": -0.91365 
 },
-"402": {
+{
  "FIPS":     33,
 "year": "1996",
 "goods_service": 0.32192,
 "goods_service_z": -0.755 
 },
-"403": {
+{
  "FIPS":     35,
 "year": "1996",
 "goods_service": 0.30427,
 "goods_service_z": -0.77264 
 },
-"404": {
+{
  "FIPS":     37,
 "year": "1996",
 "goods_service": 0.2186,
 "goods_service_z": -0.85832 
 },
-"405": {
+{
  "FIPS":     39,
 "year": "1996",
 "goods_service": 0.87168,
 "goods_service_z": -0.20523 
 },
-"406": {
+{
  "FIPS":     41,
 "year": "1996",
 "goods_service": 0.26564,
 "goods_service_z": -0.81127 
 },
-"407": {
+{
  "FIPS":     43,
 "year": "1996",
 "goods_service": 0.29039,
 "goods_service_z": -0.78653 
 },
-"408": {
+{
  "FIPS":     45,
 "year": "1996",
 "goods_service": 0.25526,
 "goods_service_z": -0.82166 
 },
-"409": {
+{
  "FIPS":     47,
 "year": "1996",
 "goods_service": 0.015064,
 "goods_service_z": -1.0619 
 },
-"410": {
+{
  "FIPS":     49,
 "year": "1996",
 "goods_service": 0.1171,
 "goods_service_z": -0.95982 
 },
-"411": {
+{
  "FIPS":     51,
 "year": "1996",
 "goods_service": 0.23336,
 "goods_service_z": -0.84356 
 },
-"412": {
+{
  "FIPS":     53,
 "year": "1996",
 "goods_service":      0,
 "goods_service_z": -1.0769 
 },
-"413": {
+{
  "FIPS":     55,
 "year": "1996",
 "goods_service": 0.31705,
 "goods_service_z": -0.75987 
 },
-"414": {
+{
  "FIPS":     57,
 "year": "1996",
 "goods_service": 0.37968,
 "goods_service_z": -0.69724 
 },
-"415": {
+{
  "FIPS":     59,
 "year": "1996",
 "goods_service": 0.30721,
 "goods_service_z": -0.76971 
 },
-"416": {
+{
  "FIPS":     61,
 "year": "1996",
 "goods_service":      0,
 "goods_service_z": -1.0769 
 },
-"417": {
+{
  "FIPS":     63,
 "year": "1996",
 "goods_service": 0.26274,
 "goods_service_z": -0.81418 
 },
-"418": {
+{
  "FIPS":     65,
 "year": "1996",
 "goods_service": 0.3292,
 "goods_service_z": -0.74772 
 },
-"419": {
+{
  "FIPS":     67,
 "year": "1996",
 "goods_service": 0.18624,
 "goods_service_z": -0.89068 
 },
-"420": {
+{
  "FIPS":     69,
 "year": "1996",
 "goods_service": 0.41659,
 "goods_service_z": -0.66033 
 },
-"421": {
+{
  "FIPS":     71,
 "year": "1996",
 "goods_service": 0.21226,
 "goods_service_z": -0.86466 
 },
-"422": {
+{
  "FIPS":     73,
 "year": "1996",
 "goods_service": 0.055437,
 "goods_service_z": -1.0215 
 },
-"423": {
+{
  "FIPS":     75,
 "year": "1996",
 "goods_service": 0.34421,
 "goods_service_z": -0.73271 
 },
-"424": {
+{
  "FIPS":     77,
 "year": "1996",
 "goods_service": 0.24812,
 "goods_service_z": -0.82879 
 },
-"425": {
+{
  "FIPS":     79,
 "year": "1996",
 "goods_service": 0.12302,
 "goods_service_z": -0.9539 
 },
-"426": {
+{
  "FIPS":     81,
 "year": "1996",
 "goods_service": 0.30222,
 "goods_service_z": -0.7747 
 },
-"427": {
+{
  "FIPS":     83,
 "year": "1996",
 "goods_service": 0.26179,
 "goods_service_z": -0.81512 
 },
-"428": {
+{
  "FIPS":     85,
 "year": "1996",
 "goods_service": 0.40755,
 "goods_service_z": -0.66937 
 },
-"429": {
+{
  "FIPS":     87,
 "year": "1996",
 "goods_service": 0.7532,
 "goods_service_z": -0.32372 
 },
-"430": {
+{
  "FIPS":     89,
 "year": "1996",
 "goods_service": 0.29071,
 "goods_service_z": -0.78621 
 },
-"431": {
+{
  "FIPS":     91,
 "year": "1996",
 "goods_service": 0.36801,
 "goods_service_z": -0.7089 
 },
-"432": {
+{
  "FIPS":     93,
 "year": "1996",
 "goods_service": 0.35515,
 "goods_service_z": -0.72176 
 },
-"433": {
+{
  "FIPS":     95,
 "year": "1996",
 "goods_service": 0.5712,
 "goods_service_z": -0.50572 
 },
-"434": {
+{
  "FIPS":     97,
 "year": "1996",
 "goods_service": 0.11435,
 "goods_service_z": -0.96256 
 },
-"435": {
+{
  "FIPS":     99,
 "year": "1996",
 "goods_service": 0.59936,
 "goods_service_z": -0.47755 
 },
-"436": {
+{
  "FIPS":    101,
 "year": "1996",
 "goods_service": 0.24485,
 "goods_service_z": -0.83206 
 },
-"437": {
+{
  "FIPS":    103,
 "year": "1996",
 "goods_service": 0.82718,
 "goods_service_z": -0.24974 
 },
-"438": {
+{
  "FIPS":    105,
 "year": "1996",
 "goods_service": 0.49044,
 "goods_service_z": -0.58648 
 },
-"439": {
+{
  "FIPS":    107,
 "year": "1996",
 "goods_service": 0.25132,
 "goods_service_z": -0.8256 
 },
-"440": {
+{
  "FIPS":    109,
 "year": "1996",
 "goods_service": 2.0137,
 "goods_service_z": 0.93683 
 },
-"441": {
+{
  "FIPS":    111,
 "year": "1996",
 "goods_service":      0,
 "goods_service_z": -1.0769 
 },
-"442": {
+{
  "FIPS":    113,
 "year": "1996",
 "goods_service": 0.23913,
 "goods_service_z": -0.83779 
 },
-"443": {
+{
  "FIPS":    115,
 "year": "1996",
 "goods_service": 0.34058,
 "goods_service_z": -0.73634 
 },
-"444": {
+{
  "FIPS":    117,
 "year": "1996",
 "goods_service": 0.10119,
 "goods_service_z": -0.97573 
 },
-"445": {
+{
  "FIPS":    119,
 "year": "1996",
 "goods_service": 0.15606,
 "goods_service_z": -0.92086 
 },
-"446": {
+{
  "FIPS":    121,
 "year": "1996",
 "goods_service": 0.23481,
 "goods_service_z": -0.8421 
 },
-"447": {
+{
  "FIPS":    123,
 "year": "1996",
 "goods_service": 0.45648,
 "goods_service_z": -0.62044 
 },
-"448": {
+{
  "FIPS":    125,
 "year": "1996",
 "goods_service": 0.61299,
 "goods_service_z": -0.46392 
 },
-"449": {
+{
  "FIPS":      1,
 "year": "1997",
 "goods_service": 0.34029,
 "goods_service_z": -0.90519 
 },
-"450": {
+{
  "FIPS":      3,
 "year": "1997",
 "goods_service": 0.25937,
 "goods_service_z": -0.98612 
 },
-"451": {
+{
  "FIPS":      5,
 "year": "1997",
 "goods_service": 0.14849,
 "goods_service_z": -1.097 
 },
-"452": {
+{
  "FIPS":      7,
 "year": "1997",
 "goods_service": 0.19372,
 "goods_service_z": -1.0518 
 },
-"453": {
+{
  "FIPS":      9,
 "year": "1997",
 "goods_service": 0.18795,
 "goods_service_z": -1.0575 
 },
-"454": {
+{
  "FIPS":     11,
 "year": "1997",
 "goods_service": 0.27056,
 "goods_service_z": -0.97492 
 },
-"455": {
+{
  "FIPS":     13,
 "year": "1997",
 "goods_service": 0.38073,
 "goods_service_z": -0.86475 
 },
-"456": {
+{
  "FIPS":     14,
 "year": "1997",
 "goods_service":      0,
 "goods_service_z": -1.2455 
 },
-"457": {
+{
  "FIPS":     15,
 "year": "1997",
 "goods_service": 0.18506,
 "goods_service_z": -1.0604 
 },
-"458": {
+{
  "FIPS":     17,
 "year": "1997",
 "goods_service": 0.52381,
 "goods_service_z": -0.72167 
 },
-"459": {
+{
  "FIPS":     19,
 "year": "1997",
 "goods_service": 0.49251,
 "goods_service_z": -0.75298 
 },
-"460": {
+{
  "FIPS":     21,
 "year": "1997",
 "goods_service": 0.58716,
 "goods_service_z": -0.65833 
 },
-"461": {
+{
  "FIPS":     23,
 "year": "1997",
 "goods_service": 1.1966,
 "goods_service_z": -0.048854 
 },
-"462": {
+{
  "FIPS":     25,
 "year": "1997",
 "goods_service": 0.28634,
 "goods_service_z": -0.95914 
 },
-"463": {
+{
  "FIPS":     27,
 "year": "1997",
 "goods_service": 0.44693,
 "goods_service_z": -0.79856 
 },
-"464": {
+{
  "FIPS":     29,
 "year": "1997",
 "goods_service": 0.37059,
 "goods_service_z": -0.87489 
 },
-"465": {
+{
  "FIPS":     31,
 "year": "1997",
 "goods_service": 0.16794,
 "goods_service_z": -1.0775 
 },
-"466": {
+{
  "FIPS":     33,
 "year": "1997",
 "goods_service": 0.33588,
 "goods_service_z": -0.90961 
 },
-"467": {
+{
  "FIPS":     35,
 "year": "1997",
 "goods_service": 0.26053,
 "goods_service_z": -0.98495 
 },
-"468": {
+{
  "FIPS":     37,
 "year": "1997",
 "goods_service": 0.22308,
 "goods_service_z": -1.0224 
 },
-"469": {
+{
  "FIPS":     39,
 "year": "1997",
 "goods_service": 0.81649,
 "goods_service_z": -0.42899 
 },
-"470": {
+{
  "FIPS":     41,
 "year": "1997",
 "goods_service": 0.26235,
 "goods_service_z": -0.98313 
 },
-"471": {
+{
  "FIPS":     43,
 "year": "1997",
 "goods_service": 0.30865,
 "goods_service_z": -0.93684 
 },
-"472": {
+{
  "FIPS":     45,
 "year": "1997",
 "goods_service": 0.27594,
 "goods_service_z": -0.96954 
 },
-"473": {
+{
  "FIPS":     47,
 "year": "1997",
 "goods_service": 0.021855,
 "goods_service_z": -1.2236 
 },
-"474": {
+{
  "FIPS":     49,
 "year": "1997",
 "goods_service": 0.1186,
 "goods_service_z": -1.1269 
 },
-"475": {
+{
  "FIPS":     51,
 "year": "1997",
 "goods_service": 0.23774,
 "goods_service_z": -1.0077 
 },
-"476": {
+{
  "FIPS":     53,
 "year": "1997",
 "goods_service":      0,
 "goods_service_z": -1.2455 
 },
-"477": {
+{
  "FIPS":     55,
 "year": "1997",
 "goods_service": 0.29473,
 "goods_service_z": -0.95076 
 },
-"478": {
+{
  "FIPS":     57,
 "year": "1997",
 "goods_service":   0.33,
 "goods_service_z": -0.91548 
 },
-"479": {
+{
  "FIPS":     59,
 "year": "1997",
 "goods_service": 0.31061,
 "goods_service_z": -0.93487 
 },
-"480": {
+{
  "FIPS":     61,
 "year": "1997",
 "goods_service":      0,
 "goods_service_z": -1.2455 
 },
-"481": {
+{
  "FIPS":     63,
 "year": "1997",
 "goods_service": 0.29058,
 "goods_service_z": -0.95491 
 },
-"482": {
+{
  "FIPS":     65,
 "year": "1997",
 "goods_service": 0.3218,
 "goods_service_z": -0.92369 
 },
-"483": {
+{
  "FIPS":     67,
 "year": "1997",
 "goods_service": 0.18863,
 "goods_service_z": -1.0569 
 },
-"484": {
+{
  "FIPS":     69,
 "year": "1997",
 "goods_service": 0.40481,
 "goods_service_z": -0.84067 
 },
-"485": {
+{
  "FIPS":     71,
 "year": "1997",
 "goods_service": 0.22907,
 "goods_service_z": -1.0164 
 },
-"486": {
+{
  "FIPS":     73,
 "year": "1997",
 "goods_service": 0.073298,
 "goods_service_z": -1.1722 
 },
-"487": {
+{
  "FIPS":     75,
 "year": "1997",
 "goods_service": 0.30553,
 "goods_service_z": -0.93996 
 },
-"488": {
+{
  "FIPS":     77,
 "year": "1997",
 "goods_service": 0.25445,
 "goods_service_z": -0.99104 
 },
-"489": {
+{
  "FIPS":     79,
 "year": "1997",
 "goods_service": 0.19392,
 "goods_service_z": -1.0516 
 },
-"490": {
+{
  "FIPS":     81,
 "year": "1997",
 "goods_service": 0.2953,
 "goods_service_z": -0.95018 
 },
-"491": {
+{
  "FIPS":     83,
 "year": "1997",
 "goods_service": 0.24474,
 "goods_service_z": -1.0007 
 },
-"492": {
+{
  "FIPS":     85,
 "year": "1997",
 "goods_service": 0.4382,
 "goods_service_z": -0.80728 
 },
-"493": {
+{
  "FIPS":     87,
 "year": "1997",
 "goods_service": 0.83124,
 "goods_service_z": -0.41425 
 },
-"494": {
+{
  "FIPS":     89,
 "year": "1997",
 "goods_service": 0.2778,
 "goods_service_z": -0.96768 
 },
-"495": {
+{
  "FIPS":     91,
 "year": "1997",
 "goods_service": 0.44084,
 "goods_service_z": -0.80464 
 },
-"496": {
+{
  "FIPS":     93,
 "year": "1997",
 "goods_service": 0.36649,
 "goods_service_z": -0.879 
 },
-"497": {
+{
  "FIPS":     95,
 "year": "1997",
 "goods_service": 0.65244,
 "goods_service_z": -0.59304 
 },
-"498": {
+{
  "FIPS":     97,
 "year": "1997",
 "goods_service": 0.12541,
 "goods_service_z": -1.1201 
 },
-"499": {
+{
  "FIPS":     99,
 "year": "1997",
 "goods_service": 0.66015,
 "goods_service_z": -0.58533 
 },
-"500": {
+{
  "FIPS":    101,
 "year": "1997",
 "goods_service": 0.24465,
 "goods_service_z": -1.0008 
 },
-"501": {
+{
  "FIPS":    103,
 "year": "1997",
 "goods_service": 0.85969,
 "goods_service_z": -0.38579 
 },
-"502": {
+{
  "FIPS":    105,
 "year": "1997",
 "goods_service": 0.50276,
 "goods_service_z": -0.74273 
 },
-"503": {
+{
  "FIPS":    107,
 "year": "1997",
 "goods_service": 0.24896,
 "goods_service_z": -0.99653 
 },
-"504": {
+{
  "FIPS":    109,
 "year": "1997",
 "goods_service":  1.693,
 "goods_service_z": 0.44753 
 },
-"505": {
+{
  "FIPS":    111,
 "year": "1997",
 "goods_service":      0,
 "goods_service_z": -1.2455 
 },
-"506": {
+{
  "FIPS":    113,
 "year": "1997",
 "goods_service": 0.2247,
 "goods_service_z": -1.0208 
 },
-"507": {
+{
  "FIPS":    115,
 "year": "1997",
 "goods_service": 0.36256,
 "goods_service_z": -0.88292 
 },
-"508": {
+{
  "FIPS":    117,
 "year": "1997",
 "goods_service": 0.11108,
 "goods_service_z": -1.1344 
 },
-"509": {
+{
  "FIPS":    119,
 "year": "1997",
 "goods_service":  0.167,
 "goods_service_z": -1.0785 
 },
-"510": {
+{
  "FIPS":    121,
 "year": "1997",
 "goods_service": 0.27721,
 "goods_service_z": -0.96827 
 },
-"511": {
+{
  "FIPS":    123,
 "year": "1997",
 "goods_service": 0.55333,
 "goods_service_z": -0.69215 
 },
-"512": {
+{
  "FIPS":    125,
 "year": "1997",
 "goods_service": 0.60512,
 "goods_service_z": -0.64036 
 },
-"513": {
+{
  "FIPS":      1,
 "year": "1998",
 "goods_service": 0.35993,
 "goods_service_z": -0.95732 
 },
-"514": {
+{
  "FIPS":      3,
 "year": "1998",
 "goods_service": 0.25369,
 "goods_service_z": -1.0636 
 },
-"515": {
+{
  "FIPS":      5,
 "year": "1998",
 "goods_service": 0.15132,
 "goods_service_z": -1.1659 
 },
-"516": {
+{
  "FIPS":      7,
 "year": "1998",
 "goods_service": 0.20133,
 "goods_service_z": -1.1159 
 },
-"517": {
+{
  "FIPS":      9,
 "year": "1998",
 "goods_service": 0.21149,
 "goods_service_z": -1.1058 
 },
-"518": {
+{
  "FIPS":     11,
 "year": "1998",
 "goods_service": 0.32341,
 "goods_service_z": -0.99384 
 },
-"519": {
+{
  "FIPS":     13,
 "year": "1998",
 "goods_service": 0.38353,
 "goods_service_z": -0.93372 
 },
-"520": {
+{
  "FIPS":     14,
 "year": "1998",
 "goods_service":      0,
 "goods_service_z": -1.3173 
 },
-"521": {
+{
  "FIPS":     15,
 "year": "1998",
 "goods_service": 0.18224,
 "goods_service_z": -1.135 
 },
-"522": {
+{
  "FIPS":     17,
 "year": "1998",
 "goods_service": 0.45312,
 "goods_service_z": -0.86413 
 },
-"523": {
+{
  "FIPS":     19,
 "year": "1998",
 "goods_service": 0.54592,
 "goods_service_z": -0.77133 
 },
-"524": {
+{
  "FIPS":     21,
 "year": "1998",
 "goods_service": 0.50947,
 "goods_service_z": -0.80778 
 },
-"525": {
+{
  "FIPS":     23,
 "year": "1998",
 "goods_service": 0.9797,
 "goods_service_z": -0.33756 
 },
-"526": {
+{
  "FIPS":     25,
 "year": "1998",
 "goods_service": 0.20761,
 "goods_service_z": -1.1096 
 },
-"527": {
+{
  "FIPS":     27,
 "year": "1998",
 "goods_service": 0.46237,
 "goods_service_z": -0.85489 
 },
-"528": {
+{
  "FIPS":     29,
 "year": "1998",
 "goods_service": 0.38883,
 "goods_service_z": -0.92842 
 },
-"529": {
+{
  "FIPS":     31,
 "year": "1998",
 "goods_service": 0.16979,
 "goods_service_z": -1.1475 
 },
-"530": {
+{
  "FIPS":     33,
 "year": "1998",
 "goods_service": 0.40141,
 "goods_service_z": -0.91584 
 },
-"531": {
+{
  "FIPS":     35,
 "year": "1998",
 "goods_service": 0.23486,
 "goods_service_z": -1.0824 
 },
-"532": {
+{
  "FIPS":     37,
 "year": "1998",
 "goods_service": 0.23292,
 "goods_service_z": -1.0843 
 },
-"533": {
+{
  "FIPS":     39,
 "year": "1998",
 "goods_service": 0.76136,
 "goods_service_z": -0.55589 
 },
-"534": {
+{
  "FIPS":     41,
 "year": "1998",
 "goods_service": 0.24089,
 "goods_service_z": -1.0764 
 },
-"535": {
+{
  "FIPS":     43,
 "year": "1998",
 "goods_service": 0.3214,
 "goods_service_z": -0.99585 
 },
-"536": {
+{
  "FIPS":     45,
 "year": "1998",
 "goods_service": 0.3123,
 "goods_service_z": -1.005 
 },
-"537": {
+{
  "FIPS":     47,
 "year": "1998",
 "goods_service": 0.033153,
 "goods_service_z": -1.2841 
 },
-"538": {
+{
  "FIPS":     49,
 "year": "1998",
 "goods_service": 0.12135,
 "goods_service_z": -1.1959 
 },
-"539": {
+{
  "FIPS":     51,
 "year": "1998",
 "goods_service": 0.2411,
 "goods_service_z": -1.0762 
 },
-"540": {
+{
  "FIPS":     53,
 "year": "1998",
 "goods_service":      0,
 "goods_service_z": -1.3173 
 },
-"541": {
+{
  "FIPS":     55,
 "year": "1998",
 "goods_service": 0.26494,
 "goods_service_z": -1.0523 
 },
-"542": {
+{
  "FIPS":     57,
 "year": "1998",
 "goods_service": 0.42439,
 "goods_service_z": -0.89286 
 },
-"543": {
+{
  "FIPS":     59,
 "year": "1998",
 "goods_service": 0.3137,
 "goods_service_z": -1.0036 
 },
-"544": {
+{
  "FIPS":     61,
 "year": "1998",
 "goods_service":      0,
 "goods_service_z": -1.3173 
 },
-"545": {
+{
  "FIPS":     63,
 "year": "1998",
 "goods_service": 0.31192,
 "goods_service_z": -1.0053 
 },
-"546": {
+{
  "FIPS":     65,
 "year": "1998",
 "goods_service": 0.30576,
 "goods_service_z": -1.0115 
 },
-"547": {
+{
  "FIPS":     67,
 "year": "1998",
 "goods_service": 0.18849,
 "goods_service_z": -1.1288 
 },
-"548": {
+{
  "FIPS":     69,
 "year": "1998",
 "goods_service": 0.43269,
 "goods_service_z": -0.88456 
 },
-"549": {
+{
  "FIPS":     71,
 "year": "1998",
 "goods_service": 0.26669,
 "goods_service_z": -1.0506 
 },
-"550": {
+{
  "FIPS":     73,
 "year": "1998",
 "goods_service": 0.095905,
 "goods_service_z": -1.2213 
 },
-"551": {
+{
  "FIPS":     75,
 "year": "1998",
 "goods_service": 0.25901,
 "goods_service_z": -1.0582 
 },
-"552": {
+{
  "FIPS":     77,
 "year": "1998",
 "goods_service": 0.26186,
 "goods_service_z": -1.0554 
 },
-"553": {
+{
  "FIPS":     79,
 "year": "1998",
 "goods_service": 0.084967,
 "goods_service_z": -1.2323 
 },
-"554": {
+{
  "FIPS":     81,
 "year": "1998",
 "goods_service": 0.31292,
 "goods_service_z": -1.0043 
 },
-"555": {
+{
  "FIPS":     83,
 "year": "1998",
 "goods_service": 0.28183,
 "goods_service_z": -1.0354 
 },
-"556": {
+{
  "FIPS":     85,
 "year": "1998",
 "goods_service": 0.45411,
 "goods_service_z": -0.86314 
 },
-"557": {
+{
  "FIPS":     87,
 "year": "1998",
 "goods_service": 0.85374,
 "goods_service_z": -0.46351 
 },
-"558": {
+{
  "FIPS":     89,
 "year": "1998",
 "goods_service": 0.2676,
 "goods_service_z": -1.0497 
 },
-"559": {
+{
  "FIPS":     91,
 "year": "1998",
 "goods_service": 0.44113,
 "goods_service_z": -0.87612 
 },
-"560": {
+{
  "FIPS":     93,
 "year": "1998",
 "goods_service": 0.37794,
 "goods_service_z": -0.93931 
 },
-"561": {
+{
  "FIPS":     95,
 "year": "1998",
 "goods_service": 0.6304,
 "goods_service_z": -0.68685 
 },
-"562": {
+{
  "FIPS":     97,
 "year": "1998",
 "goods_service": 0.1172,
 "goods_service_z": -1.2001 
 },
-"563": {
+{
  "FIPS":     99,
 "year": "1998",
 "goods_service": 0.69395,
 "goods_service_z": -0.6233 
 },
-"564": {
+{
  "FIPS":    101,
 "year": "1998",
 "goods_service": 0.25133,
 "goods_service_z": -1.0659 
 },
-"565": {
+{
  "FIPS":    103,
 "year": "1998",
 "goods_service": 0.78546,
 "goods_service_z": -0.53179 
 },
-"566": {
+{
  "FIPS":    105,
 "year": "1998",
 "goods_service": 0.50708,
 "goods_service_z": -0.81017 
 },
-"567": {
+{
  "FIPS":    107,
 "year": "1998",
 "goods_service": 0.29767,
 "goods_service_z": -1.0196 
 },
-"568": {
+{
  "FIPS":    109,
 "year": "1998",
 "goods_service": 1.6371,
 "goods_service_z": 0.31982 
 },
-"569": {
+{
  "FIPS":    111,
 "year": "1998",
 "goods_service":      0,
 "goods_service_z": -1.3173 
 },
-"570": {
+{
  "FIPS":    113,
 "year": "1998",
 "goods_service": 0.22637,
 "goods_service_z": -1.0909 
 },
-"571": {
+{
  "FIPS":    115,
 "year": "1998",
 "goods_service": 0.34804,
 "goods_service_z": -0.96921 
 },
-"572": {
+{
  "FIPS":    117,
 "year": "1998",
 "goods_service": 0.12941,
 "goods_service_z": -1.1878 
 },
-"573": {
+{
  "FIPS":    119,
 "year": "1998",
 "goods_service": 0.17867,
 "goods_service_z": -1.1386 
 },
-"574": {
+{
  "FIPS":    121,
 "year": "1998",
 "goods_service": 0.31937,
 "goods_service_z": -0.99788 
 },
-"575": {
+{
  "FIPS":    123,
 "year": "1998",
 "goods_service": 0.55643,
 "goods_service_z": -0.76082 
 },
-"576": {
+{
  "FIPS":    125,
 "year": "1998",
 "goods_service": 0.60703,
 "goods_service_z": -0.71022 
 },
-"577": {
+{
  "FIPS":      1,
 "year": "1999",
 "goods_service": 0.37842,
 "goods_service_z": -0.93355 
 },
-"578": {
+{
  "FIPS":      3,
 "year": "1999",
 "goods_service": 0.24367,
 "goods_service_z": -1.0683 
 },
-"579": {
+{
  "FIPS":      5,
 "year": "1999",
 "goods_service": 0.15103,
 "goods_service_z": -1.1609 
 },
-"580": {
+{
  "FIPS":      7,
 "year": "1999",
 "goods_service": 0.24033,
 "goods_service_z": -1.0716 
 },
-"581": {
+{
  "FIPS":      9,
 "year": "1999",
 "goods_service": 0.23434,
 "goods_service_z": -1.0776 
 },
-"582": {
+{
  "FIPS":     11,
 "year": "1999",
 "goods_service": 0.22355,
 "goods_service_z": -1.0884 
 },
-"583": {
+{
  "FIPS":     13,
 "year": "1999",
 "goods_service": 0.36086,
 "goods_service_z": -0.95111 
 },
-"584": {
+{
  "FIPS":     14,
 "year": "1999",
 "goods_service":      0,
 "goods_service_z": -1.312 
 },
-"585": {
+{
  "FIPS":     15,
 "year": "1999",
 "goods_service": 0.23922,
 "goods_service_z": -1.0728 
 },
-"586": {
+{
  "FIPS":     17,
 "year": "1999",
 "goods_service": 0.45993,
 "goods_service_z": -0.85204 
 },
-"587": {
+{
  "FIPS":     19,
 "year": "1999",
 "goods_service": 0.55688,
 "goods_service_z": -0.75509 
 },
-"588": {
+{
  "FIPS":     21,
 "year": "1999",
 "goods_service":    0.6,
 "goods_service_z": -0.71197 
 },
-"589": {
+{
  "FIPS":     23,
 "year": "1999",
 "goods_service": 0.9009,
 "goods_service_z": -0.41107 
 },
-"590": {
+{
  "FIPS":     25,
 "year": "1999",
 "goods_service": 0.14481,
 "goods_service_z": -1.1672 
 },
-"591": {
+{
  "FIPS":     27,
 "year": "1999",
 "goods_service": 0.38693,
 "goods_service_z": -0.92503 
 },
-"592": {
+{
  "FIPS":     29,
 "year": "1999",
 "goods_service": 0.37608,
 "goods_service_z": -0.93589 
 },
-"593": {
+{
  "FIPS":     31,
 "year": "1999",
 "goods_service": 0.16352,
 "goods_service_z": -1.1484 
 },
-"594": {
+{
  "FIPS":     33,
 "year": "1999",
 "goods_service": 0.53374,
 "goods_service_z": -0.77823 
 },
-"595": {
+{
  "FIPS":     35,
 "year": "1999",
 "goods_service": 0.25949,
 "goods_service_z": -1.0525 
 },
-"596": {
+{
  "FIPS":     37,
 "year": "1999",
 "goods_service": 0.24767,
 "goods_service_z": -1.0643 
 },
-"597": {
+{
  "FIPS":     39,
 "year": "1999",
 "goods_service":  0.701,
 "goods_service_z": -0.61097 
 },
-"598": {
+{
  "FIPS":     41,
 "year": "1999",
 "goods_service": 0.24577,
 "goods_service_z": -1.0662 
 },
-"599": {
+{
  "FIPS":     43,
 "year": "1999",
 "goods_service": 0.31421,
 "goods_service_z": -0.99776 
 },
-"600": {
+{
  "FIPS":     45,
 "year": "1999",
 "goods_service": 0.31691,
 "goods_service_z": -0.99505 
 },
-"601": {
+{
  "FIPS":     47,
 "year": "1999",
 "goods_service": 0.039029,
 "goods_service_z": -1.2729 
 },
-"602": {
+{
  "FIPS":     49,
 "year": "1999",
 "goods_service": 0.13929,
 "goods_service_z": -1.1727 
 },
-"603": {
+{
  "FIPS":     51,
 "year": "1999",
 "goods_service": 0.28003,
 "goods_service_z": -1.0319 
 },
-"604": {
+{
  "FIPS":     53,
 "year": "1999",
 "goods_service":      0,
 "goods_service_z": -1.312 
 },
-"605": {
+{
  "FIPS":     55,
 "year": "1999",
 "goods_service": 0.2207,
 "goods_service_z": -1.0913 
 },
-"606": {
+{
  "FIPS":     57,
 "year": "1999",
 "goods_service": 0.53623,
 "goods_service_z": -0.77574 
 },
-"607": {
+{
  "FIPS":     59,
 "year": "1999",
 "goods_service": 0.30429,
 "goods_service_z": -1.0077 
 },
-"608": {
+{
  "FIPS":     61,
 "year": "1999",
 "goods_service":      0,
 "goods_service_z": -1.312 
 },
-"609": {
+{
  "FIPS":     63,
 "year": "1999",
 "goods_service": 0.28637,
 "goods_service_z": -1.0256 
 },
-"610": {
+{
  "FIPS":     65,
 "year": "1999",
 "goods_service": 0.27196,
 "goods_service_z":  -1.04 
 },
-"611": {
+{
  "FIPS":     67,
 "year": "1999",
 "goods_service": 0.18751,
 "goods_service_z": -1.1245 
 },
-"612": {
+{
  "FIPS":     69,
 "year": "1999",
 "goods_service": 0.39454,
 "goods_service_z": -0.91743 
 },
-"613": {
+{
  "FIPS":     71,
 "year": "1999",
 "goods_service": 0.22184,
 "goods_service_z": -1.0901 
 },
-"614": {
+{
  "FIPS":     73,
 "year": "1999",
 "goods_service": 0.11157,
 "goods_service_z": -1.2004 
 },
-"615": {
+{
  "FIPS":     75,
 "year": "1999",
 "goods_service": 0.24911,
 "goods_service_z": -1.0629 
 },
-"616": {
+{
  "FIPS":     77,
 "year": "1999",
 "goods_service": 0.24939,
 "goods_service_z": -1.0626 
 },
-"617": {
+{
  "FIPS":     79,
 "year": "1999",
 "goods_service": 0.12371,
 "goods_service_z": -1.1883 
 },
-"618": {
+{
  "FIPS":     81,
 "year": "1999",
 "goods_service": 0.28608,
 "goods_service_z": -1.0259 
 },
-"619": {
+{
  "FIPS":     83,
 "year": "1999",
 "goods_service": 0.26638,
 "goods_service_z": -1.0456 
 },
-"620": {
+{
  "FIPS":     85,
 "year": "1999",
 "goods_service": 0.43386,
 "goods_service_z": -0.8781 
 },
-"621": {
+{
  "FIPS":     87,
 "year": "1999",
 "goods_service": 0.87997,
 "goods_service_z": -0.432 
 },
-"622": {
+{
  "FIPS":     89,
 "year": "1999",
 "goods_service": 0.25097,
 "goods_service_z": -1.061 
 },
-"623": {
+{
  "FIPS":     91,
 "year": "1999",
 "goods_service": 0.45156,
 "goods_service_z": -0.86041 
 },
-"624": {
+{
  "FIPS":     93,
 "year": "1999",
 "goods_service": 0.42977,
 "goods_service_z": -0.8822 
 },
-"625": {
+{
  "FIPS":     95,
 "year": "1999",
 "goods_service": 0.53111,
 "goods_service_z": -0.78085 
 },
-"626": {
+{
  "FIPS":     97,
 "year": "1999",
 "goods_service": 0.1292,
 "goods_service_z": -1.1828 
 },
-"627": {
+{
  "FIPS":     99,
 "year": "1999",
 "goods_service": 0.74598,
 "goods_service_z": -0.56599 
 },
-"628": {
+{
  "FIPS":    101,
 "year": "1999",
 "goods_service": 0.24382,
 "goods_service_z": -1.0682 
 },
-"629": {
+{
  "FIPS":    103,
 "year": "1999",
 "goods_service": 0.7264,
 "goods_service_z": -0.58557 
 },
-"630": {
+{
  "FIPS":    105,
 "year": "1999",
 "goods_service": 0.57877,
 "goods_service_z": -0.7332 
 },
-"631": {
+{
  "FIPS":    107,
 "year": "1999",
 "goods_service": 0.33673,
 "goods_service_z": -0.97524 
 },
-"632": {
+{
  "FIPS":    109,
 "year": "1999",
 "goods_service":  1.698,
 "goods_service_z":  0.386 
 },
-"633": {
+{
  "FIPS":    111,
 "year": "1999",
 "goods_service":      0,
 "goods_service_z": -1.312 
 },
-"634": {
+{
  "FIPS":    113,
 "year": "1999",
 "goods_service": 0.24119,
 "goods_service_z": -1.0708 
 },
-"635": {
+{
  "FIPS":    115,
 "year": "1999",
 "goods_service": 0.37401,
 "goods_service_z": -0.93796 
 },
-"636": {
+{
  "FIPS":    117,
 "year": "1999",
 "goods_service": 0.13758,
 "goods_service_z": -1.1744 
 },
-"637": {
+{
  "FIPS":    119,
 "year": "1999",
 "goods_service": 0.19709,
 "goods_service_z": -1.1149 
 },
-"638": {
+{
  "FIPS":    121,
 "year": "1999",
 "goods_service": 0.3042,
 "goods_service_z": -1.0078 
 },
-"639": {
+{
  "FIPS":    123,
 "year": "1999",
 "goods_service": 0.55153,
 "goods_service_z": -0.76044 
 },
-"640": {
+{
  "FIPS":    125,
 "year": "1999",
 "goods_service": 0.60101,
 "goods_service_z": -0.71096 
 },
-"641": {
+{
  "FIPS":      1,
 "year": "2000",
 "goods_service": 0.39932,
 "goods_service_z": -0.99565 
 },
-"642": {
+{
  "FIPS":      3,
 "year": "2000",
 "goods_service": 0.25127,
 "goods_service_z": -1.1437 
 },
-"643": {
+{
  "FIPS":      5,
 "year": "2000",
 "goods_service": 0.1544,
 "goods_service_z": -1.2406 
 },
-"644": {
+{
  "FIPS":      7,
 "year": "2000",
 "goods_service": 0.25198,
 "goods_service_z": -1.143 
 },
-"645": {
+{
  "FIPS":      9,
 "year": "2000",
 "goods_service": 0.21346,
 "goods_service_z": -1.1815 
 },
-"646": {
+{
  "FIPS":     11,
 "year": "2000",
 "goods_service": 0.23361,
 "goods_service_z": -1.1614 
 },
-"647": {
+{
  "FIPS":     13,
 "year": "2000",
 "goods_service": 0.32449,
 "goods_service_z": -1.0705 
 },
-"648": {
+{
  "FIPS":     14,
 "year": "2000",
 "goods_service":      0,
 "goods_service_z": -1.395 
 },
-"649": {
+{
  "FIPS":     15,
 "year": "2000",
 "goods_service": 0.22126,
 "goods_service_z": -1.1737 
 },
-"650": {
+{
  "FIPS":     17,
 "year": "2000",
 "goods_service": 0.46341,
 "goods_service_z": -0.93156 
 },
-"651": {
+{
  "FIPS":     19,
 "year": "2000",
 "goods_service": 0.43814,
 "goods_service_z": -0.95683 
 },
-"652": {
+{
  "FIPS":     21,
 "year": "2000",
 "goods_service": 0.6013,
 "goods_service_z": -0.79367 
 },
-"653": {
+{
  "FIPS":     23,
 "year": "2000",
 "goods_service": 0.84898,
 "goods_service_z": -0.54599 
 },
-"654": {
+{
  "FIPS":     25,
 "year": "2000",
 "goods_service": 0.12616,
 "goods_service_z": -1.2688 
 },
-"655": {
+{
  "FIPS":     27,
 "year": "2000",
 "goods_service": 0.41441,
 "goods_service_z": -0.98056 
 },
-"656": {
+{
  "FIPS":     29,
 "year": "2000",
 "goods_service": 0.38824,
 "goods_service_z": -1.0067 
 },
-"657": {
+{
  "FIPS":     31,
 "year": "2000",
 "goods_service": 0.16487,
 "goods_service_z": -1.2301 
 },
-"658": {
+{
  "FIPS":     33,
 "year": "2000",
 "goods_service": 0.44509,
 "goods_service_z": -0.94988 
 },
-"659": {
+{
  "FIPS":     35,
 "year": "2000",
 "goods_service": 0.25293,
 "goods_service_z": -1.142 
 },
-"660": {
+{
  "FIPS":     37,
 "year": "2000",
 "goods_service": 0.25023,
 "goods_service_z": -1.1447 
 },
-"661": {
+{
  "FIPS":     39,
 "year": "2000",
 "goods_service": 0.63559,
 "goods_service_z": -0.75938 
 },
-"662": {
+{
  "FIPS":     41,
 "year": "2000",
 "goods_service": 0.25785,
 "goods_service_z": -1.1371 
 },
-"663": {
+{
  "FIPS":     43,
 "year": "2000",
 "goods_service": 0.40355,
 "goods_service_z": -0.99142 
 },
-"664": {
+{
  "FIPS":     45,
 "year": "2000",
 "goods_service": 0.36479,
 "goods_service_z": -1.0302 
 },
-"665": {
+{
  "FIPS":     47,
 "year": "2000",
 "goods_service": 0.025886,
 "goods_service_z": -1.3691 
 },
-"666": {
+{
  "FIPS":     49,
 "year": "2000",
 "goods_service": 0.15948,
 "goods_service_z": -1.2355 
 },
-"667": {
+{
  "FIPS":     51,
 "year": "2000",
 "goods_service": 0.31339,
 "goods_service_z": -1.0816 
 },
-"668": {
+{
  "FIPS":     53,
 "year": "2000",
 "goods_service":      0,
 "goods_service_z": -1.395 
 },
-"669": {
+{
  "FIPS":     55,
 "year": "2000",
 "goods_service": 0.18401,
 "goods_service_z": -1.211 
 },
-"670": {
+{
  "FIPS":     57,
 "year": "2000",
 "goods_service": 0.67633,
 "goods_service_z": -0.71864 
 },
-"671": {
+{
  "FIPS":     59,
 "year": "2000",
 "goods_service": 0.30072,
 "goods_service_z": -1.0943 
 },
-"672": {
+{
  "FIPS":     61,
 "year": "2000",
 "goods_service":      0,
 "goods_service_z": -1.395 
 },
-"673": {
+{
  "FIPS":     63,
 "year": "2000",
 "goods_service": 0.31066,
 "goods_service_z": -1.0843 
 },
-"674": {
+{
  "FIPS":     65,
 "year": "2000",
 "goods_service": 0.22817,
 "goods_service_z": -1.1668 
 },
-"675": {
+{
  "FIPS":     67,
 "year": "2000",
 "goods_service": 0.19679,
 "goods_service_z": -1.1982 
 },
-"676": {
+{
  "FIPS":     69,
 "year": "2000",
 "goods_service": 0.40364,
 "goods_service_z": -0.99133 
 },
-"677": {
+{
  "FIPS":     71,
 "year": "2000",
 "goods_service": 0.23241,
 "goods_service_z": -1.1626 
 },
-"678": {
+{
  "FIPS":     73,
 "year": "2000",
 "goods_service": 0.096558,
 "goods_service_z": -1.2984 
 },
-"679": {
+{
  "FIPS":     75,
 "year": "2000",
 "goods_service": 0.2275,
 "goods_service_z": -1.1675 
 },
-"680": {
+{
  "FIPS":     77,
 "year": "2000",
 "goods_service": 0.2569,
 "goods_service_z": -1.1381 
 },
-"681": {
+{
  "FIPS":     79,
 "year": "2000",
 "goods_service": 0.12654,
 "goods_service_z": -1.2684 
 },
-"682": {
+{
  "FIPS":     81,
 "year": "2000",
 "goods_service": 0.2655,
 "goods_service_z": -1.1295 
 },
-"683": {
+{
  "FIPS":     83,
 "year": "2000",
 "goods_service": 0.26764,
 "goods_service_z": -1.1273 
 },
-"684": {
+{
  "FIPS":     85,
 "year": "2000",
 "goods_service": 0.40714,
 "goods_service_z": -0.98783 
 },
-"685": {
+{
  "FIPS":     87,
 "year": "2000",
 "goods_service": 0.8789,
 "goods_service_z": -0.51607 
 },
-"686": {
+{
  "FIPS":     89,
 "year": "2000",
 "goods_service": 0.24118,
 "goods_service_z": -1.1538 
 },
-"687": {
+{
  "FIPS":     91,
 "year": "2000",
 "goods_service": 0.51367,
 "goods_service_z": -0.8813 
 },
-"688": {
+{
  "FIPS":     93,
 "year": "2000",
 "goods_service": 0.43696,
 "goods_service_z": -0.95801 
 },
-"689": {
+{
  "FIPS":     95,
 "year": "2000",
 "goods_service": 0.46034,
 "goods_service_z": -0.93463 
 },
-"690": {
+{
  "FIPS":     97,
 "year": "2000",
 "goods_service": 0.14191,
 "goods_service_z": -1.2531 
 },
-"691": {
+{
  "FIPS":     99,
 "year": "2000",
 "goods_service": 0.78857,
 "goods_service_z": -0.6064 
 },
-"692": {
+{
  "FIPS":    101,
 "year": "2000",
 "goods_service": 0.25024,
 "goods_service_z": -1.1447 
 },
-"693": {
+{
  "FIPS":    103,
 "year": "2000",
 "goods_service": 0.71041,
 "goods_service_z": -0.68456 
 },
-"694": {
+{
  "FIPS":    105,
 "year": "2000",
 "goods_service": 0.60243,
 "goods_service_z": -0.79254 
 },
-"695": {
+{
  "FIPS":    107,
 "year": "2000",
 "goods_service": 0.34357,
 "goods_service_z": -1.0514 
 },
-"696": {
+{
  "FIPS":    109,
 "year": "2000",
 "goods_service": 1.4687,
 "goods_service_z": 0.073706 
 },
-"697": {
+{
  "FIPS":    111,
 "year": "2000",
 "goods_service":      0,
 "goods_service_z": -1.395 
 },
-"698": {
+{
  "FIPS":    113,
 "year": "2000",
 "goods_service": 0.25134,
 "goods_service_z": -1.1436 
 },
-"699": {
+{
  "FIPS":    115,
 "year": "2000",
 "goods_service": 0.38978,
 "goods_service_z": -1.0052 
 },
-"700": {
+{
  "FIPS":    117,
 "year": "2000",
 "goods_service": 0.13868,
 "goods_service_z": -1.2563 
 },
-"701": {
+{
  "FIPS":    119,
 "year": "2000",
 "goods_service": 0.19179,
 "goods_service_z": -1.2032 
 },
-"702": {
+{
  "FIPS":    121,
 "year": "2000",
 "goods_service": 0.32234,
 "goods_service_z": -1.0726 
 },
-"703": {
+{
  "FIPS":    123,
 "year": "2000",
 "goods_service": 0.53416,
 "goods_service_z": -0.86081 
 },
-"704": {
+{
  "FIPS":    125,
 "year": "2000",
 "goods_service": 0.61796,
 "goods_service_z": -0.77701 
 },
-"705": {
+{
  "FIPS":      1,
 "year": "2001",
 "goods_service": 0.41339,
 "goods_service_z": -1.0782 
 },
-"706": {
+{
  "FIPS":      3,
 "year": "2001",
 "goods_service": 0.23278,
 "goods_service_z": -1.2588 
 },
-"707": {
+{
  "FIPS":      5,
 "year": "2001",
 "goods_service": 0.15499,
 "goods_service_z": -1.3366 
 },
-"708": {
+{
  "FIPS":      7,
 "year": "2001",
 "goods_service": 0.24669,
 "goods_service_z": -1.2449 
 },
-"709": {
+{
  "FIPS":      9,
 "year": "2001",
 "goods_service": 0.23855,
 "goods_service_z": -1.253 
 },
-"710": {
+{
  "FIPS":     11,
 "year": "2001",
 "goods_service": 0.17034,
 "goods_service_z": -1.3213 
 },
-"711": {
+{
  "FIPS":     13,
 "year": "2001",
 "goods_service": 0.30435,
 "goods_service_z": -1.1872 
 },
-"712": {
+{
  "FIPS":     14,
 "year": "2001",
 "goods_service":      0,
 "goods_service_z": -1.4916 
 },
-"713": {
+{
  "FIPS":     15,
 "year": "2001",
 "goods_service":  0.237,
 "goods_service_z": -1.2546 
 },
-"714": {
+{
  "FIPS":     17,
 "year": "2001",
 "goods_service": 0.43137,
 "goods_service_z": -1.0602 
 },
-"715": {
+{
  "FIPS":     19,
 "year": "2001",
 "goods_service": 0.40038,
 "goods_service_z": -1.0912 
 },
-"716": {
+{
  "FIPS":     21,
 "year": "2001",
 "goods_service": 0.48305,
 "goods_service_z": -1.0085 
 },
-"717": {
+{
  "FIPS":     23,
 "year": "2001",
 "goods_service": 0.80078,
 "goods_service_z": -0.69082 
 },
-"718": {
+{
  "FIPS":     25,
 "year": "2001",
 "goods_service": 0.13556,
 "goods_service_z": -1.356 
 },
-"719": {
+{
  "FIPS":     27,
 "year": "2001",
 "goods_service": 0.42451,
 "goods_service_z": -1.0671 
 },
-"720": {
+{
  "FIPS":     29,
 "year": "2001",
 "goods_service": 0.35872,
 "goods_service_z": -1.1329 
 },
-"721": {
+{
  "FIPS":     31,
 "year": "2001",
 "goods_service": 0.16213,
 "goods_service_z": -1.3295 
 },
-"722": {
+{
  "FIPS":     33,
 "year": "2001",
 "goods_service": 0.47647,
 "goods_service_z": -1.0151 
 },
-"723": {
+{
  "FIPS":     35,
 "year": "2001",
 "goods_service": 0.22115,
 "goods_service_z": -1.2704 
 },
-"724": {
+{
  "FIPS":     37,
 "year": "2001",
 "goods_service": 0.26108,
 "goods_service_z": -1.2305 
 },
-"725": {
+{
  "FIPS":     39,
 "year": "2001",
 "goods_service": 0.66642,
 "goods_service_z": -0.82518 
 },
-"726": {
+{
  "FIPS":     41,
 "year": "2001",
 "goods_service": 0.25682,
 "goods_service_z": -1.2348 
 },
-"727": {
+{
  "FIPS":     43,
 "year": "2001",
 "goods_service": 0.35556,
 "goods_service_z": -1.136 
 },
-"728": {
+{
  "FIPS":     45,
 "year": "2001",
 "goods_service": 0.36602,
 "goods_service_z": -1.1256 
 },
-"729": {
+{
  "FIPS":     47,
 "year": "2001",
 "goods_service": 0.021074,
 "goods_service_z": -1.4705 
 },
-"730": {
+{
  "FIPS":     49,
 "year": "2001",
 "goods_service": 0.16451,
 "goods_service_z": -1.3271 
 },
-"731": {
+{
  "FIPS":     51,
 "year": "2001",
 "goods_service": 0.36173,
 "goods_service_z": -1.1299 
 },
-"732": {
+{
  "FIPS":     53,
 "year": "2001",
 "goods_service": 0.20812,
 "goods_service_z": -1.2835 
 },
-"733": {
+{
  "FIPS":     55,
 "year": "2001",
 "goods_service": 0.17066,
 "goods_service_z": -1.3209 
 },
-"734": {
+{
  "FIPS":     57,
 "year": "2001",
 "goods_service": 0.70673,
 "goods_service_z": -0.78487 
 },
-"735": {
+{
  "FIPS":     59,
 "year": "2001",
 "goods_service": 0.2804,
 "goods_service_z": -1.2112 
 },
-"736": {
+{
  "FIPS":     61,
 "year": "2001",
 "goods_service": 0.42069,
 "goods_service_z": -1.0709 
 },
-"737": {
+{
  "FIPS":     63,
 "year": "2001",
 "goods_service": 0.28251,
 "goods_service_z": -1.2091 
 },
-"738": {
+{
  "FIPS":     65,
 "year": "2001",
 "goods_service": 0.22024,
 "goods_service_z": -1.2714 
 },
-"739": {
+{
  "FIPS":     67,
 "year": "2001",
 "goods_service": 0.19455,
 "goods_service_z": -1.297 
 },
-"740": {
+{
  "FIPS":     69,
 "year": "2001",
 "goods_service": 0.40068,
 "goods_service_z": -1.0909 
 },
-"741": {
+{
  "FIPS":     71,
 "year": "2001",
 "goods_service": 0.25567,
 "goods_service_z": -1.2359 
 },
-"742": {
+{
  "FIPS":     73,
 "year": "2001",
 "goods_service": 0.094041,
 "goods_service_z": -1.3976 
 },
-"743": {
+{
  "FIPS":     75,
 "year": "2001",
 "goods_service": 0.21541,
 "goods_service_z": -1.2762 
 },
-"744": {
+{
  "FIPS":     77,
 "year": "2001",
 "goods_service": 0.25661,
 "goods_service_z": -1.235 
 },
-"745": {
+{
  "FIPS":     79,
 "year": "2001",
 "goods_service": 0.12613,
 "goods_service_z": -1.3655 
 },
-"746": {
+{
  "FIPS":     81,
 "year": "2001",
 "goods_service": 0.27864,
 "goods_service_z": -1.213 
 },
-"747": {
+{
  "FIPS":     83,
 "year": "2001",
 "goods_service": 0.25787,
 "goods_service_z": -1.2337 
 },
-"748": {
+{
  "FIPS":     85,
 "year": "2001",
 "goods_service": 0.42946,
 "goods_service_z": -1.0621 
 },
-"749": {
+{
  "FIPS":     87,
 "year": "2001",
 "goods_service": 0.84992,
 "goods_service_z": -0.64168 
 },
-"750": {
+{
  "FIPS":     89,
 "year": "2001",
 "goods_service": 0.23876,
 "goods_service_z": -1.2528 
 },
-"751": {
+{
  "FIPS":     91,
 "year": "2001",
 "goods_service": 0.56882,
 "goods_service_z": -0.92278 
 },
-"752": {
+{
  "FIPS":     93,
 "year": "2001",
 "goods_service": 0.44045,
 "goods_service_z": -1.0511 
 },
-"753": {
+{
  "FIPS":     95,
 "year": "2001",
 "goods_service": 0.52609,
 "goods_service_z": -0.9655 
 },
-"754": {
+{
  "FIPS":     97,
 "year": "2001",
 "goods_service": 0.13214,
 "goods_service_z": -1.3595 
 },
-"755": {
+{
  "FIPS":     99,
 "year": "2001",
 "goods_service": 0.73717,
 "goods_service_z": -0.75443 
 },
-"756": {
+{
  "FIPS":    101,
 "year": "2001",
 "goods_service": 0.25493,
 "goods_service_z": -1.2367 
 },
-"757": {
+{
  "FIPS":    103,
 "year": "2001",
 "goods_service": 0.84364,
 "goods_service_z": -0.64795 
 },
-"758": {
+{
  "FIPS":    105,
 "year": "2001",
 "goods_service": 0.53894,
 "goods_service_z": -0.95266 
 },
-"759": {
+{
  "FIPS":    107,
 "year": "2001",
 "goods_service": 0.34049,
 "goods_service_z": -1.1511 
 },
-"760": {
+{
  "FIPS":    109,
 "year": "2001",
 "goods_service": 1.4339,
 "goods_service_z": -0.057683 
 },
-"761": {
+{
  "FIPS":    111,
 "year": "2001",
 "goods_service": 0.041026,
 "goods_service_z": -1.4506 
 },
-"762": {
+{
  "FIPS":    113,
 "year": "2001",
 "goods_service": 0.29658,
 "goods_service_z": -1.195 
 },
-"763": {
+{
  "FIPS":    115,
 "year": "2001",
 "goods_service": 0.51524,
 "goods_service_z": -0.97635 
 },
-"764": {
+{
  "FIPS":    117,
 "year": "2001",
 "goods_service": 0.13451,
 "goods_service_z": -1.3571 
 },
-"765": {
+{
  "FIPS":    119,
 "year": "2001",
 "goods_service": 0.21351,
 "goods_service_z": -1.2781 
 },
-"766": {
+{
  "FIPS":    121,
 "year": "2001",
 "goods_service": 0.3283,
 "goods_service_z": -1.1633 
 },
-"767": {
+{
  "FIPS":    123,
 "year": "2001",
 "goods_service": 0.57214,
 "goods_service_z": -0.91945 
 },
-"768": {
+{
  "FIPS":    125,
 "year": "2001",
 "goods_service": 0.60187,
 "goods_service_z": -0.88972 
 },
-"769": {
+{
  "FIPS":      1,
 "year": "2002",
 "goods_service": 0.3999,
 "goods_service_z": -1.0327 
 },
-"770": {
+{
  "FIPS":      3,
 "year": "2002",
 "goods_service": 0.22323,
 "goods_service_z": -1.2094 
 },
-"771": {
+{
  "FIPS":      5,
 "year": "2002",
 "goods_service": 0.14602,
 "goods_service_z": -1.2866 
 },
-"772": {
+{
  "FIPS":      7,
 "year": "2002",
 "goods_service": 0.24753,
 "goods_service_z": -1.1851 
 },
-"773": {
+{
  "FIPS":      9,
 "year": "2002",
 "goods_service": 0.26923,
 "goods_service_z": -1.1634 
 },
-"774": {
+{
  "FIPS":     11,
 "year": "2002",
 "goods_service": 0.16085,
 "goods_service_z": -1.2718 
 },
-"775": {
+{
  "FIPS":     13,
 "year": "2002",
 "goods_service": 0.29266,
 "goods_service_z":  -1.14 
 },
-"776": {
+{
  "FIPS":     14,
 "year": "2002",
 "goods_service": 0.26725,
 "goods_service_z": -1.1654 
 },
-"777": {
+{
  "FIPS":     15,
 "year": "2002",
 "goods_service": 0.2291,
 "goods_service_z": -1.2035 
 },
-"778": {
+{
  "FIPS":     17,
 "year": "2002",
 "goods_service": 0.43189,
 "goods_service_z": -1.0007 
 },
-"779": {
+{
  "FIPS":     19,
 "year": "2002",
 "goods_service": 0.42638,
 "goods_service_z": -1.0063 
 },
-"780": {
+{
  "FIPS":     21,
 "year": "2002",
 "goods_service": 0.50179,
 "goods_service_z": -0.93085 
 },
-"781": {
+{
  "FIPS":     23,
 "year": "2002",
 "goods_service": 0.78571,
 "goods_service_z": -0.64693 
 },
-"782": {
+{
  "FIPS":     25,
 "year": "2002",
 "goods_service": 0.11583,
 "goods_service_z": -1.3168 
 },
-"783": {
+{
  "FIPS":     27,
 "year": "2002",
 "goods_service": 0.40267,
 "goods_service_z":  -1.03 
 },
-"784": {
+{
  "FIPS":     29,
 "year": "2002",
 "goods_service":  0.369,
 "goods_service_z": -1.0636 
 },
-"785": {
+{
  "FIPS":     31,
 "year": "2002",
 "goods_service":  0.161,
 "goods_service_z": -1.2716 
 },
-"786": {
+{
  "FIPS":     33,
 "year": "2002",
 "goods_service": 0.60265,
 "goods_service_z": -0.82999 
 },
-"787": {
+{
  "FIPS":     35,
 "year": "2002",
 "goods_service": 0.21874,
 "goods_service_z": -1.2139 
 },
-"788": {
+{
  "FIPS":     37,
 "year": "2002",
 "goods_service": 0.23341,
 "goods_service_z": -1.1992 
 },
-"789": {
+{
  "FIPS":     39,
 "year": "2002",
 "goods_service": 0.68871,
 "goods_service_z": -0.74394 
 },
-"790": {
+{
  "FIPS":     41,
 "year": "2002",
 "goods_service": 0.23746,
 "goods_service_z": -1.1952 
 },
-"791": {
+{
  "FIPS":     43,
 "year": "2002",
 "goods_service": 0.27035,
 "goods_service_z": -1.1623 
 },
-"792": {
+{
  "FIPS":     45,
 "year": "2002",
 "goods_service": 0.33919,
 "goods_service_z": -1.0934 
 },
-"793": {
+{
  "FIPS":     47,
 "year": "2002",
 "goods_service": 0.020362,
 "goods_service_z": -1.4123 
 },
-"794": {
+{
  "FIPS":     49,
 "year": "2002",
 "goods_service": 0.17604,
 "goods_service_z": -1.2566 
 },
-"795": {
+{
  "FIPS":     51,
 "year": "2002",
 "goods_service": 0.35772,
 "goods_service_z": -1.0749 
 },
-"796": {
+{
  "FIPS":     53,
 "year": "2002",
 "goods_service": 0.19767,
 "goods_service_z": -1.235 
 },
-"797": {
+{
  "FIPS":     55,
 "year": "2002",
 "goods_service": 0.20233,
 "goods_service_z": -1.2303 
 },
-"798": {
+{
  "FIPS":     57,
 "year": "2002",
 "goods_service": 0.78061,
 "goods_service_z": -0.65203 
 },
-"799": {
+{
  "FIPS":     59,
 "year": "2002",
 "goods_service": 0.25741,
 "goods_service_z": -1.1752 
 },
-"800": {
+{
  "FIPS":     61,
 "year": "2002",
 "goods_service": 0.45614,
 "goods_service_z": -0.9765 
 },
-"801": {
+{
  "FIPS":     63,
 "year": "2002",
 "goods_service": 0.2681,
 "goods_service_z": -1.1645 
 },
-"802": {
+{
  "FIPS":     65,
 "year": "2002",
 "goods_service": 0.19204,
 "goods_service_z": -1.2406 
 },
-"803": {
+{
  "FIPS":     67,
 "year": "2002",
 "goods_service": 0.19349,
 "goods_service_z": -1.2392 
 },
-"804": {
+{
  "FIPS":     69,
 "year": "2002",
 "goods_service": 0.37259,
 "goods_service_z": -1.0601 
 },
-"805": {
+{
  "FIPS":     71,
 "year": "2002",
 "goods_service": 0.25206,
 "goods_service_z": -1.1806 
 },
-"806": {
+{
  "FIPS":     73,
 "year": "2002",
 "goods_service": 0.089908,
 "goods_service_z": -1.3427 
 },
-"807": {
+{
  "FIPS":     75,
 "year": "2002",
 "goods_service": 0.20832,
 "goods_service_z": -1.2243 
 },
-"808": {
+{
  "FIPS":     77,
 "year": "2002",
 "goods_service": 0.24535,
 "goods_service_z": -1.1873 
 },
-"809": {
+{
  "FIPS":     79,
 "year": "2002",
 "goods_service": 0.13354,
 "goods_service_z": -1.2991 
 },
-"810": {
+{
  "FIPS":     81,
 "year": "2002",
 "goods_service": 0.29735,
 "goods_service_z": -1.1353 
 },
-"811": {
+{
  "FIPS":     83,
 "year": "2002",
 "goods_service": 0.27468,
 "goods_service_z": -1.158 
 },
-"812": {
+{
  "FIPS":     85,
 "year": "2002",
 "goods_service": 0.39959,
 "goods_service_z": -1.0331 
 },
-"813": {
+{
  "FIPS":     87,
 "year": "2002",
 "goods_service": 0.85064,
 "goods_service_z": -0.582 
 },
-"814": {
+{
  "FIPS":     89,
 "year": "2002",
 "goods_service": 0.22306,
 "goods_service_z": -1.2096 
 },
-"815": {
+{
  "FIPS":     91,
 "year": "2002",
 "goods_service": 0.49462,
 "goods_service_z": -0.93802 
 },
-"816": {
+{
  "FIPS":     93,
 "year": "2002",
 "goods_service": 0.46118,
 "goods_service_z": -0.97146 
 },
-"817": {
+{
  "FIPS":     95,
 "year": "2002",
 "goods_service": 0.51873,
 "goods_service_z": -0.91391 
 },
-"818": {
+{
  "FIPS":     97,
 "year": "2002",
 "goods_service": 0.12159,
 "goods_service_z": -1.3111 
 },
-"819": {
+{
  "FIPS":     99,
 "year": "2002",
 "goods_service": 0.68478,
 "goods_service_z": -0.74786 
 },
-"820": {
+{
  "FIPS":    101,
 "year": "2002",
 "goods_service": 0.25172,
 "goods_service_z": -1.1809 
 },
-"821": {
+{
  "FIPS":    103,
 "year": "2002",
 "goods_service": 0.90138,
 "goods_service_z": -0.53126 
 },
-"822": {
+{
  "FIPS":    105,
 "year": "2002",
 "goods_service": 0.58297,
 "goods_service_z": -0.84967 
 },
-"823": {
+{
  "FIPS":    107,
 "year": "2002",
 "goods_service": 0.3343,
 "goods_service_z": -1.0983 
 },
-"824": {
+{
  "FIPS":    109,
 "year": "2002",
 "goods_service": 1.5867,
 "goods_service_z": 0.15409 
 },
-"825": {
+{
  "FIPS":    111,
 "year": "2002",
 "goods_service": 0.064815,
 "goods_service_z": -1.3678 
 },
-"826": {
+{
  "FIPS":    113,
 "year": "2002",
 "goods_service": 0.25575,
 "goods_service_z": -1.1769 
 },
-"827": {
+{
  "FIPS":    115,
 "year": "2002",
 "goods_service": 0.53392,
 "goods_service_z": -0.89872 
 },
-"828": {
+{
  "FIPS":    117,
 "year": "2002",
 "goods_service": 0.12099,
 "goods_service_z": -1.3116 
 },
-"829": {
+{
  "FIPS":    119,
 "year": "2002",
 "goods_service": 0.22263,
 "goods_service_z":  -1.21 
 },
-"830": {
+{
  "FIPS":    121,
 "year": "2002",
 "goods_service": 0.28175,
 "goods_service_z": -1.1509 
 },
-"831": {
+{
  "FIPS":    123,
 "year": "2002",
 "goods_service": 0.55785,
 "goods_service_z": -0.8748 
 },
-"832": {
+{
  "FIPS":    125,
 "year": "2002",
 "goods_service": 0.54525,
 "goods_service_z": -0.88739 
 },
-"833": {
+{
  "FIPS":      1,
 "year": "2003",
 "goods_service": 0.36029,
 "goods_service_z": -1.0832 
 },
-"834": {
+{
  "FIPS":      3,
 "year": "2003",
 "goods_service": 0.23008,
 "goods_service_z": -1.2134 
 },
-"835": {
+{
  "FIPS":      5,
 "year": "2003",
 "goods_service": 0.13819,
 "goods_service_z": -1.3053 
 },
-"836": {
+{
  "FIPS":      7,
 "year": "2003",
 "goods_service": 0.21486,
 "goods_service_z": -1.2287 
 },
-"837": {
+{
  "FIPS":      9,
 "year": "2003",
 "goods_service": 0.36313,
 "goods_service_z": -1.0804 
 },
-"838": {
+{
  "FIPS":     11,
 "year": "2003",
 "goods_service": 0.15769,
 "goods_service_z": -1.2858 
 },
-"839": {
+{
  "FIPS":     13,
 "year": "2003",
 "goods_service": 0.26792,
 "goods_service_z": -1.1756 
 },
-"840": {
+{
  "FIPS":     14,
 "year": "2003",
 "goods_service": 0.25454,
 "goods_service_z": -1.189 
 },
-"841": {
+{
  "FIPS":     15,
 "year": "2003",
 "goods_service": 0.21857,
 "goods_service_z": -1.225 
 },
-"842": {
+{
  "FIPS":     17,
 "year": "2003",
 "goods_service": 0.47782,
 "goods_service_z": -0.96572 
 },
-"843": {
+{
  "FIPS":     19,
 "year": "2003",
 "goods_service": 0.42296,
 "goods_service_z": -1.0206 
 },
-"844": {
+{
  "FIPS":     21,
 "year": "2003",
 "goods_service": 0.49189,
 "goods_service_z": -0.95164 
 },
-"845": {
+{
  "FIPS":     23,
 "year": "2003",
 "goods_service": 0.84454,
 "goods_service_z": -0.59899 
 },
-"846": {
+{
  "FIPS":     25,
 "year": "2003",
 "goods_service": 0.13319,
 "goods_service_z": -1.3103 
 },
-"847": {
+{
  "FIPS":     27,
 "year": "2003",
 "goods_service": 0.36692,
 "goods_service_z": -1.0766 
 },
-"848": {
+{
  "FIPS":     29,
 "year": "2003",
 "goods_service": 0.36554,
 "goods_service_z": -1.078 
 },
-"849": {
+{
  "FIPS":     31,
 "year": "2003",
 "goods_service": 0.15376,
 "goods_service_z": -1.2898 
 },
-"850": {
+{
  "FIPS":     33,
 "year": "2003",
 "goods_service":   0.68,
 "goods_service_z": -0.76353 
 },
-"851": {
+{
  "FIPS":     35,
 "year": "2003",
 "goods_service": 0.21019,
 "goods_service_z": -1.2333 
 },
-"852": {
+{
  "FIPS":     37,
 "year": "2003",
 "goods_service": 0.20247,
 "goods_service_z": -1.2411 
 },
-"853": {
+{
  "FIPS":     39,
 "year": "2003",
 "goods_service": 0.69885,
 "goods_service_z": -0.74468 
 },
-"854": {
+{
  "FIPS":     41,
 "year": "2003",
 "goods_service": 0.22614,
 "goods_service_z": -1.2174 
 },
-"855": {
+{
  "FIPS":     43,
 "year": "2003",
 "goods_service": 0.26659,
 "goods_service_z": -1.1769 
 },
-"856": {
+{
  "FIPS":     45,
 "year": "2003",
 "goods_service": 0.32154,
 "goods_service_z": -1.122 
 },
-"857": {
+{
  "FIPS":     47,
 "year": "2003",
 "goods_service": 0.019604,
 "goods_service_z": -1.4239 
 },
-"858": {
+{
  "FIPS":     49,
 "year": "2003",
 "goods_service": 0.1646,
 "goods_service_z": -1.2789 
 },
-"859": {
+{
  "FIPS":     51,
 "year": "2003",
 "goods_service": 0.32695,
 "goods_service_z": -1.1166 
 },
-"860": {
+{
  "FIPS":     53,
 "year": "2003",
 "goods_service": 0.19753,
 "goods_service_z": -1.246 
 },
-"861": {
+{
  "FIPS":     55,
 "year": "2003",
 "goods_service": 0.15758,
 "goods_service_z": -1.286 
 },
-"862": {
+{
  "FIPS":     57,
 "year": "2003",
 "goods_service": 0.6383,
 "goods_service_z": -0.80523 
 },
-"863": {
+{
  "FIPS":     59,
 "year": "2003",
 "goods_service": 0.24756,
 "goods_service_z": -1.196 
 },
-"864": {
+{
  "FIPS":     61,
 "year": "2003",
 "goods_service": 0.56122,
 "goods_service_z": -0.88231 
 },
-"865": {
+{
  "FIPS":     63,
 "year": "2003",
 "goods_service": 0.2548,
 "goods_service_z": -1.1887 
 },
-"866": {
+{
  "FIPS":     65,
 "year": "2003",
 "goods_service": 0.15556,
 "goods_service_z": -1.288 
 },
-"867": {
+{
  "FIPS":     67,
 "year": "2003",
 "goods_service": 0.21473,
 "goods_service_z": -1.2288 
 },
-"868": {
+{
  "FIPS":     69,
 "year": "2003",
 "goods_service": 0.34614,
 "goods_service_z": -1.0974 
 },
-"869": {
+{
  "FIPS":     71,
 "year": "2003",
 "goods_service": 0.22616,
 "goods_service_z": -1.2174 
 },
-"870": {
+{
  "FIPS":     73,
 "year": "2003",
 "goods_service": 0.077193,
 "goods_service_z": -1.3663 
 },
-"871": {
+{
  "FIPS":     75,
 "year": "2003",
 "goods_service": 0.22583,
 "goods_service_z": -1.2177 
 },
-"872": {
+{
  "FIPS":     77,
 "year": "2003",
 "goods_service": 0.24134,
 "goods_service_z": -1.2022 
 },
-"873": {
+{
  "FIPS":     79,
 "year": "2003",
 "goods_service": 0.13939,
 "goods_service_z": -1.3041 
 },
-"874": {
+{
  "FIPS":     81,
 "year": "2003",
 "goods_service": 0.28402,
 "goods_service_z": -1.1595 
 },
-"875": {
+{
  "FIPS":     83,
 "year": "2003",
 "goods_service": 0.26292,
 "goods_service_z": -1.1806 
 },
-"876": {
+{
  "FIPS":     85,
 "year": "2003",
 "goods_service": 0.39633,
 "goods_service_z": -1.0472 
 },
-"877": {
+{
  "FIPS":     87,
 "year": "2003",
 "goods_service": 0.80991,
 "goods_service_z": -0.63362 
 },
-"878": {
+{
  "FIPS":     89,
 "year": "2003",
 "goods_service": 0.21856,
 "goods_service_z": -1.225 
 },
-"879": {
+{
  "FIPS":     91,
 "year": "2003",
 "goods_service": 0.40051,
 "goods_service_z": -1.043 
 },
-"880": {
+{
  "FIPS":     93,
 "year": "2003",
 "goods_service": 0.43623,
 "goods_service_z": -1.0073 
 },
-"881": {
+{
  "FIPS":     95,
 "year": "2003",
 "goods_service": 0.48336,
 "goods_service_z": -0.96017 
 },
-"882": {
+{
  "FIPS":     97,
 "year": "2003",
 "goods_service": 0.10964,
 "goods_service_z": -1.3339 
 },
-"883": {
+{
  "FIPS":     99,
 "year": "2003",
 "goods_service": 0.64819,
 "goods_service_z": -0.79534 
 },
-"884": {
+{
  "FIPS":    101,
 "year": "2003",
 "goods_service": 0.24452,
 "goods_service_z": -1.199 
 },
-"885": {
+{
  "FIPS":    103,
 "year": "2003",
 "goods_service": 0.91724,
 "goods_service_z": -0.52629 
 },
-"886": {
+{
  "FIPS":    105,
 "year": "2003",
 "goods_service": 0.64212,
 "goods_service_z": -0.80142 
 },
-"887": {
+{
  "FIPS":    107,
 "year": "2003",
 "goods_service": 0.29785,
 "goods_service_z": -1.1457 
 },
-"888": {
+{
  "FIPS":    109,
 "year": "2003",
 "goods_service": 1.4524,
 "goods_service_z": 0.0088489 
 },
-"889": {
+{
  "FIPS":    111,
 "year": "2003",
 "goods_service": 0.092105,
 "goods_service_z": -1.3514 
 },
-"890": {
+{
  "FIPS":    113,
 "year": "2003",
 "goods_service": 0.26382,
 "goods_service_z": -1.1797 
 },
-"891": {
+{
  "FIPS":    115,
 "year": "2003",
 "goods_service": 0.55828,
 "goods_service_z": -0.88525 
 },
-"892": {
+{
  "FIPS":    117,
 "year": "2003",
 "goods_service": 0.11566,
 "goods_service_z": -1.3279 
 },
-"893": {
+{
  "FIPS":    119,
 "year": "2003",
 "goods_service": 0.20661,
 "goods_service_z": -1.2369 
 },
-"894": {
+{
  "FIPS":    121,
 "year": "2003",
 "goods_service": 0.25403,
 "goods_service_z": -1.1895 
 },
-"895": {
+{
  "FIPS":    123,
 "year": "2003",
 "goods_service": 0.54601,
 "goods_service_z": -0.89752 
 },
-"896": {
+{
  "FIPS":    125,
 "year": "2003",
 "goods_service": 0.57813,
 "goods_service_z": -0.8654 
 },
-"897": {
+{
  "FIPS":      1,
 "year": "2004",
 "goods_service": 0.35371,
 "goods_service_z": -1.018 
 },
-"898": {
+{
  "FIPS":      3,
 "year": "2004",
 "goods_service": 0.23037,
 "goods_service_z": -1.1413 
 },
-"899": {
+{
  "FIPS":      5,
 "year": "2004",
 "goods_service": 0.13598,
 "goods_service_z": -1.2357 
 },
-"900": {
+{
  "FIPS":      7,
 "year": "2004",
 "goods_service": 0.22238,
 "goods_service_z": -1.1493 
 },
-"901": {
+{
  "FIPS":      9,
 "year": "2004",
 "goods_service": 0.29552,
 "goods_service_z": -1.0762 
 },
-"902": {
+{
  "FIPS":     11,
 "year": "2004",
 "goods_service": 0.12727,
 "goods_service_z": -1.2444 
 },
-"903": {
+{
  "FIPS":     13,
 "year": "2004",
 "goods_service": 0.25171,
 "goods_service_z":  -1.12 
 },
-"904": {
+{
  "FIPS":     14,
 "year": "2004",
 "goods_service": 0.25294,
 "goods_service_z": -1.1188 
 },
-"905": {
+{
  "FIPS":     15,
 "year": "2004",
 "goods_service": 0.19956,
 "goods_service_z": -1.1721 
 },
-"906": {
+{
  "FIPS":     17,
 "year": "2004",
 "goods_service": 0.6413,
 "goods_service_z": -0.73039 
 },
-"907": {
+{
  "FIPS":     19,
 "year": "2004",
 "goods_service": 0.43242,
 "goods_service_z": -0.93928 
 },
-"908": {
+{
  "FIPS":     21,
 "year": "2004",
 "goods_service": 0.47893,
 "goods_service_z": -0.89277 
 },
-"909": {
+{
  "FIPS":     23,
 "year": "2004",
 "goods_service": 0.94323,
 "goods_service_z": -0.42847 
 },
-"910": {
+{
  "FIPS":     25,
 "year": "2004",
 "goods_service": 0.14783,
 "goods_service_z": -1.2239 
 },
-"911": {
+{
  "FIPS":     27,
 "year": "2004",
 "goods_service": 0.42126,
 "goods_service_z": -0.95044 
 },
-"912": {
+{
  "FIPS":     29,
 "year": "2004",
 "goods_service": 0.37684,
 "goods_service_z": -0.99486 
 },
-"913": {
+{
  "FIPS":     31,
 "year": "2004",
 "goods_service": 0.15093,
 "goods_service_z": -1.2208 
 },
-"914": {
+{
  "FIPS":     33,
 "year": "2004",
 "goods_service": 0.53548,
 "goods_service_z": -0.83621 
 },
-"915": {
+{
  "FIPS":     35,
 "year": "2004",
 "goods_service": 0.20764,
 "goods_service_z": -1.1641 
 },
-"916": {
+{
  "FIPS":     37,
 "year": "2004",
 "goods_service": 0.20613,
 "goods_service_z": -1.1656 
 },
-"917": {
+{
  "FIPS":     39,
 "year": "2004",
 "goods_service": 0.67857,
 "goods_service_z": -0.69313 
 },
-"918": {
+{
  "FIPS":     41,
 "year": "2004",
 "goods_service": 0.22243,
 "goods_service_z": -1.1493 
 },
-"919": {
+{
  "FIPS":     43,
 "year": "2004",
 "goods_service": 0.26126,
 "goods_service_z": -1.1104 
 },
-"920": {
+{
  "FIPS":     45,
 "year": "2004",
 "goods_service": 0.31295,
 "goods_service_z": -1.0588 
 },
-"921": {
+{
  "FIPS":     47,
 "year": "2004",
 "goods_service": 0.021178,
 "goods_service_z": -1.3505 
 },
-"922": {
+{
  "FIPS":     49,
 "year": "2004",
 "goods_service": 0.18691,
 "goods_service_z": -1.1848 
 },
-"923": {
+{
  "FIPS":     51,
 "year": "2004",
 "goods_service": 0.33744,
 "goods_service_z": -1.0343 
 },
-"924": {
+{
  "FIPS":     53,
 "year": "2004",
 "goods_service": 0.24161,
 "goods_service_z": -1.1301 
 },
-"925": {
+{
  "FIPS":     55,
 "year": "2004",
 "goods_service": 0.17395,
 "goods_service_z": -1.1978 
 },
-"926": {
+{
  "FIPS":     57,
 "year": "2004",
 "goods_service": 0.55513,
 "goods_service_z": -0.81657 
 },
-"927": {
+{
  "FIPS":     59,
 "year": "2004",
 "goods_service": 0.24977,
 "goods_service_z": -1.1219 
 },
-"928": {
+{
  "FIPS":     61,
 "year": "2004",
 "goods_service": 0.65957,
 "goods_service_z": -0.71212 
 },
-"929": {
+{
  "FIPS":     63,
 "year": "2004",
 "goods_service": 0.2702,
 "goods_service_z": -1.1015 
 },
-"930": {
+{
  "FIPS":     65,
 "year": "2004",
 "goods_service": 0.1757,
 "goods_service_z": -1.196 
 },
-"931": {
+{
  "FIPS":     67,
 "year": "2004",
 "goods_service":  0.234,
 "goods_service_z": -1.1377 
 },
-"932": {
+{
  "FIPS":     69,
 "year": "2004",
 "goods_service": 0.3347,
 "goods_service_z": -1.037 
 },
-"933": {
+{
  "FIPS":     71,
 "year": "2004",
 "goods_service": 0.25519,
 "goods_service_z": -1.1165 
 },
-"934": {
+{
  "FIPS":     73,
 "year": "2004",
 "goods_service": 0.14286,
 "goods_service_z": -1.2288 
 },
-"935": {
+{
  "FIPS":     75,
 "year": "2004",
 "goods_service": 0.22984,
 "goods_service_z": -1.1419 
 },
-"936": {
+{
  "FIPS":     77,
 "year": "2004",
 "goods_service": 0.25264,
 "goods_service_z": -1.1191 
 },
-"937": {
+{
  "FIPS":     79,
 "year": "2004",
 "goods_service": 0.14454,
 "goods_service_z": -1.2272 
 },
-"938": {
+{
  "FIPS":     81,
 "year": "2004",
 "goods_service": 0.27325,
 "goods_service_z": -1.0984 
 },
-"939": {
+{
  "FIPS":     83,
 "year": "2004",
 "goods_service": 0.25475,
 "goods_service_z": -1.1169 
 },
-"940": {
+{
  "FIPS":     85,
 "year": "2004",
 "goods_service": 0.40061,
 "goods_service_z": -0.97109 
 },
-"941": {
+{
  "FIPS":     87,
 "year": "2004",
 "goods_service": 0.78229,
 "goods_service_z": -0.58941 
 },
-"942": {
+{
  "FIPS":     89,
 "year": "2004",
 "goods_service": 0.23691,
 "goods_service_z": -1.1348 
 },
-"943": {
+{
  "FIPS":     91,
 "year": "2004",
 "goods_service": 0.42276,
 "goods_service_z": -0.94893 
 },
-"944": {
+{
  "FIPS":     93,
 "year": "2004",
 "goods_service": 0.40588,
 "goods_service_z": -0.96582 
 },
-"945": {
+{
  "FIPS":     95,
 "year": "2004",
 "goods_service": 0.50713,
 "goods_service_z": -0.86457 
 },
-"946": {
+{
  "FIPS":     97,
 "year": "2004",
 "goods_service": 0.10732,
 "goods_service_z": -1.2644 
 },
-"947": {
+{
  "FIPS":     99,
 "year": "2004",
 "goods_service":  0.642,
 "goods_service_z": -0.7297 
 },
-"948": {
+{
  "FIPS":    101,
 "year": "2004",
 "goods_service": 0.2366,
 "goods_service_z": -1.1351 
 },
-"949": {
+{
  "FIPS":    103,
 "year": "2004",
 "goods_service": 1.0273,
 "goods_service_z": -0.34436 
 },
-"950": {
+{
  "FIPS":    105,
 "year": "2004",
 "goods_service": 0.6397,
 "goods_service_z": -0.732 
 },
-"951": {
+{
  "FIPS":    107,
 "year": "2004",
 "goods_service": 0.29509,
 "goods_service_z": -1.0766 
 },
-"952": {
+{
  "FIPS":    109,
 "year": "2004",
 "goods_service": 1.6144,
 "goods_service_z": 0.24273 
 },
-"953": {
+{
  "FIPS":    111,
 "year": "2004",
 "goods_service": 0.084656,
 "goods_service_z": -1.287 
 },
-"954": {
+{
  "FIPS":    113,
 "year": "2004",
 "goods_service": 0.26187,
 "goods_service_z": -1.1098 
 },
-"955": {
+{
  "FIPS":    115,
 "year": "2004",
 "goods_service": 0.56765,
 "goods_service_z": -0.80405 
 },
-"956": {
+{
  "FIPS":    117,
 "year": "2004",
 "goods_service": 0.10778,
 "goods_service_z": -1.2639 
 },
-"957": {
+{
  "FIPS":    119,
 "year": "2004",
 "goods_service": 0.1811,
 "goods_service_z": -1.1906 
 },
-"958": {
+{
  "FIPS":    121,
 "year": "2004",
 "goods_service": 0.19838,
 "goods_service_z": -1.1733 
 },
-"959": {
+{
  "FIPS":    123,
 "year": "2004",
 "goods_service": 0.5428,
 "goods_service_z": -0.8289 
 },
-"960": {
+{
  "FIPS":    125,
 "year": "2004",
 "goods_service": 0.59894,
 "goods_service_z": -0.77276 
 },
-"961": {
+{
  "FIPS":      1,
 "year": "2005",
 "goods_service": 0.35156,
 "goods_service_z": -1.0252 
 },
-"962": {
+{
  "FIPS":      3,
 "year": "2005",
 "goods_service": 0.22915,
 "goods_service_z": -1.1476 
 },
-"963": {
+{
  "FIPS":      5,
 "year": "2005",
 "goods_service": 0.14109,
 "goods_service_z": -1.2356 
 },
-"964": {
+{
  "FIPS":      7,
 "year": "2005",
 "goods_service": 0.21146,
 "goods_service_z": -1.1653 
 },
-"965": {
+{
  "FIPS":      9,
 "year": "2005",
 "goods_service": 0.25723,
 "goods_service_z": -1.1195 
 },
-"966": {
+{
  "FIPS":     11,
 "year": "2005",
 "goods_service": 0.080679,
 "goods_service_z": -1.2961 
 },
-"967": {
+{
  "FIPS":     13,
 "year": "2005",
 "goods_service": 0.24357,
 "goods_service_z": -1.1332 
 },
-"968": {
+{
  "FIPS":     14,
 "year": "2005",
 "goods_service": 0.25771,
 "goods_service_z": -1.119 
 },
-"969": {
+{
  "FIPS":     15,
 "year": "2005",
 "goods_service": 0.19028,
 "goods_service_z": -1.1865 
 },
-"970": {
+{
  "FIPS":     17,
 "year": "2005",
 "goods_service": 0.61688,
 "goods_service_z": -0.75985 
 },
-"971": {
+{
  "FIPS":     19,
 "year": "2005",
 "goods_service": 0.48724,
 "goods_service_z": -0.88949 
 },
-"972": {
+{
  "FIPS":     21,
 "year": "2005",
 "goods_service": 0.42664,
 "goods_service_z": -0.95009 
 },
-"973": {
+{
  "FIPS":     23,
 "year": "2005",
 "goods_service":    0.9,
 "goods_service_z": -0.47673 
 },
-"974": {
+{
  "FIPS":     25,
 "year": "2005",
 "goods_service": 0.14706,
 "goods_service_z": -1.2297 
 },
-"975": {
+{
  "FIPS":     27,
 "year": "2005",
 "goods_service": 0.36072,
 "goods_service_z": -1.016 
 },
-"976": {
+{
  "FIPS":     29,
 "year": "2005",
 "goods_service": 0.36708,
 "goods_service_z": -1.0097 
 },
-"977": {
+{
  "FIPS":     31,
 "year": "2005",
 "goods_service": 0.15092,
 "goods_service_z": -1.2258 
 },
-"978": {
+{
  "FIPS":     33,
 "year": "2005",
 "goods_service": 0.51825,
 "goods_service_z": -0.85849 
 },
-"979": {
+{
  "FIPS":     35,
 "year": "2005",
 "goods_service": 0.20523,
 "goods_service_z": -1.1715 
 },
-"980": {
+{
  "FIPS":     37,
 "year": "2005",
 "goods_service": 0.21319,
 "goods_service_z": -1.1635 
 },
-"981": {
+{
  "FIPS":     39,
 "year": "2005",
 "goods_service": 0.65537,
 "goods_service_z": -0.72137 
 },
-"982": {
+{
  "FIPS":     41,
 "year": "2005",
 "goods_service": 0.2136,
 "goods_service_z": -1.1631 
 },
-"983": {
+{
  "FIPS":     43,
 "year": "2005",
 "goods_service": 0.27255,
 "goods_service_z": -1.1042 
 },
-"984": {
+{
  "FIPS":     45,
 "year": "2005",
 "goods_service": 0.41646,
 "goods_service_z": -0.96028 
 },
-"985": {
+{
  "FIPS":     47,
 "year": "2005",
 "goods_service": 0.027021,
 "goods_service_z": -1.3497 
 },
-"986": {
+{
  "FIPS":     49,
 "year": "2005",
 "goods_service": 0.21555,
 "goods_service_z": -1.1612 
 },
-"987": {
+{
  "FIPS":     51,
 "year": "2005",
 "goods_service": 0.34514,
 "goods_service_z": -1.0316 
 },
-"988": {
+{
  "FIPS":     53,
 "year": "2005",
 "goods_service": 0.32414,
 "goods_service_z": -1.0526 
 },
-"989": {
+{
  "FIPS":     55,
 "year": "2005",
 "goods_service": 0.15743,
 "goods_service_z": -1.2193 
 },
-"990": {
+{
  "FIPS":     57,
 "year": "2005",
 "goods_service": 0.56809,
 "goods_service_z": -0.80864 
 },
-"991": {
+{
  "FIPS":     59,
 "year": "2005",
 "goods_service": 0.24765,
 "goods_service_z": -1.1291 
 },
-"992": {
+{
  "FIPS":     61,
 "year": "2005",
 "goods_service": 0.41346,
 "goods_service_z": -0.96327 
 },
-"993": {
+{
  "FIPS":     63,
 "year": "2005",
 "goods_service": 0.27256,
 "goods_service_z": -1.1042 
 },
-"994": {
+{
  "FIPS":     65,
 "year": "2005",
 "goods_service": 0.17518,
 "goods_service_z": -1.2016 
 },
-"995": {
+{
  "FIPS":     67,
 "year": "2005",
 "goods_service": 0.23366,
 "goods_service_z": -1.1431 
 },
-"996": {
+{
  "FIPS":     69,
 "year": "2005",
 "goods_service": 0.3001,
 "goods_service_z": -1.0766 
 },
-"997": {
+{
  "FIPS":     71,
 "year": "2005",
 "goods_service": 0.31752,
 "goods_service_z": -1.0592 
 },
-"998": {
+{
  "FIPS":     73,
 "year": "2005",
 "goods_service": 0.13784,
 "goods_service_z": -1.2389 
 },
-"999": {
+{
  "FIPS":     75,
 "year": "2005",
 "goods_service": 0.25094,
 "goods_service_z": -1.1258 
 },
-"1000": {
+{
  "FIPS":     77,
 "year": "2005",
 "goods_service": 0.26579,
 "goods_service_z": -1.1109 
 },
-"1001": {
+{
  "FIPS":     79,
 "year": "2005",
 "goods_service":   0.26,
 "goods_service_z": -1.1167 
 },
-"1002": {
+{
  "FIPS":     81,
 "year": "2005",
 "goods_service": 0.29822,
 "goods_service_z": -1.0785 
 },
-"1003": {
+{
  "FIPS":     83,
 "year": "2005",
 "goods_service": 0.27079,
 "goods_service_z": -1.1059 
 },
-"1004": {
+{
  "FIPS":     85,
 "year": "2005",
 "goods_service": 0.43037,
 "goods_service_z": -0.94637 
 },
-"1005": {
+{
  "FIPS":     87,
 "year": "2005",
 "goods_service": 0.81462,
 "goods_service_z": -0.56212 
 },
-"1006": {
+{
  "FIPS":     89,
 "year": "2005",
 "goods_service": 0.22299,
 "goods_service_z": -1.1537 
 },
-"1007": {
+{
  "FIPS":     91,
 "year": "2005",
 "goods_service": 0.37764,
 "goods_service_z": -0.99909 
 },
-"1008": {
+{
  "FIPS":     93,
 "year": "2005",
 "goods_service": 0.41048,
 "goods_service_z": -0.96625 
 },
-"1009": {
+{
  "FIPS":     95,
 "year": "2005",
 "goods_service": 0.47612,
 "goods_service_z": -0.90062 
 },
-"1010": {
+{
  "FIPS":     97,
 "year": "2005",
 "goods_service": 0.098749,
 "goods_service_z": -1.278 
 },
-"1011": {
+{
  "FIPS":     99,
 "year": "2005",
 "goods_service": 0.65136,
 "goods_service_z": -0.72538 
 },
-"1012": {
+{
  "FIPS":    101,
 "year": "2005",
 "goods_service": 0.23109,
 "goods_service_z": -1.1456 
 },
-"1013": {
+{
  "FIPS":    103,
 "year": "2005",
 "goods_service": 1.2088,
 "goods_service_z": -0.16792 
 },
-"1014": {
+{
  "FIPS":    105,
 "year": "2005",
 "goods_service": 0.60483,
 "goods_service_z": -0.7719 
 },
-"1015": {
+{
  "FIPS":    107,
 "year": "2005",
 "goods_service": 0.33207,
 "goods_service_z": -1.0447 
 },
-"1016": {
+{
  "FIPS":    109,
 "year": "2005",
 "goods_service":  1.586,
 "goods_service_z": 0.20924 
 },
-"1017": {
+{
  "FIPS":    111,
 "year": "2005",
 "goods_service": 0.095506,
 "goods_service_z": -1.2812 
 },
-"1018": {
+{
  "FIPS":    113,
 "year": "2005",
 "goods_service": 0.29575,
 "goods_service_z": -1.081 
 },
-"1019": {
+{
  "FIPS":    115,
 "year": "2005",
 "goods_service": 0.56598,
 "goods_service_z": -0.81075 
 },
-"1020": {
+{
  "FIPS":    117,
 "year": "2005",
 "goods_service": 0.11836,
 "goods_service_z": -1.2584 
 },
-"1021": {
+{
  "FIPS":    119,
 "year": "2005",
 "goods_service": 0.17938,
 "goods_service_z": -1.1974 
 },
-"1022": {
+{
  "FIPS":    121,
 "year": "2005",
 "goods_service": 0.19758,
 "goods_service_z": -1.1792 
 },
-"1023": {
+{
  "FIPS":    123,
 "year": "2005",
 "goods_service": 0.56219,
 "goods_service_z": -0.81454 
 },
-"1024": {
+{
  "FIPS":    125,
 "year": "2005",
 "goods_service": 0.6415,
 "goods_service_z": -0.73524 
 },
-"1025": {
+{
  "FIPS":      1,
 "year": "2006",
 "goods_service": 0.35025,
 "goods_service_z": -0.94141 
 },
-"1026": {
+{
  "FIPS":      3,
 "year": "2006",
 "goods_service": 0.21882,
 "goods_service_z": -1.0728 
 },
-"1027": {
+{
  "FIPS":      5,
 "year": "2006",
 "goods_service": 0.14465,
 "goods_service_z": -1.147 
 },
-"1028": {
+{
  "FIPS":      7,
 "year": "2006",
 "goods_service": 0.23289,
 "goods_service_z": -1.0588 
 },
-"1029": {
+{
  "FIPS":      9,
 "year": "2006",
 "goods_service": 0.42857,
 "goods_service_z": -0.86309 
 },
-"1030": {
+{
  "FIPS":     11,
 "year": "2006",
 "goods_service": 0.075922,
 "goods_service_z": -1.2157 
 },
-"1031": {
+{
  "FIPS":     13,
 "year": "2006",
 "goods_service": 0.23573,
 "goods_service_z": -1.0559 
 },
-"1032": {
+{
  "FIPS":     14,
 "year": "2006",
 "goods_service": 0.26892,
 "goods_service_z": -1.0227 
 },
-"1033": {
+{
  "FIPS":     15,
 "year": "2006",
 "goods_service": 0.19419,
 "goods_service_z": -1.0975 
 },
-"1034": {
+{
  "FIPS":     17,
 "year": "2006",
 "goods_service": 0.43038,
 "goods_service_z": -0.86128 
 },
-"1035": {
+{
  "FIPS":     19,
 "year": "2006",
 "goods_service": 0.51861,
 "goods_service_z": -0.77306 
 },
-"1036": {
+{
  "FIPS":     21,
 "year": "2006",
 "goods_service": 0.38086,
 "goods_service_z": -0.9108 
 },
-"1037": {
+{
  "FIPS":     23,
 "year": "2006",
 "goods_service": 0.75598,
 "goods_service_z": -0.53568 
 },
-"1038": {
+{
  "FIPS":     25,
 "year": "2006",
 "goods_service": 0.16085,
 "goods_service_z": -1.1308 
 },
-"1039": {
+{
  "FIPS":     27,
 "year": "2006",
 "goods_service": 0.31028,
 "goods_service_z": -0.98139 
 },
-"1040": {
+{
  "FIPS":     29,
 "year": "2006",
 "goods_service": 0.38347,
 "goods_service_z": -0.90819 
 },
-"1041": {
+{
  "FIPS":     31,
 "year": "2006",
 "goods_service": 0.1492,
 "goods_service_z": -1.1425 
 },
-"1042": {
+{
  "FIPS":     33,
 "year": "2006",
 "goods_service": 0.52055,
 "goods_service_z": -0.77111 
 },
-"1043": {
+{
  "FIPS":     35,
 "year": "2006",
 "goods_service": 0.19038,
 "goods_service_z": -1.1013 
 },
-"1044": {
+{
  "FIPS":     37,
 "year": "2006",
 "goods_service": 0.22719,
 "goods_service_z": -1.0645 
 },
-"1045": {
+{
  "FIPS":     39,
 "year": "2006",
 "goods_service": 0.64549,
 "goods_service_z": -0.64617 
 },
-"1046": {
+{
  "FIPS":     41,
 "year": "2006",
 "goods_service": 0.2127,
 "goods_service_z": -1.079 
 },
-"1047": {
+{
  "FIPS":     43,
 "year": "2006",
 "goods_service": 0.27098,
 "goods_service_z": -1.0207 
 },
-"1048": {
+{
  "FIPS":     45,
 "year": "2006",
 "goods_service": 0.48354,
 "goods_service_z": -0.80812 
 },
-"1049": {
+{
  "FIPS":     47,
 "year": "2006",
 "goods_service": 0.030379,
 "goods_service_z": -1.2613 
 },
-"1050": {
+{
  "FIPS":     49,
 "year": "2006",
 "goods_service": 0.23926,
 "goods_service_z": -1.0524 
 },
-"1051": {
+{
  "FIPS":     51,
 "year": "2006",
 "goods_service": 0.37724,
 "goods_service_z": -0.91442 
 },
-"1052": {
+{
  "FIPS":     53,
 "year": "2006",
 "goods_service": 0.30667,
 "goods_service_z": -0.985 
 },
-"1053": {
+{
  "FIPS":     55,
 "year": "2006",
 "goods_service": 0.1859,
 "goods_service_z": -1.1058 
 },
-"1054": {
+{
  "FIPS":     57,
 "year": "2006",
 "goods_service": 0.5935,
 "goods_service_z": -0.69817 
 },
-"1055": {
+{
  "FIPS":     59,
 "year": "2006",
 "goods_service": 0.24938,
 "goods_service_z": -1.0423 
 },
-"1056": {
+{
  "FIPS":     61,
 "year": "2006",
 "goods_service":   0.31,
 "goods_service_z": -0.98166 
 },
-"1057": {
+{
  "FIPS":     63,
 "year": "2006",
 "goods_service": 0.27439,
 "goods_service_z": -1.0173 
 },
-"1058": {
+{
  "FIPS":     65,
 "year": "2006",
 "goods_service": 0.17916,
 "goods_service_z": -1.1125 
 },
-"1059": {
+{
  "FIPS":     67,
 "year": "2006",
 "goods_service": 0.25901,
 "goods_service_z": -1.0327 
 },
-"1060": {
+{
  "FIPS":     69,
 "year": "2006",
 "goods_service": 0.28644,
 "goods_service_z": -1.0052 
 },
-"1061": {
+{
  "FIPS":     71,
 "year": "2006",
 "goods_service": 0.38559,
 "goods_service_z": -0.90607 
 },
-"1062": {
+{
  "FIPS":     73,
 "year": "2006",
 "goods_service": 0.13208,
 "goods_service_z": -1.1596 
 },
-"1063": {
+{
  "FIPS":     75,
 "year": "2006",
 "goods_service": 0.22524,
 "goods_service_z": -1.0664 
 },
-"1064": {
+{
  "FIPS":     77,
 "year": "2006",
 "goods_service": 0.28758,
 "goods_service_z": -1.0041 
 },
-"1065": {
+{
  "FIPS":     79,
 "year": "2006",
 "goods_service": 0.16139,
 "goods_service_z": -1.1303 
 },
-"1066": {
+{
  "FIPS":     81,
 "year": "2006",
 "goods_service": 0.33122,
 "goods_service_z": -0.96045 
 },
-"1067": {
+{
  "FIPS":     83,
 "year": "2006",
 "goods_service": 0.26392,
 "goods_service_z": -1.0277 
 },
-"1068": {
+{
  "FIPS":     85,
 "year": "2006",
 "goods_service": 0.4313,
 "goods_service_z": -0.86037 
 },
-"1069": {
+{
  "FIPS":     87,
 "year": "2006",
 "goods_service": 0.85377,
 "goods_service_z": -0.4379 
 },
-"1070": {
+{
  "FIPS":     89,
 "year": "2006",
 "goods_service": 0.2022,
 "goods_service_z": -1.0895 
 },
-"1071": {
+{
  "FIPS":     91,
 "year": "2006",
 "goods_service": 0.36283,
 "goods_service_z": -0.92883 
 },
-"1072": {
+{
  "FIPS":     93,
 "year": "2006",
 "goods_service": 0.39372,
 "goods_service_z": -0.89795 
 },
-"1073": {
+{
  "FIPS":     95,
 "year": "2006",
 "goods_service": 0.4944,
 "goods_service_z": -0.79726 
 },
-"1074": {
+{
  "FIPS":     97,
 "year": "2006",
 "goods_service": 0.099157,
 "goods_service_z": -1.1925 
 },
-"1075": {
+{
  "FIPS":     99,
 "year": "2006",
 "goods_service": 0.46451,
 "goods_service_z": -0.82715 
 },
-"1076": {
+{
  "FIPS":    101,
 "year": "2006",
 "goods_service": 0.23347,
 "goods_service_z": -1.0582 
 },
-"1077": {
+{
  "FIPS":    103,
 "year": "2006",
 "goods_service": 1.5575,
 "goods_service_z": 0.26583 
 },
-"1078": {
+{
  "FIPS":    105,
 "year": "2006",
 "goods_service": 0.63354,
 "goods_service_z": -0.65812 
 },
-"1079": {
+{
  "FIPS":    107,
 "year": "2006",
 "goods_service": 0.33258,
 "goods_service_z": -0.95908 
 },
-"1080": {
+{
  "FIPS":    109,
 "year": "2006",
 "goods_service": 1.6201,
 "goods_service_z": 0.32843 
 },
-"1081": {
+{
  "FIPS":    111,
 "year": "2006",
 "goods_service": 0.085859,
 "goods_service_z": -1.2058 
 },
-"1082": {
+{
  "FIPS":    113,
 "year": "2006",
 "goods_service": 0.33208,
 "goods_service_z": -0.95959 
 },
-"1083": {
+{
  "FIPS":    115,
 "year": "2006",
 "goods_service": 0.49563,
 "goods_service_z": -0.79603 
 },
-"1084": {
+{
  "FIPS":    117,
 "year": "2006",
 "goods_service": 0.12326,
 "goods_service_z": -1.1684 
 },
-"1085": {
+{
  "FIPS":    119,
 "year": "2006",
 "goods_service": 0.16085,
 "goods_service_z": -1.1308 
 },
-"1086": {
+{
  "FIPS":    121,
 "year": "2006",
 "goods_service": 0.18725,
 "goods_service_z": -1.1044 
 },
-"1087": {
+{
  "FIPS":    123,
 "year": "2006",
 "goods_service": 0.54912,
 "goods_service_z": -0.74255 
 },
-"1088": {
+{
  "FIPS":    125,
 "year": "2006",
 "goods_service": 0.69448,
 "goods_service_z": -0.59718 
 },
-"1089": {
+{
  "FIPS":      1,
 "year": "2007",
 "goods_service": 0.31558,
 "goods_service_z": -0.91082 
 },
-"1090": {
+{
  "FIPS":      3,
 "year": "2007",
 "goods_service": 0.21768,
 "goods_service_z": -1.0087 
 },
-"1091": {
+{
  "FIPS":      5,
 "year": "2007",
 "goods_service": 0.13779,
 "goods_service_z": -1.0886 
 },
-"1092": {
+{
  "FIPS":      7,
 "year": "2007",
 "goods_service": 0.20461,
 "goods_service_z": -1.0218 
 },
-"1093": {
+{
  "FIPS":      9,
 "year": "2007",
 "goods_service": 0.37243,
 "goods_service_z": -0.85397 
 },
-"1094": {
+{
  "FIPS":     11,
 "year": "2007",
 "goods_service": 0.088608,
 "goods_service_z": -1.1378 
 },
-"1095": {
+{
  "FIPS":     13,
 "year": "2007",
 "goods_service": 0.22318,
 "goods_service_z": -1.0032 
 },
-"1096": {
+{
  "FIPS":     14,
 "year": "2007",
 "goods_service": 0.25439,
 "goods_service_z": -0.97201 
 },
-"1097": {
+{
  "FIPS":     15,
 "year": "2007",
 "goods_service": 0.19971,
 "goods_service_z": -1.0267 
 },
-"1098": {
+{
  "FIPS":     17,
 "year": "2007",
 "goods_service": 0.43614,
 "goods_service_z": -0.79026 
 },
-"1099": {
+{
  "FIPS":     19,
 "year": "2007",
 "goods_service": 0.54284,
 "goods_service_z": -0.68356 
 },
-"1100": {
+{
  "FIPS":     21,
 "year": "2007",
 "goods_service": 0.32717,
 "goods_service_z": -0.89923 
 },
-"1101": {
+{
  "FIPS":     23,
 "year": "2007",
 "goods_service": 0.81463,
 "goods_service_z": -0.41177 
 },
-"1102": {
+{
  "FIPS":     25,
 "year": "2007",
 "goods_service": 0.16603,
 "goods_service_z": -1.0604 
 },
-"1103": {
+{
  "FIPS":     27,
 "year": "2007",
 "goods_service": 0.31429,
 "goods_service_z": -0.91211 
 },
-"1104": {
+{
  "FIPS":     29,
 "year": "2007",
 "goods_service": 0.42543,
 "goods_service_z": -0.80096 
 },
-"1105": {
+{
  "FIPS":     31,
 "year": "2007",
 "goods_service": 0.14937,
 "goods_service_z": -1.077 
 },
-"1106": {
+{
  "FIPS":     33,
 "year": "2007",
 "goods_service": 0.44262,
 "goods_service_z": -0.78378 
 },
-"1107": {
+{
  "FIPS":     35,
 "year": "2007",
 "goods_service": 0.17536,
 "goods_service_z": -1.051 
 },
-"1108": {
+{
  "FIPS":     37,
 "year": "2007",
 "goods_service": 0.23447,
 "goods_service_z": -0.99193 
 },
-"1109": {
+{
  "FIPS":     39,
 "year": "2007",
 "goods_service": 0.61199,
 "goods_service_z": -0.61441 
 },
-"1110": {
+{
  "FIPS":     41,
 "year": "2007",
 "goods_service": 0.20089,
 "goods_service_z": -1.0255 
 },
-"1111": {
+{
  "FIPS":     43,
 "year": "2007",
 "goods_service": 0.26642,
 "goods_service_z": -0.95998 
 },
-"1112": {
+{
  "FIPS":     45,
 "year": "2007",
 "goods_service": 0.49615,
 "goods_service_z": -0.73025 
 },
-"1113": {
+{
  "FIPS":     47,
 "year": "2007",
 "goods_service": 0.024479,
 "goods_service_z": -1.2019 
 },
-"1114": {
+{
  "FIPS":     49,
 "year": "2007",
 "goods_service": 0.2405,
 "goods_service_z": -0.9859 
 },
-"1115": {
+{
  "FIPS":     51,
 "year": "2007",
 "goods_service": 0.36873,
 "goods_service_z": -0.85767 
 },
-"1116": {
+{
  "FIPS":     53,
 "year": "2007",
 "goods_service": 0.42537,
 "goods_service_z": -0.80103 
 },
-"1117": {
+{
  "FIPS":     55,
 "year": "2007",
 "goods_service": 0.18105,
 "goods_service_z": -1.0454 
 },
-"1118": {
+{
  "FIPS":     57,
 "year": "2007",
 "goods_service": 0.60417,
 "goods_service_z": -0.62223 
 },
-"1119": {
+{
  "FIPS":     59,
 "year": "2007",
 "goods_service": 0.24298,
 "goods_service_z": -0.98341 
 },
-"1120": {
+{
  "FIPS":     61,
 "year": "2007",
 "goods_service": 0.28696,
 "goods_service_z": -0.93944 
 },
-"1121": {
+{
  "FIPS":     63,
 "year": "2007",
 "goods_service": 0.30286,
 "goods_service_z": -0.92354 
 },
-"1122": {
+{
  "FIPS":     65,
 "year": "2007",
 "goods_service": 0.23077,
 "goods_service_z": -0.99563 
 },
-"1123": {
+{
  "FIPS":     67,
 "year": "2007",
 "goods_service": 0.2654,
 "goods_service_z": -0.961 
 },
-"1124": {
+{
  "FIPS":     69,
 "year": "2007",
 "goods_service": 0.27954,
 "goods_service_z": -0.94686 
 },
-"1125": {
+{
  "FIPS":     71,
 "year": "2007",
 "goods_service": 0.44208,
 "goods_service_z": -0.78432 
 },
-"1126": {
+{
  "FIPS":     73,
 "year": "2007",
 "goods_service": 0.13546,
 "goods_service_z": -1.0909 
 },
-"1127": {
+{
  "FIPS":     75,
 "year": "2007",
 "goods_service": 0.24521,
 "goods_service_z": -0.98119 
 },
-"1128": {
+{
  "FIPS":     77,
 "year": "2007",
 "goods_service": 0.30945,
 "goods_service_z": -0.91695 
 },
-"1129": {
+{
  "FIPS":     79,
 "year": "2007",
 "goods_service": 0.15244,
 "goods_service_z": -1.074 
 },
-"1130": {
+{
  "FIPS":     81,
 "year": "2007",
 "goods_service": 0.3156,
 "goods_service_z": -0.9108 
 },
-"1131": {
+{
  "FIPS":     83,
 "year": "2007",
 "goods_service": 0.26437,
 "goods_service_z": -0.96203 
 },
-"1132": {
+{
  "FIPS":     85,
 "year": "2007",
 "goods_service": 0.38822,
 "goods_service_z": -0.83818 
 },
-"1133": {
+{
  "FIPS":     87,
 "year": "2007",
 "goods_service": 0.83711,
 "goods_service_z": -0.38929 
 },
-"1134": {
+{
  "FIPS":     89,
 "year": "2007",
 "goods_service": 0.19779,
 "goods_service_z": -1.0286 
 },
-"1135": {
+{
  "FIPS":     91,
 "year": "2007",
 "goods_service": 0.37782,
 "goods_service_z": -0.84858 
 },
-"1136": {
+{
  "FIPS":     93,
 "year": "2007",
 "goods_service": 0.39046,
 "goods_service_z": -0.83594 
 },
-"1137": {
+{
  "FIPS":     95,
 "year": "2007",
 "goods_service": 0.48674,
 "goods_service_z": -0.73966 
 },
-"1138": {
+{
  "FIPS":     97,
 "year": "2007",
 "goods_service": 0.10542,
 "goods_service_z": -1.121 
 },
-"1139": {
+{
  "FIPS":     99,
 "year": "2007",
 "goods_service": 0.47475,
 "goods_service_z": -0.75165 
 },
-"1140": {
+{
  "FIPS":    101,
 "year": "2007",
 "goods_service": 0.2412,
 "goods_service_z": -0.9852 
 },
-"1141": {
+{
  "FIPS":    103,
 "year": "2007",
 "goods_service": 1.8835,
 "goods_service_z": 0.65709 
 },
-"1142": {
+{
  "FIPS":    105,
 "year": "2007",
 "goods_service": 0.66422,
 "goods_service_z": -0.56218 
 },
-"1143": {
+{
  "FIPS":    107,
 "year": "2007",
 "goods_service": 0.36004,
 "goods_service_z": -0.86636 
 },
-"1144": {
+{
  "FIPS":    109,
 "year": "2007",
 "goods_service": 1.5828,
 "goods_service_z": 0.35638 
 },
-"1145": {
+{
  "FIPS":    111,
 "year": "2007",
 "goods_service": 0.16062,
 "goods_service_z": -1.0658 
 },
-"1146": {
+{
  "FIPS":    113,
 "year": "2007",
 "goods_service": 0.3755,
 "goods_service_z": -0.8509 
 },
-"1147": {
+{
  "FIPS":    115,
 "year": "2007",
 "goods_service": 0.84682,
 "goods_service_z": -0.37958 
 },
-"1148": {
+{
  "FIPS":    117,
 "year": "2007",
 "goods_service": 0.11686,
 "goods_service_z": -1.1095 
 },
-"1149": {
+{
  "FIPS":    119,
 "year": "2007",
 "goods_service": 0.16339,
 "goods_service_z": -1.063 
 },
-"1150": {
+{
  "FIPS":    121,
 "year": "2007",
 "goods_service":  0.258,
 "goods_service_z": -0.9684 
 },
-"1151": {
+{
  "FIPS":    123,
 "year": "2007",
 "goods_service": 0.55639,
 "goods_service_z": -0.67001 
 },
-"1152": {
+{
  "FIPS":    125,
 "year": "2007",
 "goods_service": 0.7442,
 "goods_service_z": -0.4822 
 },
-"1153": {
+{
  "FIPS":      1,
 "year": "2008",
 "goods_service": 0.29359,
 "goods_service_z": -1.0293 
 },
-"1154": {
+{
  "FIPS":      3,
 "year": "2008",
 "goods_service": 0.22615,
 "goods_service_z": -1.0967 
 },
-"1155": {
+{
  "FIPS":      5,
 "year": "2008",
 "goods_service": 0.13103,
 "goods_service_z": -1.1918 
 },
-"1156": {
+{
  "FIPS":      7,
 "year": "2008",
 "goods_service": 0.18083,
 "goods_service_z": -1.142 
 },
-"1157": {
+{
  "FIPS":      9,
 "year": "2008",
 "goods_service": 0.4058,
 "goods_service_z": -0.91706 
 },
-"1158": {
+{
  "FIPS":     11,
 "year": "2008",
 "goods_service": 0.080082,
 "goods_service_z": -1.2428 
 },
-"1159": {
+{
  "FIPS":     13,
 "year": "2008",
 "goods_service": 0.21994,
 "goods_service_z": -1.1029 
 },
-"1160": {
+{
  "FIPS":     14,
 "year": "2008",
 "goods_service": 0.25871,
 "goods_service_z": -1.0641 
 },
-"1161": {
+{
  "FIPS":     15,
 "year": "2008",
 "goods_service": 0.19501,
 "goods_service_z": -1.1279 
 },
-"1162": {
+{
  "FIPS":     17,
 "year": "2008",
 "goods_service": 0.63035,
 "goods_service_z": -0.69251 
 },
-"1163": {
+{
  "FIPS":     19,
 "year": "2008",
 "goods_service": 0.59536,
 "goods_service_z": -0.72749 
 },
-"1164": {
+{
  "FIPS":     21,
 "year": "2008",
 "goods_service": 0.24668,
 "goods_service_z": -1.0762 
 },
-"1165": {
+{
  "FIPS":     23,
 "year": "2008",
 "goods_service": 0.8066,
 "goods_service_z": -0.51625 
 },
-"1166": {
+{
  "FIPS":     25,
 "year": "2008",
 "goods_service": 0.19216,
 "goods_service_z": -1.1307 
 },
-"1167": {
+{
  "FIPS":     27,
 "year": "2008",
 "goods_service": 0.35639,
 "goods_service_z": -0.96646 
 },
-"1168": {
+{
  "FIPS":     29,
 "year": "2008",
 "goods_service": 0.42993,
 "goods_service_z": -0.89292 
 },
-"1169": {
+{
  "FIPS":     31,
 "year": "2008",
 "goods_service": 0.14901,
 "goods_service_z": -1.1739 
 },
-"1170": {
+{
  "FIPS":     33,
 "year": "2008",
 "goods_service": 0.54545,
 "goods_service_z": -0.7774 
 },
-"1171": {
+{
  "FIPS":     35,
 "year": "2008",
 "goods_service": 0.16401,
 "goods_service_z": -1.1588 
 },
-"1172": {
+{
  "FIPS":     37,
 "year": "2008",
 "goods_service": 0.22303,
 "goods_service_z": -1.0998 
 },
-"1173": {
+{
  "FIPS":     39,
 "year": "2008",
 "goods_service": 0.65869,
 "goods_service_z": -0.66417 
 },
-"1174": {
+{
  "FIPS":     41,
 "year": "2008",
 "goods_service": 0.18556,
 "goods_service_z": -1.1373 
 },
-"1175": {
+{
  "FIPS":     43,
 "year": "2008",
 "goods_service": 0.24076,
 "goods_service_z": -1.0821 
 },
-"1176": {
+{
  "FIPS":     45,
 "year": "2008",
 "goods_service": 0.52773,
 "goods_service_z": -0.79513 
 },
-"1177": {
+{
  "FIPS":     47,
 "year": "2008",
 "goods_service": 0.031317,
 "goods_service_z": -1.2915 
 },
-"1178": {
+{
  "FIPS":     49,
 "year": "2008",
 "goods_service": 0.22568,
 "goods_service_z": -1.0972 
 },
-"1179": {
+{
  "FIPS":     51,
 "year": "2008",
 "goods_service": 0.36562,
 "goods_service_z": -0.95723 
 },
-"1180": {
+{
  "FIPS":     53,
 "year": "2008",
 "goods_service": 0.42177,
 "goods_service_z": -0.90109 
 },
-"1181": {
+{
  "FIPS":     55,
 "year": "2008",
 "goods_service": 0.18998,
 "goods_service_z": -1.1329 
 },
-"1182": {
+{
  "FIPS":     57,
 "year": "2008",
 "goods_service": 0.63485,
 "goods_service_z": -0.688 
 },
-"1183": {
+{
  "FIPS":     59,
 "year": "2008",
 "goods_service": 0.23862,
 "goods_service_z": -1.0842 
 },
-"1184": {
+{
  "FIPS":     61,
 "year": "2008",
 "goods_service": 0.30172,
 "goods_service_z": -1.0211 
 },
-"1185": {
+{
  "FIPS":     63,
 "year": "2008",
 "goods_service": 0.29886,
 "goods_service_z": -1.024 
 },
-"1186": {
+{
  "FIPS":     65,
 "year": "2008",
 "goods_service": 0.23973,
 "goods_service_z": -1.0831 
 },
-"1187": {
+{
  "FIPS":     67,
 "year": "2008",
 "goods_service": 0.2584,
 "goods_service_z": -1.0645 
 },
-"1188": {
+{
  "FIPS":     69,
 "year": "2008",
 "goods_service": 0.26679,
 "goods_service_z": -1.0561 
 },
-"1189": {
+{
  "FIPS":     71,
 "year": "2008",
 "goods_service": 0.43595,
 "goods_service_z": -0.88691 
 },
-"1190": {
+{
  "FIPS":     73,
 "year": "2008",
 "goods_service": 0.11807,
 "goods_service_z": -1.2048 
 },
-"1191": {
+{
  "FIPS":     75,
 "year": "2008",
 "goods_service": 0.21553,
 "goods_service_z": -1.1073 
 },
-"1192": {
+{
  "FIPS":     77,
 "year": "2008",
 "goods_service":  0.324,
 "goods_service_z": -0.99886 
 },
-"1193": {
+{
  "FIPS":     79,
 "year": "2008",
 "goods_service": 0.10888,
 "goods_service_z": -1.214 
 },
-"1194": {
+{
  "FIPS":     81,
 "year": "2008",
 "goods_service": 0.33869,
 "goods_service_z": -0.98417 
 },
-"1195": {
+{
  "FIPS":     83,
 "year": "2008",
 "goods_service": 0.26609,
 "goods_service_z": -1.0568 
 },
-"1196": {
+{
  "FIPS":     85,
 "year": "2008",
 "goods_service": 0.35217,
 "goods_service_z": -0.97068 
 },
-"1197": {
+{
  "FIPS":     87,
 "year": "2008",
 "goods_service": 0.86568,
 "goods_service_z": -0.45718 
 },
-"1198": {
+{
  "FIPS":     89,
 "year": "2008",
 "goods_service": 0.20186,
 "goods_service_z": -1.121 
 },
-"1199": {
+{
  "FIPS":     91,
 "year": "2008",
 "goods_service": 0.41117,
 "goods_service_z": -0.91169 
 },
-"1200": {
+{
  "FIPS":     93,
 "year": "2008",
 "goods_service": 0.36509,
 "goods_service_z": -0.95776 
 },
-"1201": {
+{
  "FIPS":     95,
 "year": "2008",
 "goods_service": 0.4951,
 "goods_service_z": -0.82776 
 },
-"1202": {
+{
  "FIPS":     97,
 "year": "2008",
 "goods_service": 0.10874,
 "goods_service_z": -1.2141 
 },
-"1203": {
+{
  "FIPS":     99,
 "year": "2008",
 "goods_service": 0.46975,
 "goods_service_z": -0.85311 
 },
-"1204": {
+{
  "FIPS":    101,
 "year": "2008",
 "goods_service": 0.22616,
 "goods_service_z": -1.0967 
 },
-"1205": {
+{
  "FIPS":    103,
 "year": "2008",
 "goods_service": 1.7432,
 "goods_service_z": 0.42035 
 },
-"1206": {
+{
  "FIPS":    105,
 "year": "2008",
 "goods_service": 0.61921,
 "goods_service_z": -0.70365 
 },
-"1207": {
+{
  "FIPS":    107,
 "year": "2008",
 "goods_service": 0.33011,
 "goods_service_z": -0.99275 
 },
-"1208": {
+{
  "FIPS":    109,
 "year": "2008",
 "goods_service": 1.2423,
 "goods_service_z": -0.080566 
 },
-"1209": {
+{
  "FIPS":    111,
 "year": "2008",
 "goods_service": 0.1623,
 "goods_service_z": -1.1606 
 },
-"1210": {
+{
  "FIPS":    113,
 "year": "2008",
 "goods_service": 0.3527,
 "goods_service_z": -0.97016 
 },
-"1211": {
+{
  "FIPS":    115,
 "year": "2008",
 "goods_service": 0.4985,
 "goods_service_z": -0.82436 
 },
-"1212": {
+{
  "FIPS":    117,
 "year": "2008",
 "goods_service": 0.11828,
 "goods_service_z": -1.2046 
 },
-"1213": {
+{
  "FIPS":    119,
 "year": "2008",
 "goods_service": 0.15479,
 "goods_service_z": -1.1681 
 },
-"1214": {
+{
  "FIPS":    121,
 "year": "2008",
 "goods_service": 0.27731,
 "goods_service_z": -1.0455 
 },
-"1215": {
+{
  "FIPS":    123,
 "year": "2008",
 "goods_service": 0.59638,
 "goods_service_z": -0.72648 
 },
-"1216": {
+{
  "FIPS":    125,
 "year": "2008",
 "goods_service": 0.72433,
 "goods_service_z": -0.59853 
 },
-"1217": {
+{
  "FIPS":      1,
 "year": "2009",
 "goods_service": 0.26669,
 "goods_service_z": -1.1058 
 },
-"1218": {
+{
  "FIPS":      3,
 "year": "2009",
 "goods_service": 0.20394,
 "goods_service_z": -1.1686 
 },
-"1219": {
+{
  "FIPS":      5,
 "year": "2009",
 "goods_service": 0.11347,
 "goods_service_z": -1.259 
 },
-"1220": {
+{
  "FIPS":      7,
 "year": "2009",
 "goods_service": 0.13945,
 "goods_service_z": -1.2331 
 },
-"1221": {
+{
  "FIPS":      9,
 "year": "2009",
 "goods_service": 0.30267,
 "goods_service_z": -1.0698 
 },
-"1222": {
+{
  "FIPS":     11,
 "year": "2009",
 "goods_service": 0.08932,
 "goods_service_z": -1.2832 
 },
-"1223": {
+{
  "FIPS":     13,
 "year": "2009",
 "goods_service": 0.19456,
 "goods_service_z": -1.1779 
 },
-"1224": {
+{
  "FIPS":     14,
 "year": "2009",
 "goods_service": 0.28874,
 "goods_service_z": -1.0838 
 },
-"1225": {
+{
  "FIPS":     15,
 "year": "2009",
 "goods_service": 0.18144,
 "goods_service_z": -1.1911 
 },
-"1226": {
+{
  "FIPS":     17,
 "year": "2009",
 "goods_service": 0.46909,
 "goods_service_z": -0.90342 
 },
-"1227": {
+{
  "FIPS":     19,
 "year": "2009",
 "goods_service": 0.48958,
 "goods_service_z": -0.88293 
 },
-"1228": {
+{
  "FIPS":     21,
 "year": "2009",
 "goods_service": 0.29132,
 "goods_service_z": -1.0812 
 },
-"1229": {
+{
  "FIPS":     23,
 "year": "2009",
 "goods_service": 0.65665,
 "goods_service_z": -0.71585 
 },
-"1230": {
+{
  "FIPS":     25,
 "year": "2009",
 "goods_service": 0.17782,
 "goods_service_z": -1.1947 
 },
-"1231": {
+{
  "FIPS":     27,
 "year": "2009",
 "goods_service": 0.33405,
 "goods_service_z": -1.0385 
 },
-"1232": {
+{
  "FIPS":     29,
 "year": "2009",
 "goods_service": 0.38954,
 "goods_service_z": -0.98297 
 },
-"1233": {
+{
  "FIPS":     31,
 "year": "2009",
 "goods_service": 0.13505,
 "goods_service_z": -1.2375 
 },
-"1234": {
+{
  "FIPS":     33,
 "year": "2009",
 "goods_service": 0.53846,
 "goods_service_z": -0.83405 
 },
-"1235": {
+{
  "FIPS":     35,
 "year": "2009",
 "goods_service": 0.13812,
 "goods_service_z": -1.2344 
 },
-"1236": {
+{
  "FIPS":     37,
 "year": "2009",
 "goods_service": 0.17386,
 "goods_service_z": -1.1986 
 },
-"1237": {
+{
  "FIPS":     39,
 "year": "2009",
 "goods_service": 0.45048,
 "goods_service_z": -0.92203 
 },
-"1238": {
+{
  "FIPS":     41,
 "year": "2009",
 "goods_service": 0.16384,
 "goods_service_z": -1.2087 
 },
-"1239": {
+{
  "FIPS":     43,
 "year": "2009",
 "goods_service": 0.2014,
 "goods_service_z": -1.1711 
 },
-"1240": {
+{
  "FIPS":     45,
 "year": "2009",
 "goods_service": 0.41895,
 "goods_service_z": -0.95355 
 },
-"1241": {
+{
  "FIPS":     47,
 "year": "2009",
 "goods_service": 0.017861,
 "goods_service_z": -1.3546 
 },
-"1242": {
+{
  "FIPS":     49,
 "year": "2009",
 "goods_service":  0.199,
 "goods_service_z": -1.1735 
 },
-"1243": {
+{
  "FIPS":     51,
 "year": "2009",
 "goods_service": 0.34865,
 "goods_service_z": -1.0239 
 },
-"1244": {
+{
  "FIPS":     53,
 "year": "2009",
 "goods_service": 0.46207,
 "goods_service_z": -0.91044 
 },
-"1245": {
+{
  "FIPS":     55,
 "year": "2009",
 "goods_service": 0.13891,
 "goods_service_z": -1.2336 
 },
-"1246": {
+{
  "FIPS":     57,
 "year": "2009",
 "goods_service": 0.67194,
 "goods_service_z": -0.70057 
 },
-"1247": {
+{
  "FIPS":     59,
 "year": "2009",
 "goods_service":  0.217,
 "goods_service_z": -1.1555 
 },
-"1248": {
+{
  "FIPS":     61,
 "year": "2009",
 "goods_service": 0.35135,
 "goods_service_z": -1.0212 
 },
-"1249": {
+{
  "FIPS":     63,
 "year": "2009",
 "goods_service": 0.29863,
 "goods_service_z": -1.0739 
 },
-"1250": {
+{
  "FIPS":     65,
 "year": "2009",
 "goods_service": 0.18038,
 "goods_service_z": -1.1921 
 },
-"1251": {
+{
  "FIPS":     67,
 "year": "2009",
 "goods_service": 0.21386,
 "goods_service_z": -1.1587 
 },
-"1252": {
+{
  "FIPS":     69,
 "year": "2009",
 "goods_service": 0.24054,
 "goods_service_z": -1.132 
 },
-"1253": {
+{
  "FIPS":     71,
 "year": "2009",
 "goods_service": 0.30556,
 "goods_service_z": -1.067 
 },
-"1254": {
+{
  "FIPS":     73,
 "year": "2009",
 "goods_service": 0.088266,
 "goods_service_z": -1.2842 
 },
-"1255": {
+{
  "FIPS":     75,
 "year": "2009",
 "goods_service": 0.19188,
 "goods_service_z": -1.1806 
 },
-"1256": {
+{
  "FIPS":     77,
 "year": "2009",
 "goods_service": 0.27139,
 "goods_service_z": -1.1011 
 },
-"1257": {
+{
  "FIPS":     79,
 "year": "2009",
 "goods_service": 0.086957,
 "goods_service_z": -1.2856 
 },
-"1258": {
+{
  "FIPS":     81,
 "year": "2009",
 "goods_service": 0.3546,
 "goods_service_z": -1.0179 
 },
-"1259": {
+{
  "FIPS":     83,
 "year": "2009",
 "goods_service": 0.22661,
 "goods_service_z": -1.1459 
 },
-"1260": {
+{
  "FIPS":     85,
 "year": "2009",
 "goods_service": 0.32326,
 "goods_service_z": -1.0492 
 },
-"1261": {
+{
  "FIPS":     87,
 "year": "2009",
 "goods_service": 0.88107,
 "goods_service_z": -0.49143 
 },
-"1262": {
+{
  "FIPS":     89,
 "year": "2009",
 "goods_service": 0.22594,
 "goods_service_z": -1.1466 
 },
-"1263": {
+{
  "FIPS":     91,
 "year": "2009",
 "goods_service": 0.34783,
 "goods_service_z": -1.0247 
 },
-"1264": {
+{
  "FIPS":     93,
 "year": "2009",
 "goods_service": 0.28405,
 "goods_service_z": -1.0885 
 },
-"1265": {
+{
  "FIPS":     95,
 "year": "2009",
 "goods_service": 0.53994,
 "goods_service_z": -0.83257 
 },
-"1266": {
+{
  "FIPS":     97,
 "year": "2009",
 "goods_service": 0.099935,
 "goods_service_z": -1.2726 
 },
-"1267": {
+{
  "FIPS":     99,
 "year": "2009",
 "goods_service": 0.40095,
 "goods_service_z": -0.97156 
 },
-"1268": {
+{
  "FIPS":    101,
 "year": "2009",
 "goods_service": 0.20825,
 "goods_service_z": -1.1643 
 },
-"1269": {
+{
  "FIPS":    103,
 "year": "2009",
 "goods_service": 1.2485,
 "goods_service_z": -0.12401 
 },
-"1270": {
+{
  "FIPS":    105,
 "year": "2009",
 "goods_service": 0.6458,
 "goods_service_z": -0.7267 
 },
-"1271": {
+{
  "FIPS":    107,
 "year": "2009",
 "goods_service": 0.27993,
 "goods_service_z": -1.0926 
 },
-"1272": {
+{
  "FIPS":    109,
 "year": "2009",
 "goods_service": 1.2063,
 "goods_service_z": -0.16623 
 },
-"1273": {
+{
  "FIPS":    111,
 "year": "2009",
 "goods_service": 0.084656,
 "goods_service_z": -1.2879 
 },
-"1274": {
+{
  "FIPS":    113,
 "year": "2009",
 "goods_service": 0.25433,
 "goods_service_z": -1.1182 
 },
-"1275": {
+{
  "FIPS":    115,
 "year": "2009",
 "goods_service": 0.51097,
 "goods_service_z": -0.86154 
 },
-"1276": {
+{
  "FIPS":    117,
 "year": "2009",
 "goods_service": 0.094737,
 "goods_service_z": -1.2778 
 },
-"1277": {
+{
  "FIPS":    119,
 "year": "2009",
 "goods_service": 0.1459,
 "goods_service_z": -1.2266 
 },
-"1278": {
+{
  "FIPS":    121,
 "year": "2009",
 "goods_service": 0.27517,
 "goods_service_z": -1.0973 
 },
-"1279": {
+{
  "FIPS":    123,
 "year": "2009",
 "goods_service": 0.55536,
 "goods_service_z": -0.81715 
 },
-"1280": {
+{
  "FIPS":    125,
 "year": "2009",
 "goods_service": 0.64749,
 "goods_service_z": -0.72501 
 },
-"1281": {
+{
  "FIPS":      1,
 "year": "2010",
 "goods_service": 0.25382,
 "goods_service_z": -1.0682 
 },
-"1282": {
+{
  "FIPS":      3,
 "year": "2010",
 "goods_service": 0.2132,
 "goods_service_z": -1.1088 
 },
-"1283": {
+{
  "FIPS":      5,
 "year": "2010",
 "goods_service": 0.10368,
 "goods_service_z": -1.2184 
 },
-"1284": {
+{
  "FIPS":      7,
 "year": "2010",
 "goods_service": 0.12555,
 "goods_service_z": -1.1965 
 },
-"1285": {
+{
  "FIPS":      9,
 "year": "2010",
 "goods_service": 0.24451,
 "goods_service_z": -1.0775 
 },
-"1286": {
+{
  "FIPS":     11,
 "year": "2010",
 "goods_service": 0.092308,
 "goods_service_z": -1.2297 
 },
-"1287": {
+{
  "FIPS":     13,
 "year": "2010",
 "goods_service": 0.19069,
 "goods_service_z": -1.1314 
 },
-"1288": {
+{
  "FIPS":     14,
 "year": "2010",
 "goods_service": 0.27053,
 "goods_service_z": -1.0515 
 },
-"1289": {
+{
  "FIPS":     15,
 "year": "2010",
 "goods_service": 0.16506,
 "goods_service_z": -1.157 
 },
-"1290": {
+{
  "FIPS":     17,
 "year": "2010",
 "goods_service":    0.5,
 "goods_service_z": -0.82204 
 },
-"1291": {
+{
  "FIPS":     19,
 "year": "2010",
 "goods_service": 0.50333,
 "goods_service_z": -0.81871 
 },
-"1292": {
+{
  "FIPS":     21,
 "year": "2010",
 "goods_service": 0.28037,
 "goods_service_z": -1.0417 
 },
-"1293": {
+{
  "FIPS":     23,
 "year": "2010",
 "goods_service": 0.6255,
 "goods_service_z": -0.69654 
 },
-"1294": {
+{
  "FIPS":     25,
 "year": "2010",
 "goods_service": 0.19275,
 "goods_service_z": -1.1293 
 },
-"1295": {
+{
  "FIPS":     27,
 "year": "2010",
 "goods_service": 0.37694,
 "goods_service_z": -0.9451 
 },
-"1296": {
+{
  "FIPS":     29,
 "year": "2010",
 "goods_service": 0.36562,
 "goods_service_z": -0.95642 
 },
-"1297": {
+{
  "FIPS":     31,
 "year": "2010",
 "goods_service": 0.12683,
 "goods_service_z": -1.1952 
 },
-"1298": {
+{
  "FIPS":     33,
 "year": "2010",
 "goods_service": 0.46457,
 "goods_service_z": -0.85747 
 },
-"1299": {
+{
  "FIPS":     35,
 "year": "2010",
 "goods_service": 0.1256,
 "goods_service_z": -1.1964 
 },
-"1300": {
+{
  "FIPS":     37,
 "year": "2010",
 "goods_service": 0.13539,
 "goods_service_z": -1.1867 
 },
-"1301": {
+{
  "FIPS":     39,
 "year": "2010",
 "goods_service": 0.38885,
 "goods_service_z": -0.93319 
 },
-"1302": {
+{
  "FIPS":     41,
 "year": "2010",
 "goods_service": 0.14936,
 "goods_service_z": -1.1727 
 },
-"1303": {
+{
  "FIPS":     43,
 "year": "2010",
 "goods_service": 0.18557,
 "goods_service_z": -1.1365 
 },
-"1304": {
+{
  "FIPS":     45,
 "year": "2010",
 "goods_service": 0.37673,
 "goods_service_z": -0.94531 
 },
-"1305": {
+{
  "FIPS":     47,
 "year": "2010",
 "goods_service": 0.014186,
 "goods_service_z": -1.3079 
 },
-"1306": {
+{
  "FIPS":     49,
 "year": "2010",
 "goods_service": 0.16161,
 "goods_service_z": -1.1604 
 },
-"1307": {
+{
  "FIPS":     51,
 "year": "2010",
 "goods_service": 0.34248,
 "goods_service_z": -0.97957 
 },
-"1308": {
+{
  "FIPS":     53,
 "year": "2010",
 "goods_service": 0.44444,
 "goods_service_z": -0.8776 
 },
-"1309": {
+{
  "FIPS":     55,
 "year": "2010",
 "goods_service": 0.14529,
 "goods_service_z": -1.1768 
 },
-"1310": {
+{
  "FIPS":     57,
 "year": "2010",
 "goods_service": 0.57087,
 "goods_service_z": -0.75118 
 },
-"1311": {
+{
  "FIPS":     59,
 "year": "2010",
 "goods_service": 0.20737,
 "goods_service_z": -1.1147 
 },
-"1312": {
+{
  "FIPS":     61,
 "year": "2010",
 "goods_service": 0.28182,
 "goods_service_z": -1.0402 
 },
-"1313": {
+{
  "FIPS":     63,
 "year": "2010",
 "goods_service": 0.34341,
 "goods_service_z": -0.97863 
 },
-"1314": {
+{
  "FIPS":     65,
 "year": "2010",
 "goods_service": 0.15049,
 "goods_service_z": -1.1716 
 },
-"1315": {
+{
  "FIPS":     67,
 "year": "2010",
 "goods_service": 0.19644,
 "goods_service_z": -1.1256 
 },
-"1316": {
+{
  "FIPS":     69,
 "year": "2010",
 "goods_service": 0.22239,
 "goods_service_z": -1.0997 
 },
-"1317": {
+{
  "FIPS":     71,
 "year": "2010",
 "goods_service": 0.28213,
 "goods_service_z": -1.0399 
 },
-"1318": {
+{
  "FIPS":     73,
 "year": "2010",
 "goods_service": 0.10939,
 "goods_service_z": -1.2127 
 },
-"1319": {
+{
  "FIPS":     75,
 "year": "2010",
 "goods_service": 0.18188,
 "goods_service_z": -1.1402 
 },
-"1320": {
+{
  "FIPS":     77,
 "year": "2010",
 "goods_service": 0.23941,
 "goods_service_z": -1.0826 
 },
-"1321": {
+{
  "FIPS":     79,
 "year": "2010",
 "goods_service": 0.076923,
 "goods_service_z": -1.2451 
 },
-"1322": {
+{
  "FIPS":     81,
 "year": "2010",
 "goods_service": 0.29531,
 "goods_service_z": -1.0267 
 },
-"1323": {
+{
  "FIPS":     83,
 "year": "2010",
 "goods_service": 0.20961,
 "goods_service_z": -1.1124 
 },
-"1324": {
+{
  "FIPS":     85,
 "year": "2010",
 "goods_service": 0.31249,
 "goods_service_z": -1.0095 
 },
-"1325": {
+{
  "FIPS":     87,
 "year": "2010",
 "goods_service": 0.9266,
 "goods_service_z": -0.39544 
 },
-"1326": {
+{
  "FIPS":     89,
 "year": "2010",
 "goods_service":  0.216,
 "goods_service_z": -1.106 
 },
-"1327": {
+{
  "FIPS":     91,
 "year": "2010",
 "goods_service": 0.28917,
 "goods_service_z": -1.0329 
 },
-"1328": {
+{
  "FIPS":     93,
 "year": "2010",
 "goods_service": 0.24976,
 "goods_service_z": -1.0723 
 },
-"1329": {
+{
  "FIPS":     95,
 "year": "2010",
 "goods_service": 0.50078,
 "goods_service_z": -0.82126 
 },
-"1330": {
+{
  "FIPS":     97,
 "year": "2010",
 "goods_service": 0.075374,
 "goods_service_z": -1.2467 
 },
-"1331": {
+{
  "FIPS":     99,
 "year": "2010",
 "goods_service": 0.41476,
 "goods_service_z": -0.90728 
 },
-"1332": {
+{
  "FIPS":    101,
 "year": "2010",
 "goods_service": 0.19999,
 "goods_service_z": -1.122 
 },
-"1333": {
+{
  "FIPS":    103,
 "year": "2010",
 "goods_service": 1.2141,
 "goods_service_z": -0.10791 
 },
-"1334": {
+{
  "FIPS":    105,
 "year": "2010",
 "goods_service": 0.70748,
 "goods_service_z": -0.61456 
 },
-"1335": {
+{
  "FIPS":    107,
 "year": "2010",
 "goods_service": 0.20603,
 "goods_service_z": -1.116 
 },
-"1336": {
+{
  "FIPS":    109,
 "year": "2010",
 "goods_service": 1.1269,
 "goods_service_z": -0.19513 
 },
-"1337": {
+{
  "FIPS":    111,
 "year": "2010",
 "goods_service": 0.06044,
 "goods_service_z": -1.2616 
 },
-"1338": {
+{
  "FIPS":    113,
 "year": "2010",
 "goods_service": 0.20105,
 "goods_service_z": -1.121 
 },
-"1339": {
+{
  "FIPS":    115,
 "year": "2010",
 "goods_service": 0.44407,
 "goods_service_z": -0.87797 
 },
-"1340": {
+{
  "FIPS":    117,
 "year": "2010",
 "goods_service": 0.0836,
 "goods_service_z": -1.2384 
 },
-"1341": {
+{
  "FIPS":    119,
 "year": "2010",
 "goods_service": 0.1496,
 "goods_service_z": -1.1724 
 },
-"1342": {
+{
  "FIPS":    121,
 "year": "2010",
 "goods_service": 0.30206,
 "goods_service_z":  -1.02 
 },
-"1343": {
+{
  "FIPS":    123,
 "year": "2010",
 "goods_service": 0.55417,
 "goods_service_z": -0.76788 
 },
-"1344": {
+{
  "FIPS":    125,
 "year": "2010",
 "goods_service": 0.63146,
 "goods_service_z": -0.69058 
 },
-"1345": {
+{
  "FIPS":      1,
 "year": "2011",
 "goods_service": 0.26046,
 "goods_service_z": -1.0373 
 },
-"1346": {
+{
  "FIPS":      3,
 "year": "2011",
 "goods_service": 0.21503,
 "goods_service_z": -1.0827 
 },
-"1347": {
+{
  "FIPS":      5,
 "year": "2011",
 "goods_service": 0.10022,
 "goods_service_z": -1.1975 
 },
-"1348": {
+{
  "FIPS":      7,
 "year": "2011",
 "goods_service": 0.14349,
 "goods_service_z": -1.1543 
 },
-"1349": {
+{
  "FIPS":      9,
 "year": "2011",
 "goods_service": 0.26829,
 "goods_service_z": -1.0295 
 },
-"1350": {
+{
  "FIPS":     11,
 "year": "2011",
 "goods_service": 0.084942,
 "goods_service_z": -1.2128 
 },
-"1351": {
+{
  "FIPS":     13,
 "year": "2011",
 "goods_service": 0.18561,
 "goods_service_z": -1.1122 
 },
-"1352": {
+{
  "FIPS":     14,
 "year": "2011",
 "goods_service": 0.25482,
 "goods_service_z": -1.0429 
 },
-"1353": {
+{
  "FIPS":     15,
 "year": "2011",
 "goods_service": 0.16169,
 "goods_service_z": -1.1361 
 },
-"1354": {
+{
  "FIPS":     17,
 "year": "2011",
 "goods_service": 0.58845,
 "goods_service_z": -0.70931 
 },
-"1355": {
+{
  "FIPS":     19,
 "year": "2011",
 "goods_service": 0.52822,
 "goods_service_z": -0.76954 
 },
-"1356": {
+{
  "FIPS":     21,
 "year": "2011",
 "goods_service": 0.23256,
 "goods_service_z": -1.0652 
 },
-"1357": {
+{
  "FIPS":     23,
 "year": "2011",
 "goods_service": 0.58462,
 "goods_service_z": -0.71315 
 },
-"1358": {
+{
  "FIPS":     25,
 "year": "2011",
 "goods_service": 0.20187,
 "goods_service_z": -1.0959 
 },
-"1359": {
+{
  "FIPS":     27,
 "year": "2011",
 "goods_service": 0.41204,
 "goods_service_z": -0.88573 
 },
-"1360": {
+{
  "FIPS":     29,
 "year": "2011",
 "goods_service": 0.4285,
 "goods_service_z": -0.86926 
 },
-"1361": {
+{
  "FIPS":     31,
 "year": "2011",
 "goods_service": 0.12482,
 "goods_service_z": -1.1729 
 },
-"1362": {
+{
  "FIPS":     33,
 "year": "2011",
 "goods_service": 0.34043,
 "goods_service_z": -0.95734 
 },
-"1363": {
+{
  "FIPS":     35,
 "year": "2011",
 "goods_service": 0.12051,
 "goods_service_z": -1.1773 
 },
-"1364": {
+{
  "FIPS":     37,
 "year": "2011",
 "goods_service": 0.11901,
 "goods_service_z": -1.1787 
 },
-"1365": {
+{
  "FIPS":     39,
 "year": "2011",
 "goods_service": 0.42011,
 "goods_service_z": -0.87765 
 },
-"1366": {
+{
  "FIPS":     41,
 "year": "2011",
 "goods_service": 0.14517,
 "goods_service_z": -1.1526 
 },
-"1367": {
+{
  "FIPS":     43,
 "year": "2011",
 "goods_service": 0.17305,
 "goods_service_z": -1.1247 
 },
-"1368": {
+{
  "FIPS":     45,
 "year": "2011",
 "goods_service": 0.39713,
 "goods_service_z": -0.90063 
 },
-"1369": {
+{
  "FIPS":     47,
 "year": "2011",
 "goods_service": 0.014959,
 "goods_service_z": -1.2828 
 },
-"1370": {
+{
  "FIPS":     49,
 "year": "2011",
 "goods_service": 0.14685,
 "goods_service_z": -1.1509 
 },
-"1371": {
+{
  "FIPS":     51,
 "year": "2011",
 "goods_service": 0.32017,
 "goods_service_z": -0.97759 
 },
-"1372": {
+{
  "FIPS":     53,
 "year": "2011",
 "goods_service": 0.38971,
 "goods_service_z": -0.90806 
 },
-"1373": {
+{
  "FIPS":     55,
 "year": "2011",
 "goods_service": 0.15253,
 "goods_service_z": -1.1452 
 },
-"1374": {
+{
  "FIPS":     57,
 "year": "2011",
 "goods_service": 0.58893,
 "goods_service_z": -0.70883 
 },
-"1375": {
+{
  "FIPS":     59,
 "year": "2011",
 "goods_service": 0.20171,
 "goods_service_z": -1.0961 
 },
-"1376": {
+{
  "FIPS":     61,
 "year": "2011",
 "goods_service":  0.616,
 "goods_service_z": -0.68176 
 },
-"1377": {
+{
  "FIPS":     63,
 "year": "2011",
 "goods_service": 0.32679,
 "goods_service_z": -0.97097 
 },
-"1378": {
+{
  "FIPS":     65,
 "year": "2011",
 "goods_service": 0.21399,
 "goods_service_z": -1.0838 
 },
-"1379": {
+{
  "FIPS":     67,
 "year": "2011",
 "goods_service": 0.20869,
 "goods_service_z": -1.0891 
 },
-"1380": {
+{
  "FIPS":     69,
 "year": "2011",
 "goods_service": 0.2209,
 "goods_service_z": -1.0769 
 },
-"1381": {
+{
  "FIPS":     71,
 "year": "2011",
 "goods_service": 0.27307,
 "goods_service_z": -1.0247 
 },
-"1382": {
+{
  "FIPS":     73,
 "year": "2011",
 "goods_service": 0.1572,
 "goods_service_z": -1.1406 
 },
-"1383": {
+{
  "FIPS":     75,
 "year": "2011",
 "goods_service": 0.21189,
 "goods_service_z": -1.0859 
 },
-"1384": {
+{
  "FIPS":     77,
 "year": "2011",
 "goods_service": 0.25501,
 "goods_service_z": -1.0428 
 },
-"1385": {
+{
  "FIPS":     79,
 "year": "2011",
 "goods_service": 0.081744,
 "goods_service_z": -1.216 
 },
-"1386": {
+{
  "FIPS":     81,
 "year": "2011",
 "goods_service": 0.30891,
 "goods_service_z": -0.98885 
 },
-"1387": {
+{
  "FIPS":     83,
 "year": "2011",
 "goods_service": 0.20258,
 "goods_service_z": -1.0952 
 },
-"1388": {
+{
  "FIPS":     85,
 "year": "2011",
 "goods_service": 0.28964,
 "goods_service_z": -1.0081 
 },
-"1389": {
+{
  "FIPS":     87,
 "year": "2011",
 "goods_service": 1.0388,
 "goods_service_z": -0.259 
 },
-"1390": {
+{
  "FIPS":     89,
 "year": "2011",
 "goods_service": 0.21721,
 "goods_service_z": -1.0805 
 },
-"1391": {
+{
  "FIPS":     91,
 "year": "2011",
 "goods_service": 0.26923,
 "goods_service_z": -1.0285 
 },
-"1392": {
+{
  "FIPS":     93,
 "year": "2011",
 "goods_service": 0.26341,
 "goods_service_z": -1.0344 
 },
-"1393": {
+{
  "FIPS":     95,
 "year": "2011",
 "goods_service": 0.47634,
 "goods_service_z": -0.82143 
 },
-"1394": {
+{
  "FIPS":     97,
 "year": "2011",
 "goods_service": 0.067107,
 "goods_service_z": -1.2307 
 },
-"1395": {
+{
  "FIPS":     99,
 "year": "2011",
 "goods_service": 0.4321,
 "goods_service_z": -0.86566 
 },
-"1396": {
+{
  "FIPS":    101,
 "year": "2011",
 "goods_service":  0.204,
 "goods_service_z": -1.0938 
 },
-"1397": {
+{
  "FIPS":    103,
 "year": "2011",
 "goods_service": 1.2658,
 "goods_service_z": -0.031967 
 },
-"1398": {
+{
  "FIPS":    105,
 "year": "2011",
 "goods_service": 0.70406,
 "goods_service_z": -0.5937 
 },
-"1399": {
+{
  "FIPS":    107,
 "year": "2011",
 "goods_service": 0.18447,
 "goods_service_z": -1.1133 
 },
-"1400": {
+{
  "FIPS":    109,
 "year": "2011",
 "goods_service": 1.0839,
 "goods_service_z": -0.21388 
 },
-"1401": {
+{
  "FIPS":    111,
 "year": "2011",
 "goods_service": 0.050505,
 "goods_service_z": -1.2473 
 },
-"1402": {
+{
  "FIPS":    113,
 "year": "2011",
 "goods_service": 0.17136,
 "goods_service_z": -1.1264 
 },
-"1403": {
+{
  "FIPS":    115,
 "year": "2011",
 "goods_service": 0.46643,
 "goods_service_z": -0.83133 
 },
-"1404": {
+{
  "FIPS":    117,
 "year": "2011",
 "goods_service": 0.076505,
 "goods_service_z": -1.2213 
 },
-"1405": {
+{
  "FIPS":    119,
 "year": "2011",
 "goods_service": 0.15507,
 "goods_service_z": -1.1427 
 },
-"1406": {
+{
  "FIPS":    121,
 "year": "2011",
 "goods_service": 0.3118,
 "goods_service_z": -0.98596 
 },
-"1407": {
+{
  "FIPS":    123,
 "year": "2011",
 "goods_service": 0.58068,
 "goods_service_z": -0.71708 
 },
-"1408": {
+{
  "FIPS":    125,
 "year": "2011",
 "goods_service": 0.69471,
 "goods_service_z": -0.60306 
 },
-"1409": {
+{
  "FIPS":      1,
 "year": "2012",
 "goods_service": 0.26354,
 "goods_service_z": -1.0504 
 },
-"1410": {
+{
  "FIPS":      3,
 "year": "2012",
 "goods_service": 0.17749,
 "goods_service_z": -1.1364 
 },
-"1411": {
+{
  "FIPS":      5,
 "year": "2012",
 "goods_service": 0.10333,
 "goods_service_z": -1.2106 
 },
-"1412": {
+{
  "FIPS":      7,
 "year": "2012",
 "goods_service": 0.13506,
 "goods_service_z": -1.1789 
 },
-"1413": {
+{
  "FIPS":      9,
 "year": "2012",
 "goods_service": 0.31804,
 "goods_service_z": -0.9959 
 },
-"1414": {
+{
  "FIPS":     11,
 "year": "2012",
 "goods_service": 0.093496,
 "goods_service_z": -1.2204 
 },
-"1415": {
+{
  "FIPS":     13,
 "year": "2012",
 "goods_service": 0.18674,
 "goods_service_z": -1.1272 
 },
-"1416": {
+{
  "FIPS":     14,
 "year": "2012",
 "goods_service": 0.24956,
 "goods_service_z": -1.0644 
 },
-"1417": {
+{
  "FIPS":     15,
 "year": "2012",
 "goods_service": 0.17702,
 "goods_service_z": -1.1369 
 },
-"1418": {
+{
  "FIPS":     17,
 "year": "2012",
 "goods_service": 0.52465,
 "goods_service_z": -0.78929 
 },
-"1419": {
+{
  "FIPS":     19,
 "year": "2012",
 "goods_service": 0.49327,
 "goods_service_z": -0.82067 
 },
-"1420": {
+{
  "FIPS":     21,
 "year": "2012",
 "goods_service":   0.25,
 "goods_service_z": -1.0639 
 },
-"1421": {
+{
  "FIPS":     23,
 "year": "2012",
 "goods_service": 0.58885,
 "goods_service_z": -0.72509 
 },
-"1422": {
+{
  "FIPS":     25,
 "year": "2012",
 "goods_service": 0.21932,
 "goods_service_z": -1.0946 
 },
-"1423": {
+{
  "FIPS":     27,
 "year": "2012",
 "goods_service": 0.35374,
 "goods_service_z": -0.9602 
 },
-"1424": {
+{
  "FIPS":     29,
 "year": "2012",
 "goods_service": 0.43725,
 "goods_service_z": -0.87669 
 },
-"1425": {
+{
  "FIPS":     31,
 "year": "2012",
 "goods_service": 0.12642,
 "goods_service_z": -1.1875 
 },
-"1426": {
+{
  "FIPS":     33,
 "year": "2012",
 "goods_service": 0.4726,
 "goods_service_z": -0.84134 
 },
-"1427": {
+{
  "FIPS":     35,
 "year": "2012",
 "goods_service": 0.11977,
 "goods_service_z": -1.1942 
 },
-"1428": {
+{
  "FIPS":     37,
 "year": "2012",
 "goods_service": 0.11835,
 "goods_service_z": -1.1956 
 },
-"1429": {
+{
  "FIPS":     39,
 "year": "2012",
 "goods_service": 0.42917,
 "goods_service_z": -0.88478 
 },
-"1430": {
+{
  "FIPS":     41,
 "year": "2012",
 "goods_service": 0.14731,
 "goods_service_z": -1.1666 
 },
-"1431": {
+{
  "FIPS":     43,
 "year": "2012",
 "goods_service": 0.16932,
 "goods_service_z": -1.1446 
 },
-"1432": {
+{
  "FIPS":     45,
 "year": "2012",
 "goods_service": 0.38741,
 "goods_service_z": -0.92653 
 },
-"1433": {
+{
  "FIPS":     47,
 "year": "2012",
 "goods_service": 0.014851,
 "goods_service_z": -1.2991 
 },
-"1434": {
+{
  "FIPS":     49,
 "year": "2012",
 "goods_service": 0.15104,
 "goods_service_z": -1.1629 
 },
-"1435": {
+{
  "FIPS":     51,
 "year": "2012",
 "goods_service": 0.32126,
 "goods_service_z": -0.99268 
 },
-"1436": {
+{
  "FIPS":     53,
 "year": "2012",
 "goods_service": 0.36885,
 "goods_service_z": -0.94509 
 },
-"1437": {
+{
  "FIPS":     55,
 "year": "2012",
 "goods_service": 0.11701,
 "goods_service_z": -1.1969 
 },
-"1438": {
+{
  "FIPS":     57,
 "year": "2012",
 "goods_service": 0.59574,
 "goods_service_z": -0.7182 
 },
-"1439": {
+{
  "FIPS":     59,
 "year": "2012",
 "goods_service": 0.1969,
 "goods_service_z": -1.117 
 },
-"1440": {
+{
  "FIPS":     61,
 "year": "2012",
 "goods_service": 0.73504,
 "goods_service_z": -0.5789 
 },
-"1441": {
+{
  "FIPS":     63,
 "year": "2012",
 "goods_service": 0.35745,
 "goods_service_z": -0.95649 
 },
-"1442": {
+{
  "FIPS":     65,
 "year": "2012",
 "goods_service": 0.47877,
 "goods_service_z": -0.83517 
 },
-"1443": {
+{
  "FIPS":     67,
 "year": "2012",
 "goods_service": 0.20035,
 "goods_service_z": -1.1136 
 },
-"1444": {
+{
  "FIPS":     69,
 "year": "2012",
 "goods_service": 0.22753,
 "goods_service_z": -1.0864 
 },
-"1445": {
+{
  "FIPS":     71,
 "year": "2012",
 "goods_service": 0.25572,
 "goods_service_z": -1.0582 
 },
-"1446": {
+{
  "FIPS":     73,
 "year": "2012",
 "goods_service": 0.097059,
 "goods_service_z": -1.2169 
 },
-"1447": {
+{
  "FIPS":     75,
 "year": "2012",
 "goods_service": 0.23494,
 "goods_service_z": -1.079 
 },
-"1448": {
+{
  "FIPS":     77,
 "year": "2012",
 "goods_service": 0.24996,
 "goods_service_z": -1.064 
 },
-"1449": {
+{
  "FIPS":     79,
 "year": "2012",
 "goods_service": 0.075758,
 "goods_service_z": -1.2382 
 },
-"1450": {
+{
  "FIPS":     81,
 "year": "2012",
 "goods_service": 0.28716,
 "goods_service_z": -1.0268 
 },
-"1451": {
+{
  "FIPS":     83,
 "year": "2012",
 "goods_service": 0.19581,
 "goods_service_z": -1.1181 
 },
-"1452": {
+{
  "FIPS":     85,
 "year": "2012",
 "goods_service": 0.30184,
 "goods_service_z": -1.0121 
 },
-"1453": {
+{
  "FIPS":     87,
 "year": "2012",
 "goods_service": 0.94204,
 "goods_service_z": -0.3719 
 },
-"1454": {
+{
  "FIPS":     89,
 "year": "2012",
 "goods_service": 0.22999,
 "goods_service_z": -1.084 
 },
-"1455": {
+{
  "FIPS":     91,
 "year": "2012",
 "goods_service": 0.32105,
 "goods_service_z": -0.9929 
 },
-"1456": {
+{
  "FIPS":     93,
 "year": "2012",
 "goods_service": 0.27757,
 "goods_service_z": -1.0364 
 },
-"1457": {
+{
  "FIPS":     95,
 "year": "2012",
 "goods_service": 0.53798,
 "goods_service_z": -0.77596 
 },
-"1458": {
+{
  "FIPS":     97,
 "year": "2012",
 "goods_service": 0.062385,
 "goods_service_z": -1.2516 
 },
-"1459": {
+{
  "FIPS":     99,
 "year": "2012",
 "goods_service": 0.42981,
 "goods_service_z": -0.88413 
 },
-"1460": {
+{
  "FIPS":    101,
 "year": "2012",
 "goods_service": 0.19722,
 "goods_service_z": -1.1167 
 },
-"1461": {
+{
  "FIPS":    103,
 "year": "2012",
 "goods_service": 1.1226,
 "goods_service_z": -0.19132 
 },
-"1462": {
+{
  "FIPS":    105,
 "year": "2012",
 "goods_service": 0.70011,
 "goods_service_z": -0.61384 
 },
-"1463": {
+{
  "FIPS":    107,
 "year": "2012",
 "goods_service": 0.19019,
 "goods_service_z": -1.1238 
 },
-"1464": {
+{
  "FIPS":    109,
 "year": "2012",
 "goods_service": 1.2851,
 "goods_service_z": -0.028827 
 },
-"1465": {
+{
  "FIPS":    111,
 "year": "2012",
 "goods_service": 0.090047,
 "goods_service_z": -1.2239 
 },
-"1466": {
+{
  "FIPS":    113,
 "year": "2012",
 "goods_service": 0.15249,
 "goods_service_z": -1.1614 
 },
-"1467": {
+{
  "FIPS":    115,
 "year": "2012",
 "goods_service": 0.41853,
 "goods_service_z": -0.89541 
 },
-"1468": {
+{
  "FIPS":    117,
 "year": "2012",
 "goods_service": 0.073318,
 "goods_service_z": -1.2406 
 },
-"1469": {
+{
  "FIPS":    119,
 "year": "2012",
 "goods_service": 0.16377,
 "goods_service_z": -1.1502 
 },
-"1470": {
+{
  "FIPS":    121,
 "year": "2012",
 "goods_service": 0.35091,
 "goods_service_z": -0.96303 
 },
-"1471": {
+{
  "FIPS":    123,
 "year": "2012",
 "goods_service": 0.59782,
 "goods_service_z": -0.71613 
 },
-"1472": {
+{
  "FIPS":    125,
 "year": "2012",
 "goods_service": 0.69064,
 "goods_service_z": -0.6233 
 },
-"1473": {
+{
  "FIPS":      1,
 "year": "2013",
 "goods_service": 0.28013,
 "goods_service_z": -1.115 
 },
-"1474": {
+{
  "FIPS":      3,
 "year": "2013",
 "goods_service": 0.15814,
 "goods_service_z": -1.237 
 },
-"1475": {
+{
  "FIPS":      5,
 "year": "2013",
 "goods_service": 0.10413,
 "goods_service_z": -1.291 
 },
-"1476": {
+{
  "FIPS":      7,
 "year": "2013",
 "goods_service": 0.13745,
 "goods_service_z": -1.2576 
 },
-"1477": {
+{
  "FIPS":      9,
 "year": "2013",
 "goods_service": 0.31818,
 "goods_service_z": -1.0769 
 },
-"1478": {
+{
  "FIPS":     11,
 "year": "2013",
 "goods_service": 0.34568,
 "goods_service_z": -1.0494 
 },
-"1479": {
+{
  "FIPS":     13,
 "year": "2013",
 "goods_service": 0.18962,
 "goods_service_z": -1.2055 
 },
-"1480": {
+{
  "FIPS":     14,
 "year": "2013",
 "goods_service": 0.23698,
 "goods_service_z": -1.1581 
 },
-"1481": {
+{
  "FIPS":     15,
 "year": "2013",
 "goods_service": 0.1831,
 "goods_service_z": -1.212 
 },
-"1482": {
+{
  "FIPS":     17,
 "year": "2013",
 "goods_service": 0.61194,
 "goods_service_z": -0.78316 
 },
-"1483": {
+{
  "FIPS":     19,
 "year": "2013",
 "goods_service": 0.54843,
 "goods_service_z": -0.84667 
 },
-"1484": {
+{
  "FIPS":     21,
 "year": "2013",
 "goods_service": 0.31052,
 "goods_service_z": -1.0846 
 },
-"1485": {
+{
  "FIPS":     23,
 "year": "2013",
 "goods_service": 0.48534,
 "goods_service_z": -0.90975 
 },
-"1486": {
+{
  "FIPS":     25,
 "year": "2013",
 "goods_service": 0.22788,
 "goods_service_z": -1.1672 
 },
-"1487": {
+{
  "FIPS":     27,
 "year": "2013",
 "goods_service": 0.36066,
 "goods_service_z": -1.0344 
 },
-"1488": {
+{
  "FIPS":     29,
 "year": "2013",
 "goods_service": 0.43154,
 "goods_service_z": -0.96355 
 },
-"1489": {
+{
  "FIPS":     31,
 "year": "2013",
 "goods_service": 0.13104,
 "goods_service_z": -1.2641 
 },
-"1490": {
+{
  "FIPS":     33,
 "year": "2013",
 "goods_service": 0.86842,
 "goods_service_z": -0.52668 
 },
-"1491": {
+{
  "FIPS":     35,
 "year": "2013",
 "goods_service": 0.11304,
 "goods_service_z": -1.2821 
 },
-"1492": {
+{
  "FIPS":     37,
 "year": "2013",
 "goods_service": 0.1211,
 "goods_service_z": -1.274 
 },
-"1493": {
+{
  "FIPS":     39,
 "year": "2013",
 "goods_service": 0.53986,
 "goods_service_z": -0.85524 
 },
-"1494": {
+{
  "FIPS":     41,
 "year": "2013",
 "goods_service": 0.13857,
 "goods_service_z": -1.2565 
 },
-"1495": {
+{
  "FIPS":     43,
 "year": "2013",
 "goods_service": 0.18006,
 "goods_service_z": -1.215 
 },
-"1496": {
+{
  "FIPS":     45,
 "year": "2013",
 "goods_service": 0.37534,
 "goods_service_z": -1.0198 
 },
-"1497": {
+{
  "FIPS":     47,
 "year": "2013",
 "goods_service": 0.010748,
 "goods_service_z": -1.3843 
 },
-"1498": {
+{
  "FIPS":     49,
 "year": "2013",
 "goods_service": 0.15589,
 "goods_service_z": -1.2392 
 },
-"1499": {
+{
  "FIPS":     51,
 "year": "2013",
 "goods_service": 0.30669,
 "goods_service_z": -1.0884 
 },
-"1500": {
+{
  "FIPS":     53,
 "year": "2013",
 "goods_service": 0.31783,
 "goods_service_z": -1.0773 
 },
-"1501": {
+{
  "FIPS":     55,
 "year": "2013",
 "goods_service": 0.095621,
 "goods_service_z": -1.2995 
 },
-"1502": {
+{
  "FIPS":     57,
 "year": "2013",
 "goods_service": 0.79717,
 "goods_service_z": -0.59793 
 },
-"1503": {
+{
  "FIPS":     59,
 "year": "2013",
 "goods_service": 0.19638,
 "goods_service_z": -1.1987 
 },
-"1504": {
+{
  "FIPS":     61,
 "year": "2013",
 "goods_service": 0.66667,
 "goods_service_z": -0.72843 
 },
-"1505": {
+{
  "FIPS":     63,
 "year": "2013",
 "goods_service": 0.36469,
 "goods_service_z": -1.0304 
 },
-"1506": {
+{
  "FIPS":     65,
 "year": "2013",
 "goods_service": 0.51647,
 "goods_service_z": -0.87862 
 },
-"1507": {
+{
  "FIPS":     67,
 "year": "2013",
 "goods_service": 0.2222,
 "goods_service_z": -1.1729 
 },
-"1508": {
+{
  "FIPS":     69,
 "year": "2013",
 "goods_service": 0.24415,
 "goods_service_z": -1.1509 
 },
-"1509": {
+{
  "FIPS":     71,
 "year": "2013",
 "goods_service": 0.29187,
 "goods_service_z": -1.1032 
 },
-"1510": {
+{
  "FIPS":     73,
 "year": "2013",
 "goods_service": 0.097154,
 "goods_service_z": -1.2979 
 },
-"1511": {
+{
  "FIPS":     75,
 "year": "2013",
 "goods_service": 0.22539,
 "goods_service_z": -1.1697 
 },
-"1512": {
+{
  "FIPS":     77,
 "year": "2013",
 "goods_service": 0.23043,
 "goods_service_z": -1.1647 
 },
-"1513": {
+{
  "FIPS":     79,
 "year": "2013",
 "goods_service": 0.092643,
 "goods_service_z": -1.3025 
 },
-"1514": {
+{
  "FIPS":     81,
 "year": "2013",
 "goods_service": 0.2969,
 "goods_service_z": -1.0982 
 },
-"1515": {
+{
  "FIPS":     83,
 "year": "2013",
 "goods_service": 0.20054,
 "goods_service_z": -1.1946 
 },
-"1516": {
+{
  "FIPS":     85,
 "year": "2013",
 "goods_service": 0.30078,
 "goods_service_z": -1.0943 
 },
-"1517": {
+{
  "FIPS":     87,
 "year": "2013",
 "goods_service": 0.91299,
 "goods_service_z": -0.4821 
 },
-"1518": {
+{
  "FIPS":     89,
 "year": "2013",
 "goods_service": 0.29514,
 "goods_service_z":   -1.1 
 },
-"1519": {
+{
  "FIPS":     91,
 "year": "2013",
 "goods_service": 0.41619,
 "goods_service_z": -0.97891 
 },
-"1520": {
+{
  "FIPS":     93,
 "year": "2013",
 "goods_service": 0.29287,
 "goods_service_z": -1.1022 
 },
-"1521": {
+{
  "FIPS":     95,
 "year": "2013",
 "goods_service": 0.5226,
 "goods_service_z": -0.8725 
 },
-"1522": {
+{
  "FIPS":     97,
 "year": "2013",
 "goods_service": 0.059129,
 "goods_service_z": -1.336 
 },
-"1523": {
+{
  "FIPS":     99,
 "year": "2013",
 "goods_service": 0.42197,
 "goods_service_z": -0.97312 
 },
-"1524": {
+{
  "FIPS":    101,
 "year": "2013",
 "goods_service": 0.19555,
 "goods_service_z": -1.1995 
 },
-"1525": {
+{
  "FIPS":    103,
 "year": "2013",
 "goods_service": 1.1126,
 "goods_service_z": -0.28251 
 },
-"1526": {
+{
  "FIPS":    105,
 "year": "2013",
 "goods_service": 0.65968,
 "goods_service_z": -0.73542 
 },
-"1527": {
+{
  "FIPS":    107,
 "year": "2013",
 "goods_service": 0.22856,
 "goods_service_z": -1.1665 
 },
-"1528": {
+{
  "FIPS":    109,
 "year": "2013",
 "goods_service": 1.0967,
 "goods_service_z": -0.29839 
 },
-"1529": {
+{
  "FIPS":    111,
 "year": "2013",
 "goods_service": 0.15205,
 "goods_service_z": -1.243 
 },
-"1530": {
+{
  "FIPS":    113,
 "year": "2013",
 "goods_service": 0.16419,
 "goods_service_z": -1.2309 
 },
-"1531": {
+{
  "FIPS":    115,
 "year": "2013",
 "goods_service": 0.40184,
 "goods_service_z": -0.99326 
 },
-"1532": {
+{
  "FIPS":    117,
 "year": "2013",
 "goods_service": 0.071538,
 "goods_service_z": -1.3236 
 },
-"1533": {
+{
  "FIPS":    119,
 "year": "2013",
 "goods_service": 0.17358,
 "goods_service_z": -1.2215 
 },
-"1534": {
+{
  "FIPS":    121,
 "year": "2013",
 "goods_service": 0.37725,
 "goods_service_z": -1.0179 
 },
-"1535": {
+{
  "FIPS":    123,
 "year": "2013",
 "goods_service": 0.62399,
 "goods_service_z": -0.77111 
 },
-"1536": {
+{
  "FIPS":    125,
 "year": "2013",
 "goods_service": 0.70379,
 "goods_service_z": -0.69131 
 },
-"1537": {
+{
  "FIPS":      1,
 "year": "2014",
 "goods_service": 0.29934,
 "goods_service_z": -0.67252 
 },
-"1538": {
+{
  "FIPS":      3,
 "year": "2014",
 "goods_service": 0.14858,
 "goods_service_z": -0.82328 
 },
-"1539": {
+{
  "FIPS":      5,
 "year": "2014",
 "goods_service": 0.10965,
 "goods_service_z": -0.86221 
 },
-"1540": {
+{
  "FIPS":      7,
 "year": "2014",
 "goods_service": 0.15056,
 "goods_service_z": -0.8213 
 },
-"1541": {
+{
  "FIPS":      9,
 "year": "2014",
 "goods_service": 0.27711,
 "goods_service_z": -0.69475 
 },
-"1542": {
+{
  "FIPS":     11,
 "year": "2014",
 "goods_service": 0.35861,
 "goods_service_z": -0.61325 
 },
-"1543": {
+{
  "FIPS":     13,
 "year": "2014",
 "goods_service": 0.19136,
 "goods_service_z": -0.78049 
 },
-"1544": {
+{
  "FIPS":     14,
 "year": "2014",
 "goods_service": 0.23351,
 "goods_service_z": -0.73835 
 },
-"1545": {
+{
  "FIPS":     15,
 "year": "2014",
 "goods_service": 0.17833,
 "goods_service_z": -0.79353 
 },
-"1546": {
+{
  "FIPS":     17,
 "year": "2014",
 "goods_service": 0.59774,
 "goods_service_z": -0.37411 
 },
-"1547": {
+{
  "FIPS":     19,
 "year": "2014",
 "goods_service": 0.50702,
 "goods_service_z": -0.46484 
 },
-"1548": {
+{
  "FIPS":     21,
 "year": "2014",
 "goods_service": 0.35105,
 "goods_service_z": -0.62081 
 },
-"1549": {
+{
  "FIPS":     23,
 "year": "2014",
 "goods_service": 0.42258,
 "goods_service_z": -0.54928 
 },
-"1550": {
+{
  "FIPS":     25,
 "year": "2014",
 "goods_service": 0.20464,
 "goods_service_z": -0.76722 
 },
-"1551": {
+{
  "FIPS":     27,
 "year": "2014",
 "goods_service": 0.35484,
 "goods_service_z": -0.61702 
 },
-"1552": {
+{
  "FIPS":     29,
 "year": "2014",
 "goods_service": 0.40019,
 "goods_service_z": -0.57167 
 },
-"1553": {
+{
  "FIPS":     31,
 "year": "2014",
 "goods_service": 0.13517,
 "goods_service_z": -0.83669 
 },
-"1554": {
+{
  "FIPS":     33,
 "year": "2014",
 "goods_service": 2.7303,
 "goods_service_z": 1.7584 
 },
-"1555": {
+{
  "FIPS":     35,
 "year": "2014",
 "goods_service": 0.11996,
 "goods_service_z": -0.8519 
 },
-"1556": {
+{
  "FIPS":     37,
 "year": "2014",
 "goods_service": 0.13313,
 "goods_service_z": -0.83873 
 },
-"1557": {
+{
  "FIPS":     39,
 "year": "2014",
 "goods_service": 0.63268,
 "goods_service_z": -0.33918 
 },
-"1558": {
+{
  "FIPS":     41,
 "year": "2014",
 "goods_service": 0.14477,
 "goods_service_z": -0.82708 
 },
-"1559": {
+{
  "FIPS":     43,
 "year": "2014",
 "goods_service": 0.18972,
 "goods_service_z": -0.78214 
 },
-"1560": {
+{
  "FIPS":     45,
 "year": "2014",
 "goods_service": 0.37138,
 "goods_service_z": -0.60048 
 },
-"1561": {
+{
  "FIPS":     47,
 "year": "2014",
 "goods_service": 0.01372,
 "goods_service_z": -0.95814 
 },
-"1562": {
+{
  "FIPS":     49,
 "year": "2014",
 "goods_service": 0.17444,
 "goods_service_z": -0.79742 
 },
-"1563": {
+{
  "FIPS":     51,
 "year": "2014",
 "goods_service": 0.24125,
 "goods_service_z": -0.73061 
 },
-"1564": {
+{
  "FIPS":     53,
 "year": "2014",
 "goods_service": 0.28058,
 "goods_service_z": -0.69128 
 },
-"1565": {
+{
  "FIPS":     55,
 "year": "2014",
 "goods_service": 0.11704,
 "goods_service_z": -0.85482 
 },
-"1566": {
+{
  "FIPS":     57,
 "year": "2014",
 "goods_service": 0.66368,
 "goods_service_z": -0.30818 
 },
-"1567": {
+{
  "FIPS":     59,
 "year": "2014",
 "goods_service": 0.20038,
 "goods_service_z": -0.77148 
 },
-"1568": {
+{
  "FIPS":     61,
 "year": "2014",
 "goods_service": 0.27083,
 "goods_service_z": -0.70102 
 },
-"1569": {
+{
  "FIPS":     63,
 "year": "2014",
 "goods_service": 0.41869,
 "goods_service_z": -0.55317 
 },
-"1570": {
+{
  "FIPS":     65,
 "year": "2014",
 "goods_service": 0.48441,
 "goods_service_z": -0.48745 
 },
-"1571": {
+{
  "FIPS":     67,
 "year": "2014",
 "goods_service": 0.23412,
 "goods_service_z": -0.73774 
 },
-"1572": {
+{
  "FIPS":     69,
 "year": "2014",
 "goods_service": 0.25264,
 "goods_service_z": -0.71922 
 },
-"1573": {
+{
  "FIPS":     71,
 "year": "2014",
 "goods_service": 0.25826,
 "goods_service_z": -0.7136 
 },
-"1574": {
+{
  "FIPS":     73,
 "year": "2014",
 "goods_service": 0.1087,
 "goods_service_z": -0.86316 
 },
-"1575": {
+{
  "FIPS":     75,
 "year": "2014",
 "goods_service": 0.22736,
 "goods_service_z": -0.7445 
 },
-"1576": {
+{
  "FIPS":     77,
 "year": "2014",
 "goods_service": 0.24624,
 "goods_service_z": -0.72562 
 },
-"1577": {
+{
  "FIPS":     79,
 "year": "2014",
 "goods_service": 0.065963,
 "goods_service_z": -0.9059 
 },
-"1578": {
+{
  "FIPS":     81,
 "year": "2014",
 "goods_service": 0.29968,
 "goods_service_z": -0.67217 
 },
-"1579": {
+{
  "FIPS":     83,
 "year": "2014",
 "goods_service": 0.1984,
 "goods_service_z": -0.77345 
 },
-"1580": {
+{
  "FIPS":     85,
 "year": "2014",
 "goods_service": 0.31109,
 "goods_service_z": -0.66077 
 },
-"1581": {
+{
  "FIPS":     87,
 "year": "2014",
 "goods_service": 0.88438,
 "goods_service_z": -0.087474 
 },
-"1582": {
+{
  "FIPS":     89,
 "year": "2014",
 "goods_service": 0.2852,
 "goods_service_z": -0.68666 
 },
-"1583": {
+{
  "FIPS":     91,
 "year": "2014",
 "goods_service":  0.398,
 "goods_service_z": -0.57385 
 },
-"1584": {
+{
  "FIPS":     93,
 "year": "2014",
 "goods_service": 0.31539,
 "goods_service_z": -0.65647 
 },
-"1585": {
+{
  "FIPS":     95,
 "year": "2014",
 "goods_service": 0.52126,
 "goods_service_z": -0.4506 
 },
-"1586": {
+{
  "FIPS":     97,
 "year": "2014",
 "goods_service": 0.061995,
 "goods_service_z": -0.90986 
 },
-"1587": {
+{
  "FIPS":     99,
 "year": "2014",
 "goods_service": 0.40541,
 "goods_service_z": -0.56645 
 },
-"1588": {
+{
  "FIPS":    101,
 "year": "2014",
 "goods_service": 0.20399,
 "goods_service_z": -0.76786 
 },
-"1589": {
+{
  "FIPS":    103,
 "year": "2014",
 "goods_service": 0.98169,
 "goods_service_z": 0.0098304 
 },
-"1590": {
+{
  "FIPS":    105,
 "year": "2014",
 "goods_service": 0.6615,
 "goods_service_z": -0.31035 
 },
-"1591": {
+{
  "FIPS":    107,
 "year": "2014",
 "goods_service": 0.19381,
 "goods_service_z": -0.77804 
 },
-"1592": {
+{
  "FIPS":    109,
 "year": "2014",
 "goods_service": 0.98069,
 "goods_service_z": 0.0088367 
 },
-"1593": {
+{
  "FIPS":    111,
 "year": "2014",
 "goods_service": 0.16384,
 "goods_service_z": -0.80802 
 },
-"1594": {
+{
  "FIPS":    113,
 "year": "2014",
 "goods_service": 0.17179,
 "goods_service_z": -0.80007 
 },
-"1595": {
+{
  "FIPS":    115,
 "year": "2014",
 "goods_service":  0.443,
 "goods_service_z": -0.52886 
 },
-"1596": {
+{
  "FIPS":    117,
 "year": "2014",
 "goods_service": 0.074929,
 "goods_service_z": -0.89693 
 },
-"1597": {
+{
  "FIPS":    119,
 "year": "2014",
 "goods_service": 0.18595,
 "goods_service_z": -0.78591 
 },
-"1598": {
+{
  "FIPS":    121,
 "year": "2014",
 "goods_service": 0.40039,
 "goods_service_z": -0.57147 
 },
-"1599": {
+{
  "FIPS":    123,
 "year": "2014",
 "goods_service": 0.67082,
 "goods_service_z": -0.30104 
 },
-"1600": {
+{
  "FIPS":    125,
 "year": "2014",
 "goods_service": 0.70017,
 "goods_service_z": -0.27169 
 } 
-}
+]

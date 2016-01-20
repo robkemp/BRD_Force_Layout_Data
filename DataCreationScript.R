@@ -99,10 +99,13 @@ tmp=pop_z%>%
 json_out=function(data, year, filename){
   require(RJSONIO, quietly=TRUE)
   d=filter(data, year==year)
-  jd=toJSON(split(d, 1:nrow(d)))
+  d=split(d, 1:nrow(d))
+  names(d)=NULL
+  jd=toJSON(d)
   write(jd, paste0(filename, ".JSON"))
 }
 
+ 
 json_out(pop_z, 1990, "cocountiesPop1990")
 json_out(emp_z, 1990, "cocountiesEmp1990")
 json_out(qcw_z, 1990, "cocountiesQCW1990")

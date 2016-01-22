@@ -1,0 +1,158 @@
+---
+title: "CU LEEDS Meeting Charts - January 21, 2016"
+author: "Rob Kemp"
+date: "January 21, 2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(readxl)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(grid)
+library(robR)
+
+source("Population Trend Analysis_data.r")
+
+
+```
+
+# County Growth Rate Rankings
+
+These charts compare the compund annual growth rates for each of three periods (1990 to 1999, 2000 to 2009, 2010 to 2014).  These periods are slightly different than the periods used by Chris in the final section showing the 'resilient' counties.
+
+
+## All 64 counties
+
+```{r all_cagr90,fig.width = 6, fig.height = 7, message=FALSE}
+pop_anngr%>%
+  select(FIPS, ann_gr_90_99)%>%
+  filter(FIPS!=14)%>%
+  inner_join(countynames)%>%
+  ggplot(aes(x=reorder(county,ann_gr_90_99), y=ann_gr_90_99, group=county))+
+  geom_point(color=rgb(31,74,126,max=255))+
+  geom_hline(yintercept=2.778303, color="red", size=1)+
+  coord_flip()+
+  theme_bw()+
+  theme(axis.text.y=element_text(size=rel(.8)))+
+  labs(x="County", y="Compound Annual Growth Rate, 1990 to 1999")
+
+pop_anngr%>%
+  select(FIPS, ann_gr_00_09)%>%
+  filter(FIPS!=14)%>%
+  inner_join(countynames)%>%
+  ggplot(aes(x=reorder(county,ann_gr_00_09), y=ann_gr_00_09, group=county))+
+  geom_point(color=rgb(31,74,126,max=255))+
+  geom_hline(yintercept=1.53612, color="red", size=1)+
+  coord_flip()+
+  theme_bw()+
+  theme(axis.text.y=element_text(size=rel(.8)))+
+  labs(x="County", y="Compound Annual Growth Rate, 2000 to 2009")
+
+
+pop_anngr%>%
+  select(FIPS, ann_gr_10_14)%>%
+  filter(FIPS!=14)%>%
+  inner_join(countynames)%>%
+  ggplot(aes(x=reorder(county,ann_gr_10_14), y=ann_gr_10_14, group=county))+
+  geom_point(color=rgb(31,74,126,max=255))+
+  geom_hline(yintercept=1.468165, color="red", size=1)+
+  coord_flip()+
+  theme_bw()+
+  theme(axis.text.y=element_text(size=rel(.8)))+
+  labs(x="County", y="Compound Annual Growth Rate, 2010 to 2014")
+
+```
+
+
+## Non-Metro counties
+
+```{r nm_cagr90,fig.width = 6, fig.height = 7, message=FALSE}
+non_metro_anngr%>%
+  select(FIPS, ann_gr_90_99)%>%
+  filter(FIPS!=14)%>%
+  inner_join(countynames)%>%
+  ggplot(aes(x=reorder(county,ann_gr_90_99), y=ann_gr_90_99, group=county))+
+  geom_point(color=rgb(31,74,126,max=255))+
+  geom_hline(yintercept=2.881307495, color="red", size=1)+
+  coord_flip()+
+  theme_bw()+
+  theme(axis.text.y=element_text(size=rel(.8)))+
+  labs(x="County", y="Compound Annual Growth Rate, 1990 to 1999")
+
+non_metro_anngr%>%
+  select(FIPS, ann_gr_00_09)%>%
+  filter(FIPS!=14)%>%
+  inner_join(countynames)%>%
+  ggplot(aes(x=reorder(county,ann_gr_00_09), y=ann_gr_00_09, group=county))+
+  geom_point(color=rgb(31,74,126,max=255))+
+  geom_hline(yintercept=0.833523432, color="red", size=1)+
+  coord_flip()+
+  theme_bw()+
+  theme(axis.text.y=element_text(size=rel(.8)))+
+  labs(x="County", y="Compound Annual Growth Rate, 2000 to 2009")
+
+
+non_metro_anngr%>%
+  select(FIPS, ann_gr_10_14)%>%
+  filter(FIPS!=14)%>%
+  inner_join(countynames)%>%
+  ggplot(aes(x=reorder(county,ann_gr_10_14), y=ann_gr_10_14, group=county))+
+  geom_point(color=rgb(31,74,126,max=255))+
+  geom_hline(yintercept=0.055536551, color="red", size=1)+
+  coord_flip()+
+  theme_bw()+
+  theme(axis.text.y=element_text(size=rel(.8)))+
+  labs(x="County", y="Compound Annual Growth Rate, 2010 to 2014")
+```
+
+
+# Hierarchical Clustering Exercise
+
+To begin the thought process of clustering or segmenting counties by population growth, a preliminary hierarchical cluster analysis  is often useful.  The charts below are clustering tree diagrams.  They are read by tracing the brackets.  The highest clusters show two clusters and include every branch from their split and below.  For each branching, this is the method until each county would be technically a cluster.  This can help see how a rather uninformed method would cluster these counties based on CAGRs from 1990 to 1999.
+
+## All 64 counties
+
+```{r, fig.width = 9, fig.height = 5,warning=FALSE,message=FALSE}
+#data prep
+d=pop_anngr%>%
+  select(FIPS, ann_gr_90_99)%>%
+  inner_join(countynames)%>%
+  na.omit()%>%
+  select(county, ann_gr_90_99)
+row.names(d)=d$county
+
+dnm=non_metro_anngr%>%
+  select(FIPS, ann_gr_90_99)%>%
+  inner_join(countynames)%>%
+  na.omit()%>%
+  select(county, ann_gr_90_99)
+row.names(dnm)=dnm$county
+## clusters
+
+# All
+dd=dist(d,method="euclidian")
+
+fit=hclust(dd, method="ward.D")
+plot(fit)
+
+
+
+```
+
+## Non-metro counties
+
+```{r, fig.width = 9, fig.height = 5,warning=FALSE,message=FALSE}
+
+dnmd=dist(dnm,method="euclidian")
+
+fitnm=hclust(dnmd, method="ward.D")
+
+plot(fitnm)
+
+```
+
+# Resilient population counties
+

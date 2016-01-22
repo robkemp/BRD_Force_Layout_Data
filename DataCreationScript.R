@@ -86,6 +86,18 @@ goods_service_z=goods_service_ratio[,-1]%>%
   mutate(goods_service=ifelse(is.na(goods_service), 0, goods_service),
          goods_service_z=(goods_service-mean(goods_service)/sd(goods_service)))
 
+pop2534=codemog::county_forecast%>%
+  filter(year<=2014, age>=25, age<=34)%>%
+  group_by(countyfips, county, year)%>%
+  summarize(pop2534=sum(totalPopulation))%>%
+  ungroup()
+
+pop2534_z=pop2534%>%
+  select(FIPS=countyfips, year, pop2534)%>%
+  group_by(year)%>%
+  mutate(pop2534=ifelse(is.na(pop2534), 0, pop2534),
+         pop2534_z=(pop2534-mean(pop2534)/sd(pop2534)))
+tmp=dist(as.matrix(pop2534_z))
 
 ## JSON Conversion
 modified <- list(
@@ -115,9 +127,6 @@ json_out(service_z, 1990, "cocountiesService1990")
 json_out(goods_service_z, 1990, "cocountiesGoodsService1990")
 
 
-
-
-### Notes from Call:
 
 
 

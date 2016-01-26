@@ -107,17 +107,26 @@ ggsave("nonmetro_cagr_1014.png", p6, h=150, w=250, unit="mm")
 
 ### Clustering
 
-## Hierarchical Clustering - Jan 21 Meeting
+## Hierarchical Clustering 
 
+## Full Data
+all64_clust=all64_clust%>%
+  select(FIPS, ann_gr_90_99, ann_gr_90_99_2534, ann_gr_90_99_2544, ann_gr_90_99_gsr, ann_gr_90_99_epr)
+
+
+### Population Growth
 #data prep
-d=pop_anngr%>%
+
+
+d=all64_clust%>%
   select(FIPS, ann_gr_90_99)%>%
   inner_join(countynames)%>%
   na.omit()%>%
   select(county, ann_gr_90_99)
 row.names(d)=d$county
 
-dnm=non_metro_anngr%>%
+dnm=all64_clust%>%
+  filter(FIPS %!in% metro_fips)%>%
   select(FIPS, ann_gr_90_99)%>%
   inner_join(countynames)%>%
   na.omit()%>%
@@ -129,6 +138,8 @@ row.names(dnm)=dnm$county
 dd=dist(d,method="euclidian")
 
 fit=hclust(dd, method="ward.D")
+g_fit=cutree(fit,k=5)
+
 png("County_Growth_90s_All.png", width=250, height=150, res=200, units="mm")
 plot(fit)
 dev.off()
@@ -137,10 +148,46 @@ dev.off()
 dnmd=dist(dnm,method="euclidian")
 
 fitnm=hclust(dnmd, method="ward.D")
+g_fitnm=cutree(fitnm,k=5)
 
 png("County_Growth_90s_NonMetro.png", width=250, height=150, res=200, units="mm")
 
 plot(fitnm)
 dev.off()
 
+#### Population and 25 to 34 ####
 
+d2=all64_clust%>%
+  select(FIPS, ann_gr_90_99, ann_gr_90_99_2534)%>%
+  inner_join(countynames)%>%
+  na.omit()%>%
+  select(county, ann_gr_90_99, ann_gr_90_99_2534)
+row.names(d2)=d2$county
+
+dnm2=all64_clust%>%
+  filter(FIPS %!in% metro_fips)%>%
+  select(FIPS, ann_gr_90_99, ann_gr_90_99_2534)%>%
+  inner_join(countynames)%>%
+  na.omit()%>%
+  select(county, ann_gr_90_99, ann_gr_90_99_2534)
+row.names(dnm2)=dnm2$county
+## clusters
+
+# All
+dd2=dist(d,method="euclidian")
+
+fit2=hclust(dd, method="ward.D")
+g_fit2=cutree(fit2,k=5)
+
+plot(fit2)
+#Non Metro
+
+dnmd2=dist(dnm2,method="euclidian")
+
+fitnm2=hclust(dnmd, method="ward.D")
+g_fitnm2=cutree(fitnm2,k=5)
+
+
+plot(fitnm2)
+
+all64_clust$age_diff=all64_clust$ann_gr_90_99-all64_clust$ann_gr_90_99_2544

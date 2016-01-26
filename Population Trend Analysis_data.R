@@ -5,6 +5,8 @@ library(ggplot2)
 library(grid)
 library(robR)
 
+
+#### All County Total Population Data ####
 pop=read_excel("County Compare Data.xlsx", sheet= "Population 90_14")[,-1]
 names(pop[,27])="ann_gr_90_14"
 countynames=codemog::county_est%>%
@@ -76,7 +78,7 @@ pop_anngr=pop%>%
 state=filter(pop, FIPS==0)
 state_anngr=filter(pop_anngr, FIPS==0)
 
-## Non-Metro Data
+###### Non-Metro Total Population Data ####
 
 "%!in%" <- function(x,table) match(x,table, nomatch = 0) == 0 
 metro_fips=c(0,1,5,13,14,19,31,35,39,41,47,59,69,77,93,119,123)
@@ -144,3 +146,68 @@ non_metro_anngr=non_metro%>%
   inner_join(non_metro0006)%>%
   inner_join(non_metro0710)%>%
   inner_join(non_metro1114)
+
+#### Population by Age Data ####
+
+pop2534=codemog::county_forecast%>%
+  filter(year<=2014, age>=25, age<=34)%>%
+  group_by(countyfips, county, year)%>%
+  summarize(pop2534=sum(totalPopulation))%>%
+  ungroup()%>%
+  mutate(year=paste0("a", year))%>%
+  spread(year, pop2534)%>%
+  mutate(ann_gr_90_99_2534=ann.gr(a1990, a1999, 9),
+         ann_gr_00_09_2534=ann.gr(a2000, a2009, 9),
+         ann_gr_10_14_2534=ann.gr(a2010, a2014, 4))%>%
+  rename(FIPS=countyfips)%>%
+  select(-county)
+
+pop2544=codemog::county_forecast%>%
+  filter(year<=2014, age>=25, age<=44)%>%
+  group_by(countyfips, county, year)%>%
+  summarize(pop2544=sum(totalPopulation))%>%
+  ungroup()%>%
+  mutate(year=paste0("a", year))%>%
+  spread(year, pop2544)%>%
+  mutate(ann_gr_90_99_2544=ann.gr(a1990, a1999, 9),
+         ann_gr_00_09_2544=ann.gr(a2000, a2009, 9),
+         ann_gr_10_14_2544=ann.gr(a2010, a2014, 4))%>%
+  rename(FIPS=countyfips)%>%
+  select(-county)
+
+#### Goods and Services Ratio - Chris ####
+
+goods_service_ratio=read_excel("County Compare Data.xlsx", sheet= "Goods_ Service Ratio")[,-1]%>%
+  rename(FIPS=FIPS_NUM)%>%
+  filter(FIPS!=0)%>%
+  gather(year, goods_service, -FIPS)%>%
+  mutate(year=paste0("a", year))%>%
+  spread(year, goods_service)%>%
+  mutate(ann_gr_90_99_gsr=ann.gr(a1990, a1999, 9),
+         ann_gr_00_09_gsr=ann.gr(a2000, a2009, 9),
+         ann_gr_10_14_gsr=ann.gr(a2010, a2014, 4))
+
+
+#### Employment to Population Ratio - Chris ####
+emp_pop_ratio=read_excel("County Compare Data.xlsx", sheet= "Emp_Pop Ratio")[,-1]%>% # Added the first two column names by hand
+  rename(FIPS=FIPS_Num)%>%
+  filter(FIPS!=0)%>%
+  gather(year, emp_pop, -FIPS)%>%
+    mutate(year=paste0("a", year))%>%
+    spread(year, emp_pop)%>%
+    mutate(ann_gr_90_99_epr=ann.gr(a1990, a1999, 9),
+           ann_gr_00_09_epr=ann.gr(a2000, a2009, 9),
+           ann_gr_10_14_epr=ann.gr(a2010, a2014, 4))
+  
+  
+#### Cluster Base Data ####
+
+all64=countynames%>%
+    inner_join(select(pop_anngr, FIPS,ann_gr_90_99:ann_gr_10_14))%>%
+    inner_join(select(pop2534, FIPS,ann_gr_90_99_2534:ann_gr_10_14_2534))%>%
+    inner_join(select(pop2544, FIPS,ann_gr_90_99_2544:ann_gr_10_14_2544))%>%
+    inner_join(select(goods_service_ratio, FIPS,ann_gr_90_99_gsr:ann_gr_10_14_gsr))%>%
+    inner_join(select(emp_pop_ratio, FIPS,ann_gr_90_99_epr:ann_gr_10_14_epr))
+
+
+

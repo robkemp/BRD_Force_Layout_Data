@@ -99,6 +99,19 @@ pop2534_z=pop2534%>%
          pop2534_z=(pop2534-mean(pop2534)/sd(pop2534)))
 tmp=dist(as.matrix(pop2534_z))
 
+pop2544=codemog::county_forecast%>%
+  filter(year<=2014, age>=25, age<=44)%>%
+  group_by(countyfips, county, year)%>%
+  summarize(pop2534=sum(totalPopulation))%>%
+  ungroup()
+
+pop2544_z=pop2544%>%
+  select(FIPS=countyfips, year, pop2544)%>%
+  group_by(year)%>%
+  mutate(pop2544=ifelse(is.na(pop2544), 0, pop2544),
+         pop2544_z=(pop2544-mean(pop2544)/sd(pop2544)))
+tmp=dist(as.matrix(pop2544_z))
+
 ## JSON Conversion
 modified <- list(
   traits = colnames(tmp),

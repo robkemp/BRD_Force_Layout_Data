@@ -14,10 +14,10 @@ source("Population Trend Analysis_data.r")
 ## Ranking Plots
 
 p1=pop_anngr%>%
-  select(FIPS, ann_gr_90_99)%>%
+  select(FIPS, ann_gr_90_00)%>%
   filter(FIPS!=14)%>%
   inner_join(countynames)%>%
-  ggplot(aes(x=reorder(county,ann_gr_90_99), y=ann_gr_90_99, group=county))+
+  ggplot(aes(x=reorder(county,ann_gr_90_00), y=ann_gr_90_00, group=county))+
   geom_point(color=rgb(31,74,126,max=255))+
   geom_hline(yintercept=2.778303, color="red", size=1)+
   coord_flip()+
@@ -29,10 +29,10 @@ p1
 ggsave("cagr_9099.png", p1, h=150, w=250, unit="mm")
 
 p2=pop_anngr%>%
-  select(FIPS, ann_gr_00_09)%>%
+  select(FIPS, ann_gr_00_10)%>%
   filter(FIPS!=14)%>%
   inner_join(countynames)%>%
-  ggplot(aes(x=reorder(county,ann_gr_00_09), y=ann_gr_00_09, group=county))+
+  ggplot(aes(x=reorder(county,ann_gr_00_10), y=ann_gr_00_10, group=county))+
   geom_point(color=rgb(31,74,126,max=255))+
   geom_hline(yintercept=1.53612, color="red", size=1)+
   coord_flip()+
@@ -60,10 +60,10 @@ p3
 ggsave("cagr_1014.png", p3, h=150, w=250, unit="mm")
 
 p4=non_metro_anngr%>%
-  select(FIPS, ann_gr_90_99)%>%
+  select(FIPS, ann_gr_90_00)%>%
   filter(FIPS!=14)%>%
   inner_join(countynames)%>%
-  ggplot(aes(x=reorder(county,ann_gr_90_99), y=ann_gr_90_99, group=county))+
+  ggplot(aes(x=reorder(county,ann_gr_90_00), y=ann_gr_90_00, group=county))+
   geom_point(color=rgb(31,74,126,max=255))+
   geom_hline(yintercept=2.881307495, color="red", size=1)+
   coord_flip()+
@@ -75,10 +75,10 @@ p4
 ggsave("nonmetro_cagr_9099.png", p4, h=150, w=250, unit="mm")
 
 p5=non_metro_anngr%>%
-  select(FIPS, ann_gr_00_09)%>%
+  select(FIPS, ann_gr_00_10)%>%
   filter(FIPS!=14)%>%
   inner_join(countynames)%>%
-  ggplot(aes(x=reorder(county,ann_gr_00_09), y=ann_gr_00_09, group=county))+
+  ggplot(aes(x=reorder(county,ann_gr_00_10), y=ann_gr_00_10, group=county))+
   geom_point(color=rgb(31,74,126,max=255))+
   geom_hline(yintercept=0.833523432, color="red", size=1)+
   coord_flip()+
@@ -110,8 +110,8 @@ ggsave("nonmetro_cagr_1014.png", p6, h=150, w=250, unit="mm")
 ## Hierarchical Clustering 
 
 ## Full Data
-all64_clust=all64_clust%>%
-  select(FIPS, ann_gr_90_99, ann_gr_90_99_2534, ann_gr_90_99_2544, ann_gr_90_99_gsr, ann_gr_90_99_epr)
+all64_clust=all64%>%
+  select(FIPS, ann_gr_90_00, ann_gr_90_00_2534, ann_gr_90_00_2544, ann_gr_90_00_gsr, ann_gr_90_00_epr)
 
 
 ### Population Growth
@@ -119,18 +119,18 @@ all64_clust=all64_clust%>%
 
 
 d=all64_clust%>%
-  select(FIPS, ann_gr_90_99)%>%
+  select(FIPS, ann_gr_90_00)%>%
   inner_join(countynames)%>%
   na.omit()%>%
-  select(county, ann_gr_90_99)
+  select(county, ann_gr_90_00)
 row.names(d)=d$county
 
 dnm=all64_clust%>%
   filter(FIPS %!in% metro_fips)%>%
-  select(FIPS, ann_gr_90_99)%>%
+  select(FIPS, ann_gr_90_00)%>%
   inner_join(countynames)%>%
   na.omit()%>%
-  select(county, ann_gr_90_99)
+  select(county, ann_gr_90_00)
 row.names(dnm)=dnm$county
 ## clusters
 
@@ -140,9 +140,8 @@ dd=dist(d,method="euclidian")
 fit=hclust(dd, method="ward.D")
 g_fit=cutree(fit,k=5)
 
-png("County_Growth_90s_All.png", width=250, height=150, res=200, units="mm")
 plot(fit)
-dev.off()
+
 #Non Metro
 
 dnmd=dist(dnm,method="euclidian")
@@ -150,27 +149,26 @@ dnmd=dist(dnm,method="euclidian")
 fitnm=hclust(dnmd, method="ward.D")
 g_fitnm=cutree(fitnm,k=5)
 
-png("County_Growth_90s_NonMetro.png", width=250, height=150, res=200, units="mm")
 
 plot(fitnm)
-dev.off()
 
 #### Population and 25 to 34 ####
 
 d2=all64_clust%>%
-  select(FIPS, ann_gr_90_99, ann_gr_90_99_2534)%>%
+  select(FIPS, ann_gr_90_00, ann_gr_90_00_2544)%>%
   inner_join(countynames)%>%
   na.omit()%>%
-  select(county, ann_gr_90_99, ann_gr_90_99_2534)
+  select(county, ann_gr_90_00, ann_gr_90_00_2544)
 row.names(d2)=d2$county
 
 dnm2=all64_clust%>%
   filter(FIPS %!in% metro_fips)%>%
-  select(FIPS, ann_gr_90_99, ann_gr_90_99_2534)%>%
+  select(FIPS, ann_gr_90_00, ann_gr_90_00_2544)%>%
   inner_join(countynames)%>%
   na.omit()%>%
-  select(county, ann_gr_90_99, ann_gr_90_99_2534)
+  select(county, ann_gr_90_00, ann_gr_90_00_2544)
 row.names(dnm2)=dnm2$county
+
 ## clusters
 
 # All
@@ -190,4 +188,6 @@ g_fitnm2=cutree(fitnm2,k=5)
 
 plot(fitnm2)
 
-all64_clust$age_diff=all64_clust$ann_gr_90_99-all64_clust$ann_gr_90_99_2544
+dnm2_c=dnm2%>%
+  mutate(c_pop_age=g_fitnm2)%>%
+  select(FIPS, c_pop_age)

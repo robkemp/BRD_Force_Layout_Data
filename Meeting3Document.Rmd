@@ -1,0 +1,249 @@
+---
+title: "Resiliency Meeting"
+author: "State Demography Office"
+date: "January 27, 2016"
+output: html_document
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(readxl)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(grid)
+library(robR)
+
+source("Population Trend Analysis_data.r")
+#function and fips numbers to go with only the non_metro counties
+"%!in%" <- function(x,table) match(x,table, nomatch = 0) == 0 
+metro_fips=c(0,1,5,13,14,19,31,35,39,41,47,59,69,77,93,119,123)
+
+```
+# Introduction
+This document supports meeting about the County Resiliency project.  The full data set and variable definitions are included at the end of the document and are sortable.  Included are rankings of counties on all of the variables and an average rank across all of the variables.  Additionally, cluster analyses for several variable groupings are conducted and documented among non-metro counties overall.
+
+# Low End Population Thresholds
+
+```{r, thresholds}
+numericInput("threshold", "Population Threshold:", 2000)
+
+selectInput("year_thresh", "Population Year:", choices = c(1990, 2000, 2010, 2014))
+
+
+
+renderTable( pop[, -27,-28]%>%
+               gather(year, population, -FIPS)%>%
+               filter(year==input$year_thresh, population<input$threshold)%>%
+               inner_join(countynames)%>%
+               select(county, population))
+
+```
+
+#  Variation in Long Term Growth Rates
+
+This sections looks at long term growth rates and variation in those growth rates by taking the average of YoY growth rates for every year from 1990 to 2014 then alos calcuated the standard deviation of those averages.  This should give an idea of the long term trend along with an understanding of the stability of that trend.
+
+The standard_index column is an index that calculates the z-score for the population and employment growth rates and variances, then sums all four values together.
+
+The sharpe_ratio columns represent a sharpe ratio for risk adjusted returns applied to this problem.  THe formula 0s the (growth rate-0)/standard deviation of the growth rate.
+
+```{r, variation, message=FALSE, warning=FALSE}
+variation=all64%>%
+      inner_join(filter(read.csv("regfips.csv"), RegionNumber<15,  RegionNumber!=0))%>%
+  select(RegionNumber,county, pop_avg_gr_90_14=avg_gr_90_14, emp_avg_gr_90_14, pop_sd_gr_90_14=sd_gr_90_14, emp_sd_gr_90_14, lq_goods_90, lq_goods_14)%>%
+  mutate(z_pop_avg_gr_90_14=(pop_avg_gr_90_14-mean(pop_avg_gr_90_14))/sd(pop_avg_gr_90_14),
+         z_emp_avg_gr_90_14=(emp_avg_gr_90_14-mean(emp_avg_gr_90_14))/sd(emp_avg_gr_90_14),
+         z_pop_sd_gr_90_14=(pop_sd_gr_90_14-mean(pop_sd_gr_90_14))/sd(pop_sd_gr_90_14),
+         z_emp_sd_gr_90_14=(emp_sd_gr_90_14-mean(emp_sd_gr_90_14))/sd(emp_sd_gr_90_14),
+         standard_index=z_pop_avg_gr_90_14+z_emp_avg_gr_90_14+z_pop_sd_gr_90_14+z_emp_sd_gr_90_14,
+         pop_sharpe_ratio=pop_avg_gr_90_14/pop_sd_gr_90_14,
+         emp_sharpe_ratio=emp_avg_gr_90_14/emp_sd_gr_90_14,
+         RegionNumber=paste("Region", RegionNumber))%>%
+  select(Region=RegionNumber,county,standard_index,pop_sharpe_ratio,emp_sharpe_ratio,pop_avg_gr_90_14, emp_avg_gr_90_14,pop_sd_gr_90_14,emp_sd_gr_90_14, lq_goods_90, lq_goods_14)
+variation[,-1:-2]=round(variation[,-1:-2],2)
+
+variation_nm=all64%>%
+    filter(FIPS %!in% metro_fips)%>%
+  inner_join(filter(read.csv("regfips.csv"), RegionNumber<15,  RegionNumber!=0))%>%
+  select(RegionNumber,county, pop_avg_gr_90_14=avg_gr_90_14, emp_avg_gr_90_14, pop_sd_gr_90_14=sd_gr_90_14, emp_sd_gr_90_14, lq_goods_90, lq_goods_14)%>%
+  mutate(z_pop_avg_gr_90_14=(pop_avg_gr_90_14-mean(pop_avg_gr_90_14))/sd(pop_avg_gr_90_14),
+         z_emp_avg_gr_90_14=(emp_avg_gr_90_14-mean(emp_avg_gr_90_14))/sd(emp_avg_gr_90_14),
+         z_pop_sd_gr_90_14=(pop_sd_gr_90_14-mean(pop_sd_gr_90_14))/sd(pop_sd_gr_90_14),
+         z_emp_sd_gr_90_14=(emp_sd_gr_90_14-mean(emp_sd_gr_90_14))/sd(emp_sd_gr_90_14),
+         standard_index=z_pop_avg_gr_90_14+z_emp_avg_gr_90_14+z_pop_sd_gr_90_14+z_emp_sd_gr_90_14,
+         pop_sharpe_ratio=pop_avg_gr_90_14/pop_sd_gr_90_14,
+         emp_sharpe_ratio=emp_avg_gr_90_14/emp_sd_gr_90_14,
+         RegionNumber=paste("Region", RegionNumber))%>%
+  select(Region=RegionNumber,county, standard_index,pop_sharpe_ratio,emp_sharpe_ratio,pop_avg_gr_90_14, emp_avg_gr_90_14,pop_sd_gr_90_14,emp_sd_gr_90_14, lq_goods_90, lq_goods_14)
+variation_nm[,-1:-2]=round(variation_nm[,-1:-2],2)
+
+tabsetPanel(
+  tabPanel("All Counties", DT::renderDataTable( DT::datatable(variation, options = list(paging = FALSE)))),
+  tabPanel("Non-Metro Counties", DT::renderDataTable( DT::datatable(variation_nm, options = list(paging = FALSE))))
+  
+)
+
+```
+
+
+# Rankings by Variable for 1990s
+
+These rankings help look at where a county ranks across all the main variables for the 1990s, which is our chosen period to identify similarity.
+
+```{r, rankings_ all}
+ranks=all64%>%
+  filter(FIPS!=14)%>%
+  select(county, ann_gr_90_00, ann_gr_90_00_2544, lq_goods_90, emp_avg_gr_90_00)%>%
+  mutate(pop_growth=row_number(desc(ann_gr_90_00)),
+         pop_growth_age=row_number(desc(ann_gr_90_00_2544)),
+         lq_goods=row_number(desc(lq_goods_90)),
+         employment_growth=row_number(desc(emp_avg_gr_90_00)),
+         average_rank=(pop_growth+pop_growth_age+lq_goods+employment_growth)/4)%>%
+  select(county,pop_growth:average_rank, ann_gr_90_00:emp_avg_gr_90_00)
+
+ranks_nm=all64%>%
+  filter(FIPS %!in% metro_fips)%>%
+  select(county, ann_gr_90_00, ann_gr_90_00_2544, lq_goods_90, emp_avg_gr_90_00)%>%
+  mutate(pop_growth=row_number(desc(ann_gr_90_00)),
+         pop_growth_age=row_number(desc(ann_gr_90_00_2544)),
+         employment_growth=row_number(desc(emp_avg_gr_90_00)),
+         average_rank=(pop_growth+pop_growth_age+employment_growth)/4)%>%
+  select(county,pop_growth:average_rank,lq_goods_90, ann_gr_90_00:emp_avg_gr_90_00)
+
+tabsetPanel(type = "tabs", 
+        tabPanel("Ranks - All",DT::renderDataTable( DT::datatable(select(ranks, county,pop_growth:average_rank, lq_goods_90), options = list(paging = FALSE)))),
+        tabPanel("Ranks - Non-Metro",DT::renderDataTable( DT::datatable(select(ranks_nm, county,pop_growth:average_rank, lq_goods_90), options = list(paging = FALSE)))),
+        tabPanel("Values",DT::renderDataTable( DT::datatable(select(ranks, county,ann_gr_90_00:emp_avg_gr_90_00), options = list(paging = FALSE))))
+      )
+
+
+```
+
+
+# Cluster Analyses of Non-Metro Counties
+
+These analyses are more exploratory than anything.  They help look at how counties are clustered using the hierarchical clustering algorithm.  The charts below are dendrograms, which basically give you an idea of how the algorithm clusters each county from itself all the way to breaking the sample into two clusters.  The red boxes correspond to the selected number of clusters and make it easier to see which counties would be included in a cluster.  
+
+Variables Included:
+
+**All Variables:** 
+Population CAGR 1990 to 2000 
+Population Age 25 to 44 CAGR 1990 to 2000
+Total Employment Average YoY Growth Rate 1990 to 2000
+Goods Employment Location Quotient 1990
+
+**Population Variables:**
+Population CAGR 1990 to 2000 
+Population Age 25 to 44 CAGR 1990 to 2000
+
+**Employment Variables**
+Total Employment Average YoY Growth Rate 1990 to 2000
+Goods Employment Location Quotient 1990
+
+
+For this analysis all counties within a current MSA are excluded, leaving 48 counties in the data set.
+
+```{r, cluster_data, message=FALSE, warning=FALSE}
+
+pop_clust=all64%>%
+  filter(FIPS %!in% metro_fips)%>%
+  select(FIPS, ann_gr_90_00, ann_gr_90_00_2544)%>%
+  inner_join(countynames)%>%
+  na.omit()%>%
+  select(county, ann_gr_90_00, ann_gr_90_00_2544)
+row.names(pop_clust)=pop_clust$county
+
+pop_clust_d=dist(pop_clust,method="euclidian")
+fit_pop_clust=hclust(pop_clust_d, method="ward.D")
+
+emp_clust=all64%>%
+  filter(FIPS %!in% metro_fips)%>%
+  select(FIPS,emp_avg_gr_90_00, lq_goods_90)%>%
+  inner_join(countynames)%>%
+  na.omit()%>%
+  select(county, emp_avg_gr_90_00, lq_goods_90)
+row.names(emp_clust)=emp_clust$county
+
+emp_clust_d=dist(emp_clust,method="euclidian")
+fit_emp_clust=hclust(emp_clust_d, method="ward.D")
+
+clust=all64%>%
+  filter(FIPS %!in% metro_fips)%>%
+  select(FIPS,emp_avg_gr_90_00, lq_goods_90, ann_gr_90_00, ann_gr_90_00_2544)%>%
+  inner_join(countynames)%>%
+  na.omit()%>%
+  select(county, emp_avg_gr_90_00, lq_goods_90, ann_gr_90_00, ann_gr_90_00_2544)
+row.names(clust)=clust$county
+clust_d=dist(clust,method="euclidian")
+fit_clust=hclust(clust_d, method="ward.D")
+
+
+```
+
+```{r, cluster_dendrograms}
+selectInput("groups", label="Number of Clusters",
+            choices=c(2:7), selected=5)
+tabsetPanel(
+        tabPanel("All Variable Cluster",renderPlot({
+                                  plot(fit_clust)
+                                  rect.hclust(fit_clust, k=as.numeric(input$groups))
+                                          })),
+        tabPanel("Population Cluster",renderPlot({
+                                  plot(fit_pop_clust)
+                                  rect.hclust(fit_pop_clust, k=as.numeric(input$groups))
+
+                                          })),
+        tabPanel("Employment Cluster",renderPlot({
+                                  plot(fit_emp_clust)
+                                  rect.hclust(fit_emp_clust, k=as.numeric(input$groups))
+
+                                          })))
+
+```
+
+# Full Dataset and Definitions
+
+The goal of this analysis is to inform the identification of similar counties in Colorado for comparison purposes to identify key resiliency traits.  I've pulled together a data set of only the rates and LQs that we're looking at to use throughout this document.  I've places the names and definitions below for reference since they are used throughout the document for sortable tables.
+
+### Variable Definitions
+
+|Variable Name | Definition|
+|--------------|------------------------------------------------------------------|
+|ann_gr_90_00 | Total population compound annualized growth rate for 1990 to 2000|
+|ann_gr_00_10 | Total population compound annualized growth rate for 2000 to 2010|
+|ann_gr_10_14 | Total population compound annualized growth rate for 2010 to 2014|
+|ann_gr_90_00_2544 | Population aged 25 to 44 compound annualized growth rate for 1990 to 2000|
+|ann_gr_00_10_2544 | Population aged 25 to 44 compound annualized growth rate for 2000 to 2010|
+|ann_gr_10_14_2544 | Population aged 25 to 44 compound annualized growth rate for 2010 to 2014|
+|lq_goods_90 | Location quotient for goods producing industries compared to US for counties in 1990 |
+|lq_goods_00 | Location quotient for goods producing industries compared to US for counties in 2000 |
+|lq_goods_10 | Location quotient for goods producing industries compared to US for counties in 2010 |
+|lq_goods_14 | Location quotient for goods producing industries compared to US for counties in 2014 |
+|emp_ann_gr_90_00 | Total employment (BEA) compound annualized growth rate for 1990 to 2000 |
+|emp_ann_gr_00_10 | Total employment (BEA) compound annualized growth rate for 2000 to 2010 |
+|emp_ann_gr_10_14 | Total employment (BEA) compound annualized growth rate for 2010 to 2014 |
+|emp_avg_gr_90_00 | Total employment (BEA) average of actual annual growth rate for 1990 to 2000 |
+|emp_avg_gr_00_10 | Total employment (BEA) average of actual annual growth rate for 2000 to 2010 |
+|emp_avg_gr_10_14 | Total employment (BEA) average of actual annual growth rate for 2010 to 2014 |
+|emp_avg_gr_90_14 | Total employment (BEA) average of actual annual growth rate for 1990 to 2014 |
+|avg_gr_90_00 | Total population average of actual annual growth rate for 1991 to 2000|
+|avg_gr_00_10 | Total population average of actual annual growth rate for 2000 to 2010|
+|avg_gr_10_14 | Total population average of actual annual growth rate for 2010 to 2014|
+|avg_gr_90_14 | Total population average of actual annual growth rate for 1991 to 2014|
+|sd_gr_90_00 | Total population standard deviation of actual annual growth rate for 1991 to 2000|
+|sd_gr_00_10 | Total population standard deviation of actual annual growth rate for 2000 to 2010|
+|sd_gr_10_14 | Total population standard deviation of actual annual growth rate for 2010 to 2014|
+|sd_gr_90_14 | Total population standard deviation of actual annual growth rate for 1991 to 2014|
+
+### Full Data Set (Table is Sortable)
+
+```{r, dataset}
+rounded=select(all64, county:ann_gr_10_14_2544,lq_goods_90:sd_gr_10_14 )
+rounded[,-1]=round(rounded[,-1], 2)
+
+DT::renderDataTable( DT::datatable(rounded, options = list(paging = FALSE)))
+
+
+```
